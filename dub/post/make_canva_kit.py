@@ -202,6 +202,26 @@ def final_of(f):
     return alt if alt.exists() else dst if dst.exists() else None
 
 
+def shared():
+    """Canva_Kit/_shared: company end slates (never edit), logos, fonts, full music beds, README."""
+    sh = KIT / "_shared"
+    for sub in ("end_slates", "logos", "fonts", "music_full"):
+        (sh / sub).mkdir(parents=True, exist_ok=True)
+    for f in R.ASSETS.glob("outro_*.mp4"):
+        shutil.copy2(f, sh / "end_slates" / f.name)
+    for f in R.ASSETS.glob("logo_*.png"):
+        shutil.copy2(f, sh / "logos" / f.name)
+    for f in R.FONT_DIR.glob("*.ttf"):
+        shutil.copy2(f, sh / "fonts" / f.name)
+    for k, bed in BEDS.items():
+        AA.write_wav(sh / "music_full" / "_b.wav", bed)
+        ff("-i", sh / "music_full" / "_b.wav", "-c:a", "aac", "-b:a", "192k", sh / "music_full" / f"music_{k}.m4a")
+        (sh / "music_full" / "_b.wav").unlink()
+    readme = ROOT.parent / "HANDOVER.md"
+    if readme.exists():
+        shutil.copy2(readme, KIT / "HANDOVER.md")
+
+
 def main():
     args = sys.argv[1:]
     jobs = int(args[args.index("--jobs") + 1]) if "--jobs" in args else 5
@@ -209,6 +229,7 @@ def main():
     vids = videos()
     if ids:
         vids = {k: v for k, v in vids.items() if k in ids}
+    shared()
     with ThreadPoolExecutor(jobs) as ex:
         for msg in ex.map(lambda kv: safe(*kv), vids.items()):
             print(msg, flush=True)
