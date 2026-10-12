@@ -1,0 +1,133 @@
+{
+ "video": "4010f985",
+ "shots": [
+  {
+   "n": 1,
+   "start": 0,
+   "end": 1.3,
+   "on_screen": "Macro of skin texture with light streaks."
+  },
+  {
+   "n": 2,
+   "start": 1.3,
+   "end": 2.5,
+   "on_screen": "Woman in white top, neutral expression, by a window."
+  },
+  {
+   "n": 3,
+   "start": 2.5,
+   "end": 5.6,
+   "on_screen": "Full-screen colour wheel, purple top linked to glowing yellow bottom."
+  },
+  {
+   "n": 4,
+   "start": 5.6,
+   "end": 7.6,
+   "on_screen": "Tube on a lavender cream swirl."
+  },
+  {
+   "n": 5,
+   "start": 7.6,
+   "end": 8.5,
+   "on_screen": "Close-up of tube's holographic ULTRA VIOLET lettering."
+  },
+  {
+   "n": 6,
+   "start": 8.5,
+   "end": 9.6,
+   "on_screen": "Lavender cream ribbon folding (texture)."
+  },
+  {
+   "n": 7,
+   "start": 9.6,
+   "end": 11.0,
+   "on_screen": "Woman with lavender dots on her face, starting to blend."
+  },
+  {
+   "n": 8,
+   "start": 11.0,
+   "end": 12.1,
+   "on_screen": "Sunscreen drop blending into skin."
+  },
+  {
+   "n": 9,
+   "start": 12.1,
+   "end": 13.2,
+   "on_screen": "Woman smiling, glowing-looking skin."
+  },
+  {
+   "n": 10,
+   "start": 13.2,
+   "end": 15.8,
+   "on_screen": "Before/after split."
+  },
+  {
+   "n": 11,
+   "start": 15.8,
+   "end": 17.8,
+   "on_screen": "Woman on a balcony holding the tube in daylight."
+  }
+ ],
+ "lines": [
+  {
+   "id": 1,
+   "start": 0.2,
+   "slot_s": 2.25,
+   "speaker": "narrator",
+   "current": "Dull, yellow-looking skin?",
+   "on_screen_during": "Skin macro, then woman's neutral face.",
+   "verdict": "keep",
+   "new": "Dull, yellow-looking skin?",
+   "words": 3,
+   "reason": "Fits."
+  },
+  {
+   "id": 2,
+   "start": 2.6,
+   "slot_s": 3.05,
+   "speaker": "narrator",
+   "current": "Purple sits opposite yellow, so it helps cancel it out.",
+   "on_screen_during": "Colour wheel.",
+   "verdict": "keep",
+   "new": "Purple sits opposite yellow, so it helps cancel it out.",
+   "words": 10,
+   "reason": "Explains wheel; fits. Kept although 10 words exceeds the 7.3-word budget (pre-existing timing)."
+  },
+  {
+   "id": 3,
+   "start": 5.8,
+   "slot_s": 3.85,
+   "speaker": "narrator",
+   "current": "DERMDOC Ultra Violet, with 4% Niacinamide and SPF 50.",
+   "on_screen_during": "Tube, holo label, texture.",
+   "verdict": "keep",
+   "new": "DERMDOC Ultra Violet, with 4% Niacinamide and SPF 50.",
+   "words": 9,
+   "reason": "Fits."
+  },
+  {
+   "id": 4,
+   "start": 9.8,
+   "slot_s": 3.45,
+   "speaker": "narrator",
+   "current": "It blends in fully. No white cast, just Instant Glow.",
+   "on_screen_during": "Dots on face, blend drop, smiling.",
+   "verdict": "keep",
+   "new": "It blends in fully. No white cast, just Instant Glow.",
+   "words": 10,
+   "reason": "Fits. Kept although 10 words exceeds the 8.3-word budget (pre-existing timing)."
+  },
+  {
+   "id": 5,
+   "start": 13.4,
+   "slot_s": 2.9,
+   "speaker": "narrator",
+   "current": "Made for Indian skin tones.",
+   "on_screen_during": "Before/after split.",
+   "verdict": "rewrite",
+   "new": "Instant glow, made for Indian skin.",
+   "words": 6,
+   "reason": "Before/after needs result."
+  }
+ ]
+}

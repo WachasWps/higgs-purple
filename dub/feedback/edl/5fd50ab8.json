@@ -1,0 +1,61 @@
+{
+  "video_id": "5fd50ab8",
+  "product": "ps",
+  "category": "product_avatar",
+  "shots": [
+    {
+      "n": 1, "start": 0.0, "end": 3.6,
+      "content": "Light-skinned woman at the mirror, dull, with a grey dullness cloud. The tube mascot on the counter stands on sneakers (no wide cap).",
+      "issues": ["model_not_dusky", "cap_missing_on_mascot"],
+      "action": "replace", "replace_with": "PS07_before_dull", "custom": null,
+      "note": "L1 'Morning skin drama again?' (spoken by the tube) plays over Meera's dull, flat, yellowish-looking before-skin. She sighs and touches her cheek. Use 0-3.6 s."
+    },
+    {
+      "n": 2, "start": 3.6, "end": 8.97,
+      "content": "Tube mascot close-up with the flip-top cap OPEN showing a nozzle, and a finger below.",
+      "issues": ["nozzle_open_flip_cap", "purple_why_not_explained"],
+      "action": "replace", "replace_with": "GRAPHIC_COLOUR_WHEEL", "custom": null,
+      "note": "PSA2_avatar_point slowed to 0.93x for 5.37 s. New L2 'Relax. My purple sits opposite yellow, so it cancels dullness.' plays as the mascot points right and a CORRECT animated wheel appears (purple directly opposite yellow; arrow; yellow dims)."
+    },
+    {
+      "n": 3, "start": 8.97, "end": 12.9,
+      "content": "Woman with an UNBLENDED lavender patch on her cheek, a grey cloud villain, and the capless mascot beside her.",
+      "issues": ["not_blended_residue", "model_not_dusky", "cap_missing"],
+      "action": "replace", "replace_with": "PS05_blend_glow", "custom": null,
+      "note": "L3 'Blend me in. Made for Indian skin, no cast.' plays as Meera blends the lavender until it disappears into her dusky skin with no cast, and it turns dewy. Use 0-3.93 s."
+    },
+    {
+      "n": 4, "start": 12.9, "end": 15.83,
+      "content": "Light-skinned woman smiling in the mirror (the 'after').",
+      "issues": ["model_not_dusky", "glow_not_strong"],
+      "action": "replace", "replace_with": "PS06_glow_after", "custom": null,
+      "note": "New L4 'Protected. Instant glow. Ready.' plays over Meera's visibly even, dewy, glowing skin, framed like the before shot (S1), so it reads as a real before/after. Use 0-2.93 s."
+    },
+    {
+      "n": 5, "start": 15.83, "end": 20.04,
+      "content": "Tube mascot on sneakers (no cap) on a balcony table, with the woman's torso behind it.",
+      "issues": ["cap_missing", "non_library_model_in_frame"],
+      "action": "replace", "replace_with": "PSA3_avatar_model", "custom": null,
+      "note": "L5 'Instant glow, then go.' plays as Meera on a sunny balcony laughs with the ONE exact tube mascot and touches her glowing cheek, the same balcony setting as before. Use 0-4.2 s."
+    }
+  ],
+  "script_changes": [
+    {"line_id": 2, "old_en": "Relax. Purple tint, SPF 50 PA+++ and 4% niacinamide.", "new_en": "Relax. My purple sits opposite yellow, so it cancels dullness.", "reason": "Explain WHY purple (colour wheel). SPF and niacinamide stay on screen in the pill at 13.05. Slightly shorter."},
+    {"line_id": 3, "old_en": "Blend me in. No ashy-looking finish.", "new_en": "Blend me in. Made for Indian skin, no cast.", "reason": "Adds 'made for Indian skin' to the VO chain. Same length."},
+    {"line_id": 4, "old_en": "Protected. Bright-looking. Ready.", "new_en": "Protected. Instant glow. Ready.", "reason": "Say 'Instant Glow'."},
+    {"line_id": 5, "old_en": "Glow, then go.", "new_en": "Instant glow, then go.", "reason": "'Glow' becomes 'Instant Glow'."}
+  ],
+  "new_lines": [],
+  "supers": [
+    {"action": "change", "match": "DULLNESS", "text": "YELLOW-LOOKING DULLNESS", "start": 0.9, "end": 2.8, "why": "There is no villain on screen now. Label the dull look on her cheek instead, which sets up the purple vs yellow idea."},
+    {"action": "remove", "match": "hud 4.0-8.8", "text": "", "start": 4.0, "end": 8.8, "why": "Shot is now the full-screen colour-wheel graphic."},
+    {"action": "change", "match": "PURPLE TINT", "text": "COLOUR CORRECTION / PURPLE SITS OPPOSITE YELLOW > CANCELS YELLOW-LOOKING DULLNESS", "start": 3.8, "end": 8.9, "why": "Text explanation in sync with the wheel and new L2."},
+    {"action": "change", "match": "NO WHITE CAST", "text": "NO WHITE CAST / MADE FOR INDIAN SKIN TONES", "start": 9.4, "end": 12.8, "why": "Matches new L3 over the fully blended skin."},
+    {"action": "change", "match": "SPF 50 PA+++ / 4% NIACINAMIDE", "text": "SPF 50 PA+++ / 4% NIACINAMIDE", "start": 13.05, "end": 15.35, "why": "Same text. Reposition below the chin of the new PS06 framing."},
+    {"action": "change", "match": "INSTANT GLOW / FOR INDIAN SKIN TONE", "text": "INSTANT GLOW / FOR INDIAN SKIN TONES", "start": 16.0, "end": 19.95, "why": "Keep, but start earlier to cover the whole final glow shot."}
+  ],
+  "voice_changes": [
+    {"speaker": "sunscreen", "to": "female", "why": "The tube's voice is described as 'fairly low and relaxed (f0 ~140-155 Hz)', which is in the male range. It is the only voice in the video."}
+  ],
+  "summary": "Every shot had a capless or nozzle mascot, a non-dusky woman or an unblended patch. The new sequence is PS07 dull, colour-wheel graphic, PS05 blend, PS06 instant glow, then PSA3 Meera + mascot, so before, application, blend and glow are all visible. L2 now explains purple vs yellow, 'Instant Glow' is said twice, and the tube voice becomes female."
+}

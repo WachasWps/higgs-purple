@@ -1,0 +1,31 @@
+[
+  {
+    "created_at": "2026-10-09T18:31:18.099502Z",
+    "display_name": "Wan 3.0",
+    "id": "600dc9fd-68f2-4413-8af3-817d5bb8ffa0",
+    "job_type": "wan3_0",
+    "min_result_url": null,
+    "params": {
+      "aspect_ratio": "9:16",
+      "duration": 5,
+      "generate_audio": false,
+      "height": 1344,
+      "medias": [
+        {
+          "data": {
+            "id": "42faad53-140d-4fbf-98ec-10fd6366d1c8",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3A6ZxB95Mnf55lwPBqzkePnTfzA/42faad53-140d-4fbf-98ec-10fd6366d1c8.png"
+          },
+          "role": "start_image"
+        }
+      ],
+      "prompt": "The tube mascot steps in front of the woman's cheek and pushes the greasiness villain away; the little hero characters cheer; the tube stays exactly as in the first frame. Keep the exact look of the first frame: same real woman and skin tone, same cartoon characters, product label and cap exactly as in the first frame (cap on, no nozzle); smooth natural motion; no text appears.",
+      "resolution": "480p",
+      "width": 768
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3A6ZxB95Mnf55lwPBqzkePnTfzA/hf_20261009_183118_600dc9fd-68f2-4413-8af3-817d5bb8ffa0.mp4",
+    "status": "completed",
+    "thumbnail_url": "https://cdn.higgsfield.ai/user_3A6ZxB95Mnf55lwPBqzkePnTfzA/hf_20261009_183118_600dc9fd-68f2-4413-8af3-817d5bb8ffa0_thumbnail.webp"
+  }
+]

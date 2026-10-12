@@ -1,0 +1,35 @@
+[
+ {
+  "id": 1,
+  "speaker": "dark_spot",
+  "cer": 0.17,
+  "heard": "আমক ফের করি পারি মনাহি",
+  "redub": true
+ },
+ {
+  "id": 2,
+  "speaker": "jar",
+  "cer": 0.21,
+  "heard": "সতারে থারে টেসচা করি দেখি঵া কি।"
+ },
+ {
+  "id": 3,
+  "speaker": "kojic_acid",
+  "cer": 0.15,
+  "heard": "Challenge accepted, team save dark spots को target करा।",
+  "redub": true
+ },
+ {
+  "id": 4,
+  "speaker": "narrator",
+  "cer": 0.3,
+  "heard": "তিনটি টারগেট্য়েন্ট্র পা঵র গটিয় নাইট করিমরে"
+ },
+ {
+  "id": 5,
+  "speaker": "narrator",
+  "cer": 0.0,
+  "heard": "ডারমোডাকা কজিকা এসিড নাইট করিম প্রতি রাতি দামি।",
+  "redub": true
+ }
+]

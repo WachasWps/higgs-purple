@@ -1,0 +1,34 @@
+[2026-10-09 05:10:44,038] INFO miocodec: Loaded weights from safetensors file: /Users/wachas/.cache/huggingface/hub/models--Aratako--MioCodec-25Hz-24kHz/snapshots/3a737f0de2c6324cb2fe40c1fbd1056c7add423d/model.safetensors
+models ready in 4.8s
+[morning-glow_te.mp4] voice done in 84.8s | worst line CER 1.69 | retried 3 line(s)
+Python(37758) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+Python(37763) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+uniform tempo x1.00  |  voice ends at 18.68s  |  max late start +0.53s
+line  orig_cue  new_start  shift   length
+   1      0.00       0.05  +0.05    1.96s
+   2      2.18       2.11  -0.07    3.34s
+   3      5.62       5.54  -0.08    1.18s
+   4      6.64       6.83  +0.19    1.79s
+   5      8.80       8.72  -0.08    2.40s
+   6     10.72      11.21  +0.49    3.56s
+   7     14.34      14.87  +0.53    3.82s
+wrote out/morning-glow_te.mp4
+[morning-glow_or.mp4] voice done in 26.7s | worst line CER 0.20 | retried 0 line(s)
+Python(38031) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+Python(38054) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+Python(38061) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+Python(38063) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+Python(38064) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+Python(38066) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+Python(38067) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+Python(38068) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+Python(38069) MallocStackLogging: can't turn off malloc stack logging because it was not enabled.
+uniform tempo x1.13  |  voice ends at 19.06s  |  max late start +0.98s
+line  orig_cue  new_start  shift   length
+   1      0.00       0.05  +0.05    1.54s
+   2      2.18       2.03  -0.15    4.16s
+   3      5.62       6.29  +0.67    1.22s
+   4      6.64       7.62  +0.98    1.62s
+   5      8.80       9.34  +0.54    2.14s
+   6     10.72      11.58  +0.86    3.28s
+   7     14.34      14.96  +0.62    4.10s

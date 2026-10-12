@@ -1,0 +1,381 @@
+[
+ {
+  "n": 0,
+  "text": "DERMDOC",
+  "variants": [
+   "DERMDOC"
+  ],
+  "start": 0.0,
+  "end": 2.33,
+  "box": [
+   0.3333,
+   0.2787,
+   0.6542,
+   0.3419
+  ],
+  "height": 0.0632,
+  "suspect_words": []
+ },
+ {
+  "n": 1,
+  "text": "Honest Science",
+  "variants": [
+   "Honest Science"
+  ],
+  "start": 0.0,
+  "end": 2.33,
+  "box": [
+   0.3708,
+   0.3138,
+   0.6083,
+   0.361
+  ],
+  "height": 0.0472,
+  "suspect_words": []
+ },
+ {
+  "n": 2,
+  "text": "4% NIACINAMIDE",
+  "variants": [
+   "4% NIACINAMIDE"
+  ],
+  "start": 0.0,
+  "end": 2.33,
+  "box": [
+   0.3958,
+   0.4239,
+   0.6625,
+   0.452
+  ],
+  "height": 0.0281,
+  "suspect_words": []
+ },
+ {
+  "n": 3,
+  "text": "WITH SPF SO PA+++",
+  "variants": [
+   "WITH SPF 50 PA+++",
+   "WITH SPF S0 PA++",
+   "WITH SPF SO PA++",
+   "WITH SPF SO PA+++"
+  ],
+  "start": 0.0,
+  "end": 2.33,
+  "box": [
+   0.4,
+   0.4426,
+   0.6292,
+   0.466
+  ],
+  "height": 0.0234,
+  "suspect_words": []
+ },
+ {
+  "n": 4,
+  "text": "Balances uneven thin tane and",
+  "variants": [
+   "Balances uneven skin tena and",
+   "Balances uneven skin tene and",
+   "Balances uneven skin tone and",
+   "Balances uneven thin tane and",
+   "Balances uneven thin tent and",
+   "alances uneven shin tere sod"
+  ],
+  "start": 0.0,
+  "end": 2.33,
+  "box": [
+   0.4042,
+   0.4707,
+   0.6333,
+   0.4895
+  ],
+  "height": 0.0187,
+  "suspect_words": [
+   "alances",
+   "tena",
+   "tene",
+   "tere"
+  ],
+  "crop": "post/text_audit/ce52c347_4.png"
+ },
+ {
+  "n": 5,
+  "text": "leaves an instant radiant glow",
+  "variants": [
+   "Inaves an lestant racient glow",
+   "leaves an instant radiant glow",
+   "leaves en instant racient gloo"
+  ],
+  "start": 0.0,
+  "end": 2.33,
+  "box": [
+   0.4042,
+   0.4848,
+   0.6292,
+   0.4988
+  ],
+  "height": 0.0141,
+  "suspect_words": [
+   "Inaves",
+   "gloo",
+   "lestant",
+   "racient"
+  ],
+  "crop": "post/text_audit/ce52c347_5.png"
+ },
+ {
+  "n": 6,
+  "text": "BRIGHTENING",
+  "variants": [
+   "BRIGHTENING"
+  ],
+  "start": 0.0,
+  "end": 2.33,
+  "box": [
+   0.3917,
+   0.5714,
+   0.6,
+   0.6042
+  ],
+  "height": 0.0328,
+  "suspect_words": []
+ },
+ {
+  "n": 7,
+  "text": "SUNSCREEN",
+  "variants": [
+   "SUNSCREEN"
+  ],
+  "start": 0.0,
+  "end": 2.33,
+  "box": [
+   0.4,
+   0.5878,
+   0.5875,
+   0.623
+  ],
+  "height": 0.0351,
+  "suspect_words": []
+ },
+ {
+  "n": 10,
+  "text": "ULTRA VIOLET",
+  "variants": [
+   "ULTRA VIOLET"
+  ],
+  "start": 0.67,
+  "end": 2.33,
+  "box": [
+   0.3247,
+   0.353,
+   0.3981,
+   0.5792
+  ],
+  "height": 0.2262,
+  "suspect_words": []
+ },
+ {
+  "n": 11,
+  "text": "FOR FAIR TO MEDIUM SAUN",
+  "variants": [
+   "FOR FAIR TO MEDIUM SAUN",
+   "FOR FAIR TO MEDIUM SION",
+   "FOR FAIR TO MEGIUM SAUN"
+  ],
+  "start": 1.0,
+  "end": 2.0,
+  "box": [
+   0.3958,
+   0.6183,
+   0.5917,
+   0.637
+  ],
+  "height": 0.0187,
+  "suspect_words": [
+   "MEGIUM",
+   "SAUN"
+  ],
+  "crop": "post/text_audit/ce52c347_11.png"
+ },
+ {
+  "n": 12,
+  "text": "DERMDOC",
+  "variants": [
+   "DERMDOC"
+  ],
+  "start": 19.0,
+  "end": 20.0,
+  "box": [
+   0.3458,
+   0.3044,
+   0.6292,
+   0.3421
+  ],
+  "height": 0.0376,
+  "suspect_words": []
+ },
+ {
+  "n": 13,
+  "text": "Honest Science",
+  "variants": [
+   "Honest Science"
+  ],
+  "start": 19.0,
+  "end": 20.0,
+  "box": [
+   0.3792,
+   0.3372,
+   0.5917,
+   0.3583
+  ],
+  "height": 0.0211,
+  "suspect_words": []
+ },
+ {
+  "n": 14,
+  "text": "ULTRA MIOI",
+  "variants": [
+   "ULTRA MIO-",
+   "ULTRA MIOI"
+  ],
+  "start": 19.0,
+  "end": 19.67,
+  "box": [
+   0.3432,
+   0.4112,
+   0.402,
+   0.5676
+  ],
+  "height": 0.1564,
+  "suspect_words": [
+   "MIO-",
+   "MIOI"
+  ],
+  "crop": "post/text_audit/ce52c347_14.png"
+ },
+ {
+  "n": 15,
+  "text": "4% NIACINAMIDE",
+  "variants": [
+   "4% NIACINAMIDE"
+  ],
+  "start": 19.0,
+  "end": 20.0,
+  "box": [
+   0.4083,
+   0.4333,
+   0.6375,
+   0.4496
+  ],
+  "height": 0.0164,
+  "suspect_words": []
+ },
+ {
+  "n": 16,
+  "text": "WITH SPF SO PA+++",
+  "variants": [
+   "WITH SPF SO PA+++"
+  ],
+  "start": 19.0,
+  "end": 20.0,
+  "box": [
+   0.4083,
+   0.4473,
+   0.6042,
+   0.4637
+  ],
+  "height": 0.0164,
+  "suspect_words": []
+ },
+ {
+  "n": 17,
+  "text": "BRIGHTENING",
+  "variants": [
+   "BRIGHTENING"
+  ],
+  "start": 19.0,
+  "end": 20.0,
+  "box": [
+   0.4042,
+   0.5667,
+   0.5833,
+   0.5831
+  ],
+  "height": 0.0164,
+  "suspect_words": []
+ },
+ {
+  "n": 18,
+  "text": "SUNSCREEN",
+  "variants": [
+   "SUNSCREEN"
+  ],
+  "start": 19.0,
+  "end": 20.0,
+  "box": [
+   0.4125,
+   0.5831,
+   0.5708,
+   0.6019
+  ],
+  "height": 0.0187,
+  "suspect_words": []
+ },
+ {
+  "n": 19,
+  "text": "FOR FAIR TO MEDIUM SAIN",
+  "variants": [
+   "FOR FAIR TO MEDIUM SAIN",
+   "FOR FAIR TO MEDIUM SUN",
+   "FOR FAIR TO MEGRIM SKIN"
+  ],
+  "start": 19.0,
+  "end": 20.0,
+  "box": [
+   0.4,
+   0.6042,
+   0.5833,
+   0.6206
+  ],
+  "height": 0.0164,
+  "suspect_words": []
+ },
+ {
+  "n": 20,
+  "text": "Balances uneven chin tone and",
+  "variants": [
+   "Balacces uneven skin tone and",
+   "Balances uneven chin tone and"
+  ],
+  "start": 19.33,
+  "end": 20.0,
+  "box": [
+   0.4125,
+   0.4731,
+   0.6125,
+   0.4848
+  ],
+  "height": 0.0117,
+  "suspect_words": [
+   "Balacces"
+  ],
+  "crop": "post/text_audit/ce52c347_20.png"
+ },
+ {
+  "n": 21,
+  "text": "......",
+  "variants": [
+   "......"
+  ],
+  "start": 19.33,
+  "end": 20.0,
+  "box": [
+   0.4125,
+   0.4871,
+   0.6042,
+   0.4918
+  ],
+  "height": 0.0047,
+  "suspect_words": []
+ }
+]

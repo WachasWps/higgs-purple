@@ -1,0 +1,115 @@
+{
+ "video_id": "89697c77",
+ "product": "kojic_night_cream",
+ "caption_y": 0.9,
+ "caption_moves": [
+  {
+   "start": 16.77,
+   "end": 20.04,
+   "y": 0.497,
+   "ext": 1
+  }
+ ],
+ "elements": [
+  {
+   "type": "hook_mono",
+   "start": 0.15,
+   "end": 1.75,
+   "lines": [
+    "TOO TIRED FOR",
+    "SKINCARE?"
+   ],
+   "position": "top",
+   "anim": "slide_up"
+  },
+  {
+   "type": "claim_bold",
+   "start": 2.95,
+   "end": 4.9,
+   "lines": [
+    "2% KOJIC ACID",
+    "NIGHT CREAM"
+   ],
+   "sub": "THE OVERNIGHT BRIGHTENER",
+   "position": "top",
+   "anim": "fade"
+  },
+  {
+   "type": "pill",
+   "start": 6.6,
+   "end": 8.95,
+   "lines": [
+    "2% KOJIC ACID"
+   ],
+   "x": 0.256,
+   "y": 0.218,
+   "anim": "pop"
+  },
+  {
+   "type": "pill",
+   "start": 6.6,
+   "end": 8.95,
+   "lines": [
+    "NIACINAMIDE"
+   ],
+   "x": 0.725,
+   "y": 0.248,
+   "anim": "pop",
+   "text_x": 0.725,
+   "text_y": 0.232
+  },
+  {
+   "type": "pill",
+   "start": 6.6,
+   "end": 8.95,
+   "lines": [
+    "ALPHA ARBUTIN"
+   ],
+   "x": 0.725,
+   "y": 0.2925,
+   "anim": "pop",
+   "text_x": 0.725,
+   "text_y": 0.305
+  },
+  {
+   "type": "hud",
+   "variant": "corners",
+   "start": 9.0,
+   "end": 10.65
+  },
+  {
+   "type": "claim_bold",
+   "start": 15.5,
+   "end": 17.37,
+   "lines": [
+    "WORKS WHILE",
+    "YOU SLEEP"
+   ],
+   "position": "top",
+   "anim": "fade"
+  },
+  {
+   "type": "label",
+   "start": 17.42,
+   "end": 19.99,
+   "lines": [
+    "BEFORE"
+   ],
+   "x": 0.5,
+   "y": 0.455,
+   "anim": "pop"
+  },
+  {
+   "type": "label",
+   "start": 17.42,
+   "end": 19.99,
+   "lines": [
+    "AFTER 2 WEEKS"
+   ],
+   "x": 0.5,
+   "y": 0.955,
+   "anim": "pop"
+  }
+ ],
+ "notes": "Text pass (client EDL): hook kept on KN03; on the KNA1 jar a single hero card '2% KOJIC ACID NIGHT CREAM' + 'THE OVERNIGHT BRIGHTENER' (merges the requested jar name tag and the OVERNIGHT BRIGHTENER super that was baked into the replaced shot); on the kept moon-jar shot three same-style cover pills over the baked callouts: 2% KOJIC ACID on the left (OCR 0.08-0.43 x 0.17-0.26), NIACINAMIDE and ALPHA ARBUTIN as two separate pills on the right (OCR 0.49-0.96 x 0.23-0.31); 'by morning' claim on the KN06 wake; B/A split labels with captions at 0.58. The RICH TEXTURE claim is dropped to stay within the validator's 8 text elements (the HUD on the macro stays). | baked AI text inside former blur boxes erased by inpainting (feedback/detext.py)"
+}

@@ -1,0 +1,42 @@
+[
+ {
+  "id": 1,
+  "speaker": "uv_villain",
+  "cer": 0.09,
+  "heard": "রোদ উঠেছে চাল ও কেদোর।",
+  "redub": true
+ },
+ {
+  "id": 2,
+  "speaker": "sunscreen_tube",
+  "cer": 0.3,
+  "heard": "আমিতাক্ট�ে একটমনা"
+ },
+ {
+  "id": 3,
+  "speaker": "spf_shield",
+  "cer": 0.64,
+  "heard": "যু঵িএ আর যু঵িব ব্রাগ ডাক",
+  "redub": true
+ },
+ {
+  "id": 4,
+  "speaker": "purple_tint",
+  "cer": 0.12,
+  "heard": "কালার হুইল বলছে হুল দেটে ডালনে সামি কেন্ছেল করি।",
+  "redub": true
+ },
+ {
+  "id": 5,
+  "speaker": "niacinamide",
+  "cer": 0.15,
+  "heard": "Indian Skinhead Journal, Hello Instant Glow",
+  "redub": true
+ },
+ {
+  "id": 6,
+  "speaker": "sunscreen_tube",
+  "cer": 0.1,
+  "heard": "আয়ে রোদ আমরা রেডি"
+ }
+]

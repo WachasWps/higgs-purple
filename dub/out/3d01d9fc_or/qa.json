@@ -1,0 +1,51 @@
+[
+ {
+  "id": 1,
+  "speaker": "creator",
+  "cer": 0.0,
+  "heard": "সকিন ডলা লাগু থিলা সনসক্রিন কিছি করুন থিলা",
+  "redub": true
+ },
+ {
+  "id": 2,
+  "speaker": "creator",
+  "cer": 0.21,
+  "heard": "পারপল হলদিয় এর ওলটা হলদিয় ডালনেস বালান্স করে।",
+  "redub": true
+ },
+ {
+  "id": 3,
+  "speaker": "creator",
+  "cer": 0.33,
+  "heard": "এবে অস্লা টিস্ট ব্লন্ইঙ",
+  "redub": true
+ },
+ {
+  "id": 4,
+  "speaker": "creator",
+  "cer": 0.11,
+  "heard": "নো চকিনিস নো পর্পল নো হইট কাস্টা",
+  "redub": true
+ },
+ {
+  "id": 5,
+  "speaker": "creator",
+  "cer": 0.2,
+  "heard": "ইন্ডিযানা সকিন পাই তিযারি মিসিগলে হালুকা।",
+  "redub": true
+ },
+ {
+  "id": 6,
+  "speaker": "creator",
+  "cer": 0.24,
+  "heard": "আও ফোর পরসেন্ নিযাসেনা মাইডা দে ইভেন লুক ইন্সটান্ট গ্লো ফিনিশো",
+  "redub": true
+ },
+ {
+  "id": 7,
+  "speaker": "creator",
+  "cer": 0.15,
+  "heard": "এস্পা 50P triple plus in stand glow",
+  "redub": true
+ }
+]

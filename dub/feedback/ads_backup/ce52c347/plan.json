@@ -1,0 +1,29 @@
+{
+ "video_id": "ce52c347",
+ "kind": "ad",
+ "style": "product_ad",
+ "duration": 20.039002,
+ "cast": [
+  {
+   "id": "narrator",
+   "name": "Voiceover",
+   "role": "narrator"
+  }
+ ],
+ "lines": [
+  {
+   "id": 1,
+   "speaker": "narrator",
+   "start": 0.0,
+   "end": 9.32,
+   "en": "Ek sunscreen, two smart actions.SPF 50 PA++ helps protect from UVA and UVB, while 4% Niacinamide supports brighter, more even-looking skin."
+  },
+  {
+   "id": 2,
+   "speaker": "narrator",
+   "start": 9.66,
+   "end": 16.98,
+   "en": "Demdoc ka purple tint yellow-looking dullness ko colour-correct karke gives instant radiant glow—lightweight and without white cast."
+  }
+ ]
+}

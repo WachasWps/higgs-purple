@@ -1,0 +1,42 @@
+[
+ {
+  "id": 1,
+  "speaker": "uv_boss",
+  "cer": 0.05,
+  "heard": "এন্ডিযন রোদ হাজির এবার প্রিশার বাডাবু।",
+  "redub": true
+ },
+ {
+  "id": 2,
+  "speaker": "sunscreen",
+  "cer": 0.15,
+  "heard": "P appreciative tus hands"
+ },
+ {
+  "id": 3,
+  "speaker": "sunscreen",
+  "cer": 0.22,
+  "heard": "এশ্পিএফ ফিটি পিএ টিপাল পলাস যুভিএ আর যুভি ভিি থেকে প্রটেক্ট করে।"
+ },
+ {
+  "id": 4,
+  "speaker": "sunscreen",
+  "cer": 0.06,
+  "heard": "কালার হিলে পারপুল হলুদের ঠিক উল্টো তাই ডালনেস কান্সিল করে।",
+  "redub": true
+ },
+ {
+  "id": 5,
+  "speaker": "sunscreen",
+  "cer": 0.15,
+  "heard": "4% nasi namaid instant even looking glue",
+  "redub": true
+ },
+ {
+  "id": 6,
+  "speaker": "sunscreen",
+  "cer": 0.26,
+  "heard": "ইনিনটা গ্লো প্রাকটিড আরেডি",
+  "redub": true
+ }
+]

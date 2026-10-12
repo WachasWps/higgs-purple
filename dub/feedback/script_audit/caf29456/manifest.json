@@ -1,0 +1,230 @@
+{
+ "video": "caf29456",
+ "style": "ugc",
+ "cast": [
+  {
+   "id": "creator",
+   "name": "Creator",
+   "description": "Young Indian woman with curly hair in a blue top, filming selfie-style on a sunny balcony; warm, friendly, conversational female voice, mildly annoyed at the open then upbeat and reassuring."
+  }
+ ],
+ "lines": [
+  {
+   "id": 1,
+   "start": 0.0,
+   "end": 2.44,
+   "speaker": "creator",
+   "en": "Why does my skin always look so dull?"
+  },
+  {
+   "id": 2,
+   "start": 2.62,
+   "end": 4.36,
+   "speaker": "creator",
+   "en": "Purple sits opposite yellow on the colour wheel."
+  },
+  {
+   "id": 3,
+   "start": 4.56,
+   "end": 6.52,
+   "speaker": "creator",
+   "en": "So it helps cancel yellow-looking dullness."
+  },
+  {
+   "id": 4,
+   "start": 6.66,
+   "end": 8.02,
+   "speaker": "creator",
+   "en": "And no, it doesn't stay purple."
+  },
+  {
+   "id": 5,
+   "start": 8.16,
+   "end": 10.46,
+   "speaker": "creator",
+   "en": "It blends clear on Indian skin, no white cast."
+  },
+  {
+   "id": 6,
+   "start": 10.7,
+   "end": 16.22,
+   "speaker": "creator",
+   "en": "With 4% Niacinamide, I get an Instant Glow and more even-looking skin, without changing my natural skin tone."
+  },
+  {
+   "id": 7,
+   "start": 16.42,
+   "end": 19.86,
+   "speaker": "creator",
+   "en": "And SPF 50 PA+++ keeps my daytime protection covered."
+  }
+ ],
+ "shots": [
+  {
+   "n": 1,
+   "start": 0,
+   "end": 2.67,
+   "what": "original footage",
+   "frames": [
+    "s01_0.jpg",
+    "s01_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 1,
+     "start": 0.0,
+     "end": 2.44,
+     "speaker": "creator",
+     "en": "Why does my skin always look so dull?"
+    },
+    {
+     "id": 2,
+     "start": 2.62,
+     "end": 4.36,
+     "speaker": "creator",
+     "en": "Purple sits opposite yellow on the colour wheel."
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "start": 2.67,
+   "end": 6.6,
+   "what": "GRAPHIC_COLOUR_WHEEL",
+   "frames": [
+    "s02_0.jpg",
+    "s02_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 2,
+     "start": 2.62,
+     "end": 4.36,
+     "speaker": "creator",
+     "en": "Purple sits opposite yellow on the colour wheel."
+    },
+    {
+     "id": 3,
+     "start": 4.56,
+     "end": 6.52,
+     "speaker": "creator",
+     "en": "So it helps cancel yellow-looking dullness."
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "start": 6.6,
+   "end": 8.1,
+   "what": "PS10_texture_macro",
+   "frames": [
+    "s03_0.jpg",
+    "s03_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 4,
+     "start": 6.66,
+     "end": 8.02,
+     "speaker": "creator",
+     "en": "And no, it doesn't stay purple."
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "start": 8.1,
+   "end": 8.73,
+   "what": "PS08_hand_swatch",
+   "frames": [
+    "s04_0.jpg",
+    "s04_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 5,
+     "start": 8.16,
+     "end": 10.46,
+     "speaker": "creator",
+     "en": "It blends clear on Indian skin, no white cast."
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "start": 8.73,
+   "end": 10.6,
+   "what": "PS08_hand_swatch",
+   "frames": [
+    "s05_0.jpg",
+    "s05_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 5,
+     "start": 8.16,
+     "end": 10.46,
+     "speaker": "creator",
+     "en": "It blends clear on Indian skin, no white cast."
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "start": 10.6,
+   "end": 14.57,
+   "what": "original footage",
+   "frames": [
+    "s06_0.jpg",
+    "s06_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 6,
+     "start": 10.7,
+     "end": 16.22,
+     "speaker": "creator",
+     "en": "With 4% Niacinamide, I get an Instant Glow and more even-looking skin, without changing my natural skin tone."
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "start": 14.57,
+   "end": 16.23,
+   "what": "GRAPHIC_BA_SPLIT",
+   "frames": [
+    "s07_0.jpg",
+    "s07_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 6,
+     "start": 10.7,
+     "end": 16.22,
+     "speaker": "creator",
+     "en": "With 4% Niacinamide, I get an Instant Glow and more even-looking skin, without changing my natural skin tone."
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "start": 16.23,
+   "end": 20.04,
+   "what": "original footage",
+   "frames": [
+    "s08_0.jpg",
+    "s08_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 7,
+     "start": 16.42,
+     "end": 19.86,
+     "speaker": "creator",
+     "en": "And SPF 50 PA+++ keeps my daytime protection covered."
+    }
+   ]
+  }
+ ]
+}

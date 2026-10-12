@@ -1,0 +1,38 @@
+[
+ {
+  "id": 1,
+  "speaker": "narrator",
+  "cer": 0.0,
+  "heard": "Covering dark spots isn't the solution."
+ },
+ {
+  "id": 2,
+  "speaker": "narrator",
+  "cer": 0.03,
+  "heard": "Meet DERM DOC 2% Kojic Acid Light Cream."
+ },
+ {
+  "id": 3,
+  "speaker": "narrator",
+  "cer": 0.04,
+  "heard": "Its glow fusion formula, kojic acid, niacinamide, and alpha-erbutan."
+ },
+ {
+  "id": 4,
+  "speaker": "narrator",
+  "cer": 0.0,
+  "heard": "It helps reduce the look of dark spots."
+ },
+ {
+  "id": 5,
+  "speaker": "narrator",
+  "cer": 0.0,
+  "heard": "Apply at night. Wake up glowing."
+ },
+ {
+  "id": 6,
+  "speaker": "narrator",
+  "cer": 0.0,
+  "heard": "Brighter, more even-looking skin."
+ }
+]

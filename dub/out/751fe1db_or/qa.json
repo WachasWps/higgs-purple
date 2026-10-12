@@ -1,0 +1,62 @@
+[
+ {
+  "id": 1,
+  "speaker": "creator",
+  "cer": 0.05,
+  "heard": "কেছে সনস্ক্রিন কেটি বিরক্তি করা কহিবা।"
+ },
+ {
+  "id": 2,
+  "speaker": "creator",
+  "cer": 0.2,
+  "heard": "হযিট কাস্ট চটচটিযা পুণি এই গরা মারে।"
+ },
+ {
+  "id": 3,
+  "speaker": "creator",
+  "cer": 0.1,
+  "heard": "তেনু ডারমাডক অলট্রা ভায়লেট ট্রায় করুছি।"
+ },
+ {
+  "id": 4,
+  "speaker": "creator",
+  "cer": 0.2,
+  "heard": "দেখা এককা দা মবরপল।"
+ },
+ {
+  "id": 5,
+  "speaker": "creator",
+  "cer": 0.31,
+  "heard": "কলর ও হ্য়্রে পর্পল হলদ্যা কাটে।"
+ },
+ {
+  "id": 6,
+  "speaker": "creator",
+  "cer": 0.57,
+  "heard": "প্লা কাযবো."
+ },
+ {
+  "id": 7,
+  "speaker": "creator",
+  "cer": 0.3,
+  "heard": "কেটা হালুকা লাগে বডিয়ো।"
+ },
+ {
+  "id": 8,
+  "speaker": "creator",
+  "cer": 0.15,
+  "heard": "Saha SAPF 50 P3+++."
+ },
+ {
+  "id": 9,
+  "speaker": "creator",
+  "cer": 0.33,
+  "heard": "আগরো ডাল এবে ইন্সটান্কে লোহ"
+ },
+ {
+  "id": 10,
+  "speaker": "creator",
+  "cer": 0.09,
+  "heard": "পর্পল ডাটা কমরিকিনা"
+ }
+]

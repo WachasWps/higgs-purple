@@ -1,0 +1,62 @@
+CREATE A 15-SECOND, 9:16 PREMIUM SKINCARE PRODUCT-AVATAR VIDEO USING THE ATTACHED PRODUCT PHOTOGRAPHS AS STRICT VISUAL REFERENCES.
+PRODUCT LOCK:
+Reproduce the DERMDOC 2% Kojic Acid Night Cream jar exactly. Preserve the short, wide cylindrical proportions, cobalt-blue base and neck, broad white label, flat wide white lid, label colors, logo placement and 50g size. Do not redesign, stretch, recolor or invent packaging. Give the jar expressive animated eyes and a small mouth without covering the branding. The jar is the speaking hero.
+SETTING:
+Elegant Indian bedroom at night, deep-blue moonlight with warm bedside lighting. Use the same adult Indian woman throughout. Realistic skin texture and natural pigmentation. No fantasy skin terrain.
+STYLE:
+Premium cinematic skincare commercial, photorealistic product, playful villain, polished VFX, smooth continuity.
+FRAME 1 — 0:00–0:01.5
+Close-up of the woman looking in the mirror at night. Realistic dark spots and uneven-looking tone are visible on her cheek.
+A small mischievous shadow villain called DARK SPOT creeps toward her cheek.
+DARK SPOT:
+“Night time. My time.”
+FRAME 2 — 0:01.5–0:03
+The exact DERMDOC jar lands confidently on the dressing table. Its animated eyes open.
+JAR:
+“Actually, this is my shift.”
+FRAME 3 — 0:03–0:04.5
+The jar rotates slightly while keeping its front label clearly visible. The lid opens.
+Show a compact title only:
+“2% KOJIC ACID”
+JAR:
+“I’m the overnight brightener.”
+FRAME 4 — 0:04.5–0:06
+Three elegant formula lights appear above the open jar. They are formula graphics, not human characters.
+Show only these ingredient titles:
+“2% KOJIC ACID”
+“NIACINAMIDE”
+“ALPHA ARBUTIN”
+JAR:
+“My 3Xpert formula brings three brightening actives together.”
+FRAME 5 — 0:06–0:07.5
+The three formula lights lock onto the dark-spot villain. The villain loses its confidence and backs away.
+DARK SPOT:
+“Three against one?”
+FRAME 6 — 0:07.5–0:09
+Macro product-texture shot. Show dense, rich, opaque white night cream holding a stable curved peak. It must not look watery, runny, translucent or gel-like.
+JAR:
+“And I’m rich, creamy and made for the night.”
+FRAME 7 — 0:09–0:10.5
+The woman applies five small dots of cream across her face and massages gently. Show the cream spreading evenly.
+JAR:
+“Apply, massage and let me get to work.”
+FRAME 8 — 0:10.5–0:12
+The cream absorbs completely into her real skin. No residue, no white cast and no greasy coating. The dark-spot villain dissolves into soft particles.
+FRAME 9 — 0:12–0:13.5
+Night-to-morning transition, followed by a tasteful passage-of-time cue. Reveal the same woman after two weeks with a brighter, more even-looking complexion and visibly reduced appearance of dark spots.
+Display only:
+“AFTER 2 WEEKS”
+WOMAN:
+“Now that’s a glow worth waking up to.”
+FRAME 10 — 0:13.5–0:15
+Exact product hero shot on the bedside table, label facing camera. Premium blue-and-white light, open jar with thick cream visible.
+JAR:
+“DERMDOC 2% Kojic Acid Night Cream. Sleep to glow.”
+END-SLATE TEXT ONLY:
+“DERMDOC”
+“2% KOJIC ACID NIGHT CREAM”
+“SLEEP TO GLOW”
+AUDIO:
+Confident youthful product voice, comic villain voice, subtle night ambience and a polished skincare music sting.
+TEXT RESTRICTION:
+Do not add subtitles, captions, floating sentences, invented claims or extra packaging text. Only show the specified ingredient titles, AFTER 2 WEEKS and the final product title.

@@ -1,0 +1,31 @@
+[
+  {
+    "created_at": "2026-10-09T17:35:07.392462Z",
+    "display_name": "Wan 3.0",
+    "id": "2799a904-f3f1-4c98-9282-5fb8f8220c6e",
+    "job_type": "wan3_0",
+    "min_result_url": null,
+    "params": {
+      "aspect_ratio": "9:16",
+      "duration": 5,
+      "generate_audio": false,
+      "height": 1344,
+      "medias": [
+        {
+          "data": {
+            "id": "8d073650-a52e-4098-ad99-a988ff8e0361",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3A6ZxB95Mnf55lwPBqzkePnTfzA/8d073650-a52e-4098-ad99-a988ff8e0361.png"
+          },
+          "role": "start_image"
+        }
+      ],
+      "prompt": "The chalky white-cast blob villain smears a grey streak on her cheek and snarls; the sunscreen tube mascot hops in between them with a determined face, arms raised to block it; the woman stays calm; camera static; tube label and lavender cap unchanged. Keep the exact look of the first frame: same real woman, same cartoon mascot design with its lavender cap on, same villain; smooth natural motion; product label stays exactly as in the first frame; no text appears.",
+      "resolution": "480p",
+      "width": 768
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3A6ZxB95Mnf55lwPBqzkePnTfzA/hf_20261009_173507_2799a904-f3f1-4c98-9282-5fb8f8220c6e.mp4",
+    "status": "completed",
+    "thumbnail_url": "https://cdn.higgsfield.ai/user_3A6ZxB95Mnf55lwPBqzkePnTfzA/hf_20261009_173507_2799a904-f3f1-4c98-9282-5fb8f8220c6e_thumbnail.webp"
+  }
+]

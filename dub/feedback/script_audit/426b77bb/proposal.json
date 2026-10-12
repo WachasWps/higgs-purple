@@ -1,0 +1,133 @@
+{
+ "video": "426b77bb",
+ "shots": [
+  {
+   "n": 1,
+   "start": 0,
+   "end": 1.4,
+   "on_screen": "White cream ribbon twisting on dark blue."
+  },
+  {
+   "n": 2,
+   "start": 1.4,
+   "end": 2.9,
+   "on_screen": "Woman at night mirror touching dark spots."
+  },
+  {
+   "n": 3,
+   "start": 2.9,
+   "end": 4.4,
+   "on_screen": "Hand opening the night cream jar."
+  },
+  {
+   "n": 4,
+   "start": 4.4,
+   "end": 6.3,
+   "on_screen": "Open jar on a bedside table at night."
+  },
+  {
+   "n": 5,
+   "start": 6.3,
+   "end": 10.6,
+   "on_screen": "Jar with three glowing active orbs."
+  },
+  {
+   "n": 6,
+   "start": 10.6,
+   "end": 12.2,
+   "on_screen": "Woman at night massaging cream into her cheeks."
+  },
+  {
+   "n": 7,
+   "start": 12.2,
+   "end": 13.6,
+   "on_screen": "She sleeps, jar on nightstand."
+  },
+  {
+   "n": 8,
+   "start": 13.6,
+   "end": 15.6,
+   "on_screen": "Morning: she wakes and smiles in daylight."
+  },
+  {
+   "n": 9,
+   "start": 15.6,
+   "end": 18.0,
+   "on_screen": "Before/after split."
+  }
+ ],
+ "lines": [
+  {
+   "id": 1,
+   "start": 0.2,
+   "slot_s": 2.65,
+   "speaker": "narrator",
+   "current": "One active is good. Three together?",
+   "on_screen_during": "Cream ribbon, then woman touching dark spots.",
+   "verdict": "rewrite",
+   "new": "Dark spots? Try three actives together.",
+   "words": 6,
+   "reason": "Old line didn't react to dark spots on screen."
+  },
+  {
+   "id": 2,
+   "start": 3.0,
+   "slot_s": 3.15,
+   "speaker": "narrator",
+   "current": "Meet DERMDOC 2% Kojic Acid Night Cream.",
+   "on_screen_during": "Jar opened, jar on nightstand.",
+   "verdict": "keep",
+   "new": "Meet DERMDOC 2% Kojic Acid Night Cream.",
+   "words": 7,
+   "reason": "Fits."
+  },
+  {
+   "id": 3,
+   "start": 6.3,
+   "slot_s": 4.35,
+   "speaker": "narrator",
+   "current": "Kojic Acid, Niacinamide and Alpha Arbutin, in one Glow Fusion Formula.",
+   "on_screen_during": "Three-orb jar.",
+   "verdict": "keep",
+   "new": "Kojic Acid, Niacinamide and Alpha Arbutin, in one Glow Fusion Formula.",
+   "words": 11,
+   "reason": "Fits. Kept although 11 words exceeds the 10.4-word budget (pre-existing timing)."
+  },
+  {
+   "id": 4,
+   "start": 10.8,
+   "slot_s": 2.65,
+   "speaker": "narrator",
+   "current": "Apply at night. It melts right in.",
+   "on_screen_during": "Applying at night, then sleeping.",
+   "verdict": "keep",
+   "new": "Apply at night. It melts right in.",
+   "words": 7,
+   "reason": "Fits. Kept although 7 words exceeds the 6.4-word budget (pre-existing timing)."
+  },
+  {
+   "id": 5,
+   "start": 13.6,
+   "slot_s": 2.05,
+   "speaker": "narrator",
+   "current": "Wake up to brighter-looking skin.",
+   "on_screen_during": "Morning wake-up in daylight.",
+   "verdict": "keep",
+   "new": "Wake up to brighter-looking skin.",
+   "words": 5,
+   "reason": "Morning over morning shot; fits. Kept although 5 words exceeds the 4.9-word budget (pre-existing timing)."
+  },
+  {
+   "id": 6,
+   "start": 15.8,
+   "slot_s": 2.4,
+   "speaker": "narrator",
+   "current": "One jar. Three actives.",
+   "on_screen_during": "Before/after split.",
+   "verdict": "rewrite",
+   "new": "Two weeks: spots look reduced.",
+   "words": 5,
+   "reason": "Before/after needs result."
+  }
+ ]
+}

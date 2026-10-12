@@ -1,0 +1,146 @@
+{
+ "video_id": "74495eba",
+ "style": "product_avatar",
+ "duration": 20.039,
+ "cast": [
+  {
+   "id": "uv_boss",
+   "name": "UV Boss",
+   "role": "villain",
+   "description": "Large playful golden cartoon sun (UV Boss) firing UVA/UVB rays at the woman; cocky, theatrical, mock-menacing boss voice",
+   "ref_ranges": [
+    [
+     0.0,
+     2.46
+    ],
+    [
+     2.68,
+     4.5
+    ],
+    [
+     13.44,
+     17.56
+    ]
+   ],
+   "fx": "villain_f",
+   "pitch_semitones": -1,
+   "ref_file": "work/46d965c9/stems/vocals.wav",
+   "recast": "female villain (was f0≈201 Hz)"
+  },
+  {
+   "id": "sunscreen",
+   "name": "DERMDOC Ultra Violet Sunscreen",
+   "role": "product_mascot",
+   "description": "Talking white DERMDOC Ultra Violet sunscreen tube with lavender cap, eyes, purple arms and shoes; bright, bouncy, confident cartoon voice with a sassy edge",
+   "ref_ranges": [
+    [
+     3.08,
+     4.0
+    ],
+    [
+     4.74,
+     9.04
+    ],
+    [
+     9.26,
+     12.1
+    ]
+   ],
+   "fx": "cartoon",
+   "pitch_semitones": 0
+  }
+ ],
+ "lines": [
+  {
+   "id": 1,
+   "speaker": "uv_boss",
+   "start": 0.0,
+   "end": 2.8,
+   "max_end": 3.04,
+   "en": "Indian sun! Let's turn up the pressure!",
+   "tag": "angry",
+   "keep_original": false,
+   "bn": "ইন্ডিয়ান রোদ হাজির! এবার প্রেশার বাড়াবো!",
+   "ta": "இந்தியன் வெயில் டா! ப்ரெஷர் ஏத்துறேன் பாரு!",
+   "te": "ఇండియన్ ఎండరా! ప్రెషర్ పెంచేస్తా చూడు!",
+   "ml": "ഇന്ത്യൻ വെയിലാ! ഇനി പ്രഷർ കൂട്ടിയേക്കാം!",
+   "or": "ଇଣ୍ଡିଆନ ଖରା! ଏବେ ପ୍ରେସର ବଢ଼ାଇଦେବି!"
+  },
+  {
+   "id": 2,
+   "speaker": "sunscreen",
+   "start": 3.08,
+   "end": 4.0,
+   "max_end": 4.7,
+   "en": "Pressure denied.",
+   "tag": "happy",
+   "keep_original": false,
+   "bn": "প্রেশার? নো চান্স!",
+   "ta": "ப்ரெஷரா? நோ சான்ஸ்!",
+   "te": "ప్రెషరా? నో ఛాన్స్!",
+   "ml": "പ്രഷറോ? നോ ചാൻസ്!",
+   "or": "ପ୍ରେସର? ନୋ ଚାନ୍ସ!"
+  },
+  {
+   "id": 3,
+   "speaker": "sunscreen",
+   "start": 4.74,
+   "end": 9.04,
+   "max_end": 9.22,
+   "en": "SPF 50 PA+++ protects against UVA and UVB.",
+   "tag": null,
+   "keep_original": false,
+   "bn": "এসপিএফ ফিফটি, পিএ ট্রিপল প্লাস, ইউভিএ আর ইউভিবি থেকে প্রোটেক্ট করে।",
+   "ta": "எஸ்பிஎஃப் ஃபிஃப்டி, பிஏ ட்ரிபிள் ப்ளஸ், யூவிஏ, யூவிபி ரெண்டுலருந்தும் காப்பாத்தும்!",
+   "te": "ఎస్‌పీఎఫ్ ఫిఫ్టీ, పీఏ ట్రిపుల్ ప్లస్, యూవీఏ, యూవీబీ రెండింటి నుంచీ ప్రొటెక్ట్ చేస్తుంది!",
+   "ml": "എസ്പിഎഫ് ഫിഫ്റ്റി, പിഎ ട്രിപ്പിൾ പ്ലസ്, യുവിഎ, യുവിബി രണ്ടിൽ നിന്നും പ്രൊട്ടക്ട് ചെയ്യും!",
+   "or": "ଏସପିଏଫ ଫିଫ୍ଟି, ପିଏ ଟ୍ରିପଲ ପ୍ଲସ, ୟୁଭିଏ ଆଉ ୟୁଭିବି ରୁ ପ୍ରୋଟେକ୍ଟ କରେ।"
+  },
+  {
+   "id": 4,
+   "speaker": "sunscreen",
+   "start": 9.26,
+   "end": 12.1,
+   "max_end": 12.82,
+   "en": "On the colour wheel, purple sits opposite yellow, so it cancels dullness.",
+   "tag": null,
+   "keep_original": false,
+   "bn": "কালার হুইলে পার্পল হলুদের ঠিক উল্টো, তাই ডালনেস ক্যানসেল করে।",
+   "ta": "கலர் வீல்ல பர்பிள் மஞ்சளுக்கு நேர் எதிர், அதனால டல்னஸ்ஸ கேன்சல் பண்ணும்!",
+   "te": "కలర్ వీల్‌లో పర్పుల్ పసుపుకి ఆపోజిట్, అందుకే డల్‌నెస్ క్యాన్సిల్!",
+   "ml": "കളർ വീലിൽ പർപ്പിൾ മഞ്ഞയുടെ എതിരാണ്, അതുകൊണ്ട് ഡൾനെസ് ക്യാൻസൽ ചെയ്യും.",
+   "or": "କଲର ହୁଇଲରେ ପର୍ପଲ ହଳଦିଆର ଠିକ ବିପରୀତ, ତେଣୁ ଡଲନେସ କ୍ୟାନସଲ କରେ।"
+  },
+  {
+   "id": 5,
+   "speaker": "sunscreen",
+   "start": 12.86,
+   "end": 15.96,
+   "max_end": 16.12,
+   "en": "With four percent niacinamide: an instant, even-looking glow.",
+   "tag": null,
+   "keep_original": false,
+   "bn": "ফোর পার্সেন্ট নায়াসিনামাইড, ইনস্ট্যান্ট, ইভেন লুকিং গ্লো!",
+   "ta": "ஃபோர் பர்சென்ட் நியாசினமைடோட, இன்ஸ்டன்ட், ஈவன் லுக்கிங் க்ளோ!",
+   "te": "ఫోర్ పర్సెంట్ నియాసినమైడ్‌తో, ఇన్‌స్టంట్, ఈవెన్ లుకింగ్ గ్లో!",
+   "ml": "ഫോർ പേഴ്സന്റ് നിയാസിനമൈഡുമായി, ഇൻസ്റ്റന്റ്, ഈവൻ ലുക്കിങ് ഗ്ലോ!",
+   "or": "ଫୋର ପର୍ସେଣ୍ଟ ନିଆସିନାମାଇଡ ସହ, ଇନଷ୍ଟାଣ୍ଟ, ଇଭେନ ଲୁକିଂ ଗ୍ଲୋ!"
+  },
+  {
+   "id": 6,
+   "speaker": "sunscreen",
+   "start": 16.16,
+   "end": 18.64,
+   "max_end": 19.64,
+   "en": "Instant glow, protected and ready.",
+   "tag": "happy",
+   "keep_original": false,
+   "bn": "ইনস্ট্যান্ট গ্লো, প্রোটেক্টেড আর রেডি!",
+   "ta": "இன்ஸ்டன்ட் க்ளோ, ப்ரொடெக்டட், ரெடி!",
+   "te": "ఇన్‌స్టంట్ గ్లో, ప్రొటెక్టెడ్ అండ్ రెడీ!",
+   "ml": "ഇൻസ്റ്റന്റ് ഗ്ലോ, പ്രൊട്ടക്റ്റഡ് ആൻഡ് റെഡി!",
+   "or": "ଇନଷ୍ଟାଣ୍ଟ ଗ୍ଲୋ, ପ୍ରୋଟେକ୍ଟେଡ ଆଉ ରେଡି!"
+  }
+ ],
+ "notes": "Woman on balcony never speaks. Line 1 is the UV Boss (golden cartoon sun, frame 1 mouth open) per prompt; its f0 (233 Hz) is close to the tube's mid lines (245-266 Hz), so the source may use similar base voices; villain fx + -2 st to separate them. Lines 2-6 are the sunscreen tube. Whisper 'PA Plupla' = 'PA+++'. Final DERMDOC three-note sting after 18.64 s is music, not dialogue: leave in bed."
+}

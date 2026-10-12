@@ -1,0 +1,61 @@
+[
+ {
+  "id": 1,
+  "speaker": "villain",
+  "cer": 0.4,
+  "heard": "ఇరాతరి ఇముకమ్మనదే.",
+  "redub": true
+ },
+ {
+  "id": 2,
+  "speaker": "jar",
+  "cer": 0.15,
+  "heard": "Glory FCI & Knight Patrol Ready"
+ },
+ {
+  "id": 3,
+  "speaker": "jar",
+  "cer": 0.2,
+  "heard": "కోజిక అసిడ్ డార్క స్పాట్ బయురి."
+ },
+ {
+  "id": 4,
+  "speaker": "jar",
+  "cer": 0.25,
+  "heard": "నియాసినమాయ్డు, ప్రయట్ర, ఇవన్ టోన్ కి సపోట్."
+ },
+ {
+  "id": 5,
+  "speaker": "jar",
+  "cer": 0.17,
+  "heard": "అల్ఫా అర్బుటిన్ బ్రయటినింగ్ తేమ్ లో చేరు."
+ },
+ {
+  "id": 6,
+  "speaker": "jar",
+  "cer": 0.14,
+  "heard": "రేచ్నఈట్ క్రిమ్ మసాజ్ చేసి. మూడుయే అక్ట్యోస్ పనిలో.",
+  "redub": true
+ },
+ {
+  "id": 7,
+  "speaker": "villain",
+  "cer": 0.0,
+  "heard": "పారి పొండి.",
+  "redub": true
+ },
+ {
+  "id": 8,
+  "speaker": "woman",
+  "cer": 0.05,
+  "heard": "రిండవారల్లో బ్రయటర్ ఈవన్ లకింగ్ స్కిన్.",
+  "redub": true
+ },
+ {
+  "id": 9,
+  "speaker": "jar",
+  "cer": 0.15,
+  "heard": "Deren dog cosmic acid night cream.",
+  "redub": true
+ }
+]

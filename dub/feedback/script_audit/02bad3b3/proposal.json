@@ -1,0 +1,157 @@
+{
+ "video": "02bad3b3",
+ "shots": [
+  {
+   "n": 1,
+   "start": 0,
+   "end": 2.77,
+   "on_screen": "Woman in pink pyjamas at night, touching dark spots on her cheek, holding the night cream jar."
+  },
+  {
+   "n": 2,
+   "start": 2.77,
+   "end": 5.93,
+   "on_screen": "From behind, she switches on the lamp and reaches for the jar on her vanity at night."
+  },
+  {
+   "n": 3,
+   "start": 5.93,
+   "end": 8.63,
+   "on_screen": "Night cream jar with three glowing orbs (the three actives) on a blue backdrop."
+  },
+  {
+   "n": 4,
+   "start": 8.63,
+   "end": 9.97,
+   "on_screen": "Fingertip scooping thick white cream from the jar."
+  },
+  {
+   "n": 5,
+   "start": 9.97,
+   "end": 11.6,
+   "on_screen": "At the mirror she dots cream on forehead, nose and cheeks."
+  },
+  {
+   "n": 6,
+   "start": 11.6,
+   "end": 13.57,
+   "on_screen": "Close-up: she massages the cream into her cheek, cream vanishing."
+  },
+  {
+   "n": 7,
+   "start": 13.57,
+   "end": 15.63,
+   "on_screen": "She sleeps in bed at night, jar on the nightstand."
+  },
+  {
+   "n": 8,
+   "start": 15.63,
+   "end": 18.23,
+   "on_screen": "Before/after split: dark spots on top, clearer-looking skin below (model differs from the creator)."
+  },
+  {
+   "n": 9,
+   "start": 18.23,
+   "end": 20.04,
+   "on_screen": "Morning daylight: she smiles at the vanity, jar in front."
+  }
+ ],
+ "lines": [
+  {
+   "id": 1,
+   "start": 0.0,
+   "slot_s": 2.57,
+   "speaker": "creator",
+   "current": "Lately, my dark spots were making my whole complexion look uneven.",
+   "on_screen_during": "Night, touching dark spots, holding jar.",
+   "verdict": "rewrite",
+   "new": "My dark spots looked so uneven.",
+   "words": 6,
+   "reason": "Fits, but 10 words in a 2.6 s slot; tightened."
+  },
+  {
+   "id": 2,
+   "start": 2.72,
+   "slot_s": 3.09,
+   "speaker": "creator",
+   "current": "So I added DERMDOC 2% Kojic Acid Night Cream to my bedtime routine.",
+   "on_screen_during": "Reaching for the jar at the night vanity.",
+   "verdict": "rewrite",
+   "new": "So, DERMDOC 2% Kojic Acid Night Cream.",
+   "words": 7,
+   "reason": "Fits, but 12 words too long; tightened to product name."
+  },
+  {
+   "id": 3,
+   "start": 5.96,
+   "slot_s": 2.63,
+   "speaker": "creator",
+   "current": "It combines 2% Kojic Acid, Niacinamide and Alpha Arbutin.",
+   "on_screen_during": "Jar with three glowing active orbs.",
+   "verdict": "keep",
+   "new": "It combines 2% Kojic Acid, Niacinamide and Alpha Arbutin.",
+   "words": 9,
+   "reason": "Matches the three-orb graphic; slightly long but acceptable. Kept although 9 words exceeds the 6.3-word budget (pre-existing timing)."
+  },
+  {
+   "id": 4,
+   "start": 8.74,
+   "slot_s": 1.35,
+   "speaker": "creator",
+   "current": "Look at that thick, rich texture.",
+   "on_screen_during": "Fingertip scooping cream.",
+   "verdict": "rewrite",
+   "new": "Thick, rich texture.",
+   "words": 3,
+   "reason": "Matches; cut from 6 to 3 words for 1.35 s slot."
+  },
+  {
+   "id": 5,
+   "start": 10.24,
+   "slot_s": 3.19,
+   "speaker": "creator",
+   "current": "I use a small amount at night and massage it in until it disappears completely.",
+   "on_screen_during": "Dotting cream on face, then massaging it in.",
+   "verdict": "rewrite",
+   "new": "Dot it on, massage till it absorbs.",
+   "words": 7,
+   "reason": "Matches; 15 words was double the slot."
+  },
+  {
+   "id": 6,
+   "start": 13.58,
+   "slot_s": 1.91,
+   "speaker": "creator",
+   "current": "Then I let the Glow Fusion Formula work overnight.",
+   "on_screen_during": "She sleeps at night.",
+   "verdict": "rewrite",
+   "new": "Then it works overnight.",
+   "words": 4,
+   "reason": "Matches; 9 words was too long for 1.9 s."
+  },
+  {
+   "id": 7,
+   "start": 15.64,
+   "slot_s": 2.55,
+   "speaker": "creator",
+   "current": "After two weeks, my dark spots look reduced and my skin looks more even.",
+   "on_screen_during": "Before/after split.",
+   "verdict": "rewrite",
+   "new": "After two weeks, spots look reduced.",
+   "words": 6,
+   "reason": "Matches; 14 words cut to fit 2.55 s."
+  },
+  {
+   "id": 8,
+   "start": 18.34,
+   "slot_s": 1.96,
+   "speaker": "creator",
+   "current": "Now this is my sleep-to-glow essential.",
+   "on_screen_during": "Morning, smiling with the jar.",
+   "verdict": "keep",
+   "new": "Now this is my sleep-to-glow essential.",
+   "words": 6,
+   "reason": "Morning wording over morning shot; fits. Kept although 6 words exceeds the 4.7-word budget (pre-existing timing)."
+  }
+ ]
+}

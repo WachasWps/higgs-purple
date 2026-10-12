@@ -1,0 +1,183 @@
+{
+ "video_id": "74495eba",
+ "product": "ps",
+ "category": "product_avatar",
+ "shots": [
+  {
+   "n": 1,
+   "start": 0.0,
+   "end": 4.57,
+   "content": "Medium-skinned woman in a pink kurta on a sunny balcony. A big cartoon 'UV Boss' sun fires rays at her, and the tube mascot stands on the ledge.",
+   "issues": [
+    "model_not_dusky (same woman as the S4 B/A and end, which must be replaced)"
+   ],
+   "action": "replace",
+   "replace_with": "CUSTOM",
+   "custom": {
+    "shared_id": "PS_CUSTOM_VILLAIN_HOOK",
+    "generate": false,
+    "reuse_from": "291827ba shot 1",
+    "keyframe": "Same as PS_CUSTOM_VILLAIN_HOOK in 291827ba.json: dusky MEERA close-up, dull matte before-skin with no residue, hair in a bun, four small cartoon villains (UV sun, White Cast blob with dry roller, oil-droplet on skateboard, grey-yellow dullness cloud) beside her cheek, no product, no text.",
+    "motion": "Same as in 291827ba.json.",
+    "base_frame_time": null
+   },
+   "split": [
+    {
+     "start": 0.0,
+     "end": 2.95,
+     "clip": "CUSTOM:PS_CUSTOM_VILLAIN_HOOK"
+    },
+    {
+     "start": 2.95,
+     "end": 4.57,
+     "clip": "PSA3_avatar_model"
+    }
+   ],
+   "note": "Reuse the shared villain-hook clip; no new generation. 0-2.95: L1 'Indian sun! Let's turn up the pressure!' with the 'UV BOSS' label on the sun villain. 2.95-4.57: PSA3_avatar_model, Meera on a sunny balcony with the ONE tube mascot waving, for L2 'Pressure denied.' It leads into the kept balcony-ledge mascot shot."
+  },
+  {
+   "n": 2,
+   "start": 4.57,
+   "end": 7.6,
+   "content": "Tube mascot (wide translucent lavender cap, purple arms, sneakers) on the balcony ledge raises a glowing SPF 50 PA+++ bubble shield. Later in the shot it holds up an AI colour wheel.",
+   "issues": [
+    "tail_contains_wrong_colour_wheel (client 00003257 @9.33)"
+   ],
+   "action": "replace",
+   "replace_with": "PSA1_avatar_talk",
+   "custom": null,
+   "trim": null,
+   "note": "Lead: replaced the old sneaker mascot (eyes over the label) with the exact-tube mascot for consistency; SPF 50 PA+++ as a super. Ends 7.6 s, before the old AI wheel would appear."
+  },
+  {
+   "n": 3,
+   "start": 7.6,
+   "end": 12.2,
+   "content": "Tube with a NOZZLE squeezing lavender cream into a palm. 'PURPLE TINT' text.",
+   "issues": [
+    "nozzle"
+   ],
+   "action": "replace",
+   "replace_with": "GRAPHIC_COLOUR_WHEEL",
+   "custom": null,
+   "note": "Starts at the S2 trim point, so it is about 3.5-5 s; slow PSA2_avatar_point if over 5 s. Until 9.1 the right side holds the 'UVA + UVB PROTECTION' card. At 9.26, on new L4 'Purple sits opposite yellow, so it helps cancel dullness.', a CORRECT wheel animates in (purple directly opposite yellow; arrow; yellow dims)."
+  },
+  {
+   "n": 4,
+   "start": 12.2,
+   "end": 20.04,
+   "content": "Before/after split of a medium-skinned woman (lavender smear on the 'before', no real difference), then the kurta woman on the balcony inside a bubble with the tube and a defeated sun.",
+   "issues": [
+    "before_after_no_difference (client 00003256)",
+    "residue_on_skin",
+    "after_skin_not_glowy (client 00003255)",
+    "model_not_dusky"
+   ],
+   "action": "replace",
+   "replace_with": "PS05_blend_glow",
+   "custom": null,
+   "split": [
+    {
+     "start": 12.2,
+     "end": 15.9,
+     "clip": "PS05_blend_glow"
+    },
+    {
+     "start": 15.9,
+     "end": 20.04,
+     "clip": "GRAPHIC_BA_SPLIT"
+    }
+   ],
+   "note": "Covered by two library clips. (a) 12.2-15.9 PS05_blend_glow for L5 'Made for Indian skin, with four percent niacinamide.' The lavender melts invisibly into dusky skin and she starts to glow. (b) 15.9-20.04 GRAPHIC_BA_SPLIT: vertical half/half with PS07_before_dull on the left and PS06_glow_after on the right, faces uncropped. Labels 'BEFORE' and 'INSTANT GLOW'. It plays under new L6 'Instant glow, protected and ready.' and ends on a visibly glowing face."
+  }
+ ],
+ "script_changes": [
+  {
+   "line_id": 4,
+   "old_en": "Purple tint helps balance yellow-looking dullness.",
+   "new_en": "Purple sits opposite yellow, so it helps cancel dullness.",
+   "reason": "Explain WHY purple (colour wheel). Hedged with 'helps'. Same length."
+  },
+  {
+   "line_id": 6,
+   "old_en": "Bright-looking skin, protected and ready.",
+   "new_en": "Instant glow, protected and ready.",
+   "reason": "'Instant Glow' on the B/A after."
+  }
+ ],
+ "new_lines": [],
+ "supers": [
+  {
+   "action": "change",
+   "match": "UV BOSS",
+   "text": "UV BOSS",
+   "start": 1.0,
+   "end": 2.75,
+   "why": "Same text. Reposition onto the sun villain in the custom clip."
+  },
+  {
+   "action": "change",
+   "match": "UVA + UVB / PROTECTION",
+   "text": "UVA + UVB / PROTECTION",
+   "start": 7.0,
+   "end": 9.1,
+   "why": "Keep. If the S2 trim lands before 7.0, it sits in the graphic's empty right half instead."
+  },
+  {
+   "action": "add",
+   "match": null,
+   "text": "COLOUR CORRECTION / PURPLE SITS OPPOSITE YELLOW > CANCELS YELLOW-LOOKING DULLNESS",
+   "start": 9.25,
+   "end": 12.15,
+   "why": "Text explanation for the corrected wheel."
+  },
+  {
+   "action": "add",
+   "match": null,
+   "text": "MADE FOR INDIAN SKIN TONES / 4% NIACINAMIDE",
+   "start": 12.9,
+   "end": 15.85,
+   "why": "Matches L5 over the invisible blend."
+  },
+  {
+   "action": "change",
+   "match": "BEFORE",
+   "text": "BEFORE",
+   "start": 16.0,
+   "end": 19.95,
+   "why": "B/A split moved to 15.9-20.04. Under the left half."
+  },
+  {
+   "action": "change",
+   "match": "AFTER",
+   "text": "INSTANT GLOW",
+   "start": 16.0,
+   "end": 19.95,
+   "why": "Client: label under the after must read INSTANT GLOW."
+  },
+  {
+   "action": "change",
+   "match": "hud 14.7-15.9",
+   "text": "",
+   "start": 16.0,
+   "end": 19.95,
+   "why": "Retime the HUD frame to the new B/A split."
+  },
+  {
+   "action": "change",
+   "match": "FOR INDIAN SKIN / BRIGHT-LOOKING & PROTECTED",
+   "text": "FOR INDIAN SKIN TONES / NO WHITE CAST | SPF 50 PA+++",
+   "start": 16.2,
+   "end": 19.95,
+   "why": "Drop 'bright-looking' (now INSTANT GLOW under the after). Place at the top, clear of the B/A labels."
+  }
+ ],
+ "voice_changes": [
+  {
+   "speaker": "uv_boss",
+   "to": "female",
+   "why": "Villain pitched -2 st, 'cocky, mock-menacing boss'. Sounds male/scary."
+  }
+ ],
+ "summary": "Keep the SPF-bubble mascot shot, trimmed before its AI wheel. Replace the non-dusky woman (hook, B/A, end) with the shared villain-hook CUSTOM + PSA3, the nozzle shot with the colour-wheel graphic, and the no-difference B/A with PS05 blend + a real B/A split labelled INSTANT GLOW. L4 explains purple vs yellow and L6 says instant glow."
+}

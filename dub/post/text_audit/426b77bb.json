@@ -1,0 +1,601 @@
+[
+ {
+  "n": 0,
+  "text": "DERMDOC",
+  "variants": [
+   "DERMDOC"
+  ],
+  "start": 0.0,
+  "end": 3.33,
+  "box": [
+   0.2145,
+   0.4789,
+   0.4835,
+   0.5607
+  ],
+  "height": 0.0818,
+  "suspect_words": []
+ },
+ {
+  "n": 1,
+  "text": "Nonet Science",
+  "variants": [
+   "Nonet Science",
+   "Parest Scheoco)",
+   "Porest Setence",
+   "Renest Science",
+   "met Selence",
+   "oent Scencel"
+  ],
+  "start": 0.0,
+  "end": 3.0,
+  "box": [
+   0.2597,
+   0.5047,
+   0.4728,
+   0.5734
+  ],
+  "height": 0.0687,
+  "suspect_words": [
+   "Parest",
+   "Porest",
+   "Renest",
+   "Scencel",
+   "Scheoco",
+   "Selence",
+   "Setence",
+   "oent",
+   "omat"
+  ],
+  "crop": "post/text_audit/426b77bb_1.png"
+ },
+ {
+  "n": 2,
+  "text": "2% KOJIC ACID",
+  "variants": [
+   "2% KOJIC ACID",
+   "2% KOJIC ACIO"
+  ],
+  "start": 0.0,
+  "end": 3.33,
+  "box": [
+   0.3575,
+   0.4296,
+   0.6441,
+   0.5038
+  ],
+  "height": 0.0742,
+  "suspect_words": [
+   "ACIO"
+  ],
+  "crop": "post/text_audit/426b77bb_2.png"
+ },
+ {
+  "n": 4,
+  "text": "NIGHT CREAM",
+  "variants": [
+   "NIGHT CREAM"
+  ],
+  "start": 0.0,
+  "end": 3.33,
+  "box": [
+   0.3824,
+   0.5017,
+   0.6307,
+   0.565
+  ],
+  "height": 0.0632,
+  "suspect_words": []
+ },
+ {
+  "n": 5,
+  "text": "ALL SON TIPES",
+  "variants": [
+   "ALL DESH TIPES",
+   "ALL MOR TYPES",
+   "ALL SAIN DIPES",
+   "ALL SAN TIES",
+   "ALL SASA TIPES",
+   "ALL SION TIPES"
+  ],
+  "start": 0.0,
+  "end": 3.33,
+  "box": [
+   0.3879,
+   0.5182,
+   0.6174,
+   0.5733
+  ],
+  "height": 0.0552,
+  "suspect_words": [
+   "DESH",
+   "DIPES"
+  ],
+  "crop": "post/text_audit/426b77bb_5.png"
+ },
+ {
+  "n": 7,
+  "text": "erglar and open ain",
+  "variants": [
+   "Breters and opens dis",
+   "erglar and open ain"
+  ],
+  "start": 0.33,
+  "end": 1.33,
+  "box": [
+   0.4511,
+   0.4592,
+   0.6214,
+   0.5119
+  ],
+  "height": 0.0527,
+  "suspect_words": [
+   "Breters",
+   "ain",
+   "erglar"
+  ],
+  "crop": "post/text_audit/426b77bb_7.png"
+ },
+ {
+  "n": 8,
+  "text": "cengorGmn",
+  "variants": [
+   "cengorGmn",
+   "congtren"
+  ],
+  "start": 1.33,
+  "end": 2.33,
+  "box": [
+   0.4118,
+   0.4721,
+   0.5197,
+   0.4963
+  ],
+  "height": 0.0242,
+  "suspect_words": [
+   "cengorGmn",
+   "congtren"
+  ],
+  "crop": "post/text_audit/426b77bb_8.png"
+ },
+ {
+  "n": 9,
+  "text": "GLOW FUSION FORNULA",
+  "variants": [
+   "GLOM FUSION FORNULA",
+   "GLOW FUSION FORMULA",
+   "GLOW FUSION FORNULA"
+  ],
+  "start": 1.33,
+  "end": 3.33,
+  "box": [
+   0.3762,
+   0.4719,
+   0.637,
+   0.5251
+  ],
+  "height": 0.0532,
+  "suspect_words": [
+   "FORNULA"
+  ],
+  "crop": "post/text_audit/426b77bb_9.png"
+ },
+ {
+  "n": 10,
+  "text": "aito Batrentes & Agor ASu",
+  "variants": [
+   "aito Batrentes & Agor ASu",
+   "ao tudnanile & Apta atun)"
+  ],
+  "start": 1.33,
+  "end": 2.33,
+  "box": [
+   0.4252,
+   0.4831,
+   0.6409,
+   0.5175
+  ],
+  "height": 0.0344,
+  "suspect_words": [
+   "ASu",
+   "Agor",
+   "Apta",
+   "Batrentes",
+   "aito",
+   "atun",
+   "tudnanile"
+  ],
+  "crop": "post/text_audit/426b77bb_10.png"
+ },
+ {
+  "n": 44,
+  "text": "DERMDOC",
+  "variants": [
+   "DERMDOC"
+  ],
+  "start": 7.67,
+  "end": 8.33,
+  "box": [
+   0.2331,
+   0.4819,
+   0.4334,
+   0.5132
+  ],
+  "height": 0.0313,
+  "suspect_words": []
+ },
+ {
+  "n": 45,
+  "text": "Honest Science",
+  "variants": [
+   "Hanent Science",
+   "Honest Science"
+  ],
+  "start": 7.67,
+  "end": 8.33,
+  "box": [
+   0.2457,
+   0.5079,
+   0.4084,
+   0.534
+  ],
+  "height": 0.026,
+  "suspect_words": [
+   "Hanent"
+  ],
+  "crop": "post/text_audit/426b77bb_45.png"
+ },
+ {
+  "n": 46,
+  "text": "2% KOJIC ACID",
+  "variants": [
+   "2% KOJIC ACID"
+  ],
+  "start": 7.67,
+  "end": 8.33,
+  "box": [
+   0.4456,
+   0.4466,
+   0.675,
+   0.4754
+  ],
+  "height": 0.0288,
+  "suspect_words": []
+ },
+ {
+  "n": 49,
+  "text": "GLOW FUSION FORNULA",
+  "variants": [
+   "GLOW FUSION FORNULA"
+  ],
+  "start": 7.67,
+  "end": 8.33,
+  "box": [
+   0.45,
+   0.4988,
+   0.688,
+   0.5227
+  ],
+  "height": 0.0238,
+  "suspect_words": [
+   "FORNULA"
+  ],
+  "crop": "post/text_audit/426b77bb_49.png"
+ },
+ {
+  "n": 57,
+  "text": "RMDOC",
+  "variants": [
+   "ERMDOC",
+   "IMDOC",
+   "MDOC",
+   "RMDOC"
+  ],
+  "start": 8.33,
+  "end": 10.0,
+  "box": [
+   -0.0184,
+   0.785,
+   0.3485,
+   0.9803
+  ],
+  "height": 0.1953,
+  "suspect_words": [
+   "ERMDOC",
+   "IMDOC",
+   "MDOC",
+   "RMDOC"
+  ],
+  "crop": "post/text_audit/426b77bb_57.png"
+ },
+ {
+  "n": 58,
+  "text": "nest Science",
+  "variants": [
+   "lonest Science",
+   "nest Science",
+   "onest Science"
+  ],
+  "start": 8.33,
+  "end": 9.33,
+  "box": [
+   -0.011,
+   0.8415,
+   0.2749,
+   0.9425
+  ],
+  "height": 0.1009,
+  "suspect_words": [
+   "lonest",
+   "onest"
+  ],
+  "crop": "post/text_audit/426b77bb_58.png"
+ },
+ {
+  "n": 59,
+  "text": "2% KOJIC ACID",
+  "variants": [
+   "2% KOJIC ACID"
+  ],
+  "start": 8.33,
+  "end": 9.33,
+  "box": [
+   0.375,
+   0.7494,
+   0.8583,
+   0.8314
+  ],
+  "height": 0.082,
+  "suspect_words": []
+ },
+ {
+  "n": 60,
+  "text": "Brightens and repairs skin",
+  "variants": [
+   "Brightens and repairs skin"
+  ],
+  "start": 8.33,
+  "end": 9.0,
+  "box": [
+   0.3819,
+   0.7999,
+   0.7726,
+   0.8505
+  ],
+  "height": 0.0506,
+  "suspect_words": []
+ },
+ {
+  "n": 62,
+  "text": "GLOW FUSION FORNULA",
+  "variants": [
+   "GLOW FUSION FORNULA"
+  ],
+  "start": 8.33,
+  "end": 9.0,
+  "box": [
+   0.3833,
+   0.8478,
+   0.8583,
+   0.9016
+  ],
+  "height": 0.0539,
+  "suspect_words": [
+   "FORNULA"
+  ],
+  "crop": "post/text_audit/426b77bb_62.png"
+ },
+ {
+  "n": 63,
+  "text": "with trocinainide & Aipts Acturin",
+  "variants": [
+   "with tocinainide & Aiplts Actuain",
+   "with trocinainide & Aipts Acturin"
+  ],
+  "start": 8.33,
+  "end": 9.0,
+  "box": [
+   0.3833,
+   0.8712,
+   0.8625,
+   0.9227
+  ],
+  "height": 0.0515,
+  "suspect_words": [
+   "Actuain",
+   "Acturin",
+   "Aiplts",
+   "Aipts",
+   "tocinainide",
+   "trocinainide"
+  ],
+  "crop": "post/text_audit/426b77bb_63.png"
+ },
+ {
+  "n": 66,
+  "text": "NEW",
+  "variants": [
+   "NEW"
+  ],
+  "start": 8.33,
+  "end": 9.33,
+  "box": [
+   0.8875,
+   0.74,
+   0.9958,
+   0.808
+  ],
+  "height": 0.0679,
+  "suspect_words": []
+ },
+ {
+  "n": 67,
+  "text": "IMPROVED",
+  "variants": [
+   "IMPROVED"
+  ],
+  "start": 8.33,
+  "end": 9.0,
+  "box": [
+   0.8725,
+   0.7648,
+   0.9985,
+   0.8129
+  ],
+  "height": 0.048,
+  "suspect_words": [
+   "IMPROVED"
+  ],
+  "crop": "post/text_audit/426b77bb_67.png"
+ },
+ {
+  "n": 91,
+  "text": "DERMDOC",
+  "variants": [
+   "DERMDOC"
+  ],
+  "start": 18.0,
+  "end": 20.0,
+  "box": [
+   0.25,
+   0.4965,
+   0.4584,
+   0.5271
+  ],
+  "height": 0.0306,
+  "suspect_words": []
+ },
+ {
+  "n": 92,
+  "text": "Honest Science",
+  "variants": [
+   "Honest Science",
+   "Ionest Scance",
+   "inest Scince",
+   "lonest Science"
+  ],
+  "start": 18.0,
+  "end": 20.0,
+  "box": [
+   0.2708,
+   0.5176,
+   0.4375,
+   0.5457
+  ],
+  "height": 0.0281,
+  "suspect_words": [
+   "Ionest",
+   "Scance",
+   "Scince",
+   "inest",
+   "lonest"
+  ],
+  "crop": "post/text_audit/426b77bb_92.png"
+ },
+ {
+  "n": 93,
+  "text": "2% KOJIC ACID",
+  "variants": [
+   "2% KOJIC ACID"
+  ],
+  "start": 18.0,
+  "end": 20.0,
+  "box": [
+   0.4,
+   0.4684,
+   0.6875,
+   0.4895
+  ],
+  "height": 0.0211,
+  "suspect_words": []
+ },
+ {
+  "n": 95,
+  "text": "NIGHT CREAM",
+  "variants": [
+   "NIGHT CREAM"
+  ],
+  "start": 18.0,
+  "end": 20.0,
+  "box": [
+   0.4,
+   0.5363,
+   0.6337,
+   0.5676
+  ],
+  "height": 0.0313,
+  "suspect_words": []
+ },
+ {
+  "n": 96,
+  "text": "ALL SAIN TYPES",
+  "variants": [
+   "ALL DAIN TIPES",
+   "ALL SAIN TYPES",
+   "ALL SAN TYPES",
+   "ALL SAUN TYPES",
+   "ALL SUN TYPES"
+  ],
+  "start": 18.0,
+  "end": 20.0,
+  "box": [
+   0.4,
+   0.548,
+   0.6083,
+   0.5738
+  ],
+  "height": 0.0258,
+  "suspect_words": [
+   "SAUN"
+  ],
+  "crop": "post/text_audit/426b77bb_96.png"
+ },
+ {
+  "n": 97,
+  "text": "GLOW FUSION FORMULA",
+  "variants": [
+   "GLOW FUSION FORMULA",
+   "GLOW FUSION FORNULA",
+   "GLOW FUSON FORMULA"
+  ],
+  "start": 18.33,
+  "end": 20.0,
+  "box": [
+   0.4125,
+   0.5129,
+   0.6958,
+   0.5316
+  ],
+  "height": 0.0187,
+  "suspect_words": [
+   "FORNULA",
+   "FUSON"
+  ],
+  "crop": "post/text_audit/426b77bb_97.png"
+ },
+ {
+  "n": 99,
+  "text": "Matters aral repart slin",
+  "variants": [
+   "Brypters anf ragers skin",
+   "Matters aral repart slin"
+  ],
+  "start": 19.0,
+  "end": 20.0,
+  "box": [
+   0.45,
+   0.4941,
+   0.6542,
+   0.5059
+  ],
+  "height": 0.0117,
+  "suspect_words": [
+   "Brypters",
+   "anf",
+   "aral",
+   "repart",
+   "slin"
+  ],
+  "crop": "post/text_audit/426b77bb_99.png"
+ }
+]

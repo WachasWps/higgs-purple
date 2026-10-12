@@ -1,0 +1,127 @@
+{
+ "video": "fb3fa838",
+ "shots": [
+  {
+   "n": 1,
+   "start": 0,
+   "end": 1.4,
+   "on_screen": "Macro of dull skin under harsh sun rays."
+  },
+  {
+   "n": 2,
+   "start": 1.4,
+   "end": 2.8,
+   "on_screen": "Tube against blue sky with purple cream swatch."
+  },
+  {
+   "n": 3,
+   "start": 2.8,
+   "end": 4.6,
+   "on_screen": "Purple honeycomb shield deflecting rays."
+  },
+  {
+   "n": 4,
+   "start": 4.6,
+   "end": 6.3,
+   "on_screen": "Shield on her cheek bouncing sun rays away."
+  },
+  {
+   "n": 5,
+   "start": 6.3,
+   "end": 7.8,
+   "on_screen": "Woman in white top, dull-looking skin."
+  },
+  {
+   "n": 6,
+   "start": 7.8,
+   "end": 10.2,
+   "on_screen": "Colour wheel graphic: purple top joined to yellow bottom."
+  },
+  {
+   "n": 7,
+   "start": 10.2,
+   "end": 11.8,
+   "on_screen": "Macro: sunscreen dot blending into skin under sun."
+  },
+  {
+   "n": 8,
+   "start": 11.8,
+   "end": 13.4,
+   "on_screen": "Same woman, eyes closed then smiling, glowing skin."
+  },
+  {
+   "n": 9,
+   "start": 13.4,
+   "end": 15.6,
+   "on_screen": "Before/after split: dull top, glowing bottom."
+  },
+  {
+   "n": 10,
+   "start": 15.6,
+   "end": 17.8,
+   "on_screen": "Outdoors in city daylight, she smiles, glowing."
+  }
+ ],
+ "lines": [
+  {
+   "id": 1,
+   "start": 0.2,
+   "slot_s": 2.55,
+   "speaker": "narrator",
+   "current": "Balcony to commute, the sun follows you.",
+   "on_screen_during": "S1 dull skin in sun, S2 tube in sky",
+   "verdict": "keep",
+   "new": "Balcony to commute, the sun follows you.",
+   "words": 7,
+   "reason": "matches"
+  },
+  {
+   "id": 2,
+   "start": 2.9,
+   "slot_s": 3.35,
+   "speaker": "narrator",
+   "current": "SPF 50 PA+++, with 4% Niacinamide.",
+   "on_screen_during": "S3-S4 shields",
+   "verdict": "keep",
+   "new": "SPF 50 PA+++, with 4% Niacinamide.",
+   "words": 6,
+   "reason": "matches"
+  },
+  {
+   "id": 3,
+   "start": 6.4,
+   "slot_s": 3.75,
+   "speaker": "narrator",
+   "current": "Purple sits opposite yellow, so its tint helps cancel dullness.",
+   "on_screen_during": "S5 dull face, S6 colour wheel",
+   "verdict": "rewrite",
+   "new": "Purple sits opposite yellow on the wheel, cancelling dullness.",
+   "words": 9,
+   "reason": "adds colour-wheel reference"
+  },
+  {
+   "id": 4,
+   "start": 10.3,
+   "slot_s": 3.25,
+   "speaker": "narrator",
+   "current": "It blends in with no white cast, for an Instant Glow.",
+   "on_screen_during": "S7 blend, S8 glow",
+   "verdict": "keep",
+   "new": "It blends in with no white cast, for an Instant Glow.",
+   "words": 11,
+   "reason": "matches"
+  },
+  {
+   "id": 5,
+   "start": 13.7,
+   "slot_s": 3.4,
+   "speaker": "narrator",
+   "current": "DERMDOC Ultra Violet. Made for everyday Indian sun.",
+   "on_screen_during": "S9 before/after, S10 outdoor glow",
+   "verdict": "rewrite",
+   "new": "Instant, even-looking glow. DERMDOC Ultra Violet.",
+   "words": 6,
+   "reason": "BA split needs result line"
+  }
+ ]
+}

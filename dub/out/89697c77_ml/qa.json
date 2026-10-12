@@ -1,0 +1,60 @@
+[
+ {
+  "id": 1,
+  "speaker": "snooze",
+  "cer": 0.15,
+  "heard": "Skincare-aka skip neere orangah.",
+  "redub": true
+ },
+ {
+  "id": 2,
+  "speaker": "jar",
+  "cer": 0.15,
+  "heard": "Ổawlarkan okei enesch体 pena"
+ },
+ {
+  "id": 3,
+  "speaker": "jar",
+  "cer": 0.15,
+  "heard": "Berdheim nyan, brightening time ako."
+ },
+ {
+  "id": 4,
+  "speaker": "jar",
+  "cer": 0.15,
+  "heard": "3. Export formula, new ringe, janvarket.",
+  "redub": true
+ },
+ {
+  "id": 5,
+  "speaker": "snooze",
+  "cer": 0.53,
+  "heard": "ഹോ ഇത് സ്യർിയർിച്റന് ലവ്.",
+  "redub": true
+ },
+ {
+  "id": 6,
+  "speaker": "jar",
+  "cer": 0.15,
+  "heard": "brushed"
+ },
+ {
+  "id": 7,
+  "speaker": "jar",
+  "cer": 0.15,
+  "heard": "Poorly absorbed. Innob 짜 sleeper."
+ },
+ {
+  "id": 8,
+  "speaker": "woman",
+  "cer": 0.15,
+  "heard": "emerge walnuts"
+ },
+ {
+  "id": 9,
+  "speaker": "jar",
+  "cer": 0.44,
+  "heard": "ദാരമട്ക കോജിക ആസിട നാഇട ഗരേ.",
+  "redub": true
+ }
+]

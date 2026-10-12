@@ -1,0 +1,31 @@
+[
+  {
+    "created_at": "2026-10-09T13:15:58.923961Z",
+    "display_name": "Wan 3.0",
+    "id": "341a796a-c222-406d-8758-a06af13d5d1e",
+    "job_type": "wan3_0",
+    "min_result_url": null,
+    "params": {
+      "aspect_ratio": "9:16",
+      "duration": 5,
+      "generate_audio": false,
+      "height": 1344,
+      "medias": [
+        {
+          "data": {
+            "id": "2297da43-a73b-40d4-989a-1d5cb2dd7d11",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3A6ZxB95Mnf55lwPBqzkePnTfzA/2297da43-a73b-40d4-989a-1d5cb2dd7d11.png"
+          },
+          "role": "start_image"
+        }
+      ],
+      "prompt": "She gently touches her cheek and studies the spots in the mirror; subtle head turn; camera static. Photorealistic, natural motion, stable identity, product packaging stays exactly as in the first frame, no text appears.",
+      "resolution": "480p",
+      "width": 768
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3A6ZxB95Mnf55lwPBqzkePnTfzA/hf_20261009_131558_341a796a-c222-406d-8758-a06af13d5d1e.mp4",
+    "status": "completed",
+    "thumbnail_url": "https://cdn.higgsfield.ai/user_3A6ZxB95Mnf55lwPBqzkePnTfzA/hf_20261009_131558_341a796a-c222-406d-8758-a06af13d5d1e_thumbnail.webp"
+  }
+]

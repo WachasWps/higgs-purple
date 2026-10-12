@@ -1,0 +1,103 @@
+{
+ "video": "5fd50ab8",
+ "shots": [
+  {
+   "n": 1,
+   "start": 0,
+   "end": 3.6,
+   "on_screen": "Woman frowns at the mirror with a small grey dullness cloud; tube character stands on the counter."
+  },
+  {
+   "n": 2,
+   "start": 3.6,
+   "end": 6.2,
+   "on_screen": "Tube character winks and points; a lavender dot of cream sits on a fingertip."
+  },
+  {
+   "n": 3,
+   "start": 6.2,
+   "end": 9.0,
+   "on_screen": "Full-screen colour wheel, purple top, yellow bottom lit."
+  },
+  {
+   "n": 4,
+   "start": 9.0,
+   "end": 12.9,
+   "on_screen": "Woman blends lavender cream on her cheek; dullness cloud shrinks and fades."
+  },
+  {
+   "n": 5,
+   "start": 12.9,
+   "end": 15.8,
+   "on_screen": "Before/after split of the woman's face, after looks more radiant."
+  },
+  {
+   "n": 6,
+   "start": 15.8,
+   "end": 20.0,
+   "on_screen": "Tube character stands outdoors in daylight; woman smiles behind it."
+  }
+ ],
+ "lines": [
+  {
+   "id": 1,
+   "start": 0.78,
+   "slot_s": 2.45,
+   "speaker": "sunscreen",
+   "current": "Morning skin drama again?",
+   "on_screen_during": "S1 woman at mirror with dull cloud, daylight",
+   "verdict": "keep",
+   "new": "Morning skin drama again?",
+   "words": 4,
+   "reason": "fits"
+  },
+  {
+   "id": 2,
+   "start": 3.38,
+   "slot_s": 5.63,
+   "speaker": "sunscreen",
+   "current": "Relax. My purple sits opposite yellow, so it cancels dullness.",
+   "on_screen_during": "S2 lavender dot on fingertip, then S3 colour wheel",
+   "verdict": "rewrite",
+   "new": "Relax, purple tint. It sits opposite yellow on the colour wheel, cancelling dullness.",
+   "words": 13,
+   "reason": "wheel needs explicit opposite-yellow explanation"
+  },
+  {
+   "id": 3,
+   "start": 9.16,
+   "slot_s": 3.53,
+   "speaker": "sunscreen",
+   "current": "Blend me in. Made for Indian skin, no cast.",
+   "on_screen_during": "S4 blending lavender on cheek, cloud fading",
+   "verdict": "rewrite",
+   "new": "Blends in, no cast. Made for Indian skin.",
+   "words": 8,
+   "reason": "over length (9w vs 8)"
+  },
+  {
+   "id": 4,
+   "start": 12.84,
+   "slot_s": 4.91,
+   "speaker": "sunscreen",
+   "current": "Protected. Instant glow. Ready.",
+   "on_screen_during": "S5 before/after split",
+   "verdict": "rewrite",
+   "new": "Before, dull. After, instant glow and even, radiant-looking skin.",
+   "words": 9,
+   "reason": "split on screen: talk about result"
+  },
+  {
+   "id": 5,
+   "start": 17.9,
+   "slot_s": 2.04,
+   "speaker": "sunscreen",
+   "current": "Instant glow, then go.",
+   "on_screen_during": "S6 tube and smiling woman outdoors",
+   "verdict": "rewrite",
+   "new": "SPF 50. Go glow!",
+   "words": 4,
+   "reason": "repeat of 'instant glow'; SPF not otherwise mentioned"
+  }
+ ]
+}

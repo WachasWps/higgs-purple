@@ -1,0 +1,289 @@
+{
+ "video": "46d965c9",
+ "style": "ugc",
+ "cast": [
+  {
+   "id": "creator",
+   "name": "Creator",
+   "description": "Indian woman, early thirties, long natural curls, navy office blouse then cream robe; relaxed, after-work, honest creator voice, mid-pitch female"
+  }
+ ],
+ "lines": [
+  {
+   "id": 1,
+   "start": 0.0,
+   "end": 2.46,
+   "speaker": "creator",
+   "en": "By the end of the day, my skin always looked tired and uneven."
+  },
+  {
+   "id": 2,
+   "start": 2.68,
+   "end": 4.5,
+   "speaker": "creator",
+   "en": "So my nighttime reset starts with this night cream."
+  },
+  {
+   "id": 3,
+   "start": 4.72,
+   "end": 6.7,
+   "speaker": "creator",
+   "en": "DERMDOC 2% Kojic Acid Night Cream."
+  },
+  {
+   "id": 4,
+   "start": 6.86,
+   "end": 8.82,
+   "speaker": "creator",
+   "en": "It has a rich, non-watery night cream texture."
+  },
+  {
+   "id": 5,
+   "start": 9.04,
+   "end": 10.58,
+   "speaker": "creator",
+   "en": "I apply a small amount before sleeping."
+  },
+  {
+   "id": 6,
+   "start": 10.82,
+   "end": 13.28,
+   "speaker": "creator",
+   "en": "The Glow Fusion Formula combines three brightening actives."
+  },
+  {
+   "id": 7,
+   "start": 13.44,
+   "end": 17.56,
+   "speaker": "creator",
+   "en": "Together, they help reduce the appearance of dark spots and support a more even-looking complexion."
+  },
+  {
+   "id": 8,
+   "start": 17.7,
+   "end": 19.84,
+   "speaker": "creator",
+   "en": "After two weeks, my skin looks brighter and more even."
+  }
+ ],
+ "shots": [
+  {
+   "n": 1,
+   "start": 0,
+   "end": 2.67,
+   "what": "original footage",
+   "frames": [
+    "s01_0.jpg",
+    "s01_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 1,
+     "start": 0.0,
+     "end": 2.46,
+     "speaker": "creator",
+     "en": "By the end of the day, my skin always looked tired and uneven."
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "start": 2.67,
+   "end": 4.6,
+   "what": "original footage",
+   "frames": [
+    "s02_0.jpg",
+    "s02_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 2,
+     "start": 2.68,
+     "end": 4.5,
+     "speaker": "creator",
+     "en": "So my nighttime reset starts with this night cream."
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "start": 4.6,
+   "end": 6.93,
+   "what": "original footage",
+   "frames": [
+    "s03_0.jpg",
+    "s03_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 3,
+     "start": 4.72,
+     "end": 6.7,
+     "speaker": "creator",
+     "en": "DERMDOC 2% Kojic Acid Night Cream."
+    },
+    {
+     "id": 4,
+     "start": 6.86,
+     "end": 8.82,
+     "speaker": "creator",
+     "en": "It has a rich, non-watery night cream texture."
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "start": 6.93,
+   "end": 8.97,
+   "what": "original footage",
+   "frames": [
+    "s04_0.jpg",
+    "s04_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 4,
+     "start": 6.86,
+     "end": 8.82,
+     "speaker": "creator",
+     "en": "It has a rich, non-watery night cream texture."
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "start": 8.97,
+   "end": 10.93,
+   "what": "original footage",
+   "frames": [
+    "s05_0.jpg",
+    "s05_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 5,
+     "start": 9.04,
+     "end": 10.58,
+     "speaker": "creator",
+     "en": "I apply a small amount before sleeping."
+    },
+    {
+     "id": 6,
+     "start": 10.82,
+     "end": 13.28,
+     "speaker": "creator",
+     "en": "The Glow Fusion Formula combines three brightening actives."
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "start": 10.93,
+   "end": 13.17,
+   "what": "original footage",
+   "frames": [
+    "s06_0.jpg",
+    "s06_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 6,
+     "start": 10.82,
+     "end": 13.28,
+     "speaker": "creator",
+     "en": "The Glow Fusion Formula combines three brightening actives."
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "start": 13.17,
+   "end": 13.9,
+   "what": "KNA2_avatar_ingredients",
+   "frames": [
+    "s07_0.jpg",
+    "s07_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 6,
+     "start": 10.82,
+     "end": 13.28,
+     "speaker": "creator",
+     "en": "The Glow Fusion Formula combines three brightening actives."
+    },
+    {
+     "id": 7,
+     "start": 13.44,
+     "end": 17.56,
+     "speaker": "creator",
+     "en": "Together, they help reduce the appearance of dark spots and support a more even-looking complexion."
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "start": 13.9,
+   "end": 15.77,
+   "what": "KNA2_avatar_ingredients",
+   "frames": [
+    "s08_0.jpg",
+    "s08_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 7,
+     "start": 13.44,
+     "end": 17.56,
+     "speaker": "creator",
+     "en": "Together, they help reduce the appearance of dark spots and support a more even-looking complexion."
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "start": 15.77,
+   "end": 17.73,
+   "what": "original footage",
+   "frames": [
+    "s09_0.jpg",
+    "s09_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 7,
+     "start": 13.44,
+     "end": 17.56,
+     "speaker": "creator",
+     "en": "Together, they help reduce the appearance of dark spots and support a more even-looking complexion."
+    },
+    {
+     "id": 8,
+     "start": 17.7,
+     "end": 19.84,
+     "speaker": "creator",
+     "en": "After two weeks, my skin looks brighter and more even."
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "start": 17.73,
+   "end": 20.04,
+   "what": "GRAPHIC_BA_SPLIT",
+   "frames": [
+    "s10_0.jpg",
+    "s10_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 8,
+     "start": 17.7,
+     "end": 19.84,
+     "speaker": "creator",
+     "en": "After two weeks, my skin looks brighter and more even."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,186 @@
+{
+ "video": "71e0977a",
+ "style": "personification",
+ "cast": [
+  {
+   "id": "dark_spot",
+   "name": "Dark Spot Villain",
+   "description": "small flat brown Dark Spot villain (leading the Dullness and Uneven Tone gang) standing on the woman's cheek; smug, taunting, menacing cartoon-baddie voice"
+  },
+  {
+   "id": "jar",
+   "name": "KNC Jar",
+   "description": "talking DERMDOC Kojic Acid night cream jar with cartoon eyes, arms and feet; sassy, cocky, bouncy cartoon voice"
+  },
+  {
+   "id": "kojic_acid",
+   "name": "Kojic Acid",
+   "description": "golden spiky Kojic Acid ingredient hero leading the KNC Team (with Niacinamide and Alpha Arbutin); bright, confident, upbeat heroic cartoon voice"
+  },
+  {
+   "id": "narrator",
+   "name": "Narrator",
+   "description": "off-screen brand voiceover; warm, clear, polished female ad narrator"
+  }
+ ],
+ "lines": [
+  {
+   "id": 1,
+   "start": 0.0,
+   "end": 1.5,
+   "speaker": "dark_spot",
+   "en": "You can't fade us!"
+  },
+  {
+   "id": 2,
+   "start": 1.7,
+   "end": 2.76,
+   "speaker": "jar",
+   "en": "Want to test that theory?"
+  },
+  {
+   "id": 3,
+   "start": 4.4,
+   "end": 5.6,
+   "speaker": "kojic_acid",
+   "en": "Challenge accepted."
+  },
+  {
+   "id": 4,
+   "start": 9.32,
+   "end": 12.54,
+   "speaker": "narrator",
+   "en": "Powered by three targeted ingredients in one night cream."
+  },
+  {
+   "id": 5,
+   "start": 13.68,
+   "end": 16.56,
+   "speaker": "narrator",
+   "en": "DERMDOC 2% Kojic Acid Night Cream. Every night counts."
+  }
+ ],
+ "shots": [
+  {
+   "n": 1,
+   "start": 0,
+   "end": 3.0,
+   "what": "LEFT_71e0977a_S1",
+   "frames": [
+    "s01_0.jpg",
+    "s01_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 1,
+     "start": 0.0,
+     "end": 1.5,
+     "speaker": "dark_spot",
+     "en": "You can't fade us!"
+    },
+    {
+     "id": 2,
+     "start": 1.7,
+     "end": 2.76,
+     "speaker": "jar",
+     "en": "Want to test that theory?"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "start": 3.0,
+   "end": 5.9,
+   "what": "original footage",
+   "frames": [
+    "s02_0.jpg",
+    "s02_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 3,
+     "start": 4.4,
+     "end": 5.6,
+     "speaker": "kojic_acid",
+     "en": "Challenge accepted."
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "start": 5.9,
+   "end": 9.6,
+   "what": "original footage",
+   "frames": [
+    "s03_0.jpg",
+    "s03_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 4,
+     "start": 9.32,
+     "end": 12.54,
+     "speaker": "narrator",
+     "en": "Powered by three targeted ingredients in one night cream."
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "start": 9.6,
+   "end": 12.57,
+   "what": "KNA2_avatar_ingredients",
+   "frames": [
+    "s04_0.jpg",
+    "s04_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 4,
+     "start": 9.32,
+     "end": 12.54,
+     "speaker": "narrator",
+     "en": "Powered by three targeted ingredients in one night cream."
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "start": 12.57,
+   "end": 14.3,
+   "what": "GRAPHIC_BA_SPLIT",
+   "frames": [
+    "s05_0.jpg",
+    "s05_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 5,
+     "start": 13.68,
+     "end": 16.56,
+     "speaker": "narrator",
+     "en": "DERMDOC 2% Kojic Acid Night Cream. Every night counts."
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "start": 14.3,
+   "end": 17.0,
+   "what": "original footage",
+   "frames": [
+    "s06_0.jpg",
+    "s06_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 5,
+     "start": 13.68,
+     "end": 16.56,
+     "speaker": "narrator",
+     "en": "DERMDOC 2% Kojic Acid Night Cream. Every night counts."
+    }
+   ]
+  }
+ ]
+}

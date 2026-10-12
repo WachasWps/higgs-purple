@@ -1,0 +1,81 @@
+{
+  "video_id": "595689d8",
+  "product": "knc",
+  "category": "product_avatar",
+  "shots": [
+    {
+      "n": 1, "start": 0.0, "end": 2.53,
+      "content": "Fair-medium woman in orange pyjamas at a night mirror touching a brown patch on her cheek; smoky ghost 'Dullness' villain inside the mirror.",
+      "issues": ["model_not_dusky"],
+      "action": "replace", "replace_with": "KN03_before_night", "custom": null,
+      "note": "L1 Dullness 'I control tonight's complexion.' plays off-screen over ANANYA studying realistic soft brown spots at the mirror at night (2.53 s). The woman is replaced, so all her shots (S1, S2, S6, S7) are replaced."
+    },
+    {
+      "n": 2, "start": 2.53, "end": 4.27,
+      "content": "Stern-eyed jar mascot on the vanity; the same fair woman leans in, clearly visible behind it.",
+      "issues": ["model_not_dusky_background"],
+      "action": "replace", "replace_with": "KNA1_avatar_talk", "custom": null,
+      "note": "L2 jar 'Step away from the controls.' becomes the exact jar mascot talking (face on the lid, label clean) for 1.74 s."
+    },
+    {
+      "n": 3, "start": 4.27, "end": 6.1,
+      "content": "Macro of the open exact jar with a holographic '3XPERT FORMULA' HUD rising from the cream.",
+      "issues": [],
+      "action": "keep", "replace_with": null, "custom": null,
+      "note": "Matches L3 'Activating my 3Xpert formula.' Big label text is correct. Check the small 'with Niacinamide & Alpha Arbutin' line at full resolution; if it is garbled, swap in KN01_hero_night."
+    },
+    {
+      "n": 4, "start": 6.1, "end": 9.93,
+      "content": "Jar mascot opens a briefcase holding three separate glowing hex badges: 2% KOJIC ACID, NIACINAMIDE, ALPHA ARBUTIN (spelled right, one style).",
+      "issues": [],
+      "action": "keep", "replace_with": null, "custom": null,
+      "note": "This is exactly the client's 'three ingredients labelled separately'. It plays under L4 (Kojic) and L5 (Niacinamide)."
+    },
+    {
+      "n": 5, "start": 9.93, "end": 11.6,
+      "content": "Small jar mascot with the briefcase fires a combined beam at the ghost in the mirror; our GLOW FUSION FORMULA claim on top.",
+      "issues": [],
+      "action": "keep", "replace_with": null, "custom": null,
+      "note": "L6 'And alpha arbutin joins the brightening action.' No skin and no woman."
+    },
+    {
+      "n": 6, "start": 11.6, "end": 14.3,
+      "content": "The woman dabs a thick, unblended white blob on her freckled cheek.",
+      "issues": ["model_not_dusky", "cream_not_blended", "unrealistic_dark_spots"],
+      "action": "replace", "replace_with": "KN04_apply_night", "custom": null,
+      "note": "L7 'Now let the night shift begin.' plays over ANANYA applying at night and massaging until fully absorbed (2.7 s)."
+    },
+    {
+      "n": 7, "start": 14.3, "end": 17.43,
+      "content": "The woman at the mirror talking to camera in warm light; dotted spots are still on her cheek under baked 'AFTER 2 WEEKS'.",
+      "issues": ["model_not_dusky", "dark_spots_in_after", "lip_sync_talking", "no_ba_split"],
+      "action": "replace", "replace_with": "KN06_morning_wake", "custom": null,
+      "segments": [
+        {"start": 14.3, "end": 15.7, "replace_with": "KN06_morning_wake"},
+        {"start": 15.7, "end": 17.43, "replace_with": "GRAPHIC_BA_SPLIT"}
+      ],
+      "note": "L8 woman 'Dark spots look reduced. My glow looks switched on.' now plays as VO with no lip-sync: first ANANYA waking in daylight with clear glowing skin (morning super), then the B/A split (KN08 | KN07, AFTER 2 WEEKS)."
+    },
+    {
+      "n": 8, "start": 17.43, "end": 20.04,
+      "content": "Packshot: exact open jar on a marble pedestal with a glow arc; baked 'DERMDOC 2% KOJIC ACID NIGHT CREAM / GLOW FUSION FORMULA'.",
+      "issues": [],
+      "action": "keep", "replace_with": null, "custom": null,
+      "note": "Jar is correct. The VO now says the full product name here."
+    }
+  ],
+  "script_changes": [
+    {"line_id": 9, "old_en": "Three experts. One overnight brightener.", "new_en": "DERMDOC 2% Kojic Acid Night Cream.", "reason": "The full product name is never said in this ad; the new line has the same syllable count (~10-11) over the packshot."}
+  ],
+  "new_lines": [],
+  "supers": [
+    {"action": "change", "match": "DULLNESS", "text": "DULLNESS", "start": 0.6, "end": 2.4, "why": "The ghost is gone in KN03; place the tag by the mirror next to her dull cheek."},
+    {"action": "change", "match": "OVERNIGHT BRIGHTENING", "text": "BRIGHTER, CLEARER-LOOKING SKIN BY MORNING", "start": 14.35, "end": 15.7, "why": "Client: the morning wake-up frame text must be 'brighter, clearer-looking skin by morning' style."},
+    {"action": "add", "match": null, "text": "BEFORE", "start": 15.7, "end": 17.43, "why": "B/A split label under the left half."},
+    {"action": "add", "match": null, "text": "AFTER 2 WEEKS", "start": 15.7, "end": 17.43, "why": "Client: 'AFTER 2 WEEKS' under the after image (replaces the baked one on the old shot)."}
+  ],
+  "voice_changes": [
+    {"speaker": "dullness", "to": "female", "why": "Deep growly male villain (~93 Hz); female VO only."}
+  ],
+  "summary": "Every woman shot is replaced (KN03 before, KNA1 jar talk, KN04 night application, KN06 morning wake plus B/A split). The 3XPERT HUD, briefcase hexes, beam and packshot are kept. The end line now says 'DERMDOC 2% Kojic Acid Night Cream' and the Dullness voice goes female."
+}

@@ -1,0 +1,41 @@
+[
+ {
+  "id": 2,
+  "speaker": "white_cast",
+  "cer": 0.31,
+  "heard": "ఇది వూరం తాని సంస్కృం చో సతారు."
+ },
+ {
+  "id": 3,
+  "speaker": "sunscreen_tube",
+  "cer": 0.09,
+  "heard": "తప సన్స్క్రీన మామాం."
+ },
+ {
+  "id": 4,
+  "speaker": "purple_tint",
+  "cer": 0.17,
+  "heard": "పోపో కలర్విలో నేను పసుపుగి ఆపోసిట్ అంది కేడల్నేస్ కాంసిల్",
+  "redub": true
+ },
+ {
+  "id": 5,
+  "speaker": "spf_shield",
+  "cer": 0.09,
+  "heard": "ఎండి సంగతి నేన చోస్కుంతాం?",
+  "redub": true
+ },
+ {
+  "id": 6,
+  "speaker": "niacinamide",
+  "cer": 0.31,
+  "heard": "డల్నేసా ఇటేమ్ లో నో చాంస్."
+ },
+ {
+  "id": 7,
+  "speaker": "sunscreen_tube",
+  "cer": 0.07,
+  "heard": "పోర్తిగా కలసిపోతుంది. ఇంస్టంట్ గ్లోచోడు సంస్క్రీన్ కాదు.",
+  "redub": true
+ }
+]

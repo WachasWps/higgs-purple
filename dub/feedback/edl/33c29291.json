@@ -1,0 +1,70 @@
+{
+  "video_id": "33c29291",
+  "product": "ps",
+  "category": "product_avatar",
+  "shots": [
+    {
+      "n": 1, "start": 0.0, "end": 4.6,
+      "content": "Medium-skinned woman's face. A White Cast blob smears a grey-white streak on her cheek, and the tube mascot (NO cap, sneakers instead) confronts it.",
+      "issues": ["cap_missing (client 00003261)", "model_not_dusky", "white_streak_on_skin"],
+      "action": "replace", "replace_with": "CUSTOM",
+      "custom": {
+        "shared_id": "PS_CUSTOM_VILLAIN_HOOK",
+        "generate": false,
+        "reuse_from": "291827ba shot 1",
+        "keyframe": "Same as PS_CUSTOM_VILLAIN_HOOK in 291827ba.json: dusky MEERA close-up, dull matte before-skin with no residue, hair in a bun, four small cartoon villains (UV sun, White Cast blob with dry roller, oil-droplet on skateboard, grey-yellow dullness cloud) beside her cheek, no product, no text.",
+        "motion": "Same as in 291827ba.json.",
+        "base_frame_time": null
+      },
+      "split": [
+        {"start": 0.0, "end": 2.3, "clip": "CUSTOM:PS_CUSTOM_VILLAIN_HOOK"},
+        {"start": 2.3, "end": 4.6, "clip": "PSA1_avatar_talk"}
+      ],
+      "note": "Do not generate a new clip; reuse the shared villain-hook clip. 0-2.3: L1 'I'll make this sunscreen impossible to miss!' with the 'WHITE CAST' label on the white blob. 2.3-4.6: PSA1_avatar_talk, the exact tube WITH its wide cap talking, for L2 'Wrong shade. Wrong sunscreen.'"
+    },
+    {
+      "n": 2, "start": 4.6, "end": 7.63,
+      "content": "Capless tube mascot pointing at an AI colour wheel (yellow opposite blue, which is wrong), skin-tone swatches, crying White Cast villain.",
+      "issues": ["wrong_colour_wheel (client 00003260)", "cap_missing"],
+      "action": "replace", "replace_with": "GRAPHIC_COLOUR_WHEEL", "custom": null,
+      "note": "New L3 'Purple sits opposite yellow, so it cancels dullness.' plays over PSA2_avatar_point with a CORRECT animated wheel on the right (purple directly opposite yellow; arrow; yellow dims). Use 0-3.03 s."
+    },
+    {
+      "n": 3, "start": 7.63, "end": 10.8,
+      "content": "Tube with a NOZZLE squeezes a lavender blob onto the back of a hand, then fingers rub it; the blob is still visible.",
+      "issues": ["nozzle (client 00003259)", "not_blended", "hand_not_dusky"],
+      "action": "replace", "replace_with": "PS08_hand_swatch", "custom": null,
+      "note": "L4 'Purple Tint, made for Indian skin.' plays as the lavender stripe on Meera's dusky hand vanishes completely, leaving the patch more even and radiant. Use 0-3.17 s."
+    },
+    {
+      "n": 4, "start": 10.8, "end": 15.9,
+      "content": "Same woman facing camera with a lavender/white streak on her cheek.",
+      "issues": ["visible_cast_residue", "model_not_dusky", "no_instant_glow_shown"],
+      "action": "replace", "replace_with": "PS05_blend_glow", "custom": null,
+      "note": "One clip slowed to 0.98x to fill 5.1 s. L5 'Four percent niacinamide helps brighten.' and L6 'And SPF 50 PA+++ protects.' play over Meera blending the cream in fully, with no residue, and her skin turning dewy with an instant glow."
+    },
+    {
+      "n": 5, "start": 15.9, "end": 20.04,
+      "content": "Lighter-skinned woman with an UNBLENDED lavender dot on her cheek, an AI colour wheel (wrong), half a tube, and a confused villain.",
+      "issues": ["wrong_colour_wheel (client 00003258)", "not_blended", "model_not_dusky", "weak_after_glow"],
+      "action": "replace", "replace_with": "PS06_glow_after", "custom": null,
+      "note": "New L7 'No white cast. Just protected skin and instant glow.' plays over the strongest glow shot, Meera's even dewy skin. It ends on a face. Use 0-4.14 s."
+    }
+  ],
+  "script_changes": [
+    {"line_id": 3, "old_en": "Purple visually balances yellow-looking dullness.", "new_en": "Purple sits opposite yellow, so it cancels dullness.", "reason": "Explain WHY purple (opposite yellow on the wheel). Same length."},
+    {"line_id": 7, "old_en": "No ashiness. Just protected, brighter-looking skin.", "new_en": "No white cast. Just protected skin and instant glow.", "reason": "'Instant Glow' + no white cast on the after shot."}
+  ],
+  "new_lines": [],
+  "supers": [
+    {"action": "change", "match": "WHITE CAST", "text": "WHITE CAST", "start": 0.3, "end": 2.2, "why": "Same text. Reposition onto the white blob in the custom clip."},
+    {"action": "change", "match": "COLOUR CORRECTION / PURPLE BALANCES YELLOW-LOOKING DULLNESS", "text": "COLOUR CORRECTION / PURPLE SITS OPPOSITE YELLOW > CANCELS YELLOW-LOOKING DULLNESS", "start": 4.8, "end": 7.6, "why": "Explains the correct wheel graphic."},
+    {"action": "add", "match": null, "text": "MADE FOR INDIAN SKIN TONES", "start": 8.0, "end": 10.7, "why": "Supports L4 over the invisible-blend hand swatch."},
+    {"action": "add", "match": null, "text": "4% NIACINAMIDE", "start": 10.9, "end": 12.8, "why": "Label the ingredient during L5."},
+    {"action": "change", "match": "NO WHITE CAST / FOR INDIAN SKIN", "text": "INSTANT GLOW / NO WHITE CAST", "start": 16.1, "end": 19.9, "why": "'Instant Glow' label on the after shot. Start it earlier to cover the whole glow shot."}
+  ],
+  "voice_changes": [
+    {"speaker": "white_cast", "to": "female", "why": "Villain pitched -2 st 'mock-menacing gremlin'. Use a female voice with no negative shift."}
+  ],
+  "summary": "Every shot had a capless tube, a nozzle, the wrong colour wheel or a non-dusky woman with residue, so all are replaced. Library: shared villain-hook CUSTOM + PSA1, colour-wheel graphic, PS08 hand blend, PS05 face blend, PS06 glow. L3 explains purple vs yellow and L7 says 'instant glow, no white cast'."
+}

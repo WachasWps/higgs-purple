@@ -1,0 +1,49 @@
+[
+ {
+  "id": 1,
+  "speaker": "white_cast",
+  "cer": 0.2,
+  "heard": "এই শান স্করেন পারা শুদ্ধ শবাইকে দেখাবু।",
+  "redub": true
+ },
+ {
+  "id": 2,
+  "speaker": "sunscreen",
+  "cer": 0.08,
+  "heard": "ভুল শেড বুল সান সকরিন"
+ },
+ {
+  "id": 3,
+  "speaker": "sunscreen",
+  "cer": 0.0,
+  "heard": "পারপল হলুদের উল্টো তাই ডালোনেস কযন্সল করে।",
+  "redub": true
+ },
+ {
+  "id": 4,
+  "speaker": "sunscreen",
+  "cer": 0.17,
+  "heard": "একদম মিশেজাই ইন্ডিযান সকিনের জনেই তুইরি।",
+  "redub": true
+ },
+ {
+  "id": 5,
+  "speaker": "sunscreen",
+  "cer": 0.15,
+  "heard": "R4% na-cina-mide, instant glue.",
+  "redub": true
+ },
+ {
+  "id": 6,
+  "speaker": "sunscreen",
+  "cer": 0.15,
+  "heard": "R-A-S-P-F-50, P-A-triple-plus-dye, protection."
+ },
+ {
+  "id": 7,
+  "speaker": "sunscreen",
+  "cer": 0.11,
+  "heard": "হোয়াইট কাস্থ নি, শুধু প্রটেক্শন আর ইন্সটান্ট গ্লো।",
+  "redub": true
+ }
+]

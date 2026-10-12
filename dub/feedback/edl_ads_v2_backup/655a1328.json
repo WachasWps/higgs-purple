@@ -1,0 +1,79 @@
+{
+  "video_id": "655a1328",
+  "product": "ps",
+  "category": "product_avatar",
+  "shots": [
+    {
+      "n": 1, "start": 0.0, "end": 4.0,
+      "content": "Light-skinned woman worried and touching her cheek, with a glowing grey-yellow Dullness blob villain beside her face.",
+      "issues": ["model_not_dusky"],
+      "action": "replace", "replace_with": "CUSTOM",
+      "custom": {
+        "shared_id": "PS_CUSTOM_VILLAIN_HOOK",
+        "generate": false,
+        "reuse_from": "291827ba shot 1",
+        "keyframe": "Same as PS_CUSTOM_VILLAIN_HOOK in 291827ba.json: dusky MEERA close-up, dull matte before-skin with no residue, hair in a bun, four small cartoon villains (UV sun, White Cast blob with dry roller, oil-droplet on skateboard, grey-yellow dullness cloud) beside her cheek, no product, no text.",
+        "motion": "Same as in 291827ba.json.",
+        "base_frame_time": null
+      },
+      "split": [
+        {"start": 0.0, "end": 2.3, "clip": "CUSTOM:PS_CUSTOM_VILLAIN_HOOK"},
+        {"start": 2.3, "end": 4.0, "clip": "PSA1_avatar_talk"}
+      ],
+      "note": "Reuse the shared villain-hook clip; no new generation. 0-2.3: new L1 'Let's make her skin look dull!' with the 'DULLNESS VILLAIN' label on the grey-yellow cloud. 2.3-4.0: PSA1_avatar_talk, the exact tube with wide cap, for L2 'Not while I'm here.'"
+    },
+    {
+      "n": 2, "start": 4.0, "end": 7.43,
+      "content": "Tube mascot spinning a big AI colour wheel (wrong opposites), with the dullness villain floating behind.",
+      "issues": ["wrong_colour_wheel (client 00003254)"],
+      "action": "replace", "replace_with": "GRAPHIC_COLOUR_WHEEL", "custom": null,
+      "note": "New L3 'Yellow-looking dullness? Purple sits opposite, cancels it.' plays over PSA2_avatar_point. A CORRECT animated wheel appears in the empty right half (purple directly opposite yellow; arrow; yellow dims). Use 0-3.43 s."
+    },
+    {
+      "n": 3, "start": 7.43, "end": 10.93,
+      "content": "Tube with a NOZZLE dispensing lavender cream onto a fingertip, then a light-skinned woman's face close-up as she applies it. 'PURPLE TINT' text.",
+      "issues": ["nozzle (client 00003253)", "model_not_dusky", "garbled_label_text"],
+      "action": "replace", "replace_with": "PS05_blend_glow", "custom": null,
+      "note": "L4 'My purple tint is made for Indian skin.' plays as the lavender layer melts invisibly into Meera's dusky skin, with no cast, and her skin starts to glow. Use 0-3.5 s."
+    },
+    {
+      "n": 4, "start": 10.93, "end": 16.57,
+      "content": "Before/after split of a light-skinned woman with a fake honeycomb skin macro in the middle. No real difference shown.",
+      "issues": ["before_after_no_real_difference", "skin_macro_looks_like_terrain", "model_not_dusky"],
+      "action": "replace", "replace_with": "GRAPHIC_BA_SPLIT", "custom": null,
+      "split": [
+        {"start": 10.93, "end": 14.0, "clip": "GRAPHIC_BA_SPLIT"},
+        {"start": 14.0, "end": 16.57, "clip": "PS09_outdoor_glow"}
+      ],
+      "note": "Covered by two library clips. (a) 10.93-14.0 GRAPHIC_BA_SPLIT: vertical half/half with PS07_before_dull on the left and PS06_glow_after on the right, faces not cropped. Labels: 'BEFORE' and 'INSTANT GLOW'. It plays under L5 'Four percent niacinamide helps brighten.' (b) 14.0-16.57 PS09_outdoor_glow: Meera steps into bright sun, protected, for L6 'SPF 50 PA+++ protects.'"
+    },
+    {
+      "n": 5, "start": 16.57, "end": 20.04,
+      "content": "TWO tube mascots on the counter, one holding a mini AI colour wheel, with a smiling woman (not glowy enough) behind.",
+      "issues": ["two_products_in_frame (client 00003252)", "wrong_colour_wheel", "after_skin_not_glowy_enough", "model_not_dusky"],
+      "action": "replace", "replace_with": "PSA3_avatar_model", "custom": null,
+      "note": "New L7 'Same skin tone, with an instant glow.' plays as Meera, with even, glowing, same dusky skin, laughs with the ONE tube mascot on the balcony and touches her cheek. Use 0-3.47 s."
+    }
+  ],
+  "script_changes": [
+    {"line_id": 1, "old_en": "Let's steal that morning glow.", "new_en": "Let's make her skin look dull!", "reason": "Avoid a bare 'glow' (every glow must be 'Instant Glow'). Sets up the dull before. Same length."},
+    {"line_id": 3, "old_en": "Yellow-looking dullness? Violet sits opposite.", "new_en": "Yellow-looking dullness? Purple sits opposite, cancels it.", "reason": "Explain WHY: purple is opposite yellow, so it cancels it. There is 1.1 s of slack before L4."},
+    {"line_id": 7, "old_en": "Same skin tone, fresher-looking glow.", "new_en": "Same skin tone, with an instant glow.", "reason": "'Instant Glow'."}
+  ],
+  "new_lines": [],
+  "supers": [
+    {"action": "change", "match": "DULLNESS VILLAIN", "text": "DULLNESS VILLAIN", "start": 0.3, "end": 2.2, "why": "Same text. Reposition onto the grey-yellow dullness cloud in the custom clip."},
+    {"action": "add", "match": null, "text": "COLOUR CORRECTION / PURPLE SITS OPPOSITE YELLOW > CANCELS YELLOW-LOOKING DULLNESS", "start": 4.2, "end": 7.4, "why": "Text explanation for the corrected wheel."},
+    {"action": "add", "match": null, "text": "MADE FOR INDIAN SKIN TONES / NO WHITE CAST", "start": 8.1, "end": 10.8, "why": "Matches L4 over the invisible blend."},
+    {"action": "change", "match": "BEFORE", "text": "BEFORE", "start": 11.0, "end": 13.95, "why": "Under the left (dull) half of the B/A split. Extend to the new split length."},
+    {"action": "change", "match": "AFTER", "text": "INSTANT GLOW", "start": 11.0, "end": 13.95, "why": "Client: label under the after half must read INSTANT GLOW."},
+    {"action": "change", "match": "hud 11.1-13.5", "text": "", "start": 11.0, "end": 13.95, "why": "Keep the HUD frame on the B/A split. Retime only."},
+    {"action": "add", "match": null, "text": "4% NIACINAMIDE", "start": 11.1, "end": 13.2, "why": "Ingredient label during L5, top-centre above the split."},
+    {"action": "add", "match": null, "text": "SPF 50 PA+++ / UVA + UVB", "start": 14.1, "end": 16.4, "why": "Matches L6 over the sun shot."},
+    {"action": "add", "match": null, "text": "INSTANT GLOW / NO WHITE CAST", "start": 16.8, "end": 19.95, "why": "End claim on the glowing face + one product."}
+  ],
+  "voice_changes": [
+    {"speaker": "dullness", "to": "female", "why": "Written as a 'deep, sly, menacing low voice (f0 ~98 Hz)', which is male and scary."}
+  ],
+  "summary": "All five shots fail (non-dusky woman, wrong wheel, nozzle, no-difference B/A, two tubes), so all are replaced. Sequence: shared villain-hook CUSTOM + PSA1, wheel graphic, PS05 blend, B/A split (BEFORE / INSTANT GLOW) + PS09 sun, then PSA3 with one tube. L1, L3 and L7 are rewritten for purple vs yellow and Instant Glow, and the dullness villain voice becomes female."
+}

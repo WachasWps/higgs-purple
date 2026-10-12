@@ -1,0 +1,300 @@
+{
+ "video_id": "4010f985",
+ "product": "ps",
+ "category": "general_ad / product_ad (Hinglish VO) - 06_PS_yellow-looking-dullness-ko-balance-karne",
+ "shots": [
+  {
+   "n": 1,
+   "start": 0.0,
+   "end": 3.43,
+   "content": "Exact PS tube standing on its wide lavender cap, silhouetted against a warm yellow sun glow (the 'yellow-looking dullness' concept); hook super YELLOW-LOOKING DULLNESS?",
+   "issues": [],
+   "action": "keep",
+   "replace_with": null,
+   "custom": null,
+   "note": "Packaging correct (stands on cap, no nozzle). This is the liked yellow-dullness concept and matches line 1 (the colour secret hook)."
+  },
+  {
+   "n": 2,
+   "start": 3.43,
+   "end": 6.3,
+   "content": "Exact tube upright on its cap on a glossy violet pedestal with a ring halo (product reveal).",
+   "issues": [
+    "slightly sci-fi pedestal, but purposeful"
+   ],
+   "action": "keep",
+   "replace_with": null,
+   "custom": null,
+   "note": "Product is on screen while line 2 names DERMDOC Ultra Violet. Label and cap correct. Keep to save credits."
+  },
+  {
+   "n": 3,
+   "start": 6.3,
+   "end": 9.27,
+   "content": "Tube held upside-down, flip cap open, thick lavender ribbon pouring into a puddle of cream.",
+   "issues": [
+    "cap open / dispensing angle risks nozzle look",
+    "puddle of cream looks heavy",
+    "does not match the new 'colour wheel' VO"
+   ],
+   "action": "replace",
+   "replace_with": "GRAPHIC_COLOUR_WHEEL",
+   "custom": null,
+   "note": "New line 2 says 'purple tint sits opposite yellow on the colour wheel' at about 5.8-8.4 s. Show the correct animated wheel here as a full-screen graphic, with yellow highlighted and an arrow across the centre to purple. Super: PURPLE SITS OPPOSITE YELLOW."
+  },
+  {
+   "n": 4,
+   "start": 9.27,
+   "end": 13.07,
+   "content": "AI colour 'portal': half yellow, half purple glass ring with a lavender droplet and sparks.",
+   "issues": [
+    "AI colour wheel/portal is wrong and unexplained",
+    "random fancy VFX"
+   ],
+   "action": "replace",
+   "replace_with": "PS05_blend_glow",
+   "custom": null,
+   "note": "VO here is 'so it cancels dullness for an Instant Glow', then 'With 4% Niacinamide...'. PS05 shows the missing step: application, then fully blended with no cast, then visibly glowing skin (3.8 s of the 5 s clip). The correct wheel is already in shot 3, so this AI portal goes."
+  },
+  {
+   "n": 5,
+   "start": 13.07,
+   "end": 17.07,
+   "content": "Close-up of a forearm with a thick, unblended lavender stripe being smeared by fingers.",
+   "issues": [
+    "mask/ubtan-like thick application",
+    "visible residue, not blended",
+    "different (unknown) model's skin"
+   ],
+   "action": "replace",
+   "replace_with": "PS08_hand_swatch",
+   "custom": null,
+   "note": "VO: 'SPF 50 PA+++ protection - lightweight, no white cast'. PS08 has a thin stripe that disappears completely with no cast. 4.0 s fits in the 5 s clip. It is MEERA's hand, which keeps continuity with the B/A."
+  },
+  {
+   "n": 6,
+   "start": 17.07,
+   "end": 18.4,
+   "content": "Split-face before/after of a fair-ish model with a centre line; barely any difference.",
+   "issues": [
+    "model not dusky",
+    "no visible before/after difference",
+    "no labels",
+    "woman replaced elsewhere (continuity)"
+   ],
+   "action": "replace",
+   "replace_with": "GRAPHIC_BA_SPLIT",
+   "custom": null,
+   "note": "Vertical half/half split: PS07_before_dull on the left, PS06_glow_after on the right, face not cropped. Labels BEFORE / AFTER, with INSTANT GLOW under the after half. Hold it to 20.04 because shot 7 is removed. VO: 'Made for Indian skin tones.'"
+  },
+  {
+   "n": 7,
+   "start": 18.4,
+   "end": 20.04,
+   "content": "Tube on a violet pedestal with a giant lavender cream swoosh and glowing halo (pre-endslate hero).",
+   "issues": [
+    "random fancy shot before endslate - client: serves no purpose"
+   ],
+   "action": "remove",
+   "replace_with": null,
+   "custom": null,
+   "note": "Remove it and extend the GRAPHIC_BA_SPLIT from shot 6 to 20.04 (about 3 s total, so the labels can be read). The 5 s outro carries the product and brand."
+  }
+ ],
+ "script_changes": [
+  {
+   "line_id": 1,
+   "old_en": "Yellow-looking dullness ko balance karne ka colour secret? Purple.",
+   "new_en": "The colour secret to balancing yellow-looking dullness? Purple.",
+   "reason": "English-only source for regional dubs (no Hindi in final); keeps the liked yellow-dullness hook; same length."
+  },
+  {
+   "line_id": 2,
+   "old_en": "DermDoc Ultra Violet Brightening Sunscreen ka purple tint dullness ko colour-correct karke instant radiant glow deta hai.",
+   "new_en": "DERMDOC Ultra Violet's purple tint sits opposite yellow on the colour wheel, so it cancels dullness for an Instant Glow.",
+   "reason": "Explains WHY purple (opposite yellow on the colour wheel), lined up with the GRAPHIC_COLOUR_WHEEL (shot 3) and blend-to-glow (shot 4); 'glow' becomes 'Instant Glow'; brand spelling fixed."
+  },
+  {
+   "line_id": 3,
+   "old_en": "With 4% Niacinamide and SPF 50 PA++ protection\u2014lightweight and without white cast. Indian skin ke liye.",
+   "new_en": "With 4% Niacinamide and SPF 50 PA+++ protection\u2014lightweight, no white cast. Made for Indian skin tones.",
+   "reason": "Claim fix PA++ to PA+++ (matches pack); English only; 'made for Indian skin tones' per client."
+  }
+ ],
+ "new_lines": [],
+ "supers": [
+  {
+   "action": "add",
+   "match": null,
+   "text": "PURPLE SITS OPPOSITE YELLOW | sub: SO IT CANCELS YELLOW-LOOKING DULLNESS",
+   "start": 6.4,
+   "end": 9.2,
+   "why": "The colour wheel must be explained in text as well as VO."
+  },
+  {
+   "action": "change",
+   "match": "COLOUR CORRECTION / INSTANT RADIANT GLOW",
+   "text": "INSTANT GLOW | sub: FULLY BLENDS, NO WHITE CAST",
+   "start": 9.6,
+   "end": 11.4,
+   "why": "'glow' becomes 'Instant Glow'; now sits on PS05 blend-to-glow."
+  },
+  {
+   "action": "change",
+   "match": "SPF 50 PA+++ / LIGHTWEIGHT PROTECTION",
+   "text": "SPF 50 PA+++ | sub: LIGHTWEIGHT PROTECTION",
+   "start": 13.3,
+   "end": 14.9,
+   "why": "Unchanged text; it now sits on the PS08 hand swatch."
+  },
+  {
+   "action": "add",
+   "match": null,
+   "text": "BEFORE (left) / AFTER (right) + 'INSTANT GLOW' under AFTER",
+   "start": 17.1,
+   "end": 20.0,
+   "why": "Client: the label under the after image must read INSTANT GLOW."
+  },
+  {
+   "action": "change",
+   "match": "NO WHITE CAST / FOR INDIAN SKIN",
+   "text": "NO WHITE CAST | FOR INDIAN SKIN",
+   "start": 18.6,
+   "end": 20.0,
+   "why": "Shot 7 is removed, so this pill now sits at the top of the B/A hold. Keep it clear of the BEFORE/AFTER labels."
+  }
+ ],
+ "voice_changes": [
+  {
+   "speaker": "narrator",
+   "to": "female",
+   "why": "Client: female VO only. Clone from a female narrator reference for all 5 dubs."
+  }
+ ],
+ "summary": "Shots 1-2 stay (liked yellow silhouette + pack reveal). The pour shot and the AI colour portal become the correct colour-wheel graphic and the PS05 blend-to-Instant-Glow shot. The thick forearm stripe becomes PS08, the B/A becomes a real Meera split labelled INSTANT GLOW, and the fancy pre-endslate hero is removed. The VO now explains purple vs yellow.",
+ "rebuild": {
+  "concept": "THE COLOUR SECRET: a clean L'Oreal-style studio commercial built entirely on the liked 'yellow-looking dullness' idea. Dull face, then the colour-wheel explanation, a labelled ingredient macro, application, a realistic B/A and a glowing face with the pack, then the outro.",
+  "target_duration_s": 17.8,
+  "narrator": "narrator_female (calm, premium; English source, dubbed to Bengali/Tamil/Telugu/Malayalam/Odia only)",
+  "custom_count": 1,
+  "shots": [
+   {
+    "n": 1,
+    "start": 0.0,
+    "end": 2.5,
+    "source": "PS07_before_dull",
+    "content": "MEERA in soft window light, dull, flat, slightly yellow-looking skin, no glow. Grade a touch warm.",
+    "super": "YELLOW-LOOKING DULLNESS?",
+    "vo": 1
+   },
+   {
+    "n": 2,
+    "start": 2.5,
+    "end": 5.6,
+    "source": "GRAPHIC_COLOUR_WHEEL",
+    "content": "Full-screen premium animated colour wheel on a clean lavender-white studio background (not the mascot). Yellow pulses, a light beam crosses the centre to PURPLE directly opposite, and the yellow dims.",
+    "super": "PURPLE CANCELS YELLOW",
+    "vo": 2
+   },
+   {
+    "n": 3,
+    "start": 5.6,
+    "end": 9.6,
+    "source": "CUSTOM_PS_INGR_MACRO",
+    "content": "Studio macro: a clear niacinamide droplet falls into a glossy lavender cream swirl while a sunbeam glints on a glass disc. Labels pop on each element in post.",
+    "super": "PURPLE TINT / 4% NIACINAMIDE / SPF 50 PA+++ (three separate labels)",
+    "vo": 3
+   },
+   {
+    "n": 4,
+    "start": 9.6,
+    "end": 11.0,
+    "source": "PS04_dot_face",
+    "content": "Five small lavender dots on MEERA's still-dull face; fingertips begin to blend.",
+    "super": null,
+    "vo": 4
+   },
+   {
+    "n": 5,
+    "start": 11.0,
+    "end": 13.2,
+    "source": "PS05_blend_glow",
+    "content": "Cream melts in completely with no cast. Skin turns even, dewy and glowing; she smiles.",
+    "super": "INSTANT GLOW | NO WHITE CAST, NO RESIDUE",
+    "vo": 4,
+    "clip_offset": 2.8
+   },
+   {
+    "n": 6,
+    "start": 13.2,
+    "end": 15.8,
+    "source": "GRAPHIC_BA_SPLIT",
+    "content": "Vertical half/half split: PS07_before_dull | PS06_glow_after, same framing, face not cropped.",
+    "super": "BEFORE | AFTER + 'INSTANT GLOW' under after",
+    "vo": 5
+   },
+   {
+    "n": 7,
+    "start": 15.8,
+    "end": 17.8,
+    "source": "PS02_hold_balcony",
+    "content": "Glowing MEERA lifts the exact tube (wide cap at the bottom) toward camera. Ends on face plus product, then cut to the outro.",
+    "super": "MADE FOR INDIAN SKIN TONES",
+    "vo": 5
+   }
+  ],
+  "vo": [
+   {
+    "id": 1,
+    "start": 0.2,
+    "end": 2.3,
+    "en": "Dull, yellow-looking skin?"
+   },
+   {
+    "id": 2,
+    "start": 2.6,
+    "end": 5.5,
+    "en": "Purple sits opposite yellow, so it cancels it out."
+   },
+   {
+    "id": 3,
+    "start": 5.8,
+    "end": 9.4,
+    "en": "DERMDOC Ultra Violet, with 4% Niacinamide and SPF 50 PA+++."
+   },
+   {
+    "id": 4,
+    "start": 9.8,
+    "end": 13.0,
+    "en": "It blends in fully. No white cast, just Instant Glow."
+   },
+   {
+    "id": 5,
+    "start": 13.4,
+    "end": 15.8,
+    "en": "Made for Indian skin tones."
+   }
+  ],
+  "custom_shots": {
+   "CUSTOM_PS_INGR_MACRO": {
+    "shared": "Generate ONCE and reuse in all 5 PS general-ad rebuilds (4010f985, c01adcce, ce52c347, fb3fa838, fe7174d4).",
+    "keyframe": "Vertical 9:16 premium skincare studio macro, clean L'Oreal-style lighting: soft white key light from top-left, gentle lavender rim light, seamless pale-lavender-to-white background, glossy white acrylic surface with a soft reflection. Centre-bottom: one smooth, glossy, opaque pale-lavender sunscreen cream swirl (light and creamy, not watery, not paste). Upper-left: a single crystal-clear water-light serum droplet (niacinamide) hanging just above the swirl, catching a bright specular highlight. Right side: a thin clear-glass disc standing upright, catching a crisp warm sunbeam that refracts into a soft prism flare (sun-protection cue). The three elements are clearly separated, with clean empty background above each for labels added in post. No product packaging, no hands, no people, no text, no letters, no logos.",
+    "motion": "The serum droplet falls in slow motion onto the lavender swirl and makes a soft silky ripple; the sunbeam glints across the glass disc; very slow macro push-in; nothing else changes.",
+    "post_labels": [
+     "PURPLE TINT (on swirl)",
+     "4% NIACINAMIDE (on droplet)",
+     "SPF 50 PA+++ (on sun disc)"
+    ]
+   }
+  },
+  "dropped_from_current": [
+   3,
+   4,
+   7
+  ],
+  "reused_from_current": [],
+  "notes": "No sci-fi pedestals, portals or pre-endslate hero. Starts and ends on a face. The only woman is MEERA (dusky). There is no tube on screen during application, so there is no nozzle risk, and the one pack shot (PS02) shows the wide cap. New credits: one CUSTOM clip (CUSTOM_PS_INGR_MACRO), shared by all 5 PS general ads; everything else is library clips or graphics.",
+  "vo_budget_note": "English VO is about 215 characters over 15.6 s. The regional dubs (spoken at about 14 chars/s, with numbers spoken as words, e.g. 'SPF fifty PA triple plus') will run longer, so transcreate tightly. If a language overflows, trim connectives first, never the ingredient names, 'Instant Glow' or the full product name."
+ },
+ "use_rebuild": true
+}

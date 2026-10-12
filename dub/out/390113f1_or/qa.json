@@ -1,0 +1,37 @@
+[
+ {
+  "id": 1,
+  "speaker": "dark_spot",
+  "cer": 0.11,
+  "heard": "জালদি সে সোই গলাণি",
+  "redub": true
+ },
+ {
+  "id": 2,
+  "speaker": "knc_jar",
+  "cer": 0.08,
+  "heard": "আউ মন নাইট টেমো জাগি অছি।",
+  "redub": true
+ },
+ {
+  "id": 3,
+  "speaker": "kojic_acid",
+  "cer": 0.2,
+  "heard": "সো আমেকা মুকরুছু। মু ডারক স্঵ট সরে নিয়াসিনা ময় ডল নে সরে",
+  "redub": true
+ },
+ {
+  "id": 4,
+  "speaker": "narrator",
+  "cer": 0.11,
+  "heard": "তিনে একটিভ রাতি সারা দুই সপতাহপরে সপট্স গমদে সুছে।",
+  "redub": true
+ },
+ {
+  "id": 5,
+  "speaker": "knc_jar",
+  "cer": 0.07,
+  "heard": "ডারক সপট্র রাতির ভিছোটি নাহি।",
+  "redub": true
+ }
+]

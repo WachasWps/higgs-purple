@@ -1,0 +1,52 @@
+[
+ {
+  "id": 1,
+  "speaker": "dark_spot_leader",
+  "cer": 0.17,
+  "heard": "இனிமே இதுதா எங்க பரமன் என்று வீடு..."
+ },
+ {
+  "id": 2,
+  "speaker": "jar",
+  "cer": 0.15,
+  "heard": "2 வாரனாடிய் in the night day start."
+ },
+ {
+  "id": 3,
+  "speaker": "jar",
+  "cer": 0.35,
+  "heard": "என் பவர் 2% கோஜி காசிட் கூட நியாசினமைட் αர் புடின்"
+ },
+ {
+  "id": 4,
+  "speaker": "jar",
+  "cer": 0.15,
+  "heard": "சேர்து நாங்கடாங்கலோ fusion formula."
+ },
+ {
+  "id": 5,
+  "speaker": "jar",
+  "cer": 0.13,
+  "heard": "துங்கு முனியேன்ன மசாஜ பண்ணே."
+ },
+ {
+  "id": 6,
+  "speaker": "dark_spot_leader",
+  "cer": 0.15,
+  "heard": "cay유�opodятельμη اس spared��면…"
+ },
+ {
+  "id": 7,
+  "speaker": "woman",
+  "cer": 0.1,
+  "heard": "ரெண்டு வாரத்தல கடைசியா காலி பண்ணித்தாங்க.",
+  "redub": true
+ },
+ {
+  "id": 8,
+  "speaker": "jar",
+  "cer": 0.36,
+  "heard": "தெரும் டாக்டு, बर्संट் கோஜி காசித் நைட் கரிம.",
+  "redub": true
+ }
+]

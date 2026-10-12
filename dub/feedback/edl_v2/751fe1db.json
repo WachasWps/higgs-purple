@@ -1,0 +1,76 @@
+{
+ "video_id": "751fe1db",
+ "product": "ps",
+ "category": "ugc",
+ "use_rebuild": true,
+ "shots": [],
+ "rebuild": {
+  "target_duration_s": 32.78,
+  "shots": [
+   {
+    "source": "USR_751fe1db_01",
+    "n": 1,
+    "start": 0.0,
+    "end": 9.2
+   },
+   {
+    "source": "USR_751fe1db_02",
+    "n": 2,
+    "start": 9.2,
+    "end": 12.55
+   },
+   {
+    "source": "USR_751fe1db_03",
+    "n": 3,
+    "start": 12.55,
+    "end": 14.3
+   },
+   {
+    "source": "GRAPHIC_COLOUR_WHEEL",
+    "n": 4,
+    "start": 14.3,
+    "end": 16.8
+   },
+   {
+    "source": "USR_751fe1db_05",
+    "n": 5,
+    "start": 16.8,
+    "end": 18.1
+   },
+   {
+    "source": "USR_751fe1db_06",
+    "n": 6,
+    "start": 18.1,
+    "end": 21.1
+   },
+   {
+    "source": "USR_PSAD_rays_barrier",
+    "n": 7,
+    "start": 21.1,
+    "end": 23.3
+   },
+   {
+    "source": "GRAPHIC_BA_SPLIT",
+    "ba_pair": [
+     "BA2_751fe1db_BEFORE",
+     "BA2_751fe1db_AFTER"
+    ],
+    "n": 8,
+    "start": 23.3,
+    "end": 25.8
+   },
+   {
+    "source": "USR_751fe1db_09",
+    "n": 9,
+    "start": 25.8,
+    "end": 27.9
+   },
+   {
+    "source": "USR_PSAD_endcard_ps",
+    "n": 10,
+    "start": 27.9,
+    "end": 32.78
+   }
+  ]
+ }
+}

@@ -1,0 +1,51 @@
+[
+ {
+  "id": 1,
+  "speaker": "creator",
+  "cer": 0.15,
+  "heard": "dark spots at rock pannen. In the night cream the main step.",
+  "redub": true
+ },
+ {
+  "id": 2,
+  "speaker": "creator",
+  "cer": 0.76,
+  "heard": "دیரம்டாக்டு, بரசந்த்த்த்த்துக்குச்சியாசிட்",
+  "redub": true
+ },
+ {
+  "id": 3,
+  "speaker": "creator",
+  "cer": 0.38,
+  "heard": "தெக்சரிஸ் கிரிமி தன்னியாயலவே இல்லை.",
+  "redub": true
+ },
+ {
+  "id": 4,
+  "speaker": "creator",
+  "cer": 0.19,
+  "heard": "முழ்சாப் சார் பாகர்வாரி மாசாஜ்",
+  "redub": true
+ },
+ {
+  "id": 5,
+  "speaker": "creator",
+  "cer": 0.11,
+  "heard": "கோஜிக் ஆசிட் நியாசினமைட் ஆல்பார்புடின் சபாட்ஸ் குறைவா தெரியவுதவும்",
+  "redub": true
+ },
+ {
+  "id": 6,
+  "speaker": "creator",
+  "cer": 0.15,
+  "heard": "Daily Nightmares, Panama",
+  "redub": true
+ },
+ {
+  "id": 7,
+  "speaker": "creator",
+  "cer": 0.17,
+  "heard": "ரண்டு வீக்கில ச்பாட் குறைஞ்ச மாதிரி நேசர்லா ப்ரைட்ட.",
+  "redub": true
+ }
+]

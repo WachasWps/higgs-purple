@@ -1,0 +1,77 @@
+{
+ "video_id": "715b1b5c",
+ "product": "knc",
+ "category": "product_avatar",
+ "approach": "v2_original_story",
+ "shots": [
+  {
+   "start": 0,
+   "end": 2.3,
+   "action": "keep",
+   "n": 1
+  },
+  {
+   "start": 2.3,
+   "end": 4.5,
+   "action": "keep",
+   "n": 2
+  },
+  {
+   "start": 4.5,
+   "end": 6.3,
+   "action": "keep",
+   "n": 3
+  },
+  {
+   "start": 6.3,
+   "end": 8.8,
+   "action": "replace",
+   "replace_with": "STORY_715b1b5c_S4",
+   "n": 4
+  },
+  {
+   "start": 8.8,
+   "end": 11.3,
+   "action": "replace",
+   "replace_with": "STORY_715b1b5c_S4",
+   "n": 5
+  },
+  {
+   "start": 11.3,
+   "end": 12.5,
+   "action": "keep",
+   "n": 6
+  },
+  {
+   "start": 12.5,
+   "end": 13.8,
+   "action": "replace",
+   "n": 7,
+   "replace_with": "LEFT_715b1b5c_S7"
+  },
+  {
+   "start": 13.8,
+   "end": 14.97,
+   "action": "keep",
+   "n": 8
+  },
+  {
+   "start": 14.97,
+   "end": 17.17,
+   "action": "replace",
+   "replace_with": "GRAPHIC_BA_SPLIT",
+   "ba_pair": [
+    "BA_715b1b5c_BEFORE",
+    "BA_715b1b5c_AFTER"
+   ],
+   "ba_face_y": 0.12,
+   "n": 9
+  },
+  {
+   "start": 17.17,
+   "end": 20.0,
+   "action": "keep",
+   "n": 10
+  }
+ ]
+}

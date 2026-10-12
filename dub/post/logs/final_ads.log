@@ -1,0 +1,22 @@
+08:17:24 10 render(s) queued, 3 in parallel
+08:17:24 start 4010f985_hi (20.00s + outro) -> deliver/Hinglish_Ads/06_PS_yellow-looking-dullness-ko-balance-karne_4010f985.mp4
+08:17:24 start 426b77bb_hi (20.00s + outro) -> deliver/Hinglish_Ads/02_KNC_ek-active-achha-hai_426b77bb.mp4
+08:17:24 start a9be56d9_hi (20.00s + outro) -> deliver/Hinglish_Ads/01_KNC_dark-spots-sirf-cover-karna-solution_a9be56d9.mp4
+08:17:31 ok     4010f985_hi  7.6s
+08:17:31 start b4c787e1_hi (20.00s + outro) -> deliver/Hinglish_Ads/05_KNC_dark-spots-scattered-hain_b4c787e1.mp4
+08:17:33 ok     426b77bb_hi  8.2s
+08:17:33 start c01adcce_hi (20.00s + outro) -> deliver/Hinglish_Ads/07_PS_sunlight-dikhta-hai_c01adcce.mp4
+08:17:35 ok     a9be56d9_hi  9.5s
+08:17:35 start ce52c347_hi (20.00s + outro) -> deliver/Hinglish_Ads/10_PS_ek-sunscreen-two-smart-actions_ce52c347.mp4
+08:17:40 ok     b4c787e1_hi  8.5s
+08:17:40 start e9528636_hi (20.00s + outro) -> deliver/Hinglish_Ads/04_KNC_rich-night-cream-but-heavy-bilkul-nahi_e9528636.mp4
+08:17:43 ok     c01adcce_hi  9.5s
+08:17:43 start eab38211_hi (20.00s + outro) -> deliver/Hinglish_Ads/03_KNC_jab-aap-soti-hain-aapki-night-routine_eab38211.mp4
+08:17:45 ok     ce52c347_hi  9.5s
+08:17:45 start fb3fa838_hi (20.00s + outro) -> deliver/Hinglish_Ads/09_PS_morning-balcony-se-city-commute-tak-sun_fb3fa838.mp4
+08:17:50 ok     e9528636_hi  9.5s
+08:17:50 start fe7174d4_hi (20.00s + outro) -> deliver/Hinglish_Ads/08_PS_white-cast-ko-light-mein-test-karo_fe7174d4.mp4
+08:17:51 ok     eab38211_hi  7.9s
+08:17:53 ok     fb3fa838_hi  8.3s
+08:17:56 ok     fe7174d4_hi  6.0s
+08:17:56 done: 10 ok, 0 failed; avg 8.5s/render

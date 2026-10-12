@@ -1,0 +1,54 @@
+[
+ {
+  "id": 1,
+  "speaker": "greasiness",
+  "cer": 0.15,
+  "heard": "столькоãy repertoire Religion monk столько<|ta|>"
+ },
+ {
+  "id": 2,
+  "speaker": "dullness",
+  "cer": 0.08,
+  "heard": "நான் டெல்னஸ் கொண்டு வந்து.",
+  "redub": true
+ },
+ {
+  "id": 3,
+  "speaker": "sunscreen",
+  "cer": 0.27,
+  "heard": "ரெண்டு பேரு பாயட்டு."
+ },
+ {
+  "id": 4,
+  "speaker": "sunscreen",
+  "cer": 0.16,
+  "heard": "கலர் வீல்லை பரப்புல் மஞ்சலுக்கு எதர் அதனால் தல்னச் கேன்சல்",
+  "redub": true
+ },
+ {
+  "id": 5,
+  "speaker": "sunscreen",
+  "cer": 0.15,
+  "heard": "பர்பிழ்டின் இந்தியன் சகின்னுக்காக வே?"
+ },
+ {
+  "id": 6,
+  "speaker": "sunscreen",
+  "cer": 0.15,
+  "heard": "4% நியா சினமிட்ட கூடவே instant glow.",
+  "redub": true
+ },
+ {
+  "id": 7,
+  "speaker": "sunscreen",
+  "cer": 0.15,
+  "heard": "SPF 50 battery per plus வையிலக்கு ரெடி."
+ },
+ {
+  "id": 8,
+  "speaker": "sunscreen",
+  "cer": 0.15,
+  "heard": "instant glow, protected, காலையிலன் உட்ராமா.",
+  "redub": true
+ }
+]

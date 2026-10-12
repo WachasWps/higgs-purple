@@ -1,0 +1,88 @@
+{
+ "video_id": "426b77bb",
+ "product": "kojic_night_cream",
+ "caption_y": 0.9,
+ "elements": [
+  {
+   "type": "hook_mono",
+   "start": 0.2,
+   "end": 3.1,
+   "lines": [
+    "ONE ACTIVE: GOOD",
+    "THREE TOGETHER?"
+   ],
+   "position": "top",
+   "anim": "slide_up"
+  },
+  {
+   "type": "pill",
+   "start": 6.4,
+   "end": 7.95,
+   "lines": [
+    "KOJIC + NIACINAMIDE",
+    "+ ALPHA ARBUTIN"
+   ],
+   "position": "lower",
+   "anim": "pop"
+  },
+  {
+   "type": "pill",
+   "start": 8.55,
+   "end": 9.85,
+   "lines": [
+    "GLOW FUSION",
+    "FORMULA"
+   ],
+   "position": "upper",
+   "anim": "pop"
+  },
+  {
+   "type": "claim_bold",
+   "start": 13.05,
+   "end": 14.85,
+   "lines": [
+    "LESS VISIBLE",
+    "DARK SPOTS"
+   ],
+   "sub": "FOR MORE EVEN-LOOKING SKIN",
+   "position": "top",
+   "anim": "fade"
+  },
+  {
+   "type": "label",
+   "start": 16.45,
+   "end": 17.65,
+   "lines": [
+    "BEFORE"
+   ],
+   "x": 0.25,
+   "y": 0.12,
+   "anim": "pop"
+  },
+  {
+   "type": "label",
+   "start": 16.45,
+   "end": 17.65,
+   "lines": [
+    "AFTER"
+   ],
+   "x": 0.75,
+   "y": 0.12,
+   "anim": "pop"
+  },
+  {
+   "type": "hud",
+   "variant": "corners",
+   "start": 16.45,
+   "end": 17.65
+  }
+ ],
+ "notes": "Three-actives hook above the floating jar; actives pill under the jar as the three streams spiral in; Glow Fusion pill between lid and cream peak on the open-jar close-up (label kept clear); dark-spot claim in the light beams above the epidermis; BEFORE/AFTER high on the split (captions occupy the bottom). All flagged OCR = jar label/NEW IMPROVED badge (ignored). | AD pass: captions lifted to the dark jar rim (y .62) from the 'Alpha Arbutin' chunk through the open-jar shot so they stay off the printed jar label (actives pill ends 7.95 to leave room); Glow Fusion pill ends inside the 9.93 cut.",
+ "caption_moves": [
+  {
+   "start": 7.95,
+   "end": 9.93,
+   "y": 0.62
+  }
+ ]
+}

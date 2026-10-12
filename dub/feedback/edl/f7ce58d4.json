@@ -1,0 +1,61 @@
+{
+  "video_id": "f7ce58d4",
+  "product": "knc",
+  "category": "ingredient_personified",
+  "shots": [
+    {
+      "n": 1, "start": 0.0, "end": 2.27,
+      "content": "Fair woman at night, cheek on hand, a cartoon dark-spot villain on her cheek, holding the jar mascot; baked 'Dark spots again?'.",
+      "issues": ["model_not_dusky", "cartoon_spots_on_real_skin"],
+      "action": "replace", "replace_with": "KN03_before_night", "custom": null,
+      "note": "L1 jar 'Dark spots, having another meeting?' plays over ANANYA at the mirror at night with realistic soft brown spots (2.27 s). The baked hook comes back as our super. The woman is replaced, so S1, S3 and S4 are all replaced."
+    },
+    {
+      "n": 2, "start": 2.27, "end": 5.07,
+      "content": "Exact open jar (with arms) with a glowing cream swirl; gold Kojic, silver Niacinamide and pink Alpha Arbutin characters rise out of it.",
+      "issues": [],
+      "action": "keep", "replace_with": null, "custom": null,
+      "note": "Label correct, cartoon team fine. L2 is rewritten to drop 'KNC'."
+    },
+    {
+      "n": 3, "start": 5.07, "end": 9.93,
+      "content": "Fair woman's cheek macro with dotty spots and a grey haze; the ingredient characters take turns (Niacinamide sweeping with a brush); baked ingredient cards (Arbutin card misspelled), covered by our pills.",
+      "issues": ["model_not_dusky", "unrealistic_dark_spots", "misspelled_baked_label", "skin_macro_without_face"],
+      "action": "replace", "replace_with": "KNA2_avatar_ingredients", "custom": null,
+      "note": "One 4.86 s KNA2 clip, about the native 5 s. Three orbs rise in order, each under its pill and on its own VO line: L3 Kojic 'stubborn dark spots' (gold), L4 Niacinamide 'clear the dullness' (icy), L5 Alpha Arbutin 'Uneven tone?' (pink). No cover masks needed."
+    },
+    {
+      "n": 4, "start": 9.93, "end": 13.77,
+      "content": "Fair finger smearing a thick pinkish-white mask-like cream patch on a dotty cheek (no face); faint baked '...weeks'.",
+      "issues": ["model_not_dusky", "cream_not_blended", "mask_like_application", "skin_macro_without_face", "no_ba_split"],
+      "action": "replace", "replace_with": "KN04_apply_night", "custom": null,
+      "segments": [
+        {"start": 9.93, "end": 12.1, "replace_with": "KN04_apply_night"},
+        {"start": 12.1, "end": 13.77, "replace_with": "GRAPHIC_BA_SPLIT"}
+      ],
+      "note": "L6 narrator 'Three targeted ingredients. One powerful night cream.' First ANANYA massages white cream at night until fully absorbed, then the B/A split (KN08 | KN07, AFTER 2 WEEKS) on 'One powerful night cream'. The video had no B/A."
+    },
+    {
+      "n": 5, "start": 13.77, "end": 17.02,
+      "content": "Packshot: exact jar on a navy background with the three ingredient characters; baked 'DERMDOC Honest Science' and 'Target Dark Spots While You Sleep'.",
+      "issues": [],
+      "action": "keep", "replace_with": null, "custom": null,
+      "note": "Label correct. L7 says the full product name. The existing blur over the garbled baked tagline stays."
+    }
+  ],
+  "script_changes": [
+    {"line_id": 2, "old_en": "Team KNC, meeting cancelled!", "new_en": "Night team, meeting cancelled!", "reason": "Never say 'KNC'; same length."}
+  ],
+  "new_lines": [],
+  "supers": [
+    {"action": "add", "match": null, "text": "DARK SPOTS AGAIN?", "start": 0.15, "end": 2.2, "why": "Restores the hook that was baked into the replaced S1."},
+    {"action": "change", "match": "2% KOJIC ACID / TARGETS DARK SPOTS", "text": "2% KOJIC ACID / TARGETS DARK SPOTS", "start": 5.07, "end": 6.7, "why": "Plain pill over the gold orb with no cover mask; timed to L3."},
+    {"action": "change", "match": "NIACINAMIDE / BRIGHTENS DULL-LOOKING SKIN", "text": "NIACINAMIDE / BRIGHTENS DULL-LOOKING SKIN", "start": 6.7, "end": 8.3, "why": "Plain pill over the icy orb with no mask; timed to L4."},
+    {"action": "change", "match": "ALPHA ARBUTIN / HELPS EVEN SKIN TONE", "text": "ALPHA ARBUTIN / HELPS EVEN SKIN TONE", "start": 8.3, "end": 9.9, "why": "Plain pill over the pink orb with no mask; timed to L5."},
+    {"action": "remove", "match": "[hud corners 12.1-13.6]", "text": "", "start": 12.1, "end": 13.6, "why": "The B/A labels take this slot."},
+    {"action": "add", "match": null, "text": "BEFORE", "start": 12.1, "end": 13.77, "why": "B/A split label under the left half."},
+    {"action": "add", "match": null, "text": "AFTER 2 WEEKS", "start": 12.1, "end": 13.77, "why": "Client: a B/A split with 'AFTER 2 WEEKS' under the after image was missing."}
+  ],
+  "voice_changes": [],
+  "summary": "The fair woman and dotty macro skin are replaced (KN03 hook, a KNA2 orbs clip with the three ingredient pills each on its own VO line, KN04 white-cream night application), and the missing B/A split is added. The jar/team burst and the end packshot are kept; 'Team KNC' becomes 'Night team'."
+}

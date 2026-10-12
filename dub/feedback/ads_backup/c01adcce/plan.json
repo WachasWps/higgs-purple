@@ -1,0 +1,43 @@
+{
+ "video_id": "c01adcce",
+ "kind": "ad",
+ "style": "product_ad",
+ "duration": 20.039002,
+ "cast": [
+  {
+   "id": "narrator",
+   "name": "Voiceover",
+   "role": "narrator"
+  }
+ ],
+ "lines": [
+  {
+   "id": 1,
+   "speaker": "narrator",
+   "start": 0.0,
+   "end": 3.2,
+   "en": "Sunlight dikhta hai. Protection nahi—but it should be there."
+  },
+  {
+   "id": 2,
+   "speaker": "narrator",
+   "start": 3.84,
+   "end": 10.34,
+   "en": "DermDoc Ultra Violet Brightening Sunscreen gives SPF 50 PA++ protection with 4% Niacinamide."
+  },
+  {
+   "id": 3,
+   "speaker": "narrator",
+   "start": 10.56,
+   "end": 15.38,
+   "en": "Its purple tint blends into Indian skin for an instant radiant glow, without white cast."
+  },
+  {
+   "id": 4,
+   "speaker": "narrator",
+   "start": 15.58,
+   "end": 17.76,
+   "en": "Invisible protection. Visible glow."
+  }
+ ]
+}

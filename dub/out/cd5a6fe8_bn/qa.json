@@ -1,0 +1,65 @@
+[
+ {
+  "id": 1,
+  "speaker": "creator",
+  "cer": 0.08,
+  "heard": "সকিন ডাল লাগ্তো ডাক সপট ইগ্নুর করাই জেতো না",
+  "redub": true
+ },
+ {
+  "id": 2,
+  "speaker": "creator",
+  "cer": 0.25,
+  "heard": "তাই এদা রোজ রা�ে রোটিন.",
+  "redub": true
+ },
+ {
+  "id": 3,
+  "speaker": "creator",
+  "cer": 0.04,
+  "heard": "গ্লা ফিউশানে কোজিক এশিড নিযাসিনামাইড আল্ফা আরবুটিন",
+  "redub": true
+ },
+ {
+  "id": 4,
+  "speaker": "creator",
+  "cer": 0.36,
+  "heard": "করিমাট ট্সচ্য় দারুন দেচ",
+  "redub": true
+ },
+ {
+  "id": 5,
+  "speaker": "creator",
+  "cer": 0.5,
+  "heard": "একটা এজাথেশ টক",
+  "redub": true
+ },
+ {
+  "id": 6,
+  "speaker": "creator",
+  "cer": 0.2,
+  "heard": "মুখে গলাই পুরো ব্লেন্ট করেনি।",
+  "redub": true
+ },
+ {
+  "id": 7,
+  "speaker": "creator",
+  "cer": 0.13,
+  "heard": "তাল পার শুরো স্লেপ তুগ্লো রুটিন।",
+  "redub": true
+ },
+ {
+  "id": 8,
+  "speaker": "creator",
+  "cer": 0.14,
+  "heard": "দুই সাপতাহে ডার্প স্পাট কম লাগছে তুন একি।",
+  "redub": true
+ },
+ {
+  "id": 9,
+  "speaker": "creator",
+  "cer": 0.12,
+  "heard": "দারম ডাক কোজিক এসিদ নাইট ক্রিম।",
+  "redub": true
+ }
+]

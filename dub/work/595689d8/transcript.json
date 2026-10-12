@@ -1,0 +1,365 @@
+{
+ "language": "en",
+ "segments": [
+  {
+   "seg": 0,
+   "start": 0.0,
+   "end": 2.44,
+   "text": "I control tonight's complexion.",
+   "f0_median_hz": 93,
+   "words": [
+    [
+     "I",
+     0.0,
+     0.44
+    ],
+    [
+     "control",
+     0.44,
+     0.96
+    ],
+    [
+     "tonight's",
+     0.96,
+     1.64
+    ],
+    [
+     "complexion.",
+     1.64,
+     2.44
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 1,
+   "start": 2.6,
+   "end": 4.0,
+   "text": "Step away from the controls.",
+   "f0_median_hz": 198,
+   "words": [
+    [
+     "Step",
+     2.6,
+     2.98
+    ],
+    [
+     "away",
+     2.98,
+     3.26
+    ],
+    [
+     "from",
+     3.26,
+     3.44
+    ],
+    [
+     "the",
+     3.44,
+     3.56
+    ],
+    [
+     "controls.",
+     3.56,
+     4.0
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 2,
+   "start": 4.36,
+   "end": 5.94,
+   "text": "Activating my 3xpert formula,",
+   "f0_median_hz": 254,
+   "words": [
+    [
+     "Activating",
+     4.36,
+     4.88
+    ],
+    [
+     "my",
+     4.88,
+     5.02
+    ],
+    [
+     "3xpert",
+     5.02,
+     5.5
+    ],
+    [
+     "formula,",
+     5.5,
+     5.94
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 3,
+   "start": 6.18,
+   "end": 8.42,
+   "text": "Kojic Acid targets the appearance of dark spots,",
+   "f0_median_hz": 209,
+   "words": [
+    [
+     "Kojic",
+     6.18,
+     6.5
+    ],
+    [
+     "Acid",
+     6.5,
+     6.86
+    ],
+    [
+     "targets",
+     6.86,
+     7.18
+    ],
+    [
+     "the",
+     7.18,
+     7.36
+    ],
+    [
+     "appearance",
+     7.36,
+     7.68
+    ],
+    [
+     "of",
+     7.68,
+     7.88
+    ],
+    [
+     "dark",
+     7.88,
+     8.08
+    ],
+    [
+     "spots,",
+     8.08,
+     8.42
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 4,
+   "start": 8.68,
+   "end": 9.78,
+   "text": "9 more even-looking skin,",
+   "f0_median_hz": 224,
+   "words": [
+    [
+     "9",
+     8.68,
+     8.8
+    ],
+    [
+     "more",
+     8.8,
+     8.94
+    ],
+    [
+     "even",
+     8.94,
+     9.22
+    ],
+    [
+     "-looking",
+     9.22,
+     9.44
+    ],
+    [
+     "skin,",
+     9.44,
+     9.78
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 5,
+   "start": 9.96,
+   "end": 11.96,
+   "text": "and Alpha Arbutin joins the brightening action.",
+   "f0_median_hz": 240,
+   "words": [
+    [
+     "and",
+     9.96,
+     10.04
+    ],
+    [
+     "Alpha",
+     10.04,
+     10.34
+    ],
+    [
+     "Arbutin",
+     10.34,
+     10.82
+    ],
+    [
+     "joins",
+     10.82,
+     11.12
+    ],
+    [
+     "the",
+     11.12,
+     11.36
+    ],
+    [
+     "brightening",
+     11.36,
+     11.62
+    ],
+    [
+     "action.",
+     11.62,
+     11.96
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 6,
+   "start": 12.26,
+   "end": 13.98,
+   "text": "Now let the night shift begin.",
+   "f0_median_hz": 176,
+   "words": [
+    [
+     "Now",
+     12.26,
+     12.86
+    ],
+    [
+     "let",
+     12.86,
+     13.06
+    ],
+    [
+     "the",
+     13.06,
+     13.2
+    ],
+    [
+     "night",
+     13.2,
+     13.38
+    ],
+    [
+     "shift",
+     13.38,
+     13.62
+    ],
+    [
+     "begin.",
+     13.62,
+     13.98
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 7,
+   "start": 14.24,
+   "end": 15.6,
+   "text": "Dark spots look reduced.",
+   "f0_median_hz": 230,
+   "words": [
+    [
+     "Dark",
+     14.24,
+     14.54
+    ],
+    [
+     "spots",
+     14.54,
+     14.88
+    ],
+    [
+     "look",
+     14.88,
+     15.14
+    ],
+    [
+     "reduced.",
+     15.14,
+     15.6
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 8,
+   "start": 15.88,
+   "end": 17.34,
+   "text": "My glow looks switched on.",
+   "f0_median_hz": 191,
+   "words": [
+    [
+     "My",
+     15.88,
+     16.14
+    ],
+    [
+     "glow",
+     16.14,
+     16.4
+    ],
+    [
+     "looks",
+     16.4,
+     16.7
+    ],
+    [
+     "switched",
+     16.7,
+     17.02
+    ],
+    [
+     "on.",
+     17.02,
+     17.34
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 9,
+   "start": 17.8,
+   "end": 19.8,
+   "text": "3xperts, 1 overnight brightener.",
+   "f0_median_hz": 192,
+   "words": [
+    [
+     "3xperts,",
+     17.8,
+     18.4
+    ],
+    [
+     "1",
+     18.54,
+     18.86
+    ],
+    [
+     "overnight",
+     18.86,
+     19.32
+    ],
+    [
+     "brightener.",
+     19.32,
+     19.8
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  }
+ ]
+}

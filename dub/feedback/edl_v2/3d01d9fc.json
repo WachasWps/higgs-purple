@@ -1,0 +1,67 @@
+{
+ "video_id": "3d01d9fc",
+ "product": "ps",
+ "category": "ugc",
+ "approach": "v2_original_creator",
+ "shots": [
+  {
+   "start": 0,
+   "end": 2.7,
+   "action": "keep",
+   "n": 1
+  },
+  {
+   "start": 2.7,
+   "end": 6.27,
+   "action": "replace",
+   "replace_with": "GRAPHIC_COLOUR_WHEEL",
+   "n": 2
+  },
+  {
+   "start": 6.27,
+   "end": 7.6,
+   "action": "replace",
+   "replace_with": "PS10_texture_macro",
+   "n": 3
+  },
+  {
+   "start": 7.6,
+   "end": 10.27,
+   "action": "replace",
+   "replace_with": "PS08_hand_swatch",
+   "clip_offset": 2.35,
+   "n": 4
+  },
+  {
+   "start": 10.27,
+   "end": 13.33,
+   "action": "keep",
+   "n": 5
+  },
+  {
+   "start": 13.33,
+   "end": 15.3,
+   "action": "keep",
+   "n": 6
+  },
+  {
+   "start": 15.3,
+   "end": 17.3,
+   "action": "replace",
+   "replace_with": "GRAPHIC_BA_SPLIT",
+   "client": "16.3 what is the difference, why is she glowing before",
+   "n": 7,
+   "ba_pair": [
+    "BA2_3d01d9fc_BEFORE",
+    "BA2_3d01d9fc_AFTER"
+   ],
+   "ba_face_y": 0.08
+  },
+  {
+   "start": 17.3,
+   "end": 20.04,
+   "action": "keep",
+   "n": 8
+  }
+ ]
+}

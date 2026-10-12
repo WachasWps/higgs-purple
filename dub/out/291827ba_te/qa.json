@@ -1,0 +1,49 @@
+[
+ {
+  "id": 1,
+  "speaker": "uv_rays",
+  "cer": 0.23,
+  "heard": "దీన స్కిన కిఏక చిం సే లేదూ.",
+  "redub": true
+ },
+ {
+  "id": 2,
+  "speaker": "judge",
+  "cer": 0.08,
+  "heard": "కోట్టు ఇప్పిడు మదలవుతుంది."
+ },
+ {
+  "id": 3,
+  "speaker": "spf_shield",
+  "cer": 0.24,
+  "heard": "సాక్షమ నూబర న్ వీయో ఈవీబిప్రటిక్షన."
+ },
+ {
+  "id": 4,
+  "speaker": "purple_tint",
+  "cer": 0.23,
+  "heard": "సాక్షమ్ టూ పర్పోల్ పసుంగీ ఆప్సిట్ డానేస్ కంన్సిల్.",
+  "redub": true
+ },
+ {
+  "id": 5,
+  "speaker": "niacinamide",
+  "cer": 0.05,
+  "heard": "ఇకా డల్ స్కిన్ బ్రిట్ చిడిలో హెల్ప చెస్తా.",
+  "redub": true
+ },
+ {
+  "id": 6,
+  "speaker": "judge",
+  "cer": 0.2,
+  "heard": "తేర్పో పూత్తిగా కళస్పుతుంది ఇంస్ట్టుకులో.",
+  "redub": true
+ },
+ {
+  "id": 7,
+  "speaker": "judge",
+  "cer": 0.15,
+  "heard": "keis glos'dit",
+  "repaired": true
+ }
+]

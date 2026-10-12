@@ -1,0 +1,625 @@
+[{"stream_name":"stderr","time":7.674277537,"data":"0.00s - Debugger warning: It seems that frozen modules are being used, which may\n"}
+,{"stream_name":"stderr","time":7.674343534,"data":"0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off\n"}
+,{"stream_name":"stderr","time":7.674349717,"data":"0.00s - to python to disable frozen modules.\n"}
+,{"stream_name":"stderr","time":7.674353911,"data":"0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.\n"}
+,{"stream_name":"stderr","time":8.308955877,"data":"0.00s - Debugger warning: It seems that frozen modules are being used, which may\n"}
+,{"stream_name":"stderr","time":8.309001391,"data":"0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off\n"}
+,{"stream_name":"stderr","time":8.309006863,"data":"0.00s - to python to disable frozen modules.\n"}
+,{"stream_name":"stderr","time":8.309011039,"data":"0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.\n"}
+,{"stream_name":"stdout","time":9.883364227,"data":"Sun Oct 11 22:34:07 2026       \n"}
+,{"stream_name":"stdout","time":9.883392272,"data":"+-----------------------------------------------------------------------------------------+\n"}
+,{"stream_name":"stdout","time":9.883396835,"data":"| NVIDIA-SMI 580.178.04             Driver Version: 580.178.04     CUDA Version: 13.0     |\n"}
+,{"stream_name":"stdout","time":9.883415566,"data":"+-----------------------------------------+------------------------+----------------------+\n"}
+,{"stream_name":"stdout","time":9.883420513,"data":"| GPU  Name                 Persistence-M | Bus-Id          Disp.A | Volatile Uncorr. ECC |\n"}
+,{"stream_name":"stdout","time":9.883424091,"data":"| Fan  Temp   Perf          Pwr:Usage/Cap |           Memory-Usage | GPU-Util  Compute M. |\n"}
+,{"stream_name":"stdout","time":9.883434237,"data":"|                                         |                        |               MIG M. |\n"}
+,{"stream_name":"stdout","time":9.883437743,"data":"|=========================================+========================+======================|\n"}
+,{"stream_name":"stdout","time":9.883441169,"data":"|   0  Tesla T4                       Off |   00000000:00:04.0 Off |                    0 |\n"}
+,{"stream_name":"stdout","time":9.883444641,"data":"| N/A   38C    P8              9W /   70W |       0MiB /  15360MiB |      0%      Default |\n"}
+,{"stream_name":"stdout","time":9.88344813,"data":"|                                         |                        |                  N/A |\n"}
+,{"stream_name":"stdout","time":9.883451477,"data":"+-----------------------------------------+------------------------+----------------------+\n"}
+,{"stream_name":"stdout","time":9.883454911,"data":"|   1  Tesla T4                       Off |   00000000:00:05.0 Off |                    0 |\n"}
+,{"stream_name":"stdout","time":9.883458359,"data":"| N/A   39C    P8             10W /   70W |       0MiB /  15360MiB |      0%      Default |\n"}
+,{"stream_name":"stdout","time":9.883461754,"data":"|                                         |                        |                  N/A |\n"}
+,{"stream_name":"stdout","time":9.883465182,"data":"+-----------------------------------------+------------------------+----------------------+\n"}
+,{"stream_name":"stdout","time":9.883474622,"data":"\n"}
+,{"stream_name":"stdout","time":9.883476982,"data":"+-----------------------------------------------------------------------------------------+\n"}
+,{"stream_name":"stdout","time":9.883479393,"data":"| Processes:                                                                              |\n"}
+,{"stream_name":"stdout","time":9.883490013,"data":"|  GPU   GI   CI              PID   Type   Process name                        GPU Memory |\n"}
+,{"stream_name":"stdout","time":9.883492491,"data":"|        ID   ID                                                               Usage      |\n"}
+,{"stream_name":"stdout","time":9.883494799,"data":"|=========================================================================================|\n"}
+,{"stream_name":"stdout","time":9.883497011,"data":"|  No running processes found                                                             |\n"}
+,{"stream_name":"stdout","time":9.883500512,"data":"+-----------------------------------------------------------------------------------------+\n"}
+,{"stream_name":"stdout","time":9.883502766,"data":"\n"}
+,{"stream_name":"stdout","time":9.883504967,"data":"$ git clone -q https://github.com/bytedance/LatentSync.git /tmp/LatentSync\n"}
+,{"stream_name":"stdout","time":10.719539909,"data":"[exit 0 after 1s]\n"}
+,{"stream_name":"stdout","time":10.720481628,"data":"$ pip install -q diffusers==0.32.2\n"}
+,{"stream_name":"stdout","time":13.441297046,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 3.2/3.2 MB 24.3 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":18.929682069000002,"data":"[exit 0 after 8s]\n"}
+,{"stream_name":"stdout","time":18.930436598,"data":"$ pip install -q transformers==4.48.0\n"}
+,{"stream_name":"stdout","time":20.211178429,"data":"     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 44.4/44.4 kB 933.8 kB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":21.401565145,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 9.7/9.7 MB 41.0 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":21.447869761,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 566.4/566.4 kB 23.5 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":21.540145223,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 3.1/3.1 MB 46.8 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":34.849517128,"data":"ERROR: pip's dependency resolver does not currently take into account all the packages that are installed. This behaviour is the source of the following dependency conflicts.\n"}
+,{"stream_name":"stdout","time":34.850342567,"data":"gradio 6.26.0 requires huggingface-hub\u003c2.0,\u003e=1.16.0, but you have huggingface-hub 0.36.2 which is incompatible.\n"}
+,{"stream_name":"stdout","time":34.962533574,"data":"[exit 0 after 16s]\n"}
+,{"stream_name":"stdout","time":34.963253323,"data":"$ pip install -q huggingface-hub==0.30.2\n"}
+,{"stream_name":"stdout","time":36.464545133,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 481.4/481.4 kB 7.4 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":38.929661805,"data":"ERROR: pip's dependency resolver does not currently take into account all the packages that are installed. This behaviour is the source of the following dependency conflicts.\n"}
+,{"stream_name":"stdout","time":38.930437806,"data":"gradio 6.26.0 requires huggingface-hub\u003c2.0,\u003e=1.16.0, but you have huggingface-hub 0.30.2 which is incompatible.\n"}
+,{"stream_name":"stdout","time":39.00675229,"data":"[exit 0 after 4s]\n"}
+,{"stream_name":"stdout","time":39.007560905,"data":"$ pip install -q accelerate==1.2.1\n"}
+,{"stream_name":"stdout","time":40.455576323,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 336.4/336.4 kB 5.4 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":43.295242125,"data":"[exit 0 after 4s]\n"}
+,{"stream_name":"stdout","time":43.296042082,"data":"$ pip install -q peft\n"}
+,{"stream_name":"stdout","time":46.645872884,"data":"[exit 0 after 3s]\n"}
+,{"stream_name":"stdout","time":46.646726425,"data":"$ pip install -q einops\n"}
+,{"stream_name":"stdout","time":49.750612386,"data":"[exit 0 after 3s]\n"}
+,{"stream_name":"stdout","time":49.751494946,"data":"$ pip install -q omegaconf\n"}
+,{"stream_name":"stdout","time":52.954180085,"data":"[exit 0 after 3s]\n"}
+,{"stream_name":"stdout","time":52.955126355,"data":"$ pip install -q opencv-python\n"}
+,{"stream_name":"stdout","time":56.101141182,"data":"[exit 0 after 3s]\n"}
+,{"stream_name":"stdout","time":56.101991943,"data":"$ pip install -q mediapipe\n"}
+,{"stream_name":"stdout","time":58.877957342,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 40.6/40.6 MB 38.1 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":58.918538917,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 137.7/137.7 kB 6.9 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":63.056943233,"data":"ERROR: pip's dependency resolver does not currently take into account all the packages that are installed. This behaviour is the source of the following dependency conflicts.\n"}
+,{"stream_name":"stdout","time":63.057775089,"data":"dopamine-rl 4.1.2 requires gym\u003c=0.25.2, but you have gym 0.26.2 which is incompatible.\n"}
+,{"stream_name":"stdout","time":63.14875706,"data":"[exit 0 after 7s]\n"}
+,{"stream_name":"stdout","time":63.148786296,"data":"$ pip install -q python_speech_features\n"}
+,{"stream_name":"stdout","time":68.708002802,"data":"[exit 0 after 6s]\n"}
+,{"stream_name":"stdout","time":68.708890894,"data":"$ pip install -q librosa\n"}
+,{"stream_name":"stdout","time":72.010452571,"data":"[exit 0 after 3s]\n"}
+,{"stream_name":"stdout","time":72.012262702,"data":"$ pip install -q scenedetect\n"}
+,{"stream_name":"stdout","time":73.299561154,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 146.2/146.2 kB 2.3 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":75.548225676,"data":"[exit 0 after 4s]\n"}
+,{"stream_name":"stdout","time":75.549035548,"data":"$ pip install -q ffmpeg-python\n"}
+,{"stream_name":"stdout","time":78.955786269,"data":"[exit 0 after 3s]\n"}
+,{"stream_name":"stdout","time":78.95658135,"data":"$ pip install -q imageio\n"}
+,{"stream_name":"stdout","time":82.15601111,"data":"[exit 0 after 3s]\n"}
+,{"stream_name":"stdout","time":82.1568639,"data":"$ pip install -q imageio-ffmpeg\n"}
+,{"stream_name":"stdout","time":85.241982678,"data":"[exit 0 after 3s]\n"}
+,{"stream_name":"stdout","time":85.242789878,"data":"$ pip install -q lpips\n"}
+,{"stream_name":"stdout","time":86.617047159,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 53.8/53.8 kB 1.2 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":88.751365907,"data":"[exit 0 after 4s]\n"}
+,{"stream_name":"stdout","time":88.752144687,"data":"$ pip install -q face-alignment\n"}
+,{"stream_name":"stdout","time":90.18311324,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 45.1/45.1 kB 1.2 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":92.468498241,"data":"[exit 0 after 4s]\n"}
+,{"stream_name":"stdout","time":92.469257111,"data":"$ pip install -q kornia\n"}
+,{"stream_name":"stdout","time":95.772112972,"data":"[exit 0 after 3s]\n"}
+,{"stream_name":"stdout","time":95.773026714,"data":"$ pip install -q insightface\n"}
+,{"stream_name":"stdout","time":97.513287616,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 1.2/1.2 MB 12.8 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":97.75285205,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 23.8/23.8 MB 75.9 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":101.750236815,"data":"[exit 0 after 6s]\n"}
+,{"stream_name":"stdout","time":101.750271235,"data":"$ pip install -q onnxruntime-gpu\n"}
+,{"stream_name":"stdout","time":107.974728134,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 255.6/255.6 MB 6.6 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":112.837375371,"data":"[exit 0 after 11s]\n"}
+,{"stream_name":"stdout","time":112.838129422,"data":"$ pip install -q DeepCache\n"}
+,{"stream_name":"stdout","time":114.37364833,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 190.9/190.9 kB 3.1 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":116.775309902,"data":"[exit 0 after 4s]\n"}
+,{"stream_name":"stdout","time":116.776116441,"data":"$ pip install -q eva-decord\n"}
+,{"stream_name":"stdout","time":118.237257496,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 13.6/13.6 MB 49.2 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":120.706462888,"data":"[exit 0 after 4s]\n"}
+,{"stream_name":"stdout","time":120.707440027,"data":"$ python -c 'import decord, mediapipe, diffusers, insightface; print(\"imports ok\")'\n"}
+,{"stream_name":"stdout","time":149.994197653,"data":"imports ok\n"}
+,{"stream_name":"stdout","time":154.281534765,"data":"[exit 0 after 34s]\n"}
+,{"stream_name":"stdout","time":189.037786778,"data":"['/tmp/LatentSync/checkpoints/.cache/huggingface/.gitignore', '/tmp/LatentSync/checkpoints/.cache/huggingface/download/.gitattributes.lock', '/tmp/LatentSync/checkpoints/.cache/huggingface/download/.gitattributes.metadata', '/tmp/LatentSync/checkpoints/.cache/huggingface/download/.gitignore.lock', '/tmp/LatentSync/checkpoints/.cache/huggingface/download/.gitignore.metadata', '/tmp/LatentSync/checkpoints/.cache/huggingface/download/README.md.lock', '/tmp/LatentSync/checkpoints/.cache/huggingface/download/README.md.metadata', '/tmp/LatentSync/checkpoints/.cache/huggingface/download/auxiliary/i3d_torchscript.pt.lock', '/tmp/LatentSync/checkpoints/.cache/huggingface/download/auxiliary/i3d_torchscript.pt.metadata', '/tmp/LatentSync/checkpoints/.cache/huggingface/download/auxiliary/koniq_pretrained.pkl.lock', '/tmp/LatentSync/checkpoints/.cache/huggingface/download/auxiliary/koniq_pretrained.pkl.metadata', '/tmp/LatentSync/checkpoints/.cache/huggingface/download/auxiliary/sfd_face.pth.lock', '/tmp/LatentSync/checkpoints/.cache/huggingface/download/auxiliary/sfd_face.pth.metadata', '/tmp/LatentSync/checkpoints/.cache/huggingface/download/auxiliary/syncnet_v2.model.lock', '/tmp/LatentSync/checkpoints/.cache/huggingface/download/auxiliary/syncnet_v2.model.metadata', '/tmp/LatentSync/checkpoints/.cache/huggingface/download/auxiliary/vgg16-397923af.pth.lock', '/tmp/LatentSync/checkpoints/.cache/huggingface/download/auxiliary/vgg16-397923af.pth.metadata', '/tmp/LatentSync/checkpoints/.cache/huggingface/download/auxiliary/vit_g_hybrid_pt_1200e_ssv2_ft.pth.lock', '/tmp/LatentSync/checkpoints/.cache/huggingface/download/auxiliary/vit_g_hybrid_pt_1200e_ssv2_ft.pth.metadata', '/tmp/LatentSync/checkpoints/.cache/huggingface/download/config.json.lock', '/tmp/LatentSync/checkpoints/.cache/huggingface/download/config.json.metadata', '/tmp/LatentSync/checkpoints/.cache/huggingface/download/latentsync_unet.pt.lock', '/tmp/LatentSync/checkpoints/.cache/huggingface/download/latentsync_unet.pt.metadata', '/tmp/LatentSync/checkpoints/.cache/huggingface/download/stable_syncnet.pt.lock', '/tmp/LatentSync/checkpoints/.cache/huggingface/download/stable_syncnet.pt.metadata', '/tmp/LatentSync/checkpoints/.cache/huggingface/download/whisper/tiny.pt.lock', '/tmp/LatentSync/checkpoints/.cache/huggingface/download/whisper/tiny.pt.metadata', '/tmp/LatentSync/checkpoints/.gitattributes', '/tmp/LatentSync/checkpoints/.gitignore', '/tmp/LatentSync/checkpoints/README.md', '/tmp/LatentSync/checkpoints/auxiliary/i3d_torchscript.pt', '/tmp/LatentSync/checkpoints/auxiliary/koniq_pretrained.pkl', '/tmp/LatentSync/checkpoints/auxiliary/sfd_face.pth', '/tmp/LatentSync/checkpoints/auxiliary/syncnet_v2.model', '/tmp/LatentSync/checkpoints/auxiliary/vgg16-397923af.pth', '/tmp/LatentSync/checkpoints/auxiliary/vit_g_hybrid_pt_1200e_ssv2_ft.pth', '/tmp/LatentSync/checkpoints/config.json', '/tmp/LatentSync/checkpoints/latentsync_unet.pt', '/tmp/LatentSync/checkpoints/stable_syncnet.pt', '/tmp/LatentSync/checkpoints/whisper/tiny.pt']\n"}
+,{"stream_name":"stdout","time":189.040553666,"data":"$ python -m scripts.inference --unet_config_path configs/unet/stage2_512.yaml --inference_ckpt_path checkpoints/latentsync_unet.pt --inference_steps 20 --guidance_scale 1.5 --enable_deepcache --video_path /kaggle/input/datasets/wachaspati/dermdoc-lipsync-in/d6c1e78e_s1.mp4 --audio_path /kaggle/input/datasets/wachaspati/dermdoc-lipsync-in/d6c1e78e_s1_orig.wav --video_out_path /tmp/ls_out/d6c1e78e_s1_orig.mp4\n"}
+,{"stream_name":"stdout","time":211.775822208,"data":"The cache for model files in Transformers v4.22.0 has been updated. Migrating your old cache. This is a one-time only operation. You can interrupt this and resume the migration later on by calling `transformers.utils.move_cache()`.\n"}
+,{"stream_name":"stdout","time":211.777798648,"data":"\n"}
+,{"stream_name":"stdout","time":211.778696343,"data":"0it [00:00, ?it/s]\n"}
+,{"stream_name":"stdout","time":211.779439705,"data":"0it [00:00, ?it/s]\n"}
+,{"stream_name":"stdout","time":239.803535155,"data":"Input video path: /kaggle/input/datasets/wachaspati/dermdoc-lipsync-in/d6c1e78e_s1.mp4\n"}
+,{"stream_name":"stdout","time":239.804478594,"data":"Input audio path: /kaggle/input/datasets/wachaspati/dermdoc-lipsync-in/d6c1e78e_s1_orig.wav\n"}
+,{"stream_name":"stdout","time":239.805372487,"data":"Loaded checkpoint path: checkpoints/latentsync_unet.pt\n"}
+,{"stream_name":"stdout","time":239.806207733,"data":"Initial seed: 1247\n"}
+,{"stream_name":"stdout","time":239.807063188,"data":"download_path: checkpoints/auxiliary/models/buffalo_l\n"}
+,{"stream_name":"stdout","time":239.807999488,"data":"Downloading checkpoints/auxiliary/models/buffalo_l.zip from https://github.com/deepinsight/insightface/releases/download/model-zoo/buffalo_l.zip...\n"}
+,{"stream_name":"stdout","time":239.808790895,"data":"\n"}
+,{"stream_name":"stdout","time":239.898337399,"data":"  0%|          | 0/281857 [00:00\u003c?, ?KB/s]\n"}
+,{"stream_name":"stdout","time":239.999150125,"data":"  3%|▎         | 9085/281857 [00:00\u003c00:03, 90842.94KB/s]\n"}
+,{"stream_name":"stdout","time":240.098671511,"data":"  7%|▋         | 20280/281857 [00:00\u003c00:02, 103253.30KB/s]\n"}
+,{"stream_name":"stdout","time":240.198766302,"data":" 11%|█▏        | 31845/281857 [00:00\u003c00:02, 108911.79KB/s]\n"}
+,{"stream_name":"stdout","time":240.30621284,"data":" 15%|█▌        | 43620/281857 [00:00\u003c00:02, 112397.55KB/s]\n"}
+,{"stream_name":"stdout","time":240.406071244,"data":" 19%|█▉        | 54860/281857 [00:00\u003c00:02, 109466.46KB/s]\n"}
+,{"stream_name":"stdout","time":240.507386253,"data":" 24%|██▎       | 66411/281857 [00:00\u003c00:01, 111483.42KB/s]\n"}
+,{"stream_name":"stdout","time":240.607368885,"data":" 28%|██▊       | 77572/281857 [00:00\u003c00:01, 111105.10KB/s]\n"}
+,{"stream_name":"stdout","time":240.707390992,"data":" 32%|███▏      | 89357/281857 [00:00\u003c00:01, 113225.33KB/s]\n"}
+,{"stream_name":"stdout","time":240.819361439,"data":" 36%|███▌      | 101056/281857 [00:00\u003c00:01, 114392.08KB/s]\n"}
+,{"stream_name":"stdout","time":240.919388584,"data":" 40%|███▉      | 112502/281857 [00:01\u003c00:01, 110410.99KB/s]\n"}
+,{"stream_name":"stdout","time":241.036107269,"data":" 44%|████▍     | 123848/281857 [00:01\u003c00:01, 111315.97KB/s]\n"}
+,{"stream_name":"stdout","time":241.136205219,"data":" 48%|████▊     | 135005/281857 [00:01\u003c00:01, 106042.56KB/s]\n"}
+,{"stream_name":"stdout","time":241.236465414,"data":" 52%|█████▏    | 146759/281857 [00:01\u003c00:01, 109358.71KB/s]\n"}
+,{"stream_name":"stdout","time":241.384089029,"data":" 56%|█████▌    | 158007/281857 [00:01\u003c00:01, 110268.73KB/s]\n"}
+,{"stream_name":"stdout","time":241.484333287,"data":" 60%|█████▉    | 169079/281857 [00:01\u003c00:01, 96720.53KB/s] \n"}
+,{"stream_name":"stdout","time":241.584095387,"data":" 64%|██████▍   | 180185/281857 [00:01\u003c00:01, 100578.86KB/s]\n"}
+,{"stream_name":"stdout","time":241.684225583,"data":" 68%|██████▊   | 191477/281857 [00:01\u003c00:00, 104005.43KB/s]\n"}
+,{"stream_name":"stdout","time":241.803191236,"data":" 72%|███████▏  | 202373/281857 [00:01\u003c00:00, 105411.52KB/s]\n"}
+,{"stream_name":"stdout","time":241.903424505,"data":" 76%|███████▌  | 213073/281857 [00:02\u003c00:00, 100330.14KB/s]\n"}
+,{"stream_name":"stdout","time":242.013831806,"data":" 80%|███████▉  | 224690/281857 [00:02\u003c00:00, 104776.15KB/s]\n"}
+,{"stream_name":"stdout","time":242.113806548,"data":" 83%|████████▎ | 235304/281857 [00:02\u003c00:00, 102167.77KB/s]\n"}
+,{"stream_name":"stdout","time":242.215226372,"data":" 88%|████████▊ | 247057/281857 [00:02\u003c00:00, 106536.16KB/s]\n"}
+,{"stream_name":"stdout","time":242.315240472,"data":" 91%|█████████▏| 257806/281857 [00:02\u003c00:00, 106270.72KB/s]\n"}
+,{"stream_name":"stdout","time":242.415272695,"data":" 96%|█████████▌| 269742/281857 [00:02\u003c00:00, 110078.27KB/s]\n"}
+,{"stream_name":"stdout","time":242.419845695,"data":"100%|█████████▉| 281437/281857 [00:02\u003c00:00, 112094.47KB/s]\n"}
+,{"stream_name":"stdout","time":242.420726916,"data":"100%|██████████| 281857/281857 [00:02\u003c00:00, 107505.03KB/s]\n"}
+,{"stream_name":"stdout","time":244.52448209,"data":"\u001b[1;31m2026-10-11 22:38:02.379217117 [E:onnxruntime:Default, provider_bridge_ort.cc:2458 operator()] /onnxruntime_src/onnxruntime/core/session/provider_bridge_ort.cc:2043 onnxruntime::Provider\u0026 onnxruntime::ProviderLibrary::Get() [ONNXRuntimeError] : 1 : FAIL : Failed to load library /usr/local/lib/python3.13/dist-packages/onnxruntime/capi/libonnxruntime_providers_cuda.so with error: libcublasLt.so.13: cannot open shared object file: No such file or directory\n"}
+,{"stream_name":"stdout","time":244.525270671,"data":"\u001b[m\n"}
+,{"stream_name":"stdout","time":244.97252114,"data":"\u001b[1;31m2026-10-11 22:38:02.833826079 [E:onnxruntime:Default, provider_bridge_ort.cc:2458 operator()] /onnxruntime_src/onnxruntime/core/session/provider_bridge_ort.cc:2043 onnxruntime::Provider\u0026 onnxruntime::ProviderLibrary::Get() [ONNXRuntimeError] : 1 : FAIL : Failed to load library /usr/local/lib/python3.13/dist-packages/onnxruntime/capi/libonnxruntime_providers_cuda.so with error: libcublasLt.so.13: cannot open shared object file: No such file or directory\n"}
+,{"stream_name":"stdout","time":244.972577946,"data":"\u001b[m\n"}
+,{"stream_name":"stdout","time":244.999581476,"data":"\u001b[1;31m2026-10-11 22:38:02.859404370 [E:onnxruntime:Default, provider_bridge_ort.cc:2458 operator()] /onnxruntime_src/onnxruntime/core/session/provider_bridge_ort.cc:2043 onnxruntime::Provider\u0026 onnxruntime::ProviderLibrary::Get() [ONNXRuntimeError] : 1 : FAIL : Failed to load library /usr/local/lib/python3.13/dist-packages/onnxruntime/capi/libonnxruntime_providers_cuda.so with error: libcublasLt.so.13: cannot open shared object file: No such file or directory\n"}
+,{"stream_name":"stdout","time":245.000042388,"data":"\u001b[m\n"}
+,{"stream_name":"stdout","time":245.04424409,"data":"\u001b[1;31m2026-10-11 22:38:02.905892218 [E:onnxruntime:Default, provider_bridge_ort.cc:2458 operator()] /onnxruntime_src/onnxruntime/core/session/provider_bridge_ort.cc:2043 onnxruntime::Provider\u0026 onnxruntime::ProviderLibrary::Get() [ONNXRuntimeError] : 1 : FAIL : Failed to load library /usr/local/lib/python3.13/dist-packages/onnxruntime/capi/libonnxruntime_providers_cuda.so with error: libcublasLt.so.13: cannot open shared object file: No such file or directory\n"}
+,{"stream_name":"stdout","time":245.045555796,"data":"\u001b[m\n"}
+,{"stream_name":"stdout","time":245.124613566,"data":"\u001b[1;31m2026-10-11 22:38:02.986612108 [E:onnxruntime:Default, provider_bridge_ort.cc:2458 operator()] /onnxruntime_src/onnxruntime/core/session/provider_bridge_ort.cc:2043 onnxruntime::Provider\u0026 onnxruntime::ProviderLibrary::Get() [ONNXRuntimeError] : 1 : FAIL : Failed to load library /usr/local/lib/python3.13/dist-packages/onnxruntime/capi/libonnxruntime_providers_cuda.so with error: libcublasLt.so.13: cannot open shared object file: No such file or directory\n"}
+,{"stream_name":"stdout","time":245.12723508,"data":"\u001b[m\n"}
+,{"stream_name":"stdout","time":253.043399577,"data":"Failed to load libcublasLt.so.13: libcublasLt.so.13: cannot open shared object file: No such file or directory\n"}
+,{"stream_name":"stdout","time":253.044941621,"data":"Failed to load libcublas.so.13: libcublas.so.13: cannot open shared object file: No such file or directory\n"}
+,{"stream_name":"stdout","time":253.046431269,"data":"Failed to load libcudart.so.13: libcudart.so.13: cannot open shared object file: No such file or directory\n"}
+,{"stream_name":"stdout","time":253.047706312,"data":"Please follow https://onnxruntime.ai/docs/install/#cuda-and-cudnn to install CUDA.\n"}
+,{"stream_name":"stdout","time":253.048552138,"data":"video in 25 FPS, audio idx in 50FPS\n"}
+,{"stream_name":"stdout","time":253.049371258,"data":"Affine transforming 61 faces...\n"}
+,{"stream_name":"stdout","time":253.050136265,"data":"\n"}
+,{"stream_name":"stdout","time":254.863895352,"data":"  0%|          | 0/61 [00:00\u003c?, ?it/s]\n"}
+,{"stream_name":"stdout","time":255.017503236,"data":"  2%|▏         | 1/61 [00:01\u003c01:49,  1.82s/it]\n"}
+,{"stream_name":"stdout","time":255.180989766,"data":"  3%|▎         | 2/61 [00:01\u003c00:49,  1.19it/s]\n"}
+,{"stream_name":"stdout","time":255.345975167,"data":"  5%|▍         | 3/61 [00:02\u003c00:30,  1.89it/s]\n"}
+,{"stream_name":"stdout","time":255.516759529,"data":"  7%|▋         | 4/61 [00:02\u003c00:22,  2.59it/s]\n"}
+,{"stream_name":"stdout","time":255.678146201,"data":"  8%|▊         | 5/61 [00:02\u003c00:17,  3.24it/s]\n"}
+,{"stream_name":"stdout","time":255.843548616,"data":" 10%|▉         | 6/61 [00:02\u003c00:14,  3.87it/s]\n"}
+,{"stream_name":"stdout","time":256.005387011,"data":" 11%|█▏        | 7/61 [00:02\u003c00:12,  4.38it/s]\n"}
+,{"stream_name":"stdout","time":256.168922938,"data":" 13%|█▎        | 8/61 [00:02\u003c00:10,  4.83it/s]\n"}
+,{"stream_name":"stdout","time":256.332841948,"data":" 15%|█▍        | 9/61 [00:03\u003c00:10,  5.17it/s]\n"}
+,{"stream_name":"stdout","time":256.49495283,"data":" 16%|█▋        | 10/61 [00:03\u003c00:09,  5.43it/s]\n"}
+,{"stream_name":"stdout","time":256.655303638,"data":" 18%|█▊        | 11/61 [00:03\u003c00:08,  5.63it/s]\n"}
+,{"stream_name":"stdout","time":256.819707423,"data":" 20%|█▉        | 12/61 [00:03\u003c00:08,  5.79it/s]\n"}
+,{"stream_name":"stdout","time":256.984442132,"data":" 21%|██▏       | 13/61 [00:03\u003c00:08,  5.87it/s]\n"}
+,{"stream_name":"stdout","time":257.15213642,"data":" 23%|██▎       | 14/61 [00:03\u003c00:07,  5.94it/s]\n"}
+,{"stream_name":"stdout","time":257.315580917,"data":" 25%|██▍       | 15/61 [00:04\u003c00:07,  5.97it/s]\n"}
+,{"stream_name":"stdout","time":257.473538653,"data":" 26%|██▌       | 16/61 [00:04\u003c00:07,  6.00it/s]\n"}
+,{"stream_name":"stdout","time":257.650039329,"data":" 28%|██▊       | 17/61 [00:04\u003c00:07,  6.10it/s]\n"}
+,{"stream_name":"stdout","time":257.815130944,"data":" 30%|██▉       | 18/61 [00:04\u003c00:07,  5.96it/s]\n"}
+,{"stream_name":"stdout","time":257.972428365,"data":" 31%|███       | 19/61 [00:04\u003c00:07,  5.99it/s]\n"}
+,{"stream_name":"stdout","time":258.140826146,"data":" 33%|███▎      | 20/61 [00:04\u003c00:06,  6.09it/s]\n"}
+,{"stream_name":"stdout","time":258.305451222,"data":" 34%|███▍      | 21/61 [00:05\u003c00:06,  6.05it/s]\n"}
+,{"stream_name":"stdout","time":258.468203243,"data":" 36%|███▌      | 22/61 [00:05\u003c00:06,  6.03it/s]\n"}
+,{"stream_name":"stdout","time":258.633244654,"data":" 38%|███▊      | 23/61 [00:05\u003c00:06,  6.09it/s]\n"}
+,{"stream_name":"stdout","time":258.794847271,"data":" 39%|███▉      | 24/61 [00:05\u003c00:06,  6.08it/s]\n"}
+,{"stream_name":"stdout","time":258.95592694,"data":" 41%|████      | 25/61 [00:05\u003c00:05,  6.10it/s]\n"}
+,{"stream_name":"stdout","time":259.117759826,"data":" 43%|████▎     | 26/61 [00:05\u003c00:05,  6.14it/s]\n"}
+,{"stream_name":"stdout","time":259.279970936,"data":" 44%|████▍     | 27/61 [00:06\u003c00:05,  6.16it/s]\n"}
+,{"stream_name":"stdout","time":259.439159836,"data":" 46%|████▌     | 28/61 [00:06\u003c00:05,  6.14it/s]\n"}
+,{"stream_name":"stdout","time":259.598308279,"data":" 48%|████▊     | 29/61 [00:06\u003c00:05,  6.21it/s]\n"}
+,{"stream_name":"stdout","time":259.761050472,"data":" 49%|████▉     | 30/61 [00:06\u003c00:04,  6.23it/s]\n"}
+,{"stream_name":"stdout","time":259.920817768,"data":" 51%|█████     | 31/61 [00:06\u003c00:04,  6.20it/s]\n"}
+,{"stream_name":"stdout","time":260.086147316,"data":" 52%|█████▏    | 32/61 [00:06\u003c00:04,  6.19it/s]\n"}
+,{"stream_name":"stdout","time":260.246704522,"data":" 54%|█████▍    | 33/61 [00:07\u003c00:04,  6.15it/s]\n"}
+,{"stream_name":"stdout","time":260.408923181,"data":" 56%|█████▌    | 34/61 [00:07\u003c00:04,  6.17it/s]\n"}
+,{"stream_name":"stdout","time":260.578370303,"data":" 57%|█████▋    | 35/61 [00:07\u003c00:04,  6.17it/s]\n"}
+,{"stream_name":"stdout","time":260.739847126,"data":" 59%|█████▉    | 36/61 [00:07\u003c00:04,  6.11it/s]\n"}
+,{"stream_name":"stdout","time":260.900589195,"data":" 61%|██████    | 37/61 [00:07\u003c00:03,  6.14it/s]\n"}
+,{"stream_name":"stdout","time":261.072221667,"data":" 62%|██████▏   | 38/61 [00:07\u003c00:03,  6.13it/s]\n"}
+,{"stream_name":"stdout","time":261.234801802,"data":" 64%|██████▍   | 39/61 [00:08\u003c00:03,  6.07it/s]\n"}
+,{"stream_name":"stdout","time":261.431597118,"data":" 66%|██████▌   | 40/61 [00:08\u003c00:03,  6.13it/s]\n"}
+,{"stream_name":"stdout","time":261.594190766,"data":" 67%|██████▋   | 41/61 [00:08\u003c00:03,  5.70it/s]\n"}
+,{"stream_name":"stdout","time":261.757002114,"data":" 69%|██████▉   | 42/61 [00:08\u003c00:03,  5.83it/s]\n"}
+,{"stream_name":"stdout","time":261.924527698,"data":" 70%|███████   | 43/61 [00:08\u003c00:03,  5.95it/s]\n"}
+,{"stream_name":"stdout","time":262.081784301,"data":" 72%|███████▏  | 44/61 [00:08\u003c00:02,  5.99it/s]\n"}
+,{"stream_name":"stdout","time":262.248373908,"data":" 74%|███████▍  | 45/61 [00:09\u003c00:02,  6.07it/s]\n"}
+,{"stream_name":"stdout","time":262.406622501,"data":" 75%|███████▌  | 46/61 [00:09\u003c00:02,  6.07it/s]\n"}
+,{"stream_name":"stdout","time":262.573475775,"data":" 77%|███████▋  | 47/61 [00:09\u003c00:02,  6.12it/s]\n"}
+,{"stream_name":"stdout","time":262.732601656,"data":" 79%|███████▊  | 48/61 [00:09\u003c00:02,  6.09it/s]\n"}
+,{"stream_name":"stdout","time":262.894367228,"data":" 80%|████████  | 49/61 [00:09\u003c00:01,  6.16it/s]\n"}
+,{"stream_name":"stdout","time":263.060848493,"data":" 82%|████████▏ | 50/61 [00:09\u003c00:01,  6.13it/s]\n"}
+,{"stream_name":"stdout","time":263.224822889,"data":" 84%|████████▎ | 51/61 [00:10\u003c00:01,  6.10it/s]\n"}
+,{"stream_name":"stdout","time":263.383654375,"data":" 85%|████████▌ | 52/61 [00:10\u003c00:01,  6.12it/s]\n"}
+,{"stream_name":"stdout","time":263.551129273,"data":" 87%|████████▋ | 53/61 [00:10\u003c00:01,  6.13it/s]\n"}
+,{"stream_name":"stdout","time":263.711819176,"data":" 89%|████████▊ | 54/61 [00:10\u003c00:01,  6.11it/s]\n"}
+,{"stream_name":"stdout","time":263.878449421,"data":" 90%|█████████ | 55/61 [00:10\u003c00:00,  6.13it/s]\n"}
+,{"stream_name":"stdout","time":264.043000992,"data":" 92%|█████████▏| 56/61 [00:10\u003c00:00,  6.10it/s]\n"}
+,{"stream_name":"stdout","time":264.204239474,"data":" 93%|█████████▎| 57/61 [00:10\u003c00:00,  6.09it/s]\n"}
+,{"stream_name":"stdout","time":264.365805583,"data":" 95%|█████████▌| 58/61 [00:11\u003c00:00,  6.12it/s]\n"}
+,{"stream_name":"stdout","time":264.528291182,"data":" 97%|█████████▋| 59/61 [00:11\u003c00:00,  6.13it/s]\n"}
+,{"stream_name":"stdout","time":264.690753463,"data":" 98%|█████████▊| 60/61 [00:11\u003c00:00,  6.13it/s]\n"}
+,{"stream_name":"stdout","time":264.697712617,"data":"100%|██████████| 61/61 [00:11\u003c00:00,  6.15it/s]\n"}
+,{"stream_name":"stdout","time":264.698699523,"data":"100%|██████████| 61/61 [00:11\u003c00:00,  5.24it/s]\n"}
+,{"stream_name":"stdout","time":264.738492691,"data":"\n"}
+,{"stream_name":"stdout","time":266.041364902,"data":"Doing inference...:   0%|          | 0/4 [00:00\u003c?, ?it/s]\n"}
+,{"stream_name":"stdout","time":266.042650023,"data":"Doing inference...:   0%|          | 0/4 [00:01\u003c?, ?it/s]\n"}
+,{"stream_name":"stdout","time":266.052155992,"data":"Traceback (most recent call last):\n"}
+,{"stream_name":"stdout","time":266.054702304,"data":"  File \"\u003cfrozen runpy\u003e\", line 203, in _run_module_as_main\n"}
+,{"stream_name":"stdout","time":266.055706571,"data":"  File \"\u003cfrozen runpy\u003e\", line 88, in _run_code\n"}
+,{"stream_name":"stdout","time":266.056775975,"data":"  File \"/tmp/LatentSync/scripts/inference.py\", line 120, in \u003cmodule\u003e\n"}
+,{"stream_name":"stdout","time":266.058171022,"data":"    main(config, args)\n"}
+,{"stream_name":"stdout","time":266.058874035,"data":"    ~~~~^^^^^^^^^^^^^^\n"}
+,{"stream_name":"stdout","time":266.059812041,"data":"  File \"/tmp/LatentSync/scripts/inference.py\", line 89, in main\n"}
+,{"stream_name":"stdout","time":266.060863152,"data":"    pipeline(\n"}
+,{"stream_name":"stdout","time":266.061751728,"data":"    ~~~~~~~~^\n"}
+,{"stream_name":"stdout","time":266.062817654,"data":"        video_path=args.video_path,\n"}
+,{"stream_name":"stdout","time":266.06367332,"data":"        ^^^^^^^^^^^^^^^^^^^^^^^^^^^\n"}
+,{"stream_name":"stdout","time":266.064794937,"data":"    ...\u003c9 lines\u003e...\n"}
+,{"stream_name":"stdout","time":266.065778151,"data":"        temp_dir=args.temp_dir,\n"}
+,{"stream_name":"stdout","time":266.066737409,"data":"        ^^^^^^^^^^^^^^^^^^^^^^^\n"}
+,{"stream_name":"stdout","time":266.067714587,"data":"    )\n"}
+,{"stream_name":"stdout","time":266.068671815,"data":"    ^\n"}
+,{"stream_name":"stdout","time":266.069724626,"data":"  File \"/usr/local/lib/python3.13/dist-packages/torch/utils/_contextlib.py\", line 124, in decorate_context\n"}
+,{"stream_name":"stdout","time":266.070531375,"data":"    return func(*args, **kwargs)\n"}
+,{"stream_name":"stdout","time":266.071459207,"data":"  File \"/tmp/LatentSync/latentsync/pipelines/lipsync_pipeline.py\", line 404, in __call__\n"}
+,{"stream_name":"stdout","time":266.072372658,"data":"    mask_latents, masked_image_latents = self.prepare_mask_latents(\n"}
+,{"stream_name":"stdout","time":266.073324673,"data":"                                         ~~~~~~~~~~~~~~~~~~~~~~~~~^\n"}
+,{"stream_name":"stdout","time":266.074353199,"data":"        masks,\n"}
+,{"stream_name":"stdout","time":266.075343812,"data":"        ^^^^^^\n"}
+,{"stream_name":"stdout","time":266.076382873,"data":"    ...\u003c6 lines\u003e...\n"}
+,{"stream_name":"stdout","time":266.07739657,"data":"        do_classifier_free_guidance,\n"}
+,{"stream_name":"stdout","time":266.078541309,"data":"        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n"}
+,{"stream_name":"stdout","time":266.079452318,"data":"    )\n"}
+,{"stream_name":"stdout","time":266.080357071,"data":"    ^\n"}
+,{"stream_name":"stdout","time":266.081491836,"data":"  File \"/tmp/LatentSync/latentsync/pipelines/lipsync_pipeline.py\", line 205, in prepare_mask_latents\n"}
+,{"stream_name":"stdout","time":266.082360369,"data":"    masked_image_latents = self.vae.encode(masked_image).latent_dist.sample(generator=generator)\n"}
+,{"stream_name":"stdout","time":266.083503525,"data":"                           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^\n"}
+,{"stream_name":"stdout","time":266.084284352,"data":"  File \"/usr/local/lib/python3.13/dist-packages/diffusers/utils/accelerate_utils.py\", line 46, in wrapper\n"}
+,{"stream_name":"stdout","time":266.085098991,"data":"    return method(self, *args, **kwargs)\n"}
+,{"stream_name":"stdout","time":266.086114309,"data":"  File \"/usr/local/lib/python3.13/dist-packages/diffusers/models/autoencoders/autoencoder_kl.py\", line 282, in encode\n"}
+,{"stream_name":"stdout","time":266.086975634,"data":"    h = self._encode(x)\n"}
+,{"stream_name":"stdout","time":266.087933476,"data":"  File \"/usr/local/lib/python3.13/dist-packages/diffusers/models/autoencoders/autoencoder_kl.py\", line 256, in _encode\n"}
+,{"stream_name":"stdout","time":266.088995742,"data":"    enc = self.encoder(x)\n"}
+,{"stream_name":"stdout","time":266.089917675,"data":"  File \"/usr/local/lib/python3.13/dist-packages/torch/nn/modules/module.py\", line 1779, in _wrapped_call_impl\n"}
+,{"stream_name":"stdout","time":266.090855729,"data":"    return self._call_impl(*args, **kwargs)\n"}
+,{"stream_name":"stdout","time":266.091707893,"data":"           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^\n"}
+,{"stream_name":"stdout","time":266.092459687,"data":"  File \"/usr/local/lib/python3.13/dist-packages/torch/nn/modules/module.py\", line 1790, in _call_impl\n"}
+,{"stream_name":"stdout","time":266.09322615,"data":"    return forward_call(*args, **kwargs)\n"}
+,{"stream_name":"stdout","time":266.093975188,"data":"  File \"/usr/local/lib/python3.13/dist-packages/diffusers/models/autoencoders/vae.py\", line 185, in forward\n"}
+,{"stream_name":"stdout","time":266.094818895,"data":"    sample = down_block(sample)\n"}
+,{"stream_name":"stdout","time":266.095554969,"data":"  File \"/usr/local/lib/python3.13/dist-packages/torch/nn/modules/module.py\", line 1779, in _wrapped_call_impl\n"}
+,{"stream_name":"stdout","time":266.096292862,"data":"    return self._call_impl(*args, **kwargs)\n"}
+,{"stream_name":"stdout","time":266.097018967,"data":"           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^\n"}
+,{"stream_name":"stdout","time":266.097759633,"data":"  File \"/usr/local/lib/python3.13/dist-packages/torch/nn/modules/module.py\", line 1790, in _call_impl\n"}
+,{"stream_name":"stdout","time":266.098470166,"data":"    return forward_call(*args, **kwargs)\n"}
+,{"stream_name":"stdout","time":266.099219955,"data":"  File \"/usr/local/lib/python3.13/dist-packages/diffusers/models/unets/unet_2d_blocks.py\", line 1520, in forward\n"}
+,{"stream_name":"stdout","time":266.099952348,"data":"    hidden_states = resnet(hidden_states, temb=None)\n"}
+,{"stream_name":"stdout","time":266.100764724,"data":"  File \"/usr/local/lib/python3.13/dist-packages/torch/nn/modules/module.py\", line 1779, in _wrapped_call_impl\n"}
+,{"stream_name":"stdout","time":266.101491182,"data":"    return self._call_impl(*args, **kwargs)\n"}
+,{"stream_name":"stdout","time":266.102221228,"data":"           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^\n"}
+,{"stream_name":"stdout","time":266.102957656,"data":"  File \"/usr/local/lib/python3.13/dist-packages/torch/nn/modules/module.py\", line 1790, in _call_impl\n"}
+,{"stream_name":"stdout","time":266.103745313,"data":"    return forward_call(*args, **kwargs)\n"}
+,{"stream_name":"stdout","time":266.10446165,"data":"  File \"/usr/local/lib/python3.13/dist-packages/diffusers/models/resnet.py\", line 371, in forward\n"}
+,{"stream_name":"stdout","time":266.105327297,"data":"    output_tensor = (input_tensor + hidden_states) / self.output_scale_factor\n"}
+,{"stream_name":"stdout","time":266.1061137,"data":"                    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~\n"}
+,{"stream_name":"stdout","time":266.107013137,"data":"torch.OutOfMemoryError: CUDA out of memory. Tried to allocate 2.00 GiB. GPU 0 has a total capacity of 14.56 GiB of which 1016.81 MiB is free. Including non-PyTorch memory, this process has 13.57 GiB memory in use. Of the allocated memory 13.27 GiB is allocated by PyTorch, and 129.13 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://docs.pytorch.org/docs/stable/notes/cuda.html#optimizing-memory-usage-with-pytorch-cuda-alloc-conf)\n"}
+,{"stream_name":"stdout","time":272.589567654,"data":"[exit 1 after 84s]\n"}
+,{"stream_name":"stdout","time":272.590512666,"data":"!! falling back to LatentSync-1.5\n"}
+,{"stream_name":"stdout","time":306.289024603,"data":"['/tmp/LatentSync/checkpoints/.cache/huggingface/.gitignore', '/tmp/LatentSync/checkpoints/.cache/huggingface/download/.gitattributes.lock', '/tmp/LatentSync/checkpoints/.cache/huggingface/download/.gitattributes.metadata', '/tmp/LatentSync/checkpoints/.cache/huggingface/download/.gitignore.lock', '/tmp/LatentSync/checkpoints/.cache/huggingface/download/.gitignore.metadata', '/tmp/LatentSync/checkpoints/.cache/huggingface/download/README.md.lock', '/tmp/LatentSync/checkpoints/.cache/huggingface/download/README.md.metadata', '/tmp/LatentSync/checkpoints/.cache/huggingface/download/auxiliary/2DFAN4-cd938726ad.zip.lock', '/tmp/LatentSync/checkpoints/.cache/huggingface/download/auxiliary/2DFAN4-cd938726ad.zip.metadata', '/tmp/LatentSync/checkpoints/.cache/huggingface/download/auxiliary/i3d_torchscript.pt.lock', '/tmp/LatentSync/checkpoints/.cache/huggingface/download/auxiliary/i3d_torchscript.pt.metadata', '/tmp/LatentSync/checkpoints/.cache/huggingface/download/auxiliary/koniq_pretrained.pkl.lock', '/tmp/LatentSync/checkpoints/.cache/huggingface/download/auxiliary/koniq_pretrained.pkl.metadata', '/tmp/LatentSync/checkpoints/.cache/huggingface/download/auxiliary/s3fd-619a316812.pth.lock', '/tmp/LatentSync/checkpoints/.cache/huggingface/download/auxiliary/s3fd-619a316812.pth.metadata', '/tmp/LatentSync/checkpoints/.cache/huggingface/download/auxiliary/sfd_face.pth.lock', '/tmp/LatentSync/checkpoints/.cache/huggingface/download/auxiliary/sfd_face.pth.metadata', '/tmp/LatentSync/checkpoints/.cache/huggingface/download/auxiliary/syncnet_v2.model.lock', '/tmp/LatentSync/checkpoints/.cache/huggingface/download/auxiliary/syncnet_v2.model.metadata', '/tmp/LatentSync/checkpoints/.cache/huggingface/download/auxiliary/vgg16-397923af.pth.lock', '/tmp/LatentSync/checkpoints/.cache/huggingface/download/auxiliary/vgg16-397923af.pth.metadata', '/tmp/LatentSync/checkpoints/.cache/huggingface/download/auxiliary/vit_g_hybrid_pt_1200e_ssv2_ft.pth.lock', '/tmp/LatentSync/checkpoints/.cache/huggingface/download/auxiliary/vit_g_hybrid_pt_1200e_ssv2_ft.pth.metadata', '/tmp/LatentSync/checkpoints/.cache/huggingface/download/config.json.lock', '/tmp/LatentSync/checkpoints/.cache/huggingface/download/config.json.metadata', '/tmp/LatentSync/checkpoints/.cache/huggingface/download/latentsync_unet.pt.lock', '/tmp/LatentSync/checkpoints/.cache/huggingface/download/latentsync_unet.pt.metadata', '/tmp/LatentSync/checkpoints/.cache/huggingface/download/stable_syncnet.pt.lock', '/tmp/LatentSync/checkpoints/.cache/huggingface/download/stable_syncnet.pt.metadata', '/tmp/LatentSync/checkpoints/.cache/huggingface/download/whisper/tiny.pt.lock', '/tmp/LatentSync/checkpoints/.cache/huggingface/download/whisper/tiny.pt.metadata', '/tmp/LatentSync/checkpoints/.gitattributes', '/tmp/LatentSync/checkpoints/.gitignore', '/tmp/LatentSync/checkpoints/README.md', '/tmp/LatentSync/checkpoints/auxiliary/2DFAN4-cd938726ad.zip', '/tmp/LatentSync/checkpoints/auxiliary/i3d_torchscript.pt', '/tmp/LatentSync/checkpoints/auxiliary/koniq_pretrained.pkl', '/tmp/LatentSync/checkpoints/auxiliary/s3fd-619a316812.pth', '/tmp/LatentSync/checkpoints/auxiliary/sfd_face.pth', '/tmp/LatentSync/checkpoints/auxiliary/syncnet_v2.model', '/tmp/LatentSync/checkpoints/auxiliary/vgg16-397923af.pth', '/tmp/LatentSync/checkpoints/auxiliary/vit_g_hybrid_pt_1200e_ssv2_ft.pth', '/tmp/LatentSync/checkpoints/config.json', '/tmp/LatentSync/checkpoints/latentsync_unet.pt', '/tmp/LatentSync/checkpoints/stable_syncnet.pt', '/tmp/LatentSync/checkpoints/whisper/tiny.pt']\n"}
+,{"stream_name":"stdout","time":306.290877218,"data":"$ python -m scripts.inference --unet_config_path configs/unet/stage2.yaml --inference_ckpt_path checkpoints/latentsync_unet.pt --inference_steps 20 --guidance_scale 1.5 --enable_deepcache --video_path /kaggle/input/datasets/wachaspati/dermdoc-lipsync-in/d6c1e78e_s1.mp4 --audio_path /kaggle/input/datasets/wachaspati/dermdoc-lipsync-in/d6c1e78e_s1_orig.wav --video_out_path /tmp/ls_out/d6c1e78e_s1_orig.mp4\n"}
+,{"stream_name":"stdout","time":350.137779983,"data":"Input video path: /kaggle/input/datasets/wachaspati/dermdoc-lipsync-in/d6c1e78e_s1.mp4\n"}
+,{"stream_name":"stdout","time":350.138743546,"data":"Input audio path: /kaggle/input/datasets/wachaspati/dermdoc-lipsync-in/d6c1e78e_s1_orig.wav\n"}
+,{"stream_name":"stdout","time":350.139633879,"data":"Loaded checkpoint path: checkpoints/latentsync_unet.pt\n"}
+,{"stream_name":"stdout","time":350.140382979,"data":"Initial seed: 1247\n"}
+,{"stream_name":"stdout","time":350.141119396,"data":"download_path: checkpoints/auxiliary/models/buffalo_l\n"}
+,{"stream_name":"stdout","time":350.141966179,"data":"Downloading checkpoints/auxiliary/models/buffalo_l.zip from https://github.com/deepinsight/insightface/releases/download/model-zoo/buffalo_l.zip...\n"}
+,{"stream_name":"stdout","time":350.142768035,"data":"\n"}
+,{"stream_name":"stdout","time":350.228240785,"data":"  0%|          | 0/281857 [00:00\u003c?, ?KB/s]\n"}
+,{"stream_name":"stdout","time":350.328527595,"data":"  3%|▎         | 8216/281857 [00:00\u003c00:03, 82148.33KB/s]\n"}
+,{"stream_name":"stdout","time":350.428388932,"data":"  7%|▋         | 18497/281857 [00:00\u003c00:02, 94297.10KB/s]\n"}
+,{"stream_name":"stdout","time":350.528469475,"data":" 10%|█         | 28794/281857 [00:00\u003c00:02, 98255.75KB/s]\n"}
+,{"stream_name":"stdout","time":350.630273536,"data":" 14%|█▍        | 38778/281857 [00:00\u003c00:02, 98880.46KB/s]\n"}
+,{"stream_name":"stdout","time":350.730148753,"data":" 17%|█▋        | 48667/281857 [00:00\u003c00:02, 98255.04KB/s]\n"}
+,{"stream_name":"stdout","time":350.849466663,"data":" 21%|██        | 59493/281857 [00:00\u003c00:02, 101639.27KB/s]\n"}
+,{"stream_name":"stdout","time":350.950074537,"data":" 25%|██▍       | 69659/281857 [00:00\u003c00:02, 95631.75KB/s] \n"}
+,{"stream_name":"stdout","time":351.049501879,"data":" 28%|██▊       | 79288/281857 [00:00\u003c00:02, 95809.21KB/s]\n"}
+,{"stream_name":"stdout","time":351.149430522,"data":" 32%|███▏      | 89333/281857 [00:00\u003c00:01, 97213.98KB/s]\n"}
+,{"stream_name":"stdout","time":351.258051645,"data":" 35%|███▌      | 99947/281857 [00:01\u003c00:01, 99908.50KB/s]\n"}
+,{"stream_name":"stdout","time":351.365238198,"data":" 39%|███▉      | 109969/281857 [00:01\u003c00:01, 97755.72KB/s]\n"}
+,{"stream_name":"stdout","time":351.465188588,"data":" 42%|████▏     | 119774/281857 [00:01\u003c00:01, 95583.52KB/s]\n"}
+,{"stream_name":"stdout","time":351.565175905,"data":" 46%|████▋     | 130657/281857 [00:01\u003c00:01, 99458.20KB/s]\n"}
+,{"stream_name":"stdout","time":351.665242876,"data":" 50%|█████     | 141481/281857 [00:01\u003c00:01, 102045.29KB/s]\n"}
+,{"stream_name":"stdout","time":351.765240115,"data":" 54%|█████▍    | 152270/281857 [00:01\u003c00:01, 103772.36KB/s]\n"}
+,{"stream_name":"stdout","time":351.865325634,"data":" 58%|█████▊    | 163262/281857 [00:01\u003c00:01, 105596.23KB/s]\n"}
+,{"stream_name":"stdout","time":351.965582066,"data":" 62%|██████▏   | 174034/281857 [00:01\u003c00:01, 106227.98KB/s]\n"}
+,{"stream_name":"stdout","time":352.073221943,"data":" 66%|██████▌   | 184671/281857 [00:01\u003c00:00, 106211.13KB/s]\n"}
+,{"stream_name":"stdout","time":352.173284906,"data":" 69%|██████▉   | 195302/281857 [00:01\u003c00:00, 103837.02KB/s]\n"}
+,{"stream_name":"stdout","time":352.297229884,"data":" 73%|███████▎  | 206484/281857 [00:02\u003c00:00, 106186.52KB/s]\n"}
+,{"stream_name":"stdout","time":352.414685128,"data":" 77%|███████▋  | 217120/281857 [00:02\u003c00:00, 99180.98KB/s] \n"}
+,{"stream_name":"stdout","time":352.514561513,"data":" 81%|████████  | 227138/281857 [00:02\u003c00:00, 94854.67KB/s]\n"}
+,{"stream_name":"stdout","time":352.615625102,"data":" 85%|████████▍ | 238593/281857 [00:02\u003c00:00, 100334.10KB/s]\n"}
+,{"stream_name":"stdout","time":352.715487243,"data":" 88%|████████▊ | 248734/281857 [00:02\u003c00:00, 100249.70KB/s]\n"}
+,{"stream_name":"stdout","time":352.815923215,"data":" 92%|█████████▏| 258917/281857 [00:02\u003c00:00, 100704.45KB/s]\n"}
+,{"stream_name":"stdout","time":352.916028591,"data":" 96%|█████████▌| 270339/281857 [00:02\u003c00:00, 104643.98KB/s]\n"}
+,{"stream_name":"stdout","time":352.916875637,"data":"100%|█████████▉| 281843/281857 [00:02\u003c00:00, 107699.24KB/s]\n"}
+,{"stream_name":"stdout","time":352.91780428,"data":"100%|██████████| 281857/281857 [00:02\u003c00:00, 101094.29KB/s]\n"}
+,{"stream_name":"stdout","time":354.888796051,"data":"\u001b[1;31m2026-10-11 22:39:52.748759346 [E:onnxruntime:Default, provider_bridge_ort.cc:2458 operator()] /onnxruntime_src/onnxruntime/core/session/provider_bridge_ort.cc:2043 onnxruntime::Provider\u0026 onnxruntime::ProviderLibrary::Get() [ONNXRuntimeError] : 1 : FAIL : Failed to load library /usr/local/lib/python3.13/dist-packages/onnxruntime/capi/libonnxruntime_providers_cuda.so with error: libcublasLt.so.13: cannot open shared object file: No such file or directory\n"}
+,{"stream_name":"stdout","time":354.889629431,"data":"\u001b[m\n"}
+,{"stream_name":"stdout","time":355.228616905,"data":"\u001b[1;31m2026-10-11 22:39:53.090902495 [E:onnxruntime:Default, provider_bridge_ort.cc:2458 operator()] /onnxruntime_src/onnxruntime/core/session/provider_bridge_ort.cc:2043 onnxruntime::Provider\u0026 onnxruntime::ProviderLibrary::Get() [ONNXRuntimeError] : 1 : FAIL : Failed to load library /usr/local/lib/python3.13/dist-packages/onnxruntime/capi/libonnxruntime_providers_cuda.so with error: libcublasLt.so.13: cannot open shared object file: No such file or directory\n"}
+,{"stream_name":"stdout","time":355.231318934,"data":"\u001b[m\n"}
+,{"stream_name":"stdout","time":355.259572,"data":"\u001b[1;31m2026-10-11 22:39:53.119292204 [E:onnxruntime:Default, provider_bridge_ort.cc:2458 operator()] /onnxruntime_src/onnxruntime/core/session/provider_bridge_ort.cc:2043 onnxruntime::Provider\u0026 onnxruntime::ProviderLibrary::Get() [ONNXRuntimeError] : 1 : FAIL : Failed to load library /usr/local/lib/python3.13/dist-packages/onnxruntime/capi/libonnxruntime_providers_cuda.so with error: libcublasLt.so.13: cannot open shared object file: No such file or directory\n"}
+,{"stream_name":"stdout","time":355.260814011,"data":"\u001b[m\n"}
+,{"stream_name":"stdout","time":355.306104278,"data":"\u001b[1;31m2026-10-11 22:39:53.167769234 [E:onnxruntime:Default, provider_bridge_ort.cc:2458 operator()] /onnxruntime_src/onnxruntime/core/session/provider_bridge_ort.cc:2043 onnxruntime::Provider\u0026 onnxruntime::ProviderLibrary::Get() [ONNXRuntimeError] : 1 : FAIL : Failed to load library /usr/local/lib/python3.13/dist-packages/onnxruntime/capi/libonnxruntime_providers_cuda.so with error: libcublasLt.so.13: cannot open shared object file: No such file or directory\n"}
+,{"stream_name":"stdout","time":355.307461767,"data":"\u001b[m\n"}
+,{"stream_name":"stdout","time":355.383996277,"data":"\u001b[1;31m2026-10-11 22:39:53.246214326 [E:onnxruntime:Default, provider_bridge_ort.cc:2458 operator()] /onnxruntime_src/onnxruntime/core/session/provider_bridge_ort.cc:2043 onnxruntime::Provider\u0026 onnxruntime::ProviderLibrary::Get() [ONNXRuntimeError] : 1 : FAIL : Failed to load library /usr/local/lib/python3.13/dist-packages/onnxruntime/capi/libonnxruntime_providers_cuda.so with error: libcublasLt.so.13: cannot open shared object file: No such file or directory\n"}
+,{"stream_name":"stdout","time":355.385518903,"data":"\u001b[m\n"}
+,{"stream_name":"stdout","time":363.152382279,"data":"Failed to load libcublasLt.so.13: libcublasLt.so.13: cannot open shared object file: No such file or directory\n"}
+,{"stream_name":"stdout","time":363.152674395,"data":"Failed to load libcublas.so.13: libcublas.so.13: cannot open shared object file: No such file or directory\n"}
+,{"stream_name":"stdout","time":363.153625459,"data":"Failed to load libcudart.so.13: libcudart.so.13: cannot open shared object file: No such file or directory\n"}
+,{"stream_name":"stdout","time":363.155035691,"data":"Please follow https://onnxruntime.ai/docs/install/#cuda-and-cudnn to install CUDA.\n"}
+,{"stream_name":"stdout","time":363.155942147,"data":"video in 25 FPS, audio idx in 50FPS\n"}
+,{"stream_name":"stdout","time":363.156652021,"data":"Affine transforming 61 faces...\n"}
+,{"stream_name":"stdout","time":363.157292155,"data":"\n"}
+,{"stream_name":"stdout","time":363.76281281,"data":"  0%|          | 0/61 [00:00\u003c?, ?it/s]\n"}
+,{"stream_name":"stdout","time":363.905556779,"data":"  2%|▏         | 1/61 [00:00\u003c00:36,  1.64it/s]\n"}
+,{"stream_name":"stdout","time":364.058609071,"data":"  3%|▎         | 2/61 [00:00\u003c00:19,  3.00it/s]\n"}
+,{"stream_name":"stdout","time":364.213689447,"data":"  5%|▍         | 3/61 [00:00\u003c00:14,  3.98it/s]\n"}
+,{"stream_name":"stdout","time":364.366591067,"data":"  7%|▋         | 4/61 [00:01\u003c00:12,  4.69it/s]\n"}
+,{"stream_name":"stdout","time":364.521130943,"data":"  8%|▊         | 5/61 [00:01\u003c00:10,  5.21it/s]\n"}
+,{"stream_name":"stdout","time":364.676584892,"data":" 10%|▉         | 6/61 [00:01\u003c00:09,  5.59it/s]\n"}
+,{"stream_name":"stdout","time":364.832605627,"data":" 11%|█▏        | 7/61 [00:01\u003c00:09,  5.84it/s]\n"}
+,{"stream_name":"stdout","time":364.98561854,"data":" 13%|█▎        | 8/61 [00:01\u003c00:08,  6.02it/s]\n"}
+,{"stream_name":"stdout","time":365.137610521,"data":" 15%|█▍        | 9/61 [00:01\u003c00:08,  6.16it/s]\n"}
+,{"stream_name":"stdout","time":365.286059937,"data":" 16%|█▋        | 10/61 [00:01\u003c00:08,  6.30it/s]\n"}
+,{"stream_name":"stdout","time":365.432851126,"data":" 18%|█▊        | 11/61 [00:02\u003c00:07,  6.40it/s]\n"}
+,{"stream_name":"stdout","time":365.583989479,"data":" 20%|█▉        | 12/61 [00:02\u003c00:07,  6.53it/s]\n"}
+,{"stream_name":"stdout","time":365.734177907,"data":" 21%|██▏       | 13/61 [00:02\u003c00:07,  6.55it/s]\n"}
+,{"stream_name":"stdout","time":365.887600384,"data":" 23%|██▎       | 14/61 [00:02\u003c00:07,  6.58it/s]\n"}
+,{"stream_name":"stdout","time":366.042911088,"data":" 25%|██▍       | 15/61 [00:02\u003c00:06,  6.59it/s]\n"}
+,{"stream_name":"stdout","time":366.194582189,"data":" 26%|██▌       | 16/61 [00:02\u003c00:06,  6.51it/s]\n"}
+,{"stream_name":"stdout","time":366.343918381,"data":" 28%|██▊       | 17/61 [00:03\u003c00:06,  6.55it/s]\n"}
+,{"stream_name":"stdout","time":366.494011022,"data":" 30%|██▉       | 18/61 [00:03\u003c00:06,  6.59it/s]\n"}
+,{"stream_name":"stdout","time":366.64999453,"data":" 31%|███       | 19/61 [00:03\u003c00:06,  6.61it/s]\n"}
+,{"stream_name":"stdout","time":366.801929103,"data":" 33%|███▎      | 20/61 [00:03\u003c00:06,  6.55it/s]\n"}
+,{"stream_name":"stdout","time":366.962155169,"data":" 34%|███▍      | 21/61 [00:03\u003c00:06,  6.56it/s]\n"}
+,{"stream_name":"stdout","time":367.116588274,"data":" 36%|███▌      | 22/61 [00:03\u003c00:06,  6.46it/s]\n"}
+,{"stream_name":"stdout","time":367.263465891,"data":" 38%|███▊      | 23/61 [00:03\u003c00:05,  6.47it/s]\n"}
+,{"stream_name":"stdout","time":367.414454875,"data":" 39%|███▉      | 24/61 [00:04\u003c00:05,  6.56it/s]\n"}
+,{"stream_name":"stdout","time":367.568567406,"data":" 41%|████      | 25/61 [00:04\u003c00:05,  6.58it/s]\n"}
+,{"stream_name":"stdout","time":367.71999659,"data":" 43%|████▎     | 26/61 [00:04\u003c00:05,  6.55it/s]\n"}
+,{"stream_name":"stdout","time":367.871460204,"data":" 44%|████▍     | 27/61 [00:04\u003c00:05,  6.57it/s]\n"}
+,{"stream_name":"stdout","time":368.074166963,"data":" 46%|████▌     | 28/61 [00:04\u003c00:05,  6.58it/s]\n"}
+,{"stream_name":"stdout","time":368.257164719,"data":" 48%|████▊     | 29/61 [00:04\u003c00:05,  5.97it/s]\n"}
+,{"stream_name":"stdout","time":368.412010003,"data":" 49%|████▉     | 30/61 [00:05\u003c00:05,  5.79it/s]\n"}
+,{"stream_name":"stdout","time":368.565252162,"data":" 51%|█████     | 31/61 [00:05\u003c00:04,  6.01it/s]\n"}
+,{"stream_name":"stdout","time":368.718794078,"data":" 52%|█████▏    | 32/61 [00:05\u003c00:04,  6.15it/s]\n"}
+,{"stream_name":"stdout","time":368.868387226,"data":" 54%|█████▍    | 33/61 [00:05\u003c00:04,  6.26it/s]\n"}
+,{"stream_name":"stdout","time":369.021763165,"data":" 56%|█████▌    | 34/61 [00:05\u003c00:04,  6.38it/s]\n"}
+,{"stream_name":"stdout","time":369.174007302,"data":" 57%|█████▋    | 35/61 [00:05\u003c00:04,  6.44it/s]\n"}
+,{"stream_name":"stdout","time":369.324577918,"data":" 59%|█████▉    | 36/61 [00:06\u003c00:03,  6.47it/s]\n"}
+,{"stream_name":"stdout","time":369.481203448,"data":" 61%|██████    | 37/61 [00:06\u003c00:03,  6.50it/s]\n"}
+,{"stream_name":"stdout","time":369.63346165,"data":" 62%|██████▏   | 38/61 [00:06\u003c00:03,  6.46it/s]\n"}
+,{"stream_name":"stdout","time":369.785317212,"data":" 64%|██████▍   | 39/61 [00:06\u003c00:03,  6.50it/s]\n"}
+,{"stream_name":"stdout","time":369.951458357,"data":" 66%|██████▌   | 40/61 [00:06\u003c00:03,  6.52it/s]\n"}
+,{"stream_name":"stdout","time":370.115246522,"data":" 67%|██████▋   | 41/61 [00:06\u003c00:03,  6.36it/s]\n"}
+,{"stream_name":"stdout","time":370.279648291,"data":" 69%|██████▉   | 42/61 [00:06\u003c00:03,  6.29it/s]\n"}
+,{"stream_name":"stdout","time":370.443266051,"data":" 70%|███████   | 43/61 [00:07\u003c00:02,  6.21it/s]\n"}
+,{"stream_name":"stdout","time":370.607238202,"data":" 72%|███████▏  | 44/61 [00:07\u003c00:02,  6.20it/s]\n"}
+,{"stream_name":"stdout","time":370.773246789,"data":" 74%|███████▍  | 45/61 [00:07\u003c00:02,  6.15it/s]\n"}
+,{"stream_name":"stdout","time":370.931579278,"data":" 75%|███████▌  | 46/61 [00:07\u003c00:02,  6.12it/s]\n"}
+,{"stream_name":"stdout","time":371.092673142,"data":" 77%|███████▋  | 47/61 [00:07\u003c00:02,  6.18it/s]\n"}
+,{"stream_name":"stdout","time":371.256368738,"data":" 79%|███████▊  | 48/61 [00:07\u003c00:02,  6.19it/s]\n"}
+,{"stream_name":"stdout","time":371.443530169,"data":" 80%|████████  | 49/61 [00:08\u003c00:01,  6.19it/s]\n"}
+,{"stream_name":"stdout","time":371.606048187,"data":" 82%|████████▏ | 50/61 [00:08\u003c00:01,  5.85it/s]\n"}
+,{"stream_name":"stdout","time":371.75921645,"data":" 84%|████████▎ | 51/61 [00:08\u003c00:01,  5.95it/s]\n"}
+,{"stream_name":"stdout","time":371.910538619,"data":" 85%|████████▌ | 52/61 [00:08\u003c00:01,  6.14it/s]\n"}
+,{"stream_name":"stdout","time":372.064538034,"data":" 87%|████████▋ | 53/61 [00:08\u003c00:01,  6.27it/s]\n"}
+,{"stream_name":"stdout","time":372.215561568,"data":" 89%|████████▊ | 54/61 [00:08\u003c00:01,  6.35it/s]\n"}
+,{"stream_name":"stdout","time":372.371299734,"data":" 90%|█████████ | 55/61 [00:09\u003c00:00,  6.42it/s]\n"}
+,{"stream_name":"stdout","time":372.526544076,"data":" 92%|█████████▏| 56/61 [00:09\u003c00:00,  6.42it/s]\n"}
+,{"stream_name":"stdout","time":372.683127805,"data":" 93%|█████████▎| 57/61 [00:09\u003c00:00,  6.43it/s]\n"}
+,{"stream_name":"stdout","time":372.839213896,"data":" 95%|█████████▌| 58/61 [00:09\u003c00:00,  6.41it/s]\n"}
+,{"stream_name":"stdout","time":372.992548229,"data":" 97%|█████████▋| 59/61 [00:09\u003c00:00,  6.41it/s]\n"}
+,{"stream_name":"stdout","time":373.20117223,"data":" 98%|█████████▊| 60/61 [00:09\u003c00:00,  6.45it/s]\n"}
+,{"stream_name":"stdout","time":373.2044957,"data":"100%|██████████| 61/61 [00:10\u003c00:00,  5.83it/s]\n"}
+,{"stream_name":"stdout","time":373.206113323,"data":"100%|██████████| 61/61 [00:10\u003c00:00,  6.07it/s]\n"}
+,{"stream_name":"stdout","time":373.277788376,"data":"\n"}
+,{"stream_name":"stdout","time":374.125918373,"data":"Doing inference...:   0%|          | 0/4 [00:00\u003c?, ?it/s]\n"}
+,{"stream_name":"stdout","time":374.126737371,"data":"\n"}
+,{"stream_name":"stdout","time":377.400332883,"data":"Sample frames: 16:   0%|          | 0/20 [00:00\u003c?, ?it/s]\u001b[A\n"}
+,{"stream_name":"stdout","time":377.402047433,"data":"\n"}
+,{"stream_name":"stdout","time":377.668692688,"data":"Sample frames: 16:   5%|▌         | 1/20 [00:03\u003c01:02,  3.27s/it]\u001b[A\n"}
+,{"stream_name":"stdout","time":377.669545265,"data":"\n"}
+,{"stream_name":"stdout","time":377.94038456,"data":"Sample frames: 16:  10%|█         | 2/20 [00:03\u003c00:27,  1.51s/it]\u001b[A\n"}
+,{"stream_name":"stdout","time":377.941170335,"data":"\n"}
+,{"stream_name":"stdout","time":379.80449442,"data":"Sample frames: 16:  15%|█▌        | 3/20 [00:03\u003c00:16,  1.06it/s]\u001b[A\n"}
+,{"stream_name":"stdout","time":379.806249984,"data":"\n"}
+,{"stream_name":"stdout","time":380.075185421,"data":"Sample frames: 16:  20%|██        | 4/20 [00:05\u003c00:20,  1.31s/it]\u001b[A\n"}
+,{"stream_name":"stdout","time":380.076009212,"data":"\n"}
+,{"stream_name":"stdout","time":380.364219365,"data":"Sample frames: 16:  25%|██▌       | 5/20 [00:05\u003c00:13,  1.07it/s]\u001b[A\n"}
+,{"stream_name":"stdout","time":380.365126284,"data":"\n"}
+,{"stream_name":"stdout","time":382.235049249,"data":"Sample frames: 16:  30%|███       | 6/20 [00:06\u003c00:09,  1.41it/s]\u001b[A\n"}
+,{"stream_name":"stdout","time":382.235850188,"data":"\n"}
+,{"stream_name":"stdout","time":382.507122549,"data":"Sample frames: 16:  35%|███▌      | 7/20 [00:08\u003c00:14,  1.09s/it]\u001b[A\n"}
+,{"stream_name":"stdout","time":382.507963828,"data":"\n"}
+,{"stream_name":"stdout","time":382.78130794,"data":"Sample frames: 16:  40%|████      | 8/20 [00:08\u003c00:09,  1.20it/s]\u001b[A\n"}
+,{"stream_name":"stdout","time":382.782099823,"data":"\n"}
+,{"stream_name":"stdout","time":384.664745891,"data":"Sample frames: 16:  45%|████▌     | 9/20 [00:08\u003c00:07,  1.52it/s]\u001b[A\n"}
+,{"stream_name":"stdout","time":384.665496559,"data":"\n"}
+,{"stream_name":"stdout","time":384.941085473,"data":"Sample frames: 16:  50%|█████     | 10/20 [00:10\u003c00:10,  1.04s/it]\u001b[A\n"}
+,{"stream_name":"stdout","time":384.942427332,"data":"\n"}
+,{"stream_name":"stdout","time":385.220136838,"data":"Sample frames: 16:  55%|█████▌    | 11/20 [00:10\u003c00:07,  1.24it/s]\u001b[A\n"}
+,{"stream_name":"stdout","time":385.221181431,"data":"\n"}
+,{"stream_name":"stdout","time":387.114148522,"data":"Sample frames: 16:  60%|██████    | 12/20 [00:11\u003c00:05,  1.55it/s]\u001b[A\n"}
+,{"stream_name":"stdout","time":387.11496365,"data":"\n"}
+,{"stream_name":"stdout","time":387.392583252,"data":"Sample frames: 16:  65%|██████▌   | 13/20 [00:12\u003c00:07,  1.02s/it]\u001b[A\n"}
+,{"stream_name":"stdout","time":387.394736963,"data":"\n"}
+,{"stream_name":"stdout","time":387.665192536,"data":"Sample frames: 16:  70%|███████   | 14/20 [00:13\u003c00:04,  1.25it/s]\u001b[A\n"}
+,{"stream_name":"stdout","time":387.666253128,"data":"\n"}
+,{"stream_name":"stdout","time":389.563802434,"data":"Sample frames: 16:  75%|███████▌  | 15/20 [00:13\u003c00:03,  1.56it/s]\u001b[A\n"}
+,{"stream_name":"stdout","time":389.564902432,"data":"\n"}
+,{"stream_name":"stdout","time":389.841554262,"data":"Sample frames: 16:  80%|████████  | 16/20 [00:15\u003c00:04,  1.02s/it]\u001b[A\n"}
+,{"stream_name":"stdout","time":389.842859287,"data":"\n"}
+,{"stream_name":"stdout","time":390.118685587,"data":"Sample frames: 16:  85%|████████▌ | 17/20 [00:15\u003c00:02,  1.26it/s]\u001b[A\n"}
+,{"stream_name":"stdout","time":390.119726742,"data":"\n"}
+,{"stream_name":"stdout","time":392.036374938,"data":"Sample frames: 16:  90%|█████████ | 18/20 [00:15\u003c00:01,  1.56it/s]\u001b[A\n"}
+,{"stream_name":"stdout","time":392.037154585,"data":"\n"}
+,{"stream_name":"stdout","time":392.319018649,"data":"Sample frames: 16:  95%|█████████▌| 19/20 [00:17\u003c00:01,  1.02s/it]\u001b[A\n"}
+,{"stream_name":"stdout","time":392.319904742,"data":"\n"}
+,{"stream_name":"stdout","time":392.32080675,"data":"Sample frames: 16: 100%|██████████| 20/20 [00:18\u003c00:00,  1.25it/s]\u001b[A\n"}
+,{"stream_name":"stdout","time":392.321678383,"data":"Sample frames: 16: 100%|██████████| 20/20 [00:18\u003c00:00,  1.10it/s]\n"}
+,{"stream_name":"stdout","time":394.26757765,"data":"\n"}
+,{"stream_name":"stdout","time":394.933537876,"data":"Doing inference...:  25%|██▌       | 1/4 [00:20\u003c01:02, 20.99s/it]\n"}
+,{"stream_name":"stdout","time":394.934398614,"data":"\n"}
+,{"stream_name":"stdout","time":397.520607801,"data":"Sample frames: 16:   0%|          | 0/20 [00:00\u003c?, ?it/s]\u001b[A\n"}
+,{"stream_name":"stdout","time":397.52142305,"data":"\n"}
+,{"stream_name":"stdout","time":397.800921986,"data":"Sample frames: 16:   5%|▌         | 1/20 [00:02\u003c00:49,  2.59s/it]\u001b[A\n"}
+,{"stream_name":"stdout","time":397.80176328699997,"data":"\n"}
+,{"stream_name":"stdout","time":398.080695559,"data":"Sample frames: 16:  10%|█         | 2/20 [00:02\u003c00:22,  1.23s/it]\u001b[A\n"}
+,{"stream_name":"stdout","time":398.081511866,"data":"\n"}
+,{"stream_name":"stdout","time":400.031315808,"data":"Sample frames: 16:  15%|█▌        | 3/20 [00:03\u003c00:13,  1.26it/s]\u001b[A\n"}
+,{"stream_name":"stdout","time":400.032179422,"data":"\n"}
+,{"stream_name":"stdout","time":400.311088356,"data":"Sample frames: 16:  20%|██        | 4/20 [00:05\u003c00:20,  1.25s/it]\u001b[A\n"}
+,{"stream_name":"stdout","time":400.311913345,"data":"\n"}
+,{"stream_name":"stdout","time":400.592355295,"data":"Sample frames: 16:  25%|██▌       | 5/20 [00:05\u003c00:13,  1.11it/s]\u001b[A\n"}
+,{"stream_name":"stdout","time":400.593118521,"data":"\n"}
+,{"stream_name":"stdout","time":402.537710193,"data":"Sample frames: 16:  30%|███       | 6/20 [00:05\u003c00:09,  1.45it/s]\u001b[A\n"}
+,{"stream_name":"stdout","time":402.538452987,"data":"\n"}
+,{"stream_name":"stdout","time":402.822512645,"data":"Sample frames: 16:  35%|███▌      | 7/20 [00:07\u003c00:14,  1.10s/it]\u001b[A\n"}
+,{"stream_name":"stdout","time":402.823398919,"data":"\n"}
+,{"stream_name":"stdout","time":403.106219491,"data":"Sample frames: 16:  40%|████      | 8/20 [00:07\u003c00:10,  1.19it/s]\u001b[A\n"}
+,{"stream_name":"stdout","time":403.107084447,"data":"\n"}
+,{"stream_name":"stdout","time":405.062302134,"data":"Sample frames: 16:  45%|████▌     | 9/20 [00:08\u003c00:07,  1.50it/s]\u001b[A\n"}
+,{"stream_name":"stdout","time":405.063161763,"data":"\n"}
+,{"stream_name":"stdout","time":405.344664057,"data":"Sample frames: 16:  50%|█████     | 10/20 [00:10\u003c00:10,  1.06s/it]\u001b[A\n"}
+,{"stream_name":"stdout","time":405.345451024,"data":"\n"}
+,{"stream_name":"stdout","time":405.628534136,"data":"Sample frames: 16:  55%|█████▌    | 11/20 [00:10\u003c00:07,  1.21it/s]\u001b[A\n"}
+,{"stream_name":"stdout","time":405.629299399,"data":"\n"}
+,{"stream_name":"stdout","time":407.60047126,"data":"Sample frames: 16:  60%|██████    | 12/20 [00:10\u003c00:05,  1.51it/s]\u001b[A\n"}
+,{"stream_name":"stdout","time":407.601226314,"data":"\n"}
+,{"stream_name":"stdout","time":407.887510294,"data":"Sample frames: 16:  65%|██████▌   | 13/20 [00:12\u003c00:07,  1.06s/it]\u001b[A\n"}
+,{"stream_name":"stdout","time":407.888222344,"data":"\n"}
+,{"stream_name":"stdout","time":408.17392038,"data":"Sample frames: 16:  70%|███████   | 14/20 [00:12\u003c00:04,  1.21it/s]\u001b[A\n"}
+,{"stream_name":"stdout","time":408.175006358,"data":"\n"}
+,{"stream_name":"stdout","time":410.15430987,"data":"Sample frames: 16:  75%|███████▌  | 15/20 [00:13\u003c00:03,  1.51it/s]\u001b[A\n"}
+,{"stream_name":"stdout","time":410.155377322,"data":"\n"}
+,{"stream_name":"stdout","time":410.455021327,"data":"Sample frames: 16:  80%|████████  | 16/20 [00:15\u003c00:04,  1.06s/it]\u001b[A\n"}
+,{"stream_name":"stdout","time":410.456104564,"data":"\n"}
+,{"stream_name":"stdout","time":410.729574348,"data":"Sample frames: 16:  85%|████████▌ | 17/20 [00:15\u003c00:02,  1.21it/s]\u001b[A\n"}
+,{"stream_name":"stdout","time":410.730368044,"data":"\n"}
+,{"stream_name":"stdout","time":412.722996595,"data":"Sample frames: 16:  90%|█████████ | 18/20 [00:15\u003c00:01,  1.50it/s]\u001b[A\n"}
+,{"stream_name":"stdout","time":412.724005906,"data":"\n"}
+,{"stream_name":"stdout","time":413.016761247,"data":"Sample frames: 16:  95%|█████████▌| 19/20 [00:17\u003c00:01,  1.06s/it]\u001b[A\n"}
+,{"stream_name":"stdout","time":413.01777726,"data":"\n"}
+,{"stream_name":"stdout","time":413.01851126,"data":"Sample frames: 16: 100%|██████████| 20/20 [00:18\u003c00:00,  1.20it/s]\u001b[A\n"}
+,{"stream_name":"stdout","time":413.019200551,"data":"Sample frames: 16: 100%|██████████| 20/20 [00:18\u003c00:00,  1.11it/s]\n"}
+,{"stream_name":"stdout","time":414.923770322,"data":"\n"}
+,{"stream_name":"stdout","time":415.61171673,"data":"Doing inference...:  50%|█████     | 2/4 [00:41\u003c00:41, 20.79s/it]\n"}
+,{"stream_name":"stdout","time":415.612820595,"data":"\n"}
+,{"stream_name":"stdout","time":418.307313937,"data":"Sample frames: 16:   0%|          | 0/20 [00:00\u003c?, ?it/s]\u001b[A\n"}
+,{"stream_name":"stdout","time":418.308364651,"data":"\n"}
+,{"stream_name":"stdout","time":418.600120282,"data":"Sample frames: 16:   5%|▌         | 1/20 [00:02\u003c00:51,  2.69s/it]\u001b[A\n"}
+,{"stream_name":"stdout","time":418.601454768,"data":"\n"}
+,{"stream_name":"stdout","time":418.892259867,"data":"Sample frames: 16:  10%|█         | 2/20 [00:02\u003c00:23,  1.28s/it]\u001b[A\n"}
+,{"stream_name":"stdout","time":418.893314273,"data":"\n"}
+,{"stream_name":"stdout","time":420.938692918,"data":"Sample frames: 16:  15%|█▌        | 3/20 [00:03\u003c00:14,  1.20it/s]\u001b[A\n"}
+,{"stream_name":"stdout","time":420.940061237,"data":"\n"}
+,{"stream_name":"stdout","time":421.232912651,"data":"Sample frames: 16:  20%|██        | 4/20 [00:05\u003c00:20,  1.31s/it]\u001b[A\n"}
+,{"stream_name":"stdout","time":421.23469043,"data":"\n"}
+,{"stream_name":"stdout","time":421.527600366,"data":"Sample frames: 16:  25%|██▌       | 5/20 [00:05\u003c00:14,  1.06it/s]\u001b[A\n"}
+,{"stream_name":"stdout","time":421.528800867,"data":"\n"}
+,{"stream_name":"stdout","time":423.594046243,"data":"Sample frames: 16:  30%|███       | 6/20 [00:05\u003c00:10,  1.38it/s]\u001b[A\n"}
+,{"stream_name":"stdout","time":423.595574893,"data":"\n"}
+,{"stream_name":"stdout","time":423.887487661,"data":"Sample frames: 16:  35%|███▌      | 7/20 [00:07\u003c00:15,  1.16s/it]\u001b[A\n"}
+,{"stream_name":"stdout","time":423.888642331,"data":"\n"}
+,{"stream_name":"stdout","time":424.186377904,"data":"Sample frames: 16:  40%|████      | 8/20 [00:08\u003c00:10,  1.13it/s]\u001b[A\n"}
+,{"stream_name":"stdout","time":424.187639203,"data":"\n"}
+,{"stream_name":"stdout","time":426.259475719,"data":"Sample frames: 16:  45%|████▌     | 9/20 [00:08\u003c00:07,  1.42it/s]\u001b[A\n"}
+,{"stream_name":"stdout","time":426.260708229,"data":"\n"}
+,{"stream_name":"stdout","time":426.555883798,"data":"Sample frames: 16:  50%|█████     | 10/20 [00:10\u003c00:11,  1.13s/it]\u001b[A\n"}
+,{"stream_name":"stdout","time":426.556921076,"data":"\n"}
+,{"stream_name":"stdout","time":426.858875776,"data":"Sample frames: 16:  55%|█████▌    | 11/20 [00:10\u003c00:07,  1.15it/s]\u001b[A\n"}
+,{"stream_name":"stdout","time":426.859891347,"data":"\n"}
+,{"stream_name":"stdout","time":428.949776999,"data":"Sample frames: 16:  60%|██████    | 12/20 [00:11\u003c00:05,  1.43it/s]\u001b[A\n"}
+,{"stream_name":"stdout","time":428.95082406,"data":"\n"}
+,{"stream_name":"stdout","time":429.249806679,"data":"Sample frames: 16:  65%|██████▌   | 13/20 [00:13\u003c00:07,  1.12s/it]\u001b[A\n"}
+,{"stream_name":"stdout","time":429.250824543,"data":"\n"}
+,{"stream_name":"stdout","time":429.551476951,"data":"Sample frames: 16:  70%|███████   | 14/20 [00:13\u003c00:05,  1.15it/s]\u001b[A\n"}
+,{"stream_name":"stdout","time":429.552667523,"data":"\n"}
+,{"stream_name":"stdout","time":431.652415327,"data":"Sample frames: 16:  75%|███████▌  | 15/20 [00:13\u003c00:03,  1.43it/s]\u001b[A\n"}
+,{"stream_name":"stdout","time":431.653241582,"data":"\n"}
+,{"stream_name":"stdout","time":431.958427942,"data":"Sample frames: 16:  80%|████████  | 16/20 [00:16\u003c00:04,  1.12s/it]\u001b[A\n"}
+,{"stream_name":"stdout","time":431.959137629,"data":"\n"}
+,{"stream_name":"stdout","time":432.267553728,"data":"Sample frames: 16:  85%|████████▌ | 17/20 [00:16\u003c00:02,  1.14it/s]\u001b[A\n"}
+,{"stream_name":"stdout","time":432.267745088,"data":"\n"}
+,{"stream_name":"stdout","time":434.39475961,"data":"Sample frames: 16:  90%|█████████ | 18/20 [00:16\u003c00:01,  1.42it/s]\u001b[A\n"}
+,{"stream_name":"stdout","time":434.395844117,"data":"\n"}
+,{"stream_name":"stdout","time":434.697069695,"data":"Sample frames: 16:  95%|█████████▌| 19/20 [00:18\u003c00:01,  1.13s/it]\u001b[A\n"}
+,{"stream_name":"stdout","time":434.698122206,"data":"\n"}
+,{"stream_name":"stdout","time":434.699052406,"data":"Sample frames: 16: 100%|██████████| 20/20 [00:19\u003c00:00,  1.13it/s]\u001b[A\n"}
+,{"stream_name":"stdout","time":434.700031809,"data":"Sample frames: 16: 100%|██████████| 20/20 [00:19\u003c00:00,  1.05it/s]\n"}
+,{"stream_name":"stdout","time":436.710687712,"data":"\n"}
+,{"stream_name":"stdout","time":437.365047052,"data":"Doing inference...:  75%|███████▌  | 3/4 [01:03\u003c00:21, 21.25s/it]\n"}
+,{"stream_name":"stdout","time":437.36583709,"data":"\n"}
+,{"stream_name":"stdout","time":439.859900343,"data":"Sample frames: 16:   0%|          | 0/20 [00:00\u003c?, ?it/s]\u001b[A\n"}
+,{"stream_name":"stdout","time":439.860731277,"data":"\n"}
+,{"stream_name":"stdout","time":440.115061586,"data":"Sample frames: 16:   5%|▌         | 1/20 [00:02\u003c00:47,  2.49s/it]\u001b[A\n"}
+,{"stream_name":"stdout","time":440.116238907,"data":"\n"}
+,{"stream_name":"stdout","time":440.367901922,"data":"Sample frames: 16:  10%|█         | 2/20 [00:02\u003c00:21,  1.18s/it]\u001b[A\n"}
+,{"stream_name":"stdout","time":440.369006605,"data":"\n"}
+,{"stream_name":"stdout","time":442.258205695,"data":"Sample frames: 16:  15%|█▌        | 3/20 [00:03\u003c00:12,  1.32it/s]\u001b[A\n"}
+,{"stream_name":"stdout","time":442.259131059,"data":"\n"}
+,{"stream_name":"stdout","time":442.489115535,"data":"Sample frames: 16:  20%|██        | 4/20 [00:04\u003c00:19,  1.19s/it]\u001b[A\n"}
+,{"stream_name":"stdout","time":442.489152433,"data":"\n"}
+,{"stream_name":"stdout","time":442.744180004,"data":"Sample frames: 16:  25%|██▌       | 5/20 [00:05\u003c00:12,  1.17it/s]\u001b[A\n"}
+,{"stream_name":"stdout","time":442.745328649,"data":"\n"}
+,{"stream_name":"stdout","time":444.608689518,"data":"Sample frames: 16:  30%|███       | 6/20 [00:05\u003c00:09,  1.53it/s]\u001b[A\n"}
+,{"stream_name":"stdout","time":444.609928061,"data":"\n"}
+,{"stream_name":"stdout","time":444.865028689,"data":"Sample frames: 16:  35%|███▌      | 7/20 [00:07\u003c00:13,  1.05s/it]\u001b[A\n"}
+,{"stream_name":"stdout","time":444.866357562,"data":"\n"}
+,{"stream_name":"stdout","time":445.123227462,"data":"Sample frames: 16:  40%|████      | 8/20 [00:07\u003c00:09,  1.26it/s]\u001b[A\n"}
+,{"stream_name":"stdout","time":445.124028369,"data":"\n"}
+,{"stream_name":"stdout","time":446.986077126,"data":"Sample frames: 16:  45%|████▌     | 9/20 [00:07\u003c00:06,  1.59it/s]\u001b[A\n"}
+,{"stream_name":"stdout","time":446.986943428,"data":"\n"}
+,{"stream_name":"stdout","time":447.244343409,"data":"Sample frames: 16:  50%|█████     | 10/20 [00:09\u003c00:10,  1.01s/it]\u001b[A\n"}
+,{"stream_name":"stdout","time":447.24515926,"data":"\n"}
+,{"stream_name":"stdout","time":447.499087789,"data":"Sample frames: 16:  55%|█████▌    | 11/20 [00:09\u003c00:07,  1.28it/s]\u001b[A\n"}
+,{"stream_name":"stdout","time":447.499932891,"data":"\n"}
+,{"stream_name":"stdout","time":449.376932669,"data":"Sample frames: 16:  60%|██████    | 12/20 [00:10\u003c00:04,  1.61it/s]\u001b[A\n"}
+,{"stream_name":"stdout","time":449.377695676,"data":"\n"}
+,{"stream_name":"stdout","time":449.63486788,"data":"Sample frames: 16:  65%|██████▌   | 13/20 [00:12\u003c00:07,  1.00s/it]\u001b[A\n"}
+,{"stream_name":"stdout","time":449.635771533,"data":"\n"}
+,{"stream_name":"stdout","time":449.890061594,"data":"Sample frames: 16:  70%|███████   | 14/20 [00:12\u003c00:04,  1.29it/s]\u001b[A\n"}
+,{"stream_name":"stdout","time":449.892000581,"data":"\n"}
+,{"stream_name":"stdout","time":451.767071376,"data":"Sample frames: 16:  75%|███████▌  | 15/20 [00:12\u003c00:03,  1.61it/s]\u001b[A\n"}
+,{"stream_name":"stdout","time":451.767923789,"data":"\n"}
+,{"stream_name":"stdout","time":452.02684304,"data":"Sample frames: 16:  80%|████████  | 16/20 [00:14\u003c00:03,  1.00it/s]\u001b[A\n"}
+,{"stream_name":"stdout","time":452.027838112,"data":"\n"}
+,{"stream_name":"stdout","time":452.279988029,"data":"Sample frames: 16:  85%|████████▌ | 17/20 [00:14\u003c00:02,  1.29it/s]\u001b[A\n"}
+,{"stream_name":"stdout","time":452.280916766,"data":"\n"}
+,{"stream_name":"stdout","time":454.17774279,"data":"Sample frames: 16:  90%|█████████ | 18/20 [00:14\u003c00:01,  1.62it/s]\u001b[A\n"}
+,{"stream_name":"stdout","time":454.17850429,"data":"\n"}
+,{"stream_name":"stdout","time":454.440739557,"data":"Sample frames: 16:  95%|█████████▌| 19/20 [00:16\u003c00:01,  1.00s/it]\u001b[A\n"}
+,{"stream_name":"stdout","time":454.441781532,"data":"\n"}
+,{"stream_name":"stdout","time":454.442709135,"data":"Sample frames: 16: 100%|██████████| 20/20 [00:17\u003c00:00,  1.28it/s]\u001b[A\n"}
+,{"stream_name":"stdout","time":454.443527641,"data":"Sample frames: 16: 100%|██████████| 20/20 [00:17\u003c00:00,  1.17it/s]\n"}
+,{"stream_name":"stdout","time":456.262773785,"data":"\n"}
+,{"stream_name":"stdout","time":456.263751795,"data":"Doing inference...: 100%|██████████| 4/4 [01:22\u003c00:00, 20.58s/it]\n"}
+,{"stream_name":"stdout","time":456.264622771,"data":"Doing inference...: 100%|██████████| 4/4 [01:22\u003c00:00, 20.75s/it]\n"}
+,{"stream_name":"stdout","time":456.265343381,"data":"Restoring 61 faces...\n"}
+,{"stream_name":"stdout","time":456.266146112,"data":"\n"}
+,{"stream_name":"stdout","time":456.58273014,"data":"  0%|          | 0/61 [00:00\u003c?, ?it/s]\n"}
+,{"stream_name":"stdout","time":456.684586337,"data":"  2%|▏         | 1/61 [00:00\u003c00:19,  3.12it/s]\n"}
+,{"stream_name":"stdout","time":456.818646462,"data":"  7%|▋         | 4/61 [00:00\u003c00:05, 11.36it/s]\n"}
+,{"stream_name":"stdout","time":456.948069695,"data":" 13%|█▎        | 8/61 [00:00\u003c00:02, 18.21it/s]\n"}
+,{"stream_name":"stdout","time":457.049862687,"data":" 20%|█▉        | 12/61 [00:00\u003c00:02, 22.52it/s]\n"}
+,{"stream_name":"stdout","time":457.181031223,"data":" 25%|██▍       | 15/61 [00:00\u003c00:01, 24.42it/s]\n"}
+,{"stream_name":"stdout","time":457.281752966,"data":" 31%|███       | 19/61 [00:00\u003c00:01, 26.45it/s]\n"}
+,{"stream_name":"stdout","time":457.412043918,"data":" 36%|███▌      | 22/61 [00:01\u003c00:01, 27.35it/s]\n"}
+,{"stream_name":"stdout","time":457.542331,"data":" 43%|████▎     | 26/61 [00:01\u003c00:01, 28.46it/s]\n"}
+,{"stream_name":"stdout","time":457.675366775,"data":" 49%|████▉     | 30/61 [00:01\u003c00:01, 29.18it/s]\n"}
+,{"stream_name":"stdout","time":457.811485901,"data":" 56%|█████▌    | 34/61 [00:01\u003c00:00, 29.45it/s]\n"}
+,{"stream_name":"stdout","time":457.912365493,"data":" 62%|██████▏   | 38/61 [00:01\u003c00:00, 29.44it/s]\n"}
+,{"stream_name":"stdout","time":458.015798634,"data":" 67%|██████▋   | 41/61 [00:01\u003c00:00, 29.53it/s]\n"}
+,{"stream_name":"stdout","time":458.125292214,"data":" 72%|███████▏  | 44/61 [00:01\u003c00:00, 29.37it/s]\n"}
+,{"stream_name":"stdout","time":458.232363,"data":" 77%|███████▋  | 47/61 [00:01\u003c00:00, 28.81it/s]\n"}
+,{"stream_name":"stdout","time":458.341812512,"data":" 82%|████████▏ | 50/61 [00:01\u003c00:00, 28.56it/s]\n"}
+,{"stream_name":"stdout","time":458.447928495,"data":" 87%|████████▋ | 53/61 [00:02\u003c00:00, 28.24it/s]\n"}
+,{"stream_name":"stdout","time":458.55217126,"data":" 92%|█████████▏| 56/61 [00:02\u003c00:00, 28.28it/s]\n"}
+,{"stream_name":"stdout","time":458.624467957,"data":" 97%|█████████▋| 59/61 [00:02\u003c00:00, 28.42it/s]\n"}
+,{"stream_name":"stdout","time":458.62635843,"data":"100%|██████████| 61/61 [00:02\u003c00:00, 25.86it/s]\n"}
+,{"stream_name":"stdout","time":476.777315899,"data":"[exit 0 after 170s]\n"}
+,{"stream_name":"stdout","time":476.778266063,"data":"== 1/1 d6c1e78e_s1_orig.mp4: OK (configs/unet/stage2.yaml)\n"}
+,{"stream_name":"stdout","time":476.779529639,"data":"DONE 1/1\n"}
+,{"stream_name":"stderr","time":479.389956085,"data":"/usr/local/lib/python3.13/dist-packages/mistune.py:435: SyntaxWarning: invalid escape sequence '\\|'\n"}
+,{"stream_name":"stderr","time":479.389996768,"data":"  cells[i][c] = re.sub('\\\\\\\\\\|', '|', cell)\n"}
+,{"stream_name":"stderr","time":479.559483602,"data":"/usr/local/lib/python3.13/dist-packages/nbconvert/filters/filter_links.py:36: SyntaxWarning: invalid escape sequence '\\_'\n"}
+,{"stream_name":"stderr","time":479.559518962,"data":"  text = re.sub(r'_', '\\_', text) # Escape underscores in display text\n"}
+,{"stream_name":"stderr","time":480.354182436,"data":"[NbConvertApp] Converting notebook __notebook__.ipynb to notebook\n"}
+,{"stream_name":"stderr","time":480.533947027,"data":"[NbConvertApp] Writing 402253 bytes to __notebook__.ipynb\n"}
+,{"stream_name":"stderr","time":483.113515308,"data":"[NbConvertApp] Converting notebook __notebook__.ipynb to html\n"}
+,{"stream_name":"stderr","time":483.662451466,"data":"[NbConvertApp] Writing 611669 bytes to __results__.html\n"}
+]

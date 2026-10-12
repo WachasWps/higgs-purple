@@ -1,0 +1,173 @@
+{
+ "video_id": "fe7174d4",
+ "style": "product_ad",
+ "duration": 24.788,
+ "cast": [
+  {
+   "id": "narrator",
+   "name": "Narrator",
+   "role": "narrator",
+   "description": "calm, premium female ad narrator",
+   "ref_file": "work/71e0977a/stems/vocals.wav",
+   "ref_ranges": [
+    [
+     9.32,
+     12.54
+    ],
+    [
+     13.68,
+     16.56
+    ]
+   ],
+   "fx": "none",
+   "pitch_semitones": 0
+  }
+ ],
+ "lines": [
+  {
+   "id": 1,
+   "speaker": "narrator",
+   "start": 0.15,
+   "end": 2.1,
+   "max_end": 2.1,
+   "window_end": 2.1,
+   "en": "Stepping out unprotected?",
+   "tag": null,
+   "keep_original": false,
+   "bn": "",
+   "ta": "",
+   "te": "",
+   "ml": "",
+   "or": ""
+  },
+  {
+   "id": 2,
+   "speaker": "narrator",
+   "start": 2.2,
+   "end": 4.7,
+   "max_end": 4.7,
+   "window_end": 4.7,
+   "en": "DERMDOC 4% Niacinamide sunscreen.",
+   "tag": null,
+   "keep_original": false,
+   "bn": "",
+   "ta": "",
+   "te": "",
+   "ml": "",
+   "or": ""
+  },
+  {
+   "id": 3,
+   "speaker": "narrator",
+   "start": 4.9,
+   "end": 7.8,
+   "max_end": 7.8,
+   "window_end": 7.8,
+   "en": "SPF 50 PA+++.",
+   "tag": null,
+   "keep_original": false,
+   "bn": "",
+   "ta": "",
+   "te": "",
+   "ml": "",
+   "or": ""
+  },
+  {
+   "id": 4,
+   "speaker": "narrator",
+   "start": 7.9,
+   "end": 10.7,
+   "max_end": 10.7,
+   "window_end": 10.7,
+   "en": "And the purple tint? Instant glow.",
+   "tag": null,
+   "keep_original": false,
+   "bn": "",
+   "ta": "",
+   "te": "",
+   "ml": "",
+   "or": ""
+  },
+  {
+   "id": 5,
+   "speaker": "narrator",
+   "start": 10.75,
+   "end": 12.9,
+   "max_end": 12.9,
+   "window_end": 12.9,
+   "en": "Purple cancels yellow dullness.",
+   "tag": null,
+   "keep_original": false,
+   "bn": "",
+   "ta": "",
+   "te": "",
+   "ml": "",
+   "or": ""
+  },
+  {
+   "id": 6,
+   "speaker": "narrator",
+   "start": 12.95,
+   "end": 15.2,
+   "max_end": 15.2,
+   "window_end": 15.2,
+   "en": "Non-greasy, fast-absorbing.",
+   "tag": null,
+   "keep_original": false,
+   "bn": "",
+   "ta": "",
+   "te": "",
+   "ml": "",
+   "or": ""
+  },
+  {
+   "id": 7,
+   "speaker": "narrator",
+   "start": 15.25,
+   "end": 17.0,
+   "max_end": 17.0,
+   "window_end": 17.0,
+   "en": "Balances skin tone.",
+   "tag": null,
+   "keep_original": false,
+   "bn": "",
+   "ta": "",
+   "te": "",
+   "ml": "",
+   "or": ""
+  },
+  {
+   "id": 8,
+   "speaker": "narrator",
+   "start": 17.05,
+   "end": 19.8,
+   "max_end": 19.8,
+   "window_end": 19.8,
+   "en": "Made for Indian skin.",
+   "tag": null,
+   "keep_original": false,
+   "bn": "",
+   "ta": "",
+   "te": "",
+   "ml": "",
+   "or": ""
+  },
+  {
+   "id": 9,
+   "speaker": "narrator",
+   "start": 20.0,
+   "end": 24.3,
+   "max_end": 24.3,
+   "window_end": 24.3,
+   "en": "Shop now at Purplle.com.",
+   "tag": null,
+   "keep_original": false,
+   "bn": "",
+   "ta": "",
+   "te": "",
+   "ml": "",
+   "or": ""
+  }
+ ],
+ "notes": "user's own General Ad (user_ps_ads/ps2.mp4); English VO written shot by shot"
+}

@@ -1,0 +1,38 @@
+[
+ {
+  "id": 1,
+  "speaker": "narrator",
+  "cer": 0.16,
+  "heard": "डারক স্পট ধেকে রখা কুনু সমাধান নোয।"
+ },
+ {
+  "id": 2,
+  "speaker": "narrator",
+  "cer": 0.15,
+  "heard": "Ahollo Dumbdog 2% Kojic Acid Night Cream"
+ },
+ {
+  "id": 3,
+  "speaker": "narrator",
+  "cer": 0.15,
+  "heard": "Ayr Glow, Fusion Formula, Manecotic Acid, Niacinamide & Alpha Arvotin"
+ },
+ {
+  "id": 4,
+  "speaker": "narrator",
+  "cer": 0.29,
+  "heard": "डর্ক সবট কম দেখাতে শাহাজু করি।"
+ },
+ {
+  "id": 5,
+  "speaker": "narrator",
+  "cer": 0.2,
+  "heard": "रাতে লাগন শকালে উটুন গ্লোনিয়ে।"
+ },
+ {
+  "id": 6,
+  "speaker": "narrator",
+  "cer": 0.33,
+  "heard": "আরো বরাইর আরো এরেন লোকিণ সকিন."
+ }
+]

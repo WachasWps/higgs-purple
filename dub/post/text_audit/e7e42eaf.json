@@ -1,0 +1,628 @@
+[
+ {
+  "n": 4,
+  "text": "ULTRA VIOLET",
+  "variants": [
+   "ULTRA VIOLET"
+  ],
+  "start": 3.33,
+  "end": 5.33,
+  "box": [
+   0.4646,
+   0.2617,
+   0.5625,
+   0.5
+  ],
+  "height": 0.2382,
+  "suspect_words": []
+ },
+ {
+  "n": 10,
+  "text": "DERMDOC",
+  "variants": [
+   "DERMDOC"
+  ],
+  "start": 3.67,
+  "end": 5.33,
+  "box": [
+   0.4875,
+   0.2012,
+   0.8042,
+   0.2369
+  ],
+  "height": 0.0356,
+  "suspect_words": []
+ },
+ {
+  "n": 11,
+  "text": "Honest Science",
+  "variants": [
+   "Honest Science"
+  ],
+  "start": 3.67,
+  "end": 5.33,
+  "box": [
+   0.5202,
+   0.2292,
+   0.7667,
+   0.2553
+  ],
+  "height": 0.0261,
+  "suspect_words": []
+ },
+ {
+  "n": 12,
+  "text": "4% NIACINAMIDE",
+  "variants": [
+   "4% NIACINAMIDE"
+  ],
+  "start": 3.67,
+  "end": 5.33,
+  "box": [
+   0.5292,
+   0.3263,
+   0.7958,
+   0.3543
+  ],
+  "height": 0.028,
+  "suspect_words": []
+ },
+ {
+  "n": 13,
+  "text": "WITH SPF 50 PA+++",
+  "variants": [
+   "WITH 5PF 50 PA+++",
+   "WITH SPF 50 PA+++",
+   "WITH SPF SO PA+++",
+   "WITH SPF SO PA..."
+  ],
+  "start": 3.67,
+  "end": 5.33,
+  "box": [
+   0.5292,
+   0.344,
+   0.7583,
+   0.366
+  ],
+  "height": 0.022,
+  "suspect_words": []
+ },
+ {
+  "n": 14,
+  "text": "BRIGHTENING",
+  "variants": [
+   "BRIGHTENING"
+  ],
+  "start": 3.67,
+  "end": 5.33,
+  "box": [
+   0.504,
+   0.4574,
+   0.7136,
+   0.4853
+  ],
+  "height": 0.0279,
+  "suspect_words": []
+ },
+ {
+  "n": 15,
+  "text": "SUNSCREEN",
+  "variants": [
+   "SUNSCREEN"
+  ],
+  "start": 3.67,
+  "end": 5.33,
+  "box": [
+   0.5123,
+   0.4776,
+   0.6959,
+   0.5041
+  ],
+  "height": 0.0265,
+  "suspect_words": []
+ },
+ {
+  "n": 16,
+  "text": "FOR FAJR TO MEDIUM SKIN",
+  "variants": [
+   "FOR FAJR TO MEDIUM SKIN",
+   "FOR PAIR TO MEDIUN SKIN",
+   "TOR FAIR TO MEDIUM SICIN",
+   "TOR FAM TO MEDUN SKIN"
+  ],
+  "start": 3.67,
+  "end": 5.33,
+  "box": [
+   0.5034,
+   0.5012,
+   0.7051,
+   0.5227
+  ],
+  "height": 0.0215,
+  "suspect_words": [
+   "FAJR",
+   "MEDIUN",
+   "MEDUN",
+   "SICIN"
+  ],
+  "crop": "post/text_audit/e7e42eaf_16.png"
+ },
+ {
+  "n": 26,
+  "text": "SPF 50",
+  "variants": [
+   "SPF 50"
+  ],
+  "start": 6.0,
+  "end": 7.33,
+  "box": [
+   0.4069,
+   0.4426,
+   0.55,
+   0.4731
+  ],
+  "height": 0.0304,
+  "suspect_words": []
+ },
+ {
+  "n": 27,
+  "text": "PAH*",
+  "variants": [
+   "PA+H",
+   "PAH",
+   "PAH*",
+   "PAH+"
+  ],
+  "start": 6.0,
+  "end": 7.33,
+  "box": [
+   0.4185,
+   0.466,
+   0.5417,
+   0.4941
+  ],
+  "height": 0.0281,
+  "suspect_words": []
+ },
+ {
+  "n": 28,
+  "text": "SPF 50 PA+++",
+  "variants": [
+   "SPF 50 PA+++"
+  ],
+  "start": 6.67,
+  "end": 8.33,
+  "box": [
+   0.2208,
+   0.7658,
+   0.7833,
+   0.8103
+  ],
+  "height": 0.0445,
+  "suspect_words": []
+ },
+ {
+  "n": 29,
+  "text": "Broad-Spectrum Protection",
+  "variants": [
+   "Broad-Spectrum Protection"
+  ],
+  "start": 6.67,
+  "end": 8.33,
+  "box": [
+   0.1417,
+   0.8173,
+   0.8542,
+   0.8525
+  ],
+  "height": 0.0351,
+  "suspect_words": [
+   "Broad-Spectrum"
+  ],
+  "crop": "post/text_audit/e7e42eaf_29.png"
+ },
+ {
+  "n": 30,
+  "text": "SPF 50",
+  "variants": [
+   "SPF 50",
+   "SPF SO"
+  ],
+  "start": 7.33,
+  "end": 8.33,
+  "box": [
+   0.4947,
+   0.4262,
+   0.6417,
+   0.4574
+  ],
+  "height": 0.0312,
+  "suspect_words": []
+ },
+ {
+  "n": 31,
+  "text": "PA++",
+  "variants": [
+   "PA++",
+   "PA+++",
+   "PAH+"
+  ],
+  "start": 7.33,
+  "end": 8.33,
+  "box": [
+   0.5083,
+   0.452,
+   0.6292,
+   0.4801
+  ],
+  "height": 0.0281,
+  "suspect_words": []
+ },
+ {
+  "n": 32,
+  "text": "Purple Tint",
+  "variants": [
+   "Purple Tint"
+  ],
+  "start": 9.33,
+  "end": 11.0,
+  "box": [
+   0.2583,
+   0.7471,
+   0.7294,
+   0.8109
+  ],
+  "height": 0.0638,
+  "suspect_words": []
+ },
+ {
+  "n": 33,
+  "text": "No Ashy White Cast",
+  "variants": [
+   "No Ashy White Cast"
+  ],
+  "start": 9.33,
+  "end": 11.0,
+  "box": [
+   0.2292,
+   0.815,
+   0.775,
+   0.8525
+  ],
+  "height": 0.0375,
+  "suspect_words": []
+ },
+ {
+  "n": 34,
+  "text": "4% Niacinamide",
+  "variants": [
+   "4% Niacinamide"
+  ],
+  "start": 12.33,
+  "end": 14.0,
+  "box": [
+   0.1792,
+   0.7635,
+   0.8125,
+   0.8126
+  ],
+  "height": 0.0492,
+  "suspect_words": []
+ },
+ {
+  "n": 35,
+  "text": "Brightens Dull-Looking Skin",
+  "variants": [
+   "Brightens Dull-Looking Skin"
+  ],
+  "start": 12.33,
+  "end": 14.0,
+  "box": [
+   0.1375,
+   0.815,
+   0.8625,
+   0.8548
+  ],
+  "height": 0.0398,
+  "suspect_words": [
+   "Dull-Looking"
+  ],
+  "crop": "post/text_audit/e7e42eaf_35.png"
+ },
+ {
+  "n": 50,
+  "text": "ULTRA VIOLET",
+  "variants": [
+   "JLTRA VIOLET",
+   "LTRA VIOLET",
+   "TRA VIOLET",
+   "ULTRA VIOLET"
+  ],
+  "start": 14.33,
+  "end": 17.0,
+  "box": [
+   0.265,
+   0.2683,
+   0.3687,
+   0.5374
+  ],
+  "height": 0.2691,
+  "suspect_words": [
+   "JLTRA",
+   "LTRA"
+  ],
+  "crop": "post/text_audit/e7e42eaf_50.png"
+ },
+ {
+  "n": 51,
+  "text": "4% NIACINAMIDE",
+  "variants": [
+   "4% NIACINAMIDE"
+  ],
+  "start": 14.33,
+  "end": 17.0,
+  "box": [
+   0.3542,
+   0.363,
+   0.6833,
+   0.4005
+  ],
+  "height": 0.0375,
+  "suspect_words": []
+ },
+ {
+  "n": 52,
+  "text": "WITH SPF 50 PA+++",
+  "variants": [
+   "WITH SPF 50 PA+++"
+  ],
+  "start": 14.33,
+  "end": 17.0,
+  "box": [
+   0.3625,
+   0.3864,
+   0.6417,
+   0.4145
+  ],
+  "height": 0.0281,
+  "suspect_words": []
+ },
+ {
+  "n": 53,
+  "text": "Balances uneven ckin tons and",
+  "variants": [
+   "Balances uneven ckin tons and",
+   "Balances uneven ekin tons and",
+   "Balances uneven skin tans and",
+   "Balances uneven skin tons and"
+  ],
+  "start": 14.33,
+  "end": 17.0,
+  "box": [
+   0.3583,
+   0.4215,
+   0.6542,
+   0.4405
+  ],
+  "height": 0.019,
+  "suspect_words": [
+   "ckin",
+   "ekin"
+  ],
+  "crop": "post/text_audit/e7e42eaf_53.png"
+ },
+ {
+  "n": 54,
+  "text": "leaves an instant rediant glow",
+  "variants": [
+   "leaves an instant fediant flow",
+   "leaves an instant radiant glow",
+   "leaves an instant rediant glow",
+   "leaves an instant rodiant glow",
+   "vies an matant footant fiow"
+  ],
+  "start": 14.33,
+  "end": 17.0,
+  "box": [
+   0.3625,
+   0.4356,
+   0.6417,
+   0.452
+  ],
+  "height": 0.0164,
+  "suspect_words": [
+   "fediant",
+   "fiow",
+   "footant",
+   "matant",
+   "rediant",
+   "rodiant"
+  ],
+  "crop": "post/text_audit/e7e42eaf_54.png"
+ },
+ {
+  "n": 58,
+  "text": "DERMDOC",
+  "variants": [
+   "DERMDOC"
+  ],
+  "start": 14.67,
+  "end": 17.0,
+  "box": [
+   0.3083,
+   0.2155,
+   0.6542,
+   0.267
+  ],
+  "height": 0.0515,
+  "suspect_words": []
+ },
+ {
+  "n": 59,
+  "text": "Honest Science",
+  "variants": [
+   "Honest Science"
+  ],
+  "start": 14.67,
+  "end": 17.0,
+  "box": [
+   0.3417,
+   0.2529,
+   0.6083,
+   0.2881
+  ],
+  "height": 0.0351,
+  "suspect_words": []
+ },
+ {
+  "n": 60,
+  "text": "BRIGHTENING",
+  "variants": [
+   "BRIGHTENING"
+  ],
+  "start": 14.67,
+  "end": 17.0,
+  "box": [
+   0.3625,
+   0.5316,
+   0.5917,
+   0.5574
+  ],
+  "height": 0.0258,
+  "suspect_words": []
+ },
+ {
+  "n": 61,
+  "text": "SUNSCREEN",
+  "variants": [
+   "SUNSCREEN"
+  ],
+  "start": 14.67,
+  "end": 17.0,
+  "box": [
+   0.3749,
+   0.55,
+   0.5751,
+   0.5786
+  ],
+  "height": 0.0287,
+  "suspect_words": []
+ },
+ {
+  "n": 62,
+  "text": "FOR PAIR TO MEDIUN SA",
+  "variants": [
+   "FOR FAIR TO MEDIUM SACE",
+   "FOR FAIR TO MEDIUN SKIN",
+   "FOR PAIR TO MEDIUM SEN",
+   "FOR PAIR TO MEDIUM SION",
+   "FOR PAIR TO MEDIUM SKIN",
+   "FOR PAIR TO MEDIUN SA"
+  ],
+  "start": 14.67,
+  "end": 17.0,
+  "box": [
+   0.3708,
+   0.5761,
+   0.5875,
+   0.5972
+  ],
+  "height": 0.0211,
+  "suspect_words": [
+   "MEDIUN",
+   "SACE"
+  ],
+  "crop": "post/text_audit/e7e42eaf_62.png"
+ },
+ {
+  "n": 63,
+  "text": "SPF 50",
+  "variants": [
+   "SPF 50"
+  ],
+  "start": 14.67,
+  "end": 17.0,
+  "box": [
+   0.1503,
+   0.5816,
+   0.3081,
+   0.6318
+  ],
+  "height": 0.0502,
+  "suspect_words": []
+ },
+ {
+  "n": 64,
+  "text": "PA+++",
+  "variants": [
+   "PA++",
+   "PA+++"
+  ],
+  "start": 14.67,
+  "end": 17.0,
+  "box": [
+   0.1583,
+   0.6031,
+   0.2992,
+   0.6464
+  ],
+  "height": 0.0432,
+  "suspect_words": []
+ },
+ {
+  "n": 67,
+  "text": "SPF 50 PA+++ | 4% NIACINAMIDE FOR INDIAN SKIN",
+  "variants": [
+   "14% NIACINAMIDE FORGED",
+   "SPF 50 PA+++ | 4% NIACINAMIDE FOR INDIAN SKIN"
+  ],
+  "start": 15.0,
+  "end": 17.0,
+  "box": [
+   0.0917,
+   0.8735,
+   0.9,
+   0.9133
+  ],
+  "height": 0.0398,
+  "suspect_words": []
+ },
+ {
+  "n": 68,
+  "text": "DERMDOC ULTRA VIOLET",
+  "variants": [
+   "DERMDOC ULTRA VIOLET",
+   "DÉŘMDOC ULTRA VIOLET"
+  ],
+  "start": 15.33,
+  "end": 17.0,
+  "box": [
+   0.1958,
+   0.8009,
+   0.8,
+   0.8407
+  ],
+  "height": 0.0398,
+  "suspect_words": [
+   "MDOC"
+  ],
+  "crop": "post/text_audit/e7e42eaf_68.png"
+ },
+ {
+  "n": 69,
+  "text": "BRIGHTENING SUNSCREEN",
+  "variants": [
+   "BRIGHTENING SUNSCREEN"
+  ],
+  "start": 15.33,
+  "end": 17.0,
+  "box": [
+   0.1708,
+   0.8384,
+   0.8208,
+   0.8735
+  ],
+  "height": 0.0351,
+  "suspect_words": []
+ }
+]

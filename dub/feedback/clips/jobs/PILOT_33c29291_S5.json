@@ -1,0 +1,31 @@
+[
+  {
+    "created_at": "2026-10-09T17:35:07.319687Z",
+    "display_name": "Wan 3.0",
+    "id": "e7712b1e-80c0-404e-a8e5-fb39a5caf79d",
+    "job_type": "wan3_0",
+    "min_result_url": null,
+    "params": {
+      "aspect_ratio": "9:16",
+      "duration": 5,
+      "generate_audio": false,
+      "height": 1344,
+      "medias": [
+        {
+          "data": {
+            "id": "04353aa1-7721-432c-89eb-d28f5c75c670",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3A6ZxB95Mnf55lwPBqzkePnTfzA/04353aa1-7721-432c-89eb-d28f5c75c670.png"
+          },
+          "role": "start_image"
+        }
+      ],
+      "prompt": "She smiles and turns toward the camera, glowing even skin catching the warm light; the little colour wheel glows softly; the white-cast blob shrinks back, confused; camera static. Keep the exact look of the first frame: same real woman, same cartoon mascot design with its lavender cap on, same villain; smooth natural motion; product label stays exactly as in the first frame; no text appears.",
+      "resolution": "480p",
+      "width": 768
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3A6ZxB95Mnf55lwPBqzkePnTfzA/hf_20261009_173507_e7712b1e-80c0-404e-a8e5-fb39a5caf79d.mp4",
+    "status": "completed",
+    "thumbnail_url": "https://cdn.higgsfield.ai/user_3A6ZxB95Mnf55lwPBqzkePnTfzA/hf_20261009_173507_e7712b1e-80c0-404e-a8e5-fb39a5caf79d_thumbnail.webp"
+  }
+]

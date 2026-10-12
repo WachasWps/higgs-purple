@@ -1,0 +1,584 @@
+[
+ {
+  "n": 2,
+  "text": "Dark spots again?",
+  "variants": [
+   "Dark sp",
+   "Dark spots again?"
+  ],
+  "start": 0.0,
+  "end": 2.33,
+  "box": [
+   0.2572,
+   0.8103,
+   0.7458,
+   0.8454
+  ],
+  "height": 0.0351,
+  "suspect_words": []
+ },
+ {
+  "n": 3,
+  "text": "25G HOJIC ACID",
+  "variants": [
+   "2% POJIC ACID",
+   "2% ROJIC ACID",
+   "25G HOJIC ACID"
+  ],
+  "start": 0.67,
+  "end": 2.33,
+  "box": [
+   0.5663,
+   0.5906,
+   0.7613,
+   0.6433
+  ],
+  "height": 0.0527,
+  "suspect_words": [
+   "HOJIC",
+   "POJIC",
+   "ROJIC"
+  ],
+  "crop": "post/text_audit/f7ce58d4_3.png"
+ },
+ {
+  "n": 5,
+  "text": "2% aDJIC ACID",
+  "variants": [
+   "2% aDJIC ACID",
+   "2% вОДС ACD"
+  ],
+  "start": 1.0,
+  "end": 2.0,
+  "box": [
+   0.5979,
+   0.5906,
+   0.7571,
+   0.6323
+  ],
+  "height": 0.0417,
+  "suspect_words": [
+   "ACD",
+   "aDJIC"
+  ],
+  "crop": "post/text_audit/f7ce58d4_5.png"
+ },
+ {
+  "n": 7,
+  "text": "ERADOC",
+  "variants": [
+   "ERADOC",
+   "KENDOC"
+  ],
+  "start": 1.67,
+  "end": 2.33,
+  "box": [
+   0.5154,
+   0.589,
+   0.6166,
+   0.6283
+  ],
+  "height": 0.0392,
+  "suspect_words": [
+   "ERADOC",
+   "KENDOC"
+  ],
+  "crop": "post/text_audit/f7ce58d4_7.png"
+ },
+ {
+  "n": 9,
+  "text": "DERMDOC",
+  "variants": [
+   "DERMDOC"
+  ],
+  "start": 2.33,
+  "end": 5.0,
+  "box": [
+   0.2271,
+   0.6686,
+   0.4381,
+   0.7283
+  ],
+  "height": 0.0597,
+  "suspect_words": []
+ },
+ {
+  "n": 10,
+  "text": "Honest Science",
+  "variants": [
+   "Honest Science",
+   "Honest Sclence",
+   "Tonest Sclence",
+   "Torest Science",
+   "Werent Salance",
+   "forest Sclence"
+  ],
+  "start": 2.33,
+  "end": 5.0,
+  "box": [
+   0.2457,
+   0.6931,
+   0.4179,
+   0.7484
+  ],
+  "height": 0.0554,
+  "suspect_words": [
+   "Salance",
+   "Sclence",
+   "Tonest",
+   "Torest"
+  ],
+  "crop": "post/text_audit/f7ce58d4_10.png"
+ },
+ {
+  "n": 11,
+  "text": "2% KOJIC ACID",
+  "variants": [
+   "2% KOJIC ACID"
+  ],
+  "start": 2.33,
+  "end": 5.0,
+  "box": [
+   0.4414,
+   0.6518,
+   0.6711,
+   0.6942
+  ],
+  "height": 0.0424,
+  "suspect_words": []
+ },
+ {
+  "n": 12,
+  "text": "GLOW FUSION FORMULA",
+  "variants": [
+   "GLOW FUSION FORMULA"
+  ],
+  "start": 2.33,
+  "end": 5.0,
+  "box": [
+   0.445,
+   0.6979,
+   0.68,
+   0.7386
+  ],
+  "height": 0.0407,
+  "suspect_words": []
+ },
+ {
+  "n": 13,
+  "text": "NIGHT CREAM",
+  "variants": [
+   "NIGHT CREAM"
+  ],
+  "start": 2.33,
+  "end": 5.0,
+  "box": [
+   0.4455,
+   0.7293,
+   0.6126,
+   0.7707
+  ],
+  "height": 0.0414,
+  "suspect_words": []
+ },
+ {
+  "n": 14,
+  "text": "ALL SKIN TYPES",
+  "variants": [
+   "ALL SKIN TYPES"
+  ],
+  "start": 2.33,
+  "end": 4.0,
+  "box": [
+   0.4417,
+   0.7564,
+   0.5875,
+   0.7822
+  ],
+  "height": 0.0258,
+  "suspect_words": []
+ },
+ {
+  "n": 18,
+  "text": "ALL SKIN TYPES",
+  "variants": [
+   "ALL SKIN TYPES"
+  ],
+  "start": 4.33,
+  "end": 5.0,
+  "box": [
+   0.4458,
+   0.7447,
+   0.5792,
+   0.7588
+  ],
+  "height": 0.0141,
+  "suspect_words": []
+ },
+ {
+  "n": 19,
+  "text": "2% Kojic Acid",
+  "variants": [
+   "2% Kojic Acid"
+  ],
+  "start": 5.0,
+  "end": 7.0,
+  "box": [
+   0.2624,
+   0.8053,
+   0.7293,
+   0.8505
+  ],
+  "height": 0.0452,
+  "suspect_words": []
+ },
+ {
+  "n": 20,
+  "text": "Targets dark spots",
+  "variants": [
+   "Targets dark spots"
+  ],
+  "start": 5.0,
+  "end": 7.0,
+  "box": [
+   0.2792,
+   0.8571,
+   0.7167,
+   0.8899
+  ],
+  "height": 0.0328,
+  "suspect_words": []
+ },
+ {
+  "n": 21,
+  "text": "Niacinamide",
+  "variants": [
+   "Niacinamide"
+  ],
+  "start": 7.0,
+  "end": 8.33,
+  "box": [
+   0.2833,
+   0.8056,
+   0.7208,
+   0.8431
+  ],
+  "height": 0.0375,
+  "suspect_words": []
+ },
+ {
+  "n": 22,
+  "text": "Brightens dull-looking skin",
+  "variants": [
+   "Brightens dull-looking skin"
+  ],
+  "start": 7.0,
+  "end": 8.33,
+  "box": [
+   0.1875,
+   0.8548,
+   0.8167,
+   0.8899
+  ],
+  "height": 0.0351,
+  "suspect_words": [
+   "dull-looking"
+  ],
+  "crop": "post/text_audit/f7ce58d4_22.png"
+ },
+ {
+  "n": 23,
+  "text": "Alpha Arbutie",
+  "variants": [
+   "Alpha Arbutie"
+  ],
+  "start": 8.33,
+  "end": 10.0,
+  "box": [
+   0.2541,
+   0.8047,
+   0.7419,
+   0.8528
+  ],
+  "height": 0.048,
+  "suspect_words": [
+   "Arbutie"
+  ],
+  "crop": "post/text_audit/f7ce58d4_23.png"
+ },
+ {
+  "n": 24,
+  "text": "Halps even skin tone",
+  "variants": [
+   "Halps even skin tone"
+  ],
+  "start": 8.33,
+  "end": 10.0,
+  "box": [
+   0.2583,
+   0.8571,
+   0.7417,
+   0.8899
+  ],
+  "height": 0.0328,
+  "suspect_words": [
+   "Halps"
+  ],
+  "crop": "post/text_audit/f7ce58d4_24.png"
+ },
+ {
+  "n": 25,
+  "text": "After",
+  "variants": [
+   "After"
+  ],
+  "start": 12.0,
+  "end": 13.67,
+  "box": [
+   0.0833,
+   0.7694,
+   0.2674,
+   0.8103
+  ],
+  "height": 0.0409,
+  "suspect_words": []
+ },
+ {
+  "n": 26,
+  "text": "2 Weeks",
+  "variants": [
+   "2 Weeks"
+  ],
+  "start": 12.0,
+  "end": 13.67,
+  "box": [
+   0.0828,
+   0.8138,
+   0.4047,
+   0.8583
+  ],
+  "height": 0.0445,
+  "suspect_words": []
+ },
+ {
+  "n": 30,
+  "text": "2% KOJIC ACID",
+  "variants": [
+   "2% KOJIC ACID",
+   "2% KOJIC:"
+  ],
+  "start": 13.67,
+  "end": 14.33,
+  "box": [
+   0.4083,
+   0.5246,
+   0.7542,
+   0.5761
+  ],
+  "height": 0.0515,
+  "suspect_words": []
+ },
+ {
+  "n": 46,
+  "text": "Target Dark Spots",
+  "variants": [
+   "Target Dark Spots"
+  ],
+  "start": 14.0,
+  "end": 15.67,
+  "box": [
+   0.2292,
+   0.7424,
+   0.7792,
+   0.7845
+  ],
+  "height": 0.0422,
+  "suspect_words": []
+ },
+ {
+  "n": 47,
+  "text": "While You Sleep",
+  "variants": [
+   "While You Sleep"
+  ],
+  "start": 14.0,
+  "end": 16.0,
+  "box": [
+   0.2542,
+   0.7892,
+   0.75,
+   0.8314
+  ],
+  "height": 0.0422,
+  "suspect_words": []
+ },
+ {
+  "n": 50,
+  "text": "DERMDOC",
+  "variants": [
+   "DERMDOC",
+   "ERMDOC",
+   "PERMDOC"
+  ],
+  "start": 14.33,
+  "end": 17.0,
+  "box": [
+   0.2167,
+   0.5199,
+   0.4508,
+   0.5761
+  ],
+  "height": 0.0562,
+  "suspect_words": [
+   "ERMDOC",
+   "PERMDOC"
+  ],
+  "crop": "post/text_audit/f7ce58d4_50.png"
+ },
+ {
+  "n": 52,
+  "text": "2% KOJIC ACID",
+  "variants": [
+   "2% KOJIC ACID"
+  ],
+  "start": 14.33,
+  "end": 17.0,
+  "box": [
+   0.4417,
+   0.4977,
+   0.6875,
+   0.534
+  ],
+  "height": 0.0363,
+  "suspect_words": []
+ },
+ {
+  "n": 59,
+  "text": "DERMDOC",
+  "variants": [
+   "DERMDOC"
+  ],
+  "start": 14.67,
+  "end": 17.0,
+  "box": [
+   0.2083,
+   0.1593,
+   0.7833,
+   0.26
+  ],
+  "height": 0.1007,
+  "suspect_words": []
+ },
+ {
+  "n": 68,
+  "text": "Honest Science",
+  "variants": [
+   "Honest Science"
+  ],
+  "start": 15.0,
+  "end": 17.0,
+  "box": [
+   0.3083,
+   0.2412,
+   0.6833,
+   0.2904
+  ],
+  "height": 0.0492,
+  "suspect_words": []
+ },
+ {
+  "n": 69,
+  "text": "Dennt Science",
+  "variants": [
+   "Dennt Science",
+   "Fenst Stence",
+   "Grent Scence",
+   "lovest Sclancel",
+   "rent Silence",
+   "sonet Sdence"
+  ],
+  "start": 15.0,
+  "end": 17.0,
+  "box": [
+   0.2917,
+   0.5386,
+   0.4333,
+   0.5691
+  ],
+  "height": 0.0304,
+  "suspect_words": [
+   "Dennt",
+   "Fenst",
+   "Grent",
+   "Scence",
+   "Sclancel",
+   "Sdence",
+   "Stence",
+   "lovest",
+   "sonet"
+  ],
+  "crop": "post/text_audit/f7ce58d4_69.png"
+ },
+ {
+  "n": 70,
+  "text": "GLOW FUSION FORMULA",
+  "variants": [
+   "GLOW FUSION FORMULA",
+   "LOW FUSION FOEME",
+   "LOW FUSION FORMULA"
+  ],
+  "start": 15.0,
+  "end": 17.0,
+  "box": [
+   0.4579,
+   0.5363,
+   0.65,
+   0.5597
+  ],
+  "height": 0.0234,
+  "suspect_words": [
+   "FOEME"
+  ],
+  "crop": "post/text_audit/f7ce58d4_70.png"
+ },
+ {
+  "n": 71,
+  "text": "NIGHT CREAM",
+  "variants": [
+   "NIGHT CREAM"
+  ],
+  "start": 15.0,
+  "end": 17.0,
+  "box": [
+   0.4583,
+   0.5597,
+   0.5958,
+   0.5855
+  ],
+  "height": 0.0258,
+  "suspect_words": []
+ },
+ {
+  "n": 72,
+  "text": "- Honeet Suience",
+  "variants": [
+   "- Honeet Suience",
+   "Ter Honeet Suience"
+  ],
+  "start": 15.67,
+  "end": 17.0,
+  "box": [
+   0.2083,
+   0.7424,
+   0.7917,
+   0.7752
+  ],
+  "height": 0.0328,
+  "suspect_words": [
+   "Honeet",
+   "Suience",
+   "Ter"
+  ],
+  "crop": "post/text_audit/f7ce58d4_72.png"
+ }
+]

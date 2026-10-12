@@ -1,0 +1,65 @@
+[
+ {
+  "id": 1,
+  "speaker": "creator",
+  "cer": 0.2,
+  "heard": "காலிலியே சகின் தல்லா இருக்கு",
+  "redub": true
+ },
+ {
+  "id": 2,
+  "speaker": "creator",
+  "cer": 0.16,
+  "heard": "தெரிஞ்சது கலர்வி இல்லை பர்பில் மஞ்சலுக்கு எதிர்?",
+  "redub": true
+ },
+ {
+  "id": 3,
+  "speaker": "creator",
+  "cer": 0.09,
+  "heard": "அதனால் டின்டு மஞ்சில் டல்னச குறைக்கு உதவும்",
+  "redub": true
+ },
+ {
+  "id": 4,
+  "speaker": "creator",
+  "cer": 0.11,
+  "heard": "வா, டிஸ்டிப்ணலாம்",
+  "redub": true
+ },
+ {
+  "id": 5,
+  "speaker": "creator",
+  "cer": 0.24,
+  "heard": "இந்தியன் சகினக்காக, பிரைட்டலுக் அதேட்டும்.",
+  "redub": true
+ },
+ {
+  "id": 6,
+  "speaker": "creator",
+  "cer": 0.15,
+  "heard": "גליρα плент, No White Cost, Instant Glow.",
+  "redub": true
+ },
+ {
+  "id": 7,
+  "speaker": "creator",
+  "cer": 0.19,
+  "heard": "உள்ளனாலு பரசன் நியாசி நமைட்",
+  "redub": true
+ },
+ {
+  "id": 8,
+  "speaker": "creator",
+  "cer": 0.15,
+  "heard": "SPF 50, PA++++",
+  "redub": true
+ },
+ {
+  "id": 9,
+  "speaker": "creator",
+  "cer": 0.15,
+  "heard": "dull as correct instant chlorதைसे",
+  "redub": true
+ }
+]

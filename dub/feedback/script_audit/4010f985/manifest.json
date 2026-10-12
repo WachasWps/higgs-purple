@@ -1,0 +1,251 @@
+{
+ "video": "4010f985",
+ "style": "product_ad",
+ "cast": [
+  {
+   "id": "narrator",
+   "name": "Narrator",
+   "description": "calm, premium female ad narrator"
+  }
+ ],
+ "lines": [
+  {
+   "id": 1,
+   "start": 0.2,
+   "end": 2.3,
+   "speaker": "narrator",
+   "en": "Dull, yellow-looking skin?"
+  },
+  {
+   "id": 2,
+   "start": 2.6,
+   "end": 5.5,
+   "speaker": "narrator",
+   "en": "Purple sits opposite yellow, so it helps cancel it out."
+  },
+  {
+   "id": 3,
+   "start": 5.8,
+   "end": 9.4,
+   "speaker": "narrator",
+   "en": "DERMDOC Ultra Violet, with 4% Niacinamide and SPF 50."
+  },
+  {
+   "id": 4,
+   "start": 9.8,
+   "end": 13.0,
+   "speaker": "narrator",
+   "en": "It blends in fully. No white cast, just Instant Glow."
+  },
+  {
+   "id": 5,
+   "start": 13.4,
+   "end": 15.8,
+   "speaker": "narrator",
+   "en": "Made for Indian skin tones."
+  }
+ ],
+ "shots": [
+  {
+   "n": 1,
+   "start": 0,
+   "end": 1.3,
+   "what": "USR_PS_DULL",
+   "frames": [
+    "s01_0.jpg",
+    "s01_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 1,
+     "start": 0.2,
+     "end": 2.3,
+     "speaker": "narrator",
+     "en": "Dull, yellow-looking skin?"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "start": 1.3,
+   "end": 2.5,
+   "what": "PS07_before_dull",
+   "frames": [
+    "s02_0.jpg",
+    "s02_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 1,
+     "start": 0.2,
+     "end": 2.3,
+     "speaker": "narrator",
+     "en": "Dull, yellow-looking skin?"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "start": 2.5,
+   "end": 5.6,
+   "what": "GRAPHIC_COLOUR_WHEEL",
+   "frames": [
+    "s03_0.jpg",
+    "s03_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 2,
+     "start": 2.6,
+     "end": 5.5,
+     "speaker": "narrator",
+     "en": "Purple sits opposite yellow, so it helps cancel it out."
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "start": 5.6,
+   "end": 7.6,
+   "what": "USR_PS_TUBE_SWIRL",
+   "frames": [
+    "s04_0.jpg",
+    "s04_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 3,
+     "start": 5.8,
+     "end": 9.4,
+     "speaker": "narrator",
+     "en": "DERMDOC Ultra Violet, with 4% Niacinamide and SPF 50."
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "start": 7.6,
+   "end": 8.5,
+   "what": "USR_PS_HOLO",
+   "frames": [
+    "s05_0.jpg",
+    "s05_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 3,
+     "start": 5.8,
+     "end": 9.4,
+     "speaker": "narrator",
+     "en": "DERMDOC Ultra Violet, with 4% Niacinamide and SPF 50."
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "start": 8.5,
+   "end": 9.6,
+   "what": "USR_PS_TEXTURE",
+   "frames": [
+    "s06_0.jpg",
+    "s06_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 3,
+     "start": 5.8,
+     "end": 9.4,
+     "speaker": "narrator",
+     "en": "DERMDOC Ultra Violet, with 4% Niacinamide and SPF 50."
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "start": 9.6,
+   "end": 11.0,
+   "what": "PS04_dot_face",
+   "frames": [
+    "s07_0.jpg",
+    "s07_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 4,
+     "start": 9.8,
+     "end": 13.0,
+     "speaker": "narrator",
+     "en": "It blends in fully. No white cast, just Instant Glow."
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "start": 11.0,
+   "end": 12.1,
+   "what": "USR_PS_BLEND",
+   "frames": [
+    "s08_0.jpg",
+    "s08_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 4,
+     "start": 9.8,
+     "end": 13.0,
+     "speaker": "narrator",
+     "en": "It blends in fully. No white cast, just Instant Glow."
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "start": 12.1,
+   "end": 13.2,
+   "what": "PS05_blend_glow",
+   "frames": [
+    "s09_0.jpg",
+    "s09_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 4,
+     "start": 9.8,
+     "end": 13.0,
+     "speaker": "narrator",
+     "en": "It blends in fully. No white cast, just Instant Glow."
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "start": 13.2,
+   "end": 15.8,
+   "what": "GRAPHIC_BA_SPLIT",
+   "frames": [
+    "s10_0.jpg",
+    "s10_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 5,
+     "start": 13.4,
+     "end": 15.8,
+     "speaker": "narrator",
+     "en": "Made for Indian skin tones."
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "start": 15.8,
+   "end": 17.8,
+   "what": "PS02_hold_balcony",
+   "frames": [
+    "s11_0.jpg",
+    "s11_1.jpg"
+   ],
+   "lines": []
+  }
+ ]
+}

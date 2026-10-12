@@ -1,0 +1,60 @@
+[
+ {
+  "id": 1,
+  "speaker": "snooze",
+  "cer": 0.06,
+  "heard": "స్కిన్ కిర్ గిన్ కిర్ వద్దు సీధా పడుకో.",
+  "redub": true
+ },
+ {
+  "id": 2,
+  "speaker": "jar",
+  "cer": 0.13,
+  "heard": "నిదరప ఓక నన స్కిప్ చేయుగు."
+ },
+ {
+  "id": 3,
+  "speaker": "jar",
+  "cer": 0.15,
+  "heard": "Bedtime ikă Brightening Time"
+ },
+ {
+  "id": 4,
+  "speaker": "jar",
+  "cer": 0.15,
+  "heard": "త్రి ఎక్స్పర్ట్ పామ్లా నిదరలోనే వరకాను.",
+  "redub": true
+ },
+ {
+  "id": 5,
+  "speaker": "snooze",
+  "cer": 0.36,
+  "heard": "అబా ఇది సగరి చంది.",
+  "redub": true
+ },
+ {
+  "id": 6,
+  "speaker": "jar",
+  "cer": 0.33,
+  "heard": "రిటక సనేస ముత్క రాస్గు."
+ },
+ {
+  "id": 7,
+  "speaker": "jar",
+  "cer": 0.21,
+  "heard": "ఫుల్గా అబ్యార్ ఏకా బ్యోటి స్లిప దీస్కో."
+ },
+ {
+  "id": 8,
+  "speaker": "woman",
+  "cer": 0.07,
+  "heard": "నేను పడుకున్న నా గ్లోవచేసింది."
+ },
+ {
+  "id": 9,
+  "speaker": "jar",
+  "cer": 0.25,
+  "heard": "దమడా కోజిక అసిడినిట క్రిమ",
+  "redub": true
+ }
+]

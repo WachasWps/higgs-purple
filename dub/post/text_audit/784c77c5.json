@@ -1,0 +1,459 @@
+[
+ {
+  "n": 0,
+  "text": "DERMOOC",
+  "variants": [
+   "DERMOOC",
+   "DERNDOC"
+  ],
+  "start": 2.67,
+  "end": 4.33,
+  "box": [
+   0.6708,
+   0.4065,
+   0.7892,
+   0.4379
+  ],
+  "height": 0.0314,
+  "suspect_words": [
+   "DERMOOC",
+   "DERNDOC"
+  ],
+  "crop": "post/text_audit/784c77c5_0.png"
+ },
+ {
+  "n": 4,
+  "text": "DERMDOC",
+  "variants": [
+   "DERMDOC"
+  ],
+  "start": 5.0,
+  "end": 6.67,
+  "box": [
+   0.2915,
+   0.466,
+   0.4459,
+   0.4991
+  ],
+  "height": 0.0331,
+  "suspect_words": []
+ },
+ {
+  "n": 7,
+  "text": "2% KOJIC ACID",
+  "variants": [
+   "2% KOJIC ACID",
+   "2% KOJIC AOD"
+  ],
+  "start": 5.33,
+  "end": 6.67,
+  "box": [
+   0.454,
+   0.4426,
+   0.6293,
+   0.4665
+  ],
+  "height": 0.0239,
+  "suspect_words": [
+   "AOD"
+  ],
+  "crop": "post/text_audit/784c77c5_7.png"
+ },
+ {
+  "n": 8,
+  "text": "NIGHT CICAM",
+  "variants": [
+   "NIGHT CHEAM",
+   "NIGHT CICAM",
+   "NIGHT CREAM"
+  ],
+  "start": 5.33,
+  "end": 6.33,
+  "box": [
+   0.4583,
+   0.5082,
+   0.5833,
+   0.5222
+  ],
+  "height": 0.0141,
+  "suspect_words": [
+   "CHEAM",
+   "CICAM"
+  ],
+  "crop": "post/text_audit/784c77c5_8.png"
+ },
+ {
+  "n": 9,
+  "text": "ALL BAR TIRES",
+  "variants": [
+   "ALL BAR TIRES",
+   "ALLMANTIFES"
+  ],
+  "start": 5.33,
+  "end": 6.33,
+  "box": [
+   0.4583,
+   0.5199,
+   0.5625,
+   0.534
+  ],
+  "height": 0.0141,
+  "suspect_words": [
+   "ALLMANTIFES"
+  ],
+  "crop": "post/text_audit/784c77c5_9.png"
+ },
+ {
+  "n": 18,
+  "text": "DERMDOC",
+  "variants": [
+   "DERMDOC"
+  ],
+  "start": 6.67,
+  "end": 8.33,
+  "box": [
+   0.2075,
+   0.5956,
+   0.4203,
+   0.6386
+  ],
+  "height": 0.0431,
+  "suspect_words": []
+ },
+ {
+  "n": 19,
+  "text": "Honest Sclence",
+  "variants": [
+   "Honest Sclence",
+   "Nonest Science",
+   "furent Sclence"
+  ],
+  "start": 6.67,
+  "end": 8.33,
+  "box": [
+   0.2253,
+   0.6254,
+   0.3866,
+   0.6572
+  ],
+  "height": 0.0318,
+  "suspect_words": [
+   "Nonest",
+   "Sclence",
+   "furent"
+  ],
+  "crop": "post/text_audit/784c77c5_19.png"
+ },
+ {
+  "n": 20,
+  "text": "2% KOJIC ACID",
+  "variants": [
+   "2% KOJIC ACID"
+  ],
+  "start": 6.67,
+  "end": 8.33,
+  "box": [
+   0.4332,
+   0.5733,
+   0.6751,
+   0.5976
+  ],
+  "height": 0.0243,
+  "suspect_words": []
+ },
+ {
+  "n": 21,
+  "text": "GLOW FUSION FORMULA",
+  "variants": [
+   "GLOW FUSION FORMULA",
+   "GLOW FUTION FORMULA"
+  ],
+  "start": 6.67,
+  "end": 8.33,
+  "box": [
+   0.4375,
+   0.6276,
+   0.6875,
+   0.644
+  ],
+  "height": 0.0164,
+  "suspect_words": [
+   "FUTION"
+  ],
+  "crop": "post/text_audit/784c77c5_21.png"
+ },
+ {
+  "n": 22,
+  "text": "NIGHT CREAM",
+  "variants": [
+   "NIGHT CREAM"
+  ],
+  "start": 6.67,
+  "end": 8.33,
+  "box": [
+   0.4374,
+   0.6601,
+   0.6125,
+   0.6771
+  ],
+  "height": 0.017,
+  "suspect_words": []
+ },
+ {
+  "n": 23,
+  "text": "ALL SKIN TYPES",
+  "variants": [
+   "ALL SAIM TIFES",
+   "ALL SKIN TYPES"
+  ],
+  "start": 6.67,
+  "end": 8.33,
+  "box": [
+   0.4333,
+   0.6792,
+   0.5833,
+   0.6909
+  ],
+  "height": 0.0117,
+  "suspect_words": [
+   "TIFES"
+  ],
+  "crop": "post/text_audit/784c77c5_23.png"
+ },
+ {
+  "n": 24,
+  "text": "BrgMens and regains stin",
+  "variants": [
+   "BrgMens and regains stin",
+   "Brighens and ropairs stin",
+   "Brightens and regains stin",
+   "Brightens and repains stin"
+  ],
+  "start": 7.0,
+  "end": 8.33,
+  "box": [
+   0.4367,
+   0.5977,
+   0.6382,
+   0.6166
+  ],
+  "height": 0.0189,
+  "suspect_words": [
+   "BrgMens",
+   "Brighens",
+   "repains",
+   "ropairs",
+   "stin"
+  ],
+  "crop": "post/text_audit/784c77c5_24.png"
+ },
+ {
+  "n": 25,
+  "text": "with Naefnemits & Aighıs Acbdin",
+  "variants": [
+   "with Nacinemits & Aglıs Acticin",
+   "with Nacinenirs & Ages Actin",
+   "with Nactnamits & Agas Albein",
+   "with Naefnemits & Aighıs Acbdin"
+  ],
+  "start": 7.0,
+  "end": 8.33,
+  "box": [
+   0.4367,
+   0.6388,
+   0.6882,
+   0.6573
+  ],
+  "height": 0.0185,
+  "suspect_words": [
+   "Acbdin",
+   "Acticin",
+   "Agl",
+   "Aigh",
+   "Albein",
+   "Nacinemits",
+   "Nacinenirs",
+   "Nactnamits",
+   "Naefnemits"
+  ],
+  "crop": "post/text_audit/784c77c5_25.png"
+ },
+ {
+  "n": 26,
+  "text": "NEW",
+  "variants": [
+   "NEW"
+  ],
+  "start": 7.0,
+  "end": 8.33,
+  "box": [
+   0.6958,
+   0.5761,
+   0.75,
+   0.5902
+  ],
+  "height": 0.0141,
+  "suspect_words": []
+ },
+ {
+  "n": 27,
+  "text": "VEBWDOC",
+  "variants": [
+   "ADOC",
+   "VEBWDOC",
+   "VEEWDOC"
+  ],
+  "start": 7.0,
+  "end": 8.0,
+  "box": [
+   0.2153,
+   0.8198,
+   0.4046,
+   0.8579
+  ],
+  "height": 0.0382,
+  "suspect_words": [
+   "ADOC",
+   "VEBWDOC",
+   "VEEWDOC"
+  ],
+  "crop": "post/text_audit/784c77c5_27.png"
+ },
+ {
+  "n": 28,
+  "text": "carpiRison",
+  "variants": [
+   "carpiRison",
+   "cerrptercon",
+   "corpions"
+  ],
+  "start": 7.33,
+  "end": 8.33,
+  "box": [
+   0.4375,
+   0.6183,
+   0.5292,
+   0.6253
+  ],
+  "height": 0.007,
+  "suspect_words": [
+   "carpiRison",
+   "cerrptercon",
+   "corpions"
+  ],
+  "crop": "post/text_audit/784c77c5_28.png"
+ },
+ {
+  "n": 31,
+  "text": "BEFORE",
+  "variants": [
+   "BEFORE"
+  ],
+  "start": 17.67,
+  "end": 20.0,
+  "box": [
+   0.1704,
+   0.8679,
+   0.3212,
+   0.8909
+  ],
+  "height": 0.023,
+  "suspect_words": []
+ },
+ {
+  "n": 33,
+  "text": "DERMDOC",
+  "variants": [
+   "DEOMDOC",
+   "DERMDOC"
+  ],
+  "start": 18.0,
+  "end": 20.0,
+  "box": [
+   0.6038,
+   0.7843,
+   0.7171,
+   0.8011
+  ],
+  "height": 0.0168,
+  "suspect_words": [
+   "DEOMDOC"
+  ],
+  "crop": "post/text_audit/784c77c5_33.png"
+ },
+ {
+  "n": 35,
+  "text": "AFTER 2 WEEKS",
+  "variants": [
+   "AFTER 2 WEEKS"
+  ],
+  "start": 18.0,
+  "end": 20.0,
+  "box": [
+   0.5958,
+   0.8689,
+   0.9,
+   0.8899
+  ],
+  "height": 0.0211,
+  "suspect_words": []
+ },
+ {
+  "n": 36,
+  "text": "2% KOJIC ACID",
+  "variants": [
+   "2% KOJIC ACID",
+   "2% KOJIC NOD"
+  ],
+  "start": 18.33,
+  "end": 20.0,
+  "box": [
+   0.725,
+   0.7681,
+   0.8542,
+   0.7799
+  ],
+  "height": 0.0117,
+  "suspect_words": []
+ },
+ {
+  "n": 37,
+  "text": "NIGHT CREAM",
+  "variants": [
+   "MIGHT CREAM",
+   "NIGHT CREAM"
+  ],
+  "start": 18.33,
+  "end": 20.0,
+  "box": [
+   0.725,
+   0.8126,
+   0.8208,
+   0.8244
+  ],
+  "height": 0.0117,
+  "suspect_words": []
+ },
+ {
+  "n": 39,
+  "text": "Bontal",
+  "variants": [
+   "Bontal",
+   "et Bantal"
+  ],
+  "start": 19.33,
+  "end": 20.0,
+  "box": [
+   0.6208,
+   0.7986,
+   0.7042,
+   0.8126
+  ],
+  "height": 0.0141,
+  "suspect_words": [
+   "Bantal",
+   "Bontal"
+  ],
+  "crop": "post/text_audit/784c77c5_39.png"
+ }
+]

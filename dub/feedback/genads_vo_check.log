@@ -1,0 +1,99 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+/Users/wachas/Documents/higgs-purple/dub/.venv/lib/python3.12/site-packages/torch/nn/modules/rnn.py:1011: UserWarning: dropout option adds dropout after all but last recurrent layer, so non-zero dropout expects num_layers greater than 1, but got dropout=0.2 and num_layers=1
+  super().__init__("LSTM", *args, **kwargs)
+/Users/wachas/Documents/higgs-purple/dub/.venv/lib/python3.12/site-packages/torch/nn/utils/weight_norm.py:145: FutureWarning: `torch.nn.utils.weight_norm` is deprecated in favor of `torch.nn.utils.parametrizations.weight_norm`.
+  WeightNorm.apply(module, name, dim)
+a9be56d9  0.15- 2.00 (1.85s) speech 1.60s @1.1  OK       Dark spots stealing your glow?
+a9be56d9  2.05- 5.80 (3.75s) speech 3.00s @1.1  OK       Meet DERMDOC 2% Kojic Acid Night Cream.
+a9be56d9  6.00- 8.90 (2.90s) speech 1.69s @1.1  OK       Massage it in every night.
+a9be56d9  9.00-12.00 (3.00s) speech 2.90s @1.1  OK       Kojic Acid, Niacinamide, Alpha Arbutin.
+a9be56d9 12.05-14.00 (1.95s) speech 1.73s @1.1  OK       Fading the look of dark spots.
+a9be56d9 14.20-16.90 (2.70s) speech 1.12s @1.1  OK       Rich, never heavy.
+a9be56d9 17.00-18.60 (1.60s) speech 1.19s @1.1  OK       You sleep. It works.
+a9be56d9 18.70-23.00 (4.30s) speech 1.33s @1.1  OK       Available on Purplle.
+426b77bb  0.15- 3.40 (3.25s) speech 2.30s @1.1  OK       Night is when your skin does its best work.
+426b77bb  3.50- 6.50 (3.00s) speech 2.70s @1.1  OK       DERMDOC 2% Kojic Acid Night Cream.
+426b77bb  6.60- 7.70 (1.10s) speech 1.25s @1.1  FAST     One jar. One step.
+426b77bb  7.80- 9.00 (1.20s) speech 1.23s @1.1  FAST     Apply before bed.
+426b77bb  9.10-12.00 (2.90s) speech 2.28s @1.1  OK       Glow Fusion Formula, on dark spots.
+426b77bb 12.10-14.40 (2.30s) speech 1.30s @1.1  OK       The overnight brightener.
+426b77bb 14.50-16.90 (2.40s) speech 1.81s @1.1  OK       Skin renews, the actives work.
+426b77bb 17.00-19.30 (2.30s) speech 1.02s @1.1  OK       Wake up brighter.
+426b77bb 19.60-24.00 (4.40s) speech 1.33s @1.1  OK       Available on Purplle.
+eab38211  0.15- 2.10 (1.95s) speech 1.33s @1.1  OK       New dark spots again?
+eab38211  2.20- 6.10 (3.90s) speech 3.00s @1.1  OK       Meet DERMDOC 2% Kojic Acid Night Cream.
+eab38211  6.25- 8.00 (1.75s) speech 1.01s @1.1  OK       Rich, yet light.
+eab38211  8.10- 9.90 (1.80s) speech 1.25s @1.1  OK       One jar. One step.
+eab38211 10.00-12.00 (2.00s) speech 1.53s @1.1  OK       Massage it in at night.
+eab38211 12.10-14.20 (2.10s) speech 1.30s @1.1  OK       The overnight brightener.
+eab38211 14.30-16.70 (2.40s) speech 1.58s @1.1  OK       Skin renews while you sleep.
+eab38211 16.80-19.90 (3.10s) speech 2.90s @1.1  OK       Kojic Acid, Niacinamide, Alpha Arbutin.
+eab38211 20.00-22.20 (2.20s) speech 1.57s @1.1  OK       On the look of dark spots.
+eab38211 22.30-24.40 (2.10s) speech 1.48s @1.1  OK       After two weeks: brighter.
+eab38211 24.50-25.90 (1.40s) speech 1.18s @1.1  OK       Your overnight glow.
+eab38211 26.30-31.00 (4.70s) speech 1.33s @1.1  OK       Available on Purplle.
+e9528636  0.15- 1.75 (1.60s) speech 1.30s @1.1  OK       The overnight brightener.
+e9528636  1.80- 4.20 (2.40s) speech 2.00s @1.1  OK       DERMDOC Kojic Acid Night Cream.
+e9528636  4.30- 6.90 (2.60s) speech 1.50s @1.1  OK       Rich, whipped, light on skin.
+e9528636  7.00- 8.90 (1.90s) speech 1.15s @1.1  OK       One scoop at night.
+e9528636 10.00-12.30 (2.30s) speech 1.37s @1.1  OK       It works while you sleep.
+e9528636 12.35-13.95 (1.60s) speech 0.83s @1.1  OK       Smooth it on.
+e9528636 14.00-15.20 (1.20s) speech 0.94s @1.1  OK       Three actives,
+e9528636 15.25-17.20 (1.95s) speech 2.05s @1.1  FAST     Kojic, Niacinamide, Arbutin,
+e9528636 17.25-19.70 (2.45s) speech 1.57s @1.1  OK       on the look of dark spots.
+e9528636 19.75-22.00 (2.25s) speech 1.02s @1.1  OK       Wake up brighter.
+e9528636 22.50-25.90 (3.40s) speech 1.12s @1.1  OK       Rich, never heavy.
+e9528636 26.30-30.90 (4.60s) speech 1.33s @1.1  OK       Available on Purplle.
+b4c787e1  0.15- 2.00 (1.85s) speech 1.39s @1.1  OK       Those dark spots again?
+b4c787e1  2.10- 4.60 (2.50s) speech 1.61s @1.1  OK       Meet the overnight brightener.
+b4c787e1  4.70- 8.90 (4.20s) speech 2.70s @1.1  OK       DERMDOC 2% Kojic Acid Night Cream.
+b4c787e1  9.00-10.90 (1.90s) speech 1.05s @1.1  OK       Smooth and whipped.
+b4c787e1 11.00-12.90 (1.90s) speech 1.37s @1.1  OK       It works while you sleep.
+b4c787e1 13.00-15.00 (2.00s) speech 1.53s @1.1  OK       Massage it in at night.
+b4c787e1 15.90-19.00 (3.10s) speech 2.88s @1.1  OK       Kojic Acid, Niacinamide, Alpha Arbutin,
+b4c787e1 19.05-20.90 (1.85s) speech 1.57s @1.1  OK       on the look of dark spots.
+b4c787e1 21.00-22.60 (1.60s) speech 0.97s @1.1  OK       Wake up glowing.
+b4c787e1 24.80-26.60 (1.80s) speech 1.48s @1.1  OK       After two weeks: brighter.
+b4c787e1 27.00-28.90 (1.90s) speech 1.12s @1.1  OK       Rich, never heavy.
+b4c787e1 29.00-30.10 (1.10s) speech 0.81s @1.1  OK       You sleep.
+b4c787e1 30.50-35.30 (4.80s) speech 1.33s @1.1  OK       Available on Purplle.
+c01adcce  0.15- 2.50 (2.35s) speech 1.52s @1.1  OK       Worried about sun damage?
+c01adcce  2.70- 5.90 (3.20s) speech 2.72s @1.1  OK       DERMDOC 4% Niacinamide sunscreen.
+c01adcce  5.95- 8.30 (2.35s) speech 3.71s @1.1  TOO LONG SPF 50 PA+++, UVA and UVB.
+c01adcce  8.40-11.30 (2.90s) speech 1.87s @1.1  OK       Step out protected, and glowing.
+c01adcce 11.35-13.50 (2.15s) speech 1.97s @1.1  OK       Purple cancels yellow dullness.
+c01adcce 13.55-15.80 (2.25s) speech 1.78s @1.1  OK       Non-greasy, fast-absorbing.
+c01adcce 15.85-17.60 (1.75s) speech 0.90s @1.1  OK       Instant glow.
+c01adcce 17.65-20.40 (2.75s) speech 1.42s @1.1  OK       Made for Indian skin.
+c01adcce 20.60-24.80 (4.20s) speech 1.33s @1.1  OK       Available on Purplle.
+fe7174d4  0.15- 2.10 (1.95s) speech 1.67s @1.1  OK       Stepping out unprotected?
+fe7174d4  2.20- 4.70 (2.50s) speech 2.72s @1.1  FAST     DERMDOC 4% Niacinamide sunscreen.
+fe7174d4  4.90- 7.80 (2.90s) speech 3.71s @1.1  TOO LONG SPF 50 PA+++, UVA and UVB.
+fe7174d4  7.90-10.70 (2.80s) speech 1.98s @1.1  OK       And the purple tint? Instant glow.
+fe7174d4 10.75-12.90 (2.15s) speech 1.97s @1.1  OK       Purple cancels yellow dullness.
+fe7174d4 12.95-15.20 (2.25s) speech 1.79s @1.1  OK       Non-greasy, fast-absorbing.
+fe7174d4 15.25-17.00 (1.75s) speech 1.30s @1.1  OK       Balances skin tone.
+fe7174d4 17.05-19.80 (2.75s) speech 1.42s @1.1  OK       Made for Indian skin.
+fe7174d4 20.00-24.30 (4.30s) speech 1.33s @1.1  OK       Available on Purplle.
+fb3fa838  0.15- 1.75 (1.60s) speech 1.66s @1.1  FAST     Greasy sunscreen? Not this.
+fb3fa838  1.80- 5.45 (3.65s) speech 2.72s @1.1  OK       DERMDOC 4% Niacinamide sunscreen.
+fb3fa838  5.50- 7.40 (1.90s) speech 2.26s @1.1  TOO LONG SPF 50 PA+++.
+fb3fa838  7.90-10.80 (2.90s) speech 2.02s @1.1  OK       Niacinamide strengthens your barrier.
+fb3fa838 10.85-13.10 (2.25s) speech 1.74s @1.1  OK       Non-greasy, absorbs fast.
+fb3fa838 13.15-15.35 (2.20s) speech 1.97s @1.1  OK       Purple cancels yellow dullness.
+fb3fa838 15.40-17.00 (1.60s) speech 1.08s @1.1  OK       For an even look.
+fb3fa838 17.10-19.90 (2.80s) speech 1.36s @1.1  OK       Hello, instant glow.
+fb3fa838 21.30-23.60 (2.30s) speech 1.19s @1.1  OK       One layer. Brighter.
+fb3fa838 24.60-28.50 (3.90s) speech 1.33s @1.1  OK       Available on Purplle.
+ce52c347  0.15- 2.10 (1.95s) speech 1.67s @1.1  OK       Stepping out unprotected?
+ce52c347  2.25- 5.20 (2.95s) speech 2.73s @1.1  OK       DERMDOC 4% Niacinamide sunscreen.
+ce52c347  5.25- 7.60 (2.35s) speech 3.71s @1.1  TOO LONG SPF 50 PA+++, UVA and UVB.
+ce52c347  7.65-10.50 (2.85s) speech 2.02s @1.1  OK       Niacinamide strengthens your barrier.
+ce52c347 10.55-12.80 (2.25s) speech 1.91s @1.1  OK       Water resistant. Sweat proof.
+ce52c347 12.85-15.00 (2.15s) speech 1.97s @1.1  OK       Purple cancels yellow dullness.
+ce52c347 15.10-17.50 (2.40s) speech 1.82s @1.1  OK       For an instantly even look.
+ce52c347 17.55-20.20 (2.65s) speech 1.42s @1.1  OK       Light, and never greasy.
+ce52c347 22.15-24.50 (2.35s) speech 1.53s @1.1  OK       One layer. Instant glow.
+ce52c347 25.00-27.40 (2.40s) speech 1.42s @1.1  OK       Made for Indian skin.
+ce52c347 28.30-32.00 (3.70s) speech 1.33s @1.1  OK       Available on Purplle.
+TOO LONG: 4

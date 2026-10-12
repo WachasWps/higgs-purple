@@ -1,0 +1,242 @@
+{
+ "video": "7ea55172",
+ "style": "product_avatar",
+ "cast": [
+  {
+   "id": "greasiness",
+   "name": "Greasiness",
+   "description": "small glossy green grease-blob villain skating on the woman's cheek, cheeky high squeaky villain voice"
+  },
+  {
+   "id": "dullness",
+   "name": "Dullness",
+   "description": "translucent grey-yellow haze villain, low lazy smug menacing voice"
+  },
+  {
+   "id": "sunscreen",
+   "name": "DERMDOC Ultra Violet Sunscreen Tube",
+   "description": "talking DERMDOC Ultra Violet brightening sunscreen tube with cartoon face, tiny arms and lavender sneakers, sassy confident bright cartoon voice"
+  }
+ ],
+ "lines": [
+  {
+   "id": 1,
+   "start": 0.0,
+   "end": 1.78,
+   "speaker": "greasiness",
+   "en": "Sticky shine reporting for duty!"
+  },
+  {
+   "id": 2,
+   "start": 2.08,
+   "end": 3.68,
+   "speaker": "dullness",
+   "en": "And I brought the dullness."
+  },
+  {
+   "id": 3,
+   "start": 3.96,
+   "end": 4.9,
+   "speaker": "sunscreen",
+   "en": "You're both fired."
+  },
+  {
+   "id": 4,
+   "start": 5.32,
+   "end": 8.1,
+   "speaker": "sunscreen",
+   "en": "Purple sits opposite yellow, so it cancels dullness."
+  },
+  {
+   "id": 5,
+   "start": 8.34,
+   "end": 10.28,
+   "speaker": "sunscreen",
+   "en": "Purple tint, made for Indian skin."
+  },
+  {
+   "id": 6,
+   "start": 10.98,
+   "end": 12.92,
+   "speaker": "sunscreen",
+   "en": "Four percent niacinamide helps brighten."
+  },
+  {
+   "id": 7,
+   "start": 13.48,
+   "end": 16.12,
+   "speaker": "sunscreen",
+   "en": "SPF 50 PA+++ handles the sun."
+  },
+  {
+   "id": 8,
+   "start": 16.62,
+   "end": 18.98,
+   "speaker": "sunscreen",
+   "en": "Instant glow, protected, and no morning drama."
+  }
+ ],
+ "shots": [
+  {
+   "n": 1,
+   "start": 0,
+   "end": 5.3,
+   "what": "original footage",
+   "frames": [
+    "s01_0.jpg",
+    "s01_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 1,
+     "start": 0.0,
+     "end": 1.78,
+     "speaker": "greasiness",
+     "en": "Sticky shine reporting for duty!"
+    },
+    {
+     "id": 2,
+     "start": 2.08,
+     "end": 3.68,
+     "speaker": "dullness",
+     "en": "And I brought the dullness."
+    },
+    {
+     "id": 3,
+     "start": 3.96,
+     "end": 4.9,
+     "speaker": "sunscreen",
+     "en": "You're both fired."
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "start": 5.3,
+   "end": 8.3,
+   "what": "GRAPHIC_COLOUR_WHEEL",
+   "frames": [
+    "s02_0.jpg",
+    "s02_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 4,
+     "start": 5.32,
+     "end": 8.1,
+     "speaker": "sunscreen",
+     "en": "Purple sits opposite yellow, so it cancels dullness."
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "start": 8.3,
+   "end": 8.9,
+   "what": "USR_PS_TUBE_SWIRL",
+   "frames": [
+    "s03_0.jpg",
+    "s03_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 5,
+     "start": 8.34,
+     "end": 10.28,
+     "speaker": "sunscreen",
+     "en": "Purple tint, made for Indian skin."
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "start": 8.9,
+   "end": 11.3,
+   "what": "original footage",
+   "frames": [
+    "s04_0.jpg",
+    "s04_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 5,
+     "start": 8.34,
+     "end": 10.28,
+     "speaker": "sunscreen",
+     "en": "Purple tint, made for Indian skin."
+    },
+    {
+     "id": 6,
+     "start": 10.98,
+     "end": 12.92,
+     "speaker": "sunscreen",
+     "en": "Four percent niacinamide helps brighten."
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "start": 11.3,
+   "end": 14.0,
+   "what": "GRAPHIC_BA_SPLIT",
+   "frames": [
+    "s05_0.jpg",
+    "s05_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 6,
+     "start": 10.98,
+     "end": 12.92,
+     "speaker": "sunscreen",
+     "en": "Four percent niacinamide helps brighten."
+    },
+    {
+     "id": 7,
+     "start": 13.48,
+     "end": 16.12,
+     "speaker": "sunscreen",
+     "en": "SPF 50 PA+++ handles the sun."
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "start": 14.0,
+   "end": 16.2,
+   "what": "original footage",
+   "frames": [
+    "s06_0.jpg",
+    "s06_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 7,
+     "start": 13.48,
+     "end": 16.12,
+     "speaker": "sunscreen",
+     "en": "SPF 50 PA+++ handles the sun."
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "start": 16.2,
+   "end": 20.0,
+   "what": "LEFT_7ea55172_S5",
+   "frames": [
+    "s07_0.jpg",
+    "s07_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 8,
+     "start": 16.62,
+     "end": 18.98,
+     "speaker": "sunscreen",
+     "en": "Instant glow, protected, and no morning drama."
+    }
+   ]
+  }
+ ]
+}

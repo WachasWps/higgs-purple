@@ -1,0 +1,127 @@
+{
+ "video": "e7e42eaf",
+ "shots": [
+  {
+   "n": 1,
+   "start": 0,
+   "end": 3.3,
+   "on_screen": "Sunny city: she shields her eyes as angry UV star villains streak in."
+  },
+  {
+   "n": 2,
+   "start": 3.3,
+   "end": 4.4,
+   "on_screen": "She holds up the talking tube, smiling."
+  },
+  {
+   "n": 3,
+   "start": 4.4,
+   "end": 5.3,
+   "on_screen": "Tube on swirled purple cream."
+  },
+  {
+   "n": 4,
+   "start": 5.3,
+   "end": 8.3,
+   "on_screen": "SPF 50 shield hero deflects UV stars; 'SPF 50 PA+++ Broad-Spectrum Protection'."
+  },
+  {
+   "n": 5,
+   "start": 8.3,
+   "end": 9.2,
+   "on_screen": "Purple droplet pushes white-cast villain off; niacinamide hero blasts grey dullness."
+  },
+  {
+   "n": 6,
+   "start": 9.2,
+   "end": 11.1,
+   "on_screen": "Colour wheel graphic, purple top joined to yellow bottom."
+  },
+  {
+   "n": 7,
+   "start": 11.1,
+   "end": 14.0,
+   "on_screen": "Niacinamide hero clears grey dullness villain from her forehead; '4% Niacinamide Brightens Dull-Looking Skin'."
+  },
+  {
+   "n": 8,
+   "start": 14.0,
+   "end": 17.0,
+   "on_screen": "Tube on podium with all heroes; UV villains defeated."
+  }
+ ],
+ "lines": [
+  {
+   "id": 1,
+   "start": 1.08,
+   "slot_s": 2.23,
+   "speaker": "uv_villain",
+   "current": "Sun's out. Let's get her!",
+   "on_screen_during": "S1 UV villains attack",
+   "verdict": "keep",
+   "new": "Sun's out. Let's get her!",
+   "words": 5,
+   "reason": "villain over villain"
+  },
+  {
+   "id": 2,
+   "start": 3.46,
+   "slot_s": 1.93,
+   "speaker": "sunscreen_tube",
+   "current": "Not on my watch.",
+   "on_screen_during": "S2 tube, S3 tube swirl",
+   "verdict": "keep",
+   "new": "Not on my watch.",
+   "words": 4,
+   "reason": "matches"
+  },
+  {
+   "id": 3,
+   "start": 5.54,
+   "slot_s": 3.35,
+   "speaker": "spf_shield",
+   "current": "UVA and UVB? Blocked.",
+   "on_screen_during": "S4 shield blocks UV",
+   "verdict": "keep",
+   "new": "UVA and UVB? Blocked.",
+   "words": 4,
+   "reason": "matches"
+  },
+  {
+   "id": 4,
+   "start": 9.04,
+   "slot_s": 2.27,
+   "speaker": "purple_tint",
+   "current": "I'm opposite yellow, so I cancel dullness.",
+   "on_screen_during": "S6 colour wheel",
+   "verdict": "keep",
+   "new": "I'm opposite yellow, so I cancel dullness.",
+   "words": 7,
+   "reason": "explains opposite-yellow over wheel; over budget (8 words / 2.3 s)"
+  },
+  {
+   "id": 5,
+   "start": 11.46,
+   "slot_s": 2.63,
+   "speaker": "niacinamide",
+   "current": "Made for Indian skin. Hello, instant glow!",
+   "on_screen_during": "S7 niacinamide hero clears dullness",
+   "verdict": "rewrite",
+   "new": "Dullness, swept away. Hello, instant glow!",
+   "words": 6,
+   "reason": "on screen niacinamide sweeps the dullness away; 'Indian skin' line did not match"
+  },
+  {
+   "id": 6,
+   "start": 14.24,
+   "slot_s": 2.54,
+   "speaker": "sunscreen_tube",
+   "current": "Come out, sun. We're ready.",
+   "on_screen_during": "S8 hero podium",
+   "verdict": "keep",
+   "new": "Come out, sun. We're ready.",
+   "words": 5,
+   "reason": "matches"
+  }
+ ]
+}

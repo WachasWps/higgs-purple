@@ -1,0 +1,46 @@
+{
+ "video_id": "fe7174d4",
+ "product": "uv_sunscreen",
+ "caption_y": 0.9,
+ "no_outro": true,
+ "own_music": false,
+ "caption_moves": [],
+ "elements": [
+  {
+   "type": "claim_bold",
+   "start": 4.9,
+   "end": 7.4,
+   "lines": [
+    "SPF 50 PA+++"
+   ],
+   "sub": "UVA + UVB",
+   "x": 0.5,
+   "y": 0.3,
+   "anim": "fade"
+  },
+  {
+   "type": "label",
+   "start": 7.8,
+   "end": 9.6,
+   "lines": [
+    "INSTANT GLOW"
+   ],
+   "x": 0.5,
+   "y": 0.8,
+   "anim": "pop"
+  },
+  {
+   "type": "pill",
+   "start": 15.0,
+   "end": 16.9,
+   "lines": [
+    "BALANCES",
+    "SKIN TONE"
+   ],
+   "x": 0.5,
+   "y": 0.12,
+   "anim": "pop"
+  }
+ ],
+ "notes": "user's General Ad: text only where the footage has none baked in; own end card + music"
+}

@@ -1,0 +1,6 @@
+Read CODEX_BRIEF.md in this folder first and follow it strictly.
+Attached reference images: story_refs/715b1b5c_S4.png, knc_tub_clean.png, knc_tub_open.png. Product photos are the ground truth for packaging; the out/*_model_ref.png image is the identity reference for the woman — keep the SAME face, hair and skin tone.
+TASK: generate ONE photorealistic vertical 9:16 keyframe image:
+EDIT the attached frame story_refs/715b1b5c_S4.png (a still from this ad): keep EXACTLY the same scene, characters, poses, framing, background, lighting and art style (photoreal people, 3D cartoon characters). Change ONLY: Show ONE jar mascot only (centred); the jar/mascot must be the EXACT DERMDOC 2% Kojic Acid Night Cream jar from knc_tub_clean.png — short wide jar, royal-blue base, white label band with the exact label text and layout, white lid; if it has a cartoon face, put the eyes and mouth on the front edge of the WHITE LID so the label stays fully readable. Above it, three SEPARATE glowing orbs in a row — one warm gold, one icy blue, one soft pink — with sparkling ribbons rising from the cream. NO text, letters or labels anywhere except the jar's own printed label.
+
+Use your image generation tool (pass the reference images to it), then copy the generated file to out/STORY_715b1b5c_S4.png. Reply only with the saved path.

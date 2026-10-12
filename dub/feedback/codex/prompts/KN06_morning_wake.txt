@@ -1,0 +1,6 @@
+Read CODEX_BRIEF.md in this folder first and follow it strictly.
+Attached reference images: out/knc_model_ref.png. Product photos are the ground truth for packaging; the out/*_model_ref.png image is the identity reference for the woman — keep the SAME face, hair and skin tone.
+TASK: generate ONE photorealistic vertical 9:16 keyframe image:
+Bright soft MORNING daylight in a white bedroom, ANANYA sitting up in bed in her navy satin night suit, touching her cheek and smiling: her skin looks visibly clearer, spotless-looking, even, smooth and glowing, same dusky skin tone, no dark spots, no dark circles. Fresh morning mood, sunlight through curtains.
+
+Use your image generation tool (pass the reference images to it), then copy the generated file to out/KN06_morning_wake.png. Reply only with the saved path.

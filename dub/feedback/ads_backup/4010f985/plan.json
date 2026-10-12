@@ -1,0 +1,36 @@
+{
+ "video_id": "4010f985",
+ "kind": "ad",
+ "style": "product_ad",
+ "duration": 20.039002,
+ "cast": [
+  {
+   "id": "narrator",
+   "name": "Voiceover",
+   "role": "narrator"
+  }
+ ],
+ "lines": [
+  {
+   "id": 1,
+   "speaker": "narrator",
+   "start": 0.0,
+   "end": 3.42,
+   "en": "Yellow-looking dullness ko balance karne ka colour secret? Purple."
+  },
+  {
+   "id": 2,
+   "speaker": "narrator",
+   "start": 3.68,
+   "end": 10.7,
+   "en": "DermDoc Ultra Violet Brightening Sunscreen ka purple tint dullness ko colour-correct karke instant radiant glow deta hai."
+  },
+  {
+   "id": 3,
+   "speaker": "narrator",
+   "start": 10.96,
+   "end": 18.32,
+   "en": "With 4% Niacinamide and SPF 50 PA++ protection—lightweight and without white cast. Indian skin ke liye."
+  }
+ ]
+}

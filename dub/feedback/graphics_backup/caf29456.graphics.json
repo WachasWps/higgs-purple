@@ -1,0 +1,89 @@
+{
+ "video_id": "caf29456",
+ "product": "uv_sunscreen",
+ "caption_y": 0.9,
+ "caption_moves": [
+  {
+   "start": 14.6,
+   "end": 16.2,
+   "y": 0.58
+  }
+ ],
+ "elements": [
+  {
+   "type": "hook_mono",
+   "start": 0.2,
+   "end": 2.4,
+   "lines": [
+    "DULL-LOOKING",
+    "SKIN?"
+   ],
+   "position": "lower",
+   "anim": "slide_up"
+  },
+  {
+   "type": "hud",
+   "variant": "corners",
+   "start": 9.0,
+   "end": 10.5
+  },
+  {
+   "type": "pill",
+   "start": 9.0,
+   "end": 10.5,
+   "lines": [
+    "BLENDS CLEAR",
+    "NO WHITE CAST"
+   ],
+   "position": "top",
+   "anim": "pop"
+  },
+  {
+   "type": "pill",
+   "start": 12.1,
+   "end": 14.3,
+   "lines": [
+    "4% NIACINAMIDE",
+    "INSTANT GLOW"
+   ],
+   "x": 0.5,
+   "y": 0.74,
+   "anim": "pop"
+  },
+  {
+   "type": "label",
+   "start": 14.6,
+   "end": 16.2,
+   "lines": [
+    "BEFORE"
+   ],
+   "x": 0.5,
+   "y": 0.455,
+   "anim": "pop"
+  },
+  {
+   "type": "label",
+   "start": 14.6,
+   "end": 16.2,
+   "lines": [
+    "INSTANT GLOW"
+   ],
+   "x": 0.5,
+   "y": 0.955,
+   "anim": "pop"
+  },
+  {
+   "type": "claim_bold",
+   "start": 16.6,
+   "end": 19.5,
+   "lines": [
+    "SPF 50 PA+++"
+   ],
+   "sub": "DAYTIME PROTECTION",
+   "x": 0.5,
+   "y": 0.72,
+   "anim": "fade"
+  }
+ ],
+ "notes": "Dull-skin hook on MEERA's chest (PS07; no sunlight premise); colour-wheel window 2.67-6.6 left to the wheel graphic; corners + blends-clear pill on the PS08 swatch; niacinamide/Instant Glow pill on the PS05 blend-to-glow (starts at the cut from PS04); B/A split BEFORE / INSTANT GLOW with captions under the divider; SPF on her shirt in the PS09 sun shot."
+}

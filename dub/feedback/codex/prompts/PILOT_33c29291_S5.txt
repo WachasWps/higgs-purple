@@ -1,0 +1,6 @@
+Read CODEX_BRIEF.md in this folder first and follow it strictly.
+Attached reference images: pilot/33c29291_S5.png, pilot/33c29291_S1a.png, ps_tube_with_box.png. Product photos are the ground truth for packaging; the out/*_model_ref.png image is the identity reference for the woman — keep the SAME face, hair and skin tone.
+TASK: generate ONE photorealistic vertical 9:16 keyframe image:
+EDIT the attached frame pilot/33c29291_S5.png (a still from this ad): keep EXACTLY the same scene, characters, poses, framing, background and lighting. Change ONLY: make the woman the SAME woman as in pilot/33c29291_S1a.png (same face, DUSKY medium-brown Indian skin tone), in the same pose, white tank top and room; remove the lavender patch from her cheek — the sunscreen is fully blended: her skin shows an obvious INSTANT GLOW, even, smooth, dewy, no dark circles, the same skin tone (never lighter). Replace the small colour wheel with a CORRECT one: PURPLE at the TOP, YELLOW directly OPPOSITE at the BOTTOM, vertical double arrow between them. Any visible part of the tube must have its wide lavender cap (no nozzle). Keep the small confused white-cast blob. No text.
+
+Use your image generation tool (pass the reference images to it), then copy the generated file to out/PILOT_33c29291_S5.png. Reply only with the saved path.

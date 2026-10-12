@@ -1,0 +1,32 @@
+[4010f985] 1 langs in 12s | worst line CER 0.00 | retried 0
+[a9be56d9] 1 langs in 11s | worst line CER 0.04 | retried 0
+[b4c787e1] 1 langs in 10s | worst line CER 0.08 | retried 0
+[c01adcce] 1 langs in 12s | worst line CER 0.06 | retried 0
+[ce52c347] 1 langs in 12s | worst line CER 0.07 | retried 0
+[e9528636] 1 langs in 10s | worst line CER 0.02 | retried 0
+[eab38211] 1 langs in 10s | worst line CER 0.07 | retried 0
+[fb3fa838] 1 langs in 10s | worst line CER 0.03 | retried 0
+[fe7174d4] 1 langs in 12s | worst line CER 0.02 | retried 0
+21:22:38 ADS VOICED
+21:22:46 ok     4010f985_en  6.4s
+21:22:47 ok     426b77bb_en  7.1s
+21:22:52 ok     a9be56d9_en  6.8s
+21:22:54 ok     b4c787e1_en  6.5s
+21:22:59 ok     c01adcce_en  6.7s
+21:23:01 ok     ce52c347_en  6.5s
+21:23:06 ok     e9528636_en  6.7s
+21:23:08 ok     eab38211_en  6.9s
+21:23:13 ok     fb3fa838_en  7.0s
+21:23:14 ok     fe7174d4_en  6.5s
+21:23:14 done: 10 ok, 0 failed; avg 6.7s/render
+ok   English/01_KNC_dark-spots-sirf-cover-karna-solution_a9be56d9.mp4 
+ok   English/02_KNC_ek-active-achha-hai_426b77bb.mp4 
+ok   English/03_KNC_jab-aap-soti-hain-aapki-night-routine_eab38211.mp4 
+ok   English/04_KNC_rich-night-cream-but-heavy-bilkul-nahi_e9528636.mp4 
+ok   English/05_KNC_dark-spots-scattered-hain_b4c787e1.mp4 
+ok   English/06_PS_yellow-looking-dullness-ko-balance-karne_4010f985.mp4 
+ok   English/07_PS_sunlight-dikhta-hai_c01adcce.mp4 
+ok   English/08_PS_white-cast-ko-light-mein-test-karo_fe7174d4.mp4 
+ok   English/09_PS_morning-balcony-se-city-commute-tak-sun_fb3fa838.mp4 
+ok   English/10_PS_ek-sunscreen-two-smart-actions_ce52c347.mp4 
+21:23:19 ADS EN CHAIN DONE

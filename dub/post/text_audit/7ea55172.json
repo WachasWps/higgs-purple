@@ -1,0 +1,311 @@
+[
+ {
+  "n": 3,
+  "text": "DERMDOC",
+  "variants": [
+   "DERMDOC"
+  ],
+  "start": 0.33,
+  "end": 4.0,
+  "box": [
+   0.6686,
+   0.5928,
+   0.8329,
+   0.624
+  ],
+  "height": 0.0312,
+  "suspect_words": []
+ },
+ {
+  "n": 4,
+  "text": "SUNSCREEN",
+  "variants": [
+   "ANSCREEN",
+   "SARTERTEN",
+   "SUNSCREEN",
+   "SURSORIEN"
+  ],
+  "start": 0.67,
+  "end": 3.67,
+  "box": [
+   0.6594,
+   0.7469,
+   0.7469,
+   0.7694
+  ],
+  "height": 0.0225,
+  "suspect_words": [
+   "ANSCREEN",
+   "SARTERTEN",
+   "SURSORIEN"
+  ],
+  "crop": "post/text_audit/7ea55172_4.png"
+ },
+ {
+  "n": 9,
+  "text": "DERMDOC",
+  "variants": [
+   "DERMDOC"
+  ],
+  "start": 4.33,
+  "end": 5.33,
+  "box": [
+   0.5998,
+   0.5943,
+   0.7377,
+   0.6117
+  ],
+  "height": 0.0174,
+  "suspect_words": []
+ },
+ {
+  "n": 12,
+  "text": "DERMDOC",
+  "variants": [
+   "DERMDOC"
+  ],
+  "start": 5.33,
+  "end": 8.33,
+  "box": [
+   0.2625,
+   0.2316,
+   0.7131,
+   0.281
+  ],
+  "height": 0.0494,
+  "suspect_words": []
+ },
+ {
+  "n": 13,
+  "text": "Honest Science",
+  "variants": [
+   "Honest Science"
+  ],
+  "start": 5.33,
+  "end": 8.33,
+  "box": [
+   0.3125,
+   0.2763,
+   0.659,
+   0.3091
+  ],
+  "height": 0.0328,
+  "suspect_words": []
+ },
+ {
+  "n": 14,
+  "text": "BRIGHTENING",
+  "variants": [
+   "BRIGHTENING",
+   "BRIGHTENIn",
+   "BRIGHTENinu"
+  ],
+  "start": 5.33,
+  "end": 8.33,
+  "box": [
+   0.3542,
+   0.6679,
+   0.625,
+   0.7073
+  ],
+  "height": 0.0393,
+  "suspect_words": [
+   "BRIGHTENIn",
+   "BRIGHTENinu"
+  ],
+  "crop": "post/text_audit/7ea55172_14.png"
+ },
+ {
+  "n": 15,
+  "text": "SUNSCREEN",
+  "variants": [
+   "SUNSCREEN"
+  ],
+  "start": 5.33,
+  "end": 8.33,
+  "box": [
+   0.3707,
+   0.6956,
+   0.6044,
+   0.7356
+  ],
+  "height": 0.04,
+  "suspect_words": []
+ },
+ {
+  "n": 16,
+  "text": "FOR INDIAR SKIN",
+  "variants": [
+   "FOR INDIAN SKIN",
+   "FOR INDIAR SKIN"
+  ],
+  "start": 5.33,
+  "end": 8.33,
+  "box": [
+   0.3958,
+   0.7302,
+   0.5875,
+   0.7611
+  ],
+  "height": 0.0309,
+  "suspect_words": [
+   "INDIAR"
+  ],
+  "crop": "post/text_audit/7ea55172_16.png"
+ },
+ {
+  "n": 17,
+  "text": "60 GM",
+  "variants": [
+   "60 GM"
+  ],
+  "start": 5.33,
+  "end": 8.33,
+  "box": [
+   0.4414,
+   0.7607,
+   0.5419,
+   0.7916
+  ],
+  "height": 0.0309,
+  "suspect_words": []
+ },
+ {
+  "n": 27,
+  "text": "PURPLE TINT",
+  "variants": [
+   "PURPLE TINT",
+   "URPLE TINT"
+  ],
+  "start": 8.67,
+  "end": 11.33,
+  "box": [
+   0.275,
+   0.1265,
+   0.7292,
+   0.1616
+  ],
+  "height": 0.0351,
+  "suspect_words": [
+   "URPLE"
+  ],
+  "crop": "post/text_audit/7ea55172_27.png"
+ },
+ {
+  "n": 28,
+  "text": "4% NIACINAMIDE",
+  "variants": [
+   "4% NIACINAMIDE"
+  ],
+  "start": 11.33,
+  "end": 13.67,
+  "box": [
+   0.2042,
+   0.1382,
+   0.7917,
+   0.1733
+  ],
+  "height": 0.0351,
+  "suspect_words": []
+ },
+ {
+  "n": 29,
+  "text": "SPF 50 PA+++",
+  "variants": [
+   "SPF 50 PA+++"
+  ],
+  "start": 13.67,
+  "end": 16.33,
+  "box": [
+   0.25,
+   0.7635,
+   0.7542,
+   0.8009
+  ],
+  "height": 0.0375,
+  "suspect_words": []
+ },
+ {
+  "n": 39,
+  "text": "DERMDOC",
+  "variants": [
+   "DERMDOC"
+  ],
+  "start": 18.0,
+  "end": 20.0,
+  "box": [
+   0.5412,
+   0.5354,
+   0.7042,
+   0.5574
+  ],
+  "height": 0.022,
+  "suspect_words": []
+ },
+ {
+  "n": 43,
+  "text": "Homet Banca",
+  "variants": [
+   "Homet Banca",
+   "Honest Solenc",
+   "moment Somme"
+  ],
+  "start": 18.33,
+  "end": 19.67,
+  "box": [
+   0.55,
+   0.5504,
+   0.6708,
+   0.5644
+  ],
+  "height": 0.0141,
+  "suspect_words": [
+   "Homet",
+   "Solenc",
+   "Somme"
+  ],
+  "crop": "post/text_audit/7ea55172_43.png"
+ },
+ {
+  "n": 47,
+  "text": "80 CM",
+  "variants": [
+   "40 CM",
+   "80 CM"
+  ],
+  "start": 18.33,
+  "end": 19.0,
+  "box": [
+   0.5875,
+   0.7354,
+   0.6333,
+   0.7494
+  ],
+  "height": 0.0141,
+  "suspect_words": []
+ },
+ {
+  "n": 49,
+  "text": "6% NUAOMI",
+  "variants": [
+   "4% NUOMA",
+   "6% NUAOMI",
+   "E% NUOMI"
+  ],
+  "start": 19.0,
+  "end": 20.0,
+  "box": [
+   0.5625,
+   0.637,
+   0.65,
+   0.6487
+  ],
+  "height": 0.0117,
+  "suspect_words": [
+   "NUAOMI",
+   "NUOMA",
+   "NUOMI"
+  ],
+  "crop": "post/text_audit/7ea55172_49.png"
+ }
+]

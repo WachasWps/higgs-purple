@@ -1,0 +1,11 @@
+00b304b4: source_fixed.mp4 17.07s (source 17.02s), 3 shots replaced
+291827ba: source_fixed.mp4 17.07s (source 17.02s), 3 shots replaced
+c51221b6: source_fixed.mp4 17.07s (source 17.02s), 3 shots replaced
+ce849d3f: source_fixed.mp4 17.00s (source 17.02s), 3 shots replaced
+e7e42eaf: source_fixed.mp4 17.07s (source 17.02s), 1 shots replaced
+5fd50ab8: source_fixed.mp4 20.07s (source 20.04s), 6 shots replaced
+655a1328: source_fixed.mp4 20.07s (source 20.04s), 5 shots replaced
+74495eba: source_fixed.mp4 20.00s (source 20.04s), 1 shots replaced
+7ea55172: source_fixed.mp4 20.00s (source 20.04s), 2 shots replaced
+00:09:57 done: 9 ok, 0 failed; avg 6.5s/render
+00:10:40 STORY BUILD DONE: 00b304b4 291827ba c51221b6 ce849d3f e7e42eaf 5fd50ab8 655a1328 74495eba 7ea55172

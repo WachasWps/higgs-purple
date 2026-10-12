@@ -1,0 +1,56 @@
+[
+ {
+  "id": 1,
+  "speaker": "greasiness",
+  "cer": 1.0,
+  "heard": "൉ ൉ ൉൉ ൉൉ ൉൉ ൉൉ ൉൉",
+  "redub": true
+ },
+ {
+  "id": 2,
+  "speaker": "tube",
+  "cer": 0.44,
+  "heard": "യന് ടിന് നനക് ക്ടമിലാ."
+ },
+ {
+  "id": 3,
+  "speaker": "purple_tint",
+  "cer": 0.52,
+  "heard": "കലിര വില പറയിന്. മന്യടർിന് നാന കാന്സില ചേയിയു.",
+  "redub": true
+ },
+ {
+  "id": 4,
+  "speaker": "greasiness",
+  "cer": 0.38,
+  "heard": "അയോ സ്ടികിലേര എവിടപോയ്.",
+  "redub": true
+ },
+ {
+  "id": 5,
+  "speaker": "tube",
+  "cer": 0.4,
+  "heard": "നീ ഫായര്റ."
+ },
+ {
+  "id": 6,
+  "speaker": "spf_shield",
+  "cer": 0.15,
+  "heard": "Comfortable Finish Serious Protection",
+  "redub": true
+ },
+ {
+  "id": 7,
+  "speaker": "niacinamide",
+  "cer": 0.55,
+  "heard": "ഇ്ന്സ്ട് ഗർക്ട് ന്സ് ഹയ്ക്യ്.",
+  "redub": true
+ },
+ {
+  "id": 8,
+  "speaker": "tube",
+  "cer": 0.52,
+  "heard": "പ�rട്ട്ട് കംപ�്ട്ട്ട് ഇന് സകിന് ന്.",
+  "redub": true
+ }
+]

@@ -1,0 +1,86 @@
+15-second script
+FRAME 1 — 0:00–0:01.5
+Visual: The creator examines her slightly dull, uneven-looking skin beside a window while holding the DERMDOC sunscreen.
+CREATOR/VO:
+“Purple sunscreen? I thought it would make me look purple.”
+
+in start of the video her ski looks a little dull
+
+FRAME 2 — 0:01.5–0:03
+Visual: She holds a physical colour wheel beside her cheek, indicating yellow and its opposite purple.
+CREATOR/VO:
+“But look at the colour wheel—purple helps correct yellow-looking dullness.”
+FRAME 3 — 0:03–0:04
+Visual: Macro shot of the accurate nozzle dispensing a small ribbon of pale-lavender sunscreen on her hand.
+FRAME 4 — 0:04–0:05.5
+Visual: Hand comparison. One side is untreated; the other shows the purple tint beginning to blend.
+CREATOR/VO:
+“The tint is made for Indian skin.”
+FRAME 5 — 0:05.5–0:07
+Visual: She continuously massages the sunscreen across her hand.
+FRAME 6 — 0:07–0:08
+Visual: Fully absorbed hand result—no purple residue, no white cast and a controlled glow.
+CREATOR/VO:
+“It blends in completely—no white cast.”
+FRAME 7 — 0:08–0:09.5
+Visual: She applies five small dots across her face.
+FRAME 8 — 0:09.5–0:11
+Visual: She massages it until completely absorbed. No patches or residue.
+CREATOR/VO:
+“Plus, 4% Niacinamide and SPF 50 PA+++.”
+FRAME 9 — 0:11–0:13
+Visual: Same-woman, same-angle vertical before/after comparison. The after side looks naturally brighter and more even, without whitening.
+CREATOR/VO:
+“Before: dull. After: even-looking, protected glow.”
+FRAME 10 — 0:13–0:15
+Visual: Outdoors in natural sunlight. She holds the exact tube beside her face as a subtle UV shield blocks sun rays.
+CREATOR/VO:
+“Okay—purple tint makes perfect sense now.”
+Copy-paste video prompt
+Create a 15-second vertical 9:16 photorealistic creator-style UGC video using the supplied DERMDOC sunscreen photographs as strict product references.
+PRODUCT IDENTITY LOCK:
+The product must be the exact DERMDOC Ultra Violet Brightening Sunscreen shown in the references. Preserve the original white tube, translucent pale-lavender cap, accurate nozzle, tube proportions, DERMDOC Honest Science logo, vertical ULTRA VIOLET design, 4% NIACINAMIDE WITH SPF 50 PA+++, BRIGHTENING SUNSCREEN, FOR INDIAN SKIN and 60 GM packaging. Never redesign, stretch, recolour or replace the product. Keep the same tube throughout.
+CREATOR CONSISTENCY:
+Use one photorealistic Indian woman in her mid-20s with warm medium-brown skin, natural pores, mild dullness and uneven-looking tone, dark hair in a low ponytail and a casual lavender top. Preserve her exact face, complexion, hairstyle and outfit across every shot.
+STYLE:
+Authentic smartphone UGC with natural window light, realistic skin and casual handheld movement. It must not look like a glossy studio advertisement. Use a bright apartment for application and natural outdoor sunlight for the final protection shot.
+SHOT 1 — 0:00–0:01.5
+Close-up beside a sunny window. The creator examines slightly dull, uneven-looking skin in a handheld mirror while holding the exact DERMDOC tube.
+Dialogue/VO:
+“Purple sunscreen? I thought it would make me look purple.”
+SHOT 2 — 0:01.5–0:03
+The creator holds a real physical artist’s colour wheel beside her cheek. Clearly show the relationship between the yellow/dullness section and its opposite violet section. Do not place coloured graphics directly over her skin.
+Dialogue/VO:
+“But look at the colour wheel—purple helps correct yellow-looking dullness.”
+SHOT 3 — 0:03–0:04
+Extreme macro shot of the accurate product nozzle dispensing a small ribbon of pale-lavender sunscreen onto the back of her hand. The texture is smooth, lightweight and creamy—not dark purple, runny or thick like paste.
+SHOT 4 — 0:04–0:05.5
+Show both hands under identical lighting. One hand remains untreated and naturally duller. The sunscreen is partially blended on the other hand, showing a temporary soft-lavender veil.
+Dialogue/VO:
+“The tint is made for Indian skin.”
+SHOT 5 — 0:05.5–0:07
+Continuous close-up of her fingers massaging the sunscreen across the hand. Show uninterrupted blending without cuts that hide the result.
+SHOT 6 — 0:07–0:08
+Hold the completed hand result clearly. The sunscreen is fully absorbed with zero white cast, zero purple residue, no greasiness and a subtle controlled glow. Place the exact tube beside the hand.
+Dialogue/VO:
+“It blends in completely—no white cast.”
+SHOT 7 — 0:08–0:09.5
+The same creator applies five small pale-lavender dots to her forehead, cheeks, nose and chin. Use a realistic amount.
+SHOT 8 — 0:09.5–0:11
+She massages the sunscreen across her entire face until fully absorbed. Preserve her natural Indian skin tone. Do not whiten her face or leave lavender patches.
+Dialogue/VO:
+“Plus, 4% Niacinamide and SPF 50 PA+++.”
+SHOT 9 — 0:11–0:13
+Create a clean vertical before/after comparison with the exact same woman, camera angle, expression and lighting. The before side has mild dullness and uneven-looking tone. The after side has no white cast and looks naturally brighter, more even and softly glowing—not artificially fairer.
+Dialogue/VO:
+“Before: dull. After: even-looking, protected glow.”
+SHOT 10 — 0:13–0:15
+The creator stands outside in real daylight, confidently holding the exact product beside her face. Her skin remains natural and protected-looking. Add a restrained transparent shield intercepting sunlight and a subtle niacinamide molecular motif.
+Dialogue/VO:
+“Okay—purple tint makes perfect sense now.”
+TEXT RESTRICTION:
+No subtitles, captions, ingredient labels, title cards, timestamps, floating claims or added logos. The only visible writing should be the authentic text already printed on the product packaging.
+CRITICAL RESULT:
+Purple is the product tint and colour-correction mechanism; the creator’s final face must not remain purple. Show complete blending, zero residue, zero white cast and a controlled natural glow.
+AVOID:
+Purple face, artificial whitening, grey cast, thick lavender patches, incomplete blending, greasy finish, flakes, dandruff-like particles, inaccurate nozzle, changing product packaging, changing creator, warped hands, excessive beauty filters, talking product, animated eyes or product-avatar styling.

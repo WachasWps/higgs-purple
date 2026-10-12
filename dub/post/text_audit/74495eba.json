@@ -1,0 +1,687 @@
+[
+ {
+  "n": 1,
+  "text": "DERMDOC",
+  "variants": [
+   "DERMDOC"
+  ],
+  "start": 3.67,
+  "end": 4.67,
+  "box": [
+   0.1761,
+   0.5943,
+   0.3232,
+   0.6413
+  ],
+  "height": 0.047,
+  "suspect_words": []
+ },
+ {
+  "n": 2,
+  "text": "ULTRA VIOLET",
+  "variants": [
+   "ULTRA VIOLET",
+   "ULTRAVIOLET"
+  ],
+  "start": 3.67,
+  "end": 4.67,
+  "box": [
+   0.1925,
+   0.6395,
+   0.29,
+   0.7557
+  ],
+  "height": 0.1162,
+  "suspect_words": []
+ },
+ {
+  "n": 5,
+  "text": "DERMI OC",
+  "variants": [
+   "DERM",
+   "DERMD OC",
+   "DERMDOC",
+   "DERME OC",
+   "DERMI OC"
+  ],
+  "start": 4.67,
+  "end": 7.0,
+  "box": [
+   0.1676,
+   0.3738,
+   0.4507,
+   0.4299
+  ],
+  "height": 0.0561,
+  "suspect_words": [
+   "DERMD",
+   "DERME",
+   "DERMI"
+  ],
+  "crop": "post/text_audit/74495eba_5.png"
+ },
+ {
+  "n": 6,
+  "text": "Honest Sol",
+  "variants": [
+   "Honest S",
+   "Honest Scien",
+   "Honest Scil",
+   "Honest Se",
+   "Honest Si",
+   "Honest Sol"
+  ],
+  "start": 4.67,
+  "end": 7.0,
+  "box": [
+   0.2032,
+   0.4047,
+   0.4124,
+   0.4449
+  ],
+  "height": 0.0401,
+  "suspect_words": [
+   "Scien",
+   "Scil"
+  ],
+  "crop": "post/text_audit/74495eba_6.png"
+ },
+ {
+  "n": 7,
+  "text": "RA VIOLET",
+  "variants": [
+   "A VIOLET",
+   "RA VIOLET"
+  ],
+  "start": 4.67,
+  "end": 5.33,
+  "box": [
+   0.1906,
+   0.449,
+   0.3302,
+   0.5971
+  ],
+  "height": 0.1481,
+  "suspect_words": []
+ },
+ {
+  "n": 8,
+  "text": "4% NIAC",
+  "variants": [
+   "4% NIA!",
+   "4% NIAC",
+   "4% NIACINANICE",
+   "4% NIAGI",
+   "4% NIAL"
+  ],
+  "start": 4.67,
+  "end": 7.0,
+  "box": [
+   0.2909,
+   0.4841,
+   0.4994,
+   0.5237
+  ],
+  "height": 0.0396,
+  "suspect_words": [
+   "NIA",
+   "NIAC",
+   "NIACINANICE",
+   "NIAGI",
+   "NIAL"
+  ],
+  "crop": "post/text_audit/74495eba_8.png"
+ },
+ {
+  "n": 9,
+  "text": "WITH SPEE",
+  "variants": [
+   "WITH SPE 30 Parr",
+   "WITH SPEE",
+   "WITH SPF :",
+   "WITH SPF SI",
+   "WITH SPP :",
+   "WITH SPT"
+  ],
+  "start": 4.67,
+  "end": 7.0,
+  "box": [
+   0.2961,
+   0.498,
+   0.4862,
+   0.5376
+  ],
+  "height": 0.0396,
+  "suspect_words": [
+   "SPE",
+   "SPEE",
+   "SPP",
+   "SPT"
+  ],
+  "crop": "post/text_audit/74495eba_9.png"
+ },
+ {
+  "n": 10,
+  "text": "BRIGHTENING",
+  "variants": [
+   "BGIGHTENING",
+   "BRIGHTENING"
+  ],
+  "start": 4.67,
+  "end": 9.33,
+  "box": [
+   0.3166,
+   0.5992,
+   0.5123,
+   0.6485
+  ],
+  "height": 0.0493,
+  "suspect_words": [
+   "BGIGHTENING"
+  ],
+  "crop": "post/text_audit/74495eba_10.png"
+ },
+ {
+  "n": 11,
+  "text": "SUNSCREEN",
+  "variants": [
+   "SUNSCREEN",
+   "SUNSCRSEN"
+  ],
+  "start": 4.67,
+  "end": 9.33,
+  "box": [
+   0.3281,
+   0.6154,
+   0.5123,
+   0.663
+  ],
+  "height": 0.0477,
+  "suspect_words": [
+   "SUNSCRSEN"
+  ],
+  "crop": "post/text_audit/74495eba_11.png"
+ },
+ {
+  "n": 12,
+  "text": "POR TARTO MBAM BON",
+  "variants": [
+   "FOR TAM TO MESAM IN",
+   "FOR TAN TO HUMAN SAN",
+   "FOR TAN TO MEGAM BAN",
+   "FOR TAO TO MERAM LON",
+   "FOR TAR TO MEDICA MAO",
+   "FOR TAR TO MEDION"
+  ],
+  "start": 4.67,
+  "end": 9.33,
+  "box": [
+   0.3157,
+   0.6328,
+   0.5208,
+   0.6815
+  ],
+  "height": 0.0488,
+  "suspect_words": [
+   "LON",
+   "MATILM",
+   "MBAM",
+   "MEDALM",
+   "MEDICA",
+   "MEDION",
+   "MEGAM",
+   "MERAM",
+   "MESAM",
+   "MULH",
+   "POR",
+   "PORTAR",
+   "TARTO"
+  ],
+  "crop": "post/text_audit/74495eba_12.png"
+ },
+ {
+  "n": 19,
+  "text": "La IOIA V",
+  "variants": [
+   "La IOIA V",
+   "La lOIA V."
+  ],
+  "start": 5.33,
+  "end": 6.33,
+  "box": [
+   0.1878,
+   0.4434,
+   0.3164,
+   0.5736
+  ],
+  "height": 0.1302,
+  "suspect_words": [
+   "IOIA",
+   "lOIA"
+  ],
+  "crop": "post/text_audit/74495eba_19.png"
+ },
+ {
+  "n": 20,
+  "text": "SPF",
+  "variants": [
+   "SPE",
+   "SPF"
+  ],
+  "start": 5.33,
+  "end": 7.0,
+  "box": [
+   0.5208,
+   0.3464,
+   0.7333,
+   0.4145
+  ],
+  "height": 0.0681,
+  "suspect_words": [
+   "SPE"
+  ],
+  "crop": "post/text_audit/74495eba_20.png"
+ },
+ {
+  "n": 21,
+  "text": "50",
+  "variants": [
+   "50"
+  ],
+  "start": 5.33,
+  "end": 7.0,
+  "box": [
+   0.53,
+   0.3948,
+   0.7995,
+   0.5061
+  ],
+  "height": 0.1113,
+  "suspect_words": []
+ },
+ {
+  "n": 22,
+  "text": "PA+++",
+  "variants": [
+   "PA+++"
+  ],
+  "start": 5.33,
+  "end": 7.0,
+  "box": [
+   0.5577,
+   0.4784,
+   0.85,
+   0.557
+  ],
+  "height": 0.0786,
+  "suspect_words": []
+ },
+ {
+  "n": 27,
+  "text": "DERMDOC",
+  "variants": [
+   "DERMDOC"
+  ],
+  "start": 7.0,
+  "end": 9.33,
+  "box": [
+   0.1788,
+   0.364,
+   0.5627,
+   0.4168
+  ],
+  "height": 0.0527,
+  "suspect_words": []
+ },
+ {
+  "n": 28,
+  "text": "Honest Science",
+  "variants": [
+   "Honest Science",
+   "Ironest Scinace"
+  ],
+  "start": 7.0,
+  "end": 9.33,
+  "box": [
+   0.2216,
+   0.3939,
+   0.5316,
+   0.4325
+  ],
+  "height": 0.0386,
+  "suspect_words": [
+   "Ironest",
+   "Scinace"
+  ],
+  "crop": "post/text_audit/74495eba_28.png"
+ },
+ {
+  "n": 29,
+  "text": "ULTRA VIOLET",
+  "variants": [
+   "ULTRA VIOLET"
+  ],
+  "start": 7.0,
+  "end": 8.0,
+  "box": [
+   0.2775,
+   0.4239,
+   0.3308,
+   0.6142
+  ],
+  "height": 0.1903,
+  "suspect_words": []
+ },
+ {
+  "n": 30,
+  "text": "4% NIACINAMIDE",
+  "variants": [
+   "4% NIACINAMIDE",
+   "4% NIACINANIDE",
+   "4% NIACiNAMIDE"
+  ],
+  "start": 7.0,
+  "end": 9.33,
+  "box": [
+   0.2831,
+   0.4768,
+   0.5523,
+   0.5166
+  ],
+  "height": 0.0398,
+  "suspect_words": [
+   "NIACINANIDE"
+  ],
+  "crop": "post/text_audit/74495eba_30.png"
+ },
+ {
+  "n": 31,
+  "text": "WITH SPF 50 PA+++",
+  "variants": [
+   "WIT DES 30 PAs»",
+   "WITH SPF 50 PA+++",
+   "WITH SPF SO PA++",
+   "WITH SPF SO PA++*",
+   "WITH SPY S0 PAN•"
+  ],
+  "start": 7.0,
+  "end": 9.33,
+  "box": [
+   0.2875,
+   0.4935,
+   0.5265,
+   0.5302
+  ],
+  "height": 0.0367,
+  "suspect_words": []
+ },
+ {
+  "n": 35,
+  "text": "ULTRA VIOLET",
+  "variants": [
+   "ULTRA VIOLET"
+  ],
+  "start": 8.0,
+  "end": 9.33,
+  "box": [
+   0.193,
+   0.4346,
+   0.3193,
+   0.6315
+  ],
+  "height": 0.1969,
+  "suspect_words": []
+ },
+ {
+  "n": 39,
+  "text": "PURPLE TINT",
+  "variants": [
+   "PURPLE TINT"
+  ],
+  "start": 9.33,
+  "end": 12.0,
+  "box": [
+   0.0807,
+   0.0997,
+   0.8577,
+   0.2443
+  ],
+  "height": 0.1446,
+  "suspect_words": []
+ },
+ {
+  "n": 40,
+  "text": "DERMDOC",
+  "variants": [
+   "DERMDOC",
+   "DERMOOC"
+  ],
+  "start": 9.33,
+  "end": 10.33,
+  "box": [
+   0.0155,
+   0.2584,
+   0.3858,
+   0.3503
+  ],
+  "height": 0.0919,
+  "suspect_words": [
+   "DERMOOC"
+  ],
+  "crop": "post/text_audit/74495eba_40.png"
+ },
+ {
+  "n": 52,
+  "text": "BRIGHTENING",
+  "variants": [
+   "BRIGHTENING"
+  ],
+  "start": 9.67,
+  "end": 10.33,
+  "box": [
+   0.2425,
+   0.4234,
+   0.4537,
+   0.4992
+  ],
+  "height": 0.0758,
+  "suspect_words": []
+ },
+ {
+  "n": 53,
+  "text": "SUNSCREEN",
+  "variants": [
+   "SUNSCREEN"
+  ],
+  "start": 9.67,
+  "end": 10.33,
+  "box": [
+   0.2658,
+   0.4333,
+   0.453,
+   0.5091
+  ],
+  "height": 0.0759,
+  "suspect_words": []
+ },
+ {
+  "n": 62,
+  "text": "BRIGHTENING",
+  "variants": [
+   "BRIGHTENING"
+  ],
+  "start": 10.67,
+  "end": 11.67,
+  "box": [
+   0.0516,
+   -0.0135,
+   0.4704,
+   0.1656
+  ],
+  "height": 0.1791,
+  "suspect_words": []
+ },
+ {
+  "n": 63,
+  "text": "SUNSCREEN",
+  "variants": [
+   "INSCREEN",
+   "SUNSCREEN"
+  ],
+  "start": 10.67,
+  "end": 12.0,
+  "box": [
+   0.0929,
+   0.0054,
+   0.4676,
+   0.1672
+  ],
+  "height": 0.1619,
+  "suspect_words": [
+   "INSCREEN"
+  ],
+  "crop": "post/text_audit/74495eba_63.png"
+ },
+ {
+  "n": 64,
+  "text": "FOR FAR TO MEDIUM SRUN",
+  "variants": [
+   "FOR FAR TO MEDIUM SPUN",
+   "FOR FAR TO MEDIUM SRUN",
+   "• FAR TO MEDIUM SPUN"
+  ],
+  "start": 11.0,
+  "end": 12.33,
+  "box": [
+   0.0725,
+   0.0028,
+   0.5115,
+   0.1668
+  ],
+  "height": 0.164,
+  "suspect_words": [
+   "SRUN"
+  ],
+  "crop": "post/text_audit/74495eba_64.png"
+ },
+ {
+  "n": 67,
+  "text": "4% NIACINAMIDE",
+  "variants": [
+   "4% NIACINAMIDE"
+  ],
+  "start": 12.67,
+  "end": 14.67,
+  "box": [
+   0.1417,
+   0.534,
+   0.8333,
+   0.5808
+  ],
+  "height": 0.0468,
+  "suspect_words": []
+ },
+ {
+  "n": 68,
+  "text": "DERMDOC",
+  "variants": [
+   "DERMDOC",
+   "DERMOOC"
+  ],
+  "start": 16.33,
+  "end": 20.0,
+  "box": [
+   0.1614,
+   0.5871,
+   0.3733,
+   0.6256
+  ],
+  "height": 0.0385,
+  "suspect_words": [
+   "DERMOOC"
+  ],
+  "crop": "post/text_audit/74495eba_68.png"
+ },
+ {
+  "n": 73,
+  "text": "ULTRA VIOLE",
+  "variants": [
+   "ULTRA VIOLE",
+   "ULTRA VIOLET"
+  ],
+  "start": 18.33,
+  "end": 19.0,
+  "box": [
+   0.1845,
+   0.6279,
+   0.2525,
+   0.7352
+  ],
+  "height": 0.1073,
+  "suspect_words": [
+   "VIOLE"
+  ],
+  "crop": "post/text_audit/74495eba_73.png"
+ },
+ {
+  "n": 75,
+  "text": "BRIGHTENN!",
+  "variants": [
+   "BOVCHTENING",
+   "BRIGHTENN!"
+  ],
+  "start": 19.0,
+  "end": 20.0,
+  "box": [
+   0.2488,
+   0.7226,
+   0.343,
+   0.7392
+  ],
+  "height": 0.0166,
+  "suspect_words": [
+   "BOVCHTENING",
+   "BRIGHTENN"
+  ],
+  "crop": "post/text_audit/74495eba_75.png"
+ },
+ {
+  "n": 76,
+  "text": "SLIRCICREEN",
+  "variants": [
+   "SARSCREEN",
+   "SLIRCICREEN"
+  ],
+  "start": 19.0,
+  "end": 19.67,
+  "box": [
+   0.2583,
+   0.733,
+   0.3417,
+   0.7471
+  ],
+  "height": 0.0141,
+  "suspect_words": [
+   "SARSCREEN",
+   "SLIRCICREEN"
+  ],
+  "crop": "post/text_audit/74495eba_76.png"
+ },
+ {
+  "n": 77,
+  "text": "ULTRA",
+  "variants": [
+   "ULTRA"
+  ],
+  "start": 19.33,
+  "end": 20.0,
+  "box": [
+   0.2078,
+   0.6821,
+   0.2453,
+   0.7299
+  ],
+  "height": 0.0477,
+  "suspect_words": []
+ }
+]

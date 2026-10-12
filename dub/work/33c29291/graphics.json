@@ -1,0 +1,96 @@
+{
+ "video_id": "33c29291",
+ "product": "uv_sunscreen",
+ "caption_y": 0.9,
+ "elements": [
+  {
+   "type": "label",
+   "start": 0.3,
+   "end": 2.2,
+   "lines": [
+    "WHITE CAST"
+   ],
+   "x": 0.2,
+   "y": 0.46,
+   "anim": "pop"
+  },
+  {
+   "type": "pill",
+   "start": 8.0,
+   "end": 10.7,
+   "lines": [
+    "MADE FOR",
+    "INDIAN SKIN TONES"
+   ],
+   "x": 0.5,
+   "y": 0.76,
+   "anim": "pop"
+  },
+  {
+   "type": "label",
+   "start": 11.5,
+   "end": 13.0,
+   "lines": [
+    "BEFORE"
+   ],
+   "x": 0.5,
+   "y": 0.455,
+   "anim": "pop"
+  },
+  {
+   "type": "label",
+   "start": 11.5,
+   "end": 13.0,
+   "lines": [
+    "AFTER"
+   ],
+   "x": 0.5,
+   "y": 0.895,
+   "anim": "pop"
+  },
+  {
+   "type": "label",
+   "start": 11.5,
+   "end": 13.0,
+   "lines": [
+    "INSTANT GLOW"
+   ],
+   "x": 0.5,
+   "y": 0.955,
+   "anim": "pop"
+  },
+  {
+   "type": "claim_bold",
+   "start": 14.0,
+   "end": 15.8,
+   "lines": [
+    "SPF 50 PA+++"
+   ],
+   "sub": "UVA + UVB PROTECTION",
+   "x": 0.5,
+   "y": 0.77,
+   "anim": "fade"
+  },
+  {
+   "type": "claim_bold",
+   "start": 16.1,
+   "end": 19.9,
+   "lines": [
+    "INSTANT GLOW"
+   ],
+   "sub": "NO WHITE CAST",
+   "x": 0.5,
+   "y": 0.76,
+   "anim": "fade"
+  }
+ ],
+ "notes": "Text pass (EDL): WHITE CAST tag beside the white blob in the shared villain-hook clip; no supers in the colour-wheel window 4.6-7.63 (COLOUR CORRECTION claim removed); MADE FOR INDIAN SKIN TONES over the PS08 hand blend (wrist area, swatch clear); 4% NIACINAMIDE and SPF 50 PA+++ below the chin on PS05; INSTANT GLOW / NO WHITE CAST below the chin across the PS06 glow shot.",
+ "caption_moves": [
+  {
+   "start": 10.85,
+   "end": 13.05,
+   "y": 0.497,
+   "ext": 1
+  }
+ ]
+}

@@ -1,0 +1,31 @@
+[
+  {
+    "created_at": "2026-10-09T13:12:50.300092Z",
+    "display_name": "Wan 3.0",
+    "id": "ff6dbd0d-eb98-4beb-bb1b-40bb9a8d21d3",
+    "job_type": "wan3_0",
+    "min_result_url": null,
+    "params": {
+      "aspect_ratio": "9:16",
+      "duration": 5,
+      "generate_audio": false,
+      "height": 1344,
+      "medias": [
+        {
+          "data": {
+            "id": "c1e505e3-6772-4eb1-a865-c378cd99ff5a",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3A6ZxB95Mnf55lwPBqzkePnTfzA/c1e505e3-6772-4eb1-a865-c378cd99ff5a.png"
+          },
+          "role": "start_image"
+        }
+      ],
+      "prompt": "She lifts the tube slightly toward the camera and smiles; gentle breeze in her hair; the tube label stays readable and unchanged; handheld feel. Photorealistic, natural motion, stable identity, product packaging stays exactly as in the first frame, no text appears.",
+      "resolution": "480p",
+      "width": 768
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3A6ZxB95Mnf55lwPBqzkePnTfzA/hf_20261009_131250_ff6dbd0d-eb98-4beb-bb1b-40bb9a8d21d3.mp4",
+    "status": "completed",
+    "thumbnail_url": "https://cdn.higgsfield.ai/user_3A6ZxB95Mnf55lwPBqzkePnTfzA/hf_20261009_131250_ff6dbd0d-eb98-4beb-bb1b-40bb9a8d21d3_thumbnail.webp"
+  }
+]

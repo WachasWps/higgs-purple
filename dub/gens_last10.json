@@ -1,0 +1,454 @@
+[
+ {
+  "id": "ce52c347-af26-4dd0-a60d-10b4eb1cf03d",
+  "type": "video",
+  "status": "completed",
+  "model": "wan3_0",
+  "params": {
+   "prompt": "HINGLISH VOICEOVER:\n\u201cEk sunscreen, two smart actions.\nSPF 50 PA+++ helps protect from UVA and UVB, while 4% Niacinamide supports brighter, more even-looking skin.\nDERMDOC ka purple tint yellow-looking dullness ko colour-correct karke gives instant radiant glow\u2014lightweight and without white cast.\u201d\nVIDEO PROMPT:\nCreate a futuristic 20-second vertical product-led sunscreen advertisement based on the Dual-Action Reactor storyboard.\nUse the exact DERMDOC Ultra Violet Brightening Sunscreen tube from the supplied reference. Preserve the correct white tube, translucent lavender cap and original label. Purple cream must be smooth, opaque and pale lavender.\n0:00\u20130:02 \u2014 Exact tube centred between two elegant transparent energy chambers.\n0:02\u20130:04 \u2014 Macro purple cream texture rotates in a circular glass reactor dish.\n0:04\u20130:06 \u2014 One purple droplet splits into two paths: one becomes a transparent protection shield and the other becomes blue Niacinamide-like molecules.\n0:06\u20130:08 \u2014 Protection path deflects gold and blue sunlight rays above realistic brown skin.\n0:08\u20130:10 \u2014 Blue molecule path supports the smooth upper skin surface.\n0:10\u20130:12 \u2014 Both pathways reunite as one invisible luminous film across the skin.\n0:12\u20130:14 \u2014 Purple cream is applied to one medium-brown forearm using one anatomically correct hand.\n0:14\u20130:16 \u2014 Cream fully absorbs, leaving natural non-greasy radiance and no cast.\n0:16\u20130:18 \u2014 Matched split-face of the same Indian woman: dull/uneven versus balanced and radiant, identical natural colour.\n0:18\u20130:20 \u2014 Exact tube inside two interlocking translucent rings with a purple cream swipe and daylight halo.\nUse dual activation pulses, shield impact, molecular bubbles, cream swish and a resolved three-note ending.\nNo added text, logo overlay, headline, caption, subtitle, ingredient name, SPF letters, number, CTA, frame label or watermark. Only the product\u2019s original physical label may contain branding.Create a futuristic 20-second vertical 9:16 DERMDOC sunscreen advertisement showing purple colour correction, SPF protection and Niacinamide support.\n\nUse the exact DERMDOC Ultra Violet Brightening Sunscreen tube from the supplied photograph. Preserve all product proportions, original white packaging, translucent lavender flip cap and printed label.\n\nSHOT SEQUENCE\n\n0:00\u20130:02\nExact tube stands between two transparent laboratory chambers: one violet protection chamber and one blue molecular chamber.\n\n0:02\u20130:04\nShow pale-purple sunscreen rotating slowly inside a clean glass reactor dish.\n\n0:04\u20130:06 \u2014 COLOUR WHEEL\nA three-dimensional colour wheel assembles above the reactor. Violet locks directly opposite yellow.\n\nNo written labels, product, model, letters or numbers inside this shot.\n\n0:06\u20130:08\nOne purple cream droplet travels through the centre of the wheel and divides into two controlled energy paths.\n\n0:08\u20130:10\nThe first path becomes a transparent protective shield that deflects gold and blue sunlight rays above realistic brown skin.\n\n0:10\u20130:12\nThe second path becomes blue Niacinamide-inspired molecular bubbles supporting a smooth, even-looking upper skin surface.\n\n0:12\u20130:14\nBoth paths reunite into one thin invisible luminous film over the skin.\n\n0:14\u20130:16\nApply and blend the purple cream on a medium-brown forearm. Show complete absorption without purple or white residue.\n\n0:16\u20130:18\nMatched split-face of the same Indian woman. Left: dull and uneven-looking. Right: balanced and naturally radiant. Keep her exact natural skin tone.\n\n0:18\u20130:20\nExact tube stands inside two interlocking transparent rings. A subtle violet-and-yellow colour-wheel glow remains behind it with a pale-purple cream swipe.\n\nUse two distinct activation sounds, colour-wheel chime, shield impact, molecular shimmer, cream swish and a premium final resolve.\n\nABSOLUTELY NO added text, logo, caption, subtitle, headline, ingredient name, SPF lettering, number, CTA, badge, frame marker or watermark. Only the original physical printing on the exact product tube is permitted.",
+   "aspect_ratio": "9:16",
+   "duration": 20,
+   "medias": [
+    {
+     "role": "image",
+     "data": {
+      "id": "56723c57-45bc-48a3-8ebf-b889362b8d5e",
+      "type": "media_input",
+      "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3A6ZxB95Mnf55lwPBqzkePnTfzA/56723c57-45bc-48a3-8ebf-b889362b8d5e.webp"
+     }
+    },
+    {
+     "role": "image",
+     "data": {
+      "id": "1f7e84e9-253f-4bb2-9b92-8b462e680c3e",
+      "type": "media_input",
+      "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3A6ZxB95Mnf55lwPBqzkePnTfzA/1f7e84e9-253f-4bb2-9b92-8b462e680c3e.webp"
+     }
+    },
+    {
+     "role": "image",
+     "data": {
+      "id": "b2258d06-b574-4997-b6bc-36a8d024485d",
+      "type": "media_input",
+      "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3A6ZxB95Mnf55lwPBqzkePnTfzA/b2258d06-b574-4997-b6bc-36a8d024485d.png"
+     }
+    }
+   ],
+   "width": 480,
+   "height": 854,
+   "resolution": "480p",
+   "generate_audio": true
+  },
+  "results": {
+   "rawUrl": "https://d8j0ntlcm91z4.cloudfront.net/user_3A6ZxB95Mnf55lwPBqzkePnTfzA/hf_20261009_002700_ce52c347-af26-4dd0-a60d-10b4eb1cf03d.mp4"
+  },
+  "createdAt": 1791505620.84147,
+  "liked": false
+ },
+ {
+  "id": "fb3fa838-e0f1-4440-aaf1-7363b3d1842d",
+  "type": "video",
+  "status": "completed",
+  "model": "wan3_0",
+  "params": {
+   "prompt": "HINGLISH VOICEOVER:\n\u201cMorning balcony se city commute tak\u2014sun exposure follows everywhere.\nDERMDOC Ultra Violet Brightening Sunscreen brings SPF 50 PA+++ protection with 4% Niacinamide.\nPurple tint yellow-looking dullness ko balance karke natural radiant glow deta hai\u2014without white cast.\nMade for everyday Indian sun.\u201d\nVIDEO PROMPT:\nCreate a dynamic 20-second vertical product-led sunscreen advertisement based on the City Sun Relay storyboard.\nUse the exact white DERMDOC sunscreen tube with translucent lavender cap and correct label. Purple texture must remain creamy and pale lavender.\n0:00\u20130:02 \u2014 Exact tube stands above a premium miniature Indian city under morning sunlight.\n0:02\u20130:04 \u2014 A concentrated sunbeam travels between the buildings toward the product.\n0:04\u20130:06 \u2014 Macro purple cream ribbon emerges from the exact flip cap.\n0:06\u20130:08 \u2014 The cream ribbon transforms into a transparent ultraviolet canopy spreading over a miniature city boulevard.\n0:08\u20130:10 \u2014 Under the canopy, sunlight rays deflect from a realistic brown skin barrier.\n0:10\u20130:12 \u2014 Blue molecular bubbles support the upper skin surface.\n0:12\u20130:14 \u2014 One correct hand applies purple sunscreen on a brown forearm beside a balcony rail.\n0:14\u20130:16 \u2014 Same forearm in direct daylight after full absorption, no cast or residue.\n0:16\u20130:18 \u2014 Matched split-face of the same Indian woman: dull/yellow-looking versus naturally radiant, same skin tone.\n0:18\u20130:20 \u2014 Exact tube above the city inside a luminous protective arc.\nUse city ambience, travelling sunbeam, canopy expansion, shield impact and the final brand sting.\nNo written signs in the city. No added logo, headline, subtitles, captions, labels, numbers, CTA or watermark. Only original product-label printing is allowed.Create a premium 20-second vertical DERMDOC sunscreen advertisement set in bright Indian city daylight.\n\nThe advertisement must remain product-led. Use the human model only in the matched result shot.\n\nUse the supplied product photograph as the exact tube reference. Preserve the white body, tapered tube, ribbed top seam, translucent lavender cap and original DERMDOC front label.\n\nSHOT SEQUENCE\n\n0:00\u20130:02\nExact tube stands above a premium miniature Indian city under strong morning sunlight.\n\n0:02\u20130:04\nA bright sunbeam travels between city buildings toward the product.\n\n0:04\u20130:06\nMacro shot of pale-purple sunscreen emerging smoothly from the exact flip cap.\n\n0:06\u20130:08 \u2014 COLOUR WHEEL\nA large translucent colour wheel rises above the miniature city like an architectural installation. Yellow faces the sunlight side, while violet sits directly opposite.\n\nNo labels, words, numbers, product or person inside the colour-wheel frame.\n\n0:08\u20130:10\nThe purple sunscreen ribbon passes through the violet section. The colour wheel transforms into a transparent ultraviolet canopy across the miniature city.\n\n0:10\u20130:12\nUnder the canopy, sunlight rays deflect from a realistic brown skin barrier.\n\n0:12\u20130:14\nPurple sunscreen is spread across a medium-brown forearm beside a daylight balcony rail.\n\n0:14\u20130:16\nThe sunscreen absorbs completely. The forearm remains naturally brown, lightweight-looking and cast-free under direct sunlight.\n\n0:16\u20130:18\nMatched split-face of the same Indian woman on the balcony. Left: dull and yellow-looking. Right: naturally balanced and radiant. Same face, light, angle and skin colour.\n\n0:18\u20130:20\nExact tube stands above the city inside a circular violet protective arc, with a pale-purple cream swipe behind it.\n\nUse city ambience, travelling sunlight, colour-wheel activation, canopy expansion and a clean final sting.\n\nNo written city signs. No added text, logo overlay, headline, caption, subtitle, CTA, number, label, badge or watermark. Only original product packaging text is allowed.",
+   "aspect_ratio": "9:16",
+   "duration": 20,
+   "medias": [
+    {
+     "role": "image",
+     "data": {
+      "id": "56723c57-45bc-48a3-8ebf-b889362b8d5e",
+      "type": "media_input",
+      "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3A6ZxB95Mnf55lwPBqzkePnTfzA/56723c57-45bc-48a3-8ebf-b889362b8d5e.webp"
+     }
+    },
+    {
+     "role": "image",
+     "data": {
+      "id": "1f7e84e9-253f-4bb2-9b92-8b462e680c3e",
+      "type": "media_input",
+      "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3A6ZxB95Mnf55lwPBqzkePnTfzA/1f7e84e9-253f-4bb2-9b92-8b462e680c3e.webp"
+     }
+    },
+    {
+     "role": "image",
+     "data": {
+      "id": "e6cbaa12-be77-4faa-9f6a-a1a7acd6e777",
+      "type": "media_input",
+      "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3A6ZxB95Mnf55lwPBqzkePnTfzA/e6cbaa12-be77-4faa-9f6a-a1a7acd6e777.png"
+     }
+    }
+   ],
+   "width": 480,
+   "height": 854,
+   "resolution": "480p",
+   "generate_audio": true
+  },
+  "results": {
+   "rawUrl": "https://d8j0ntlcm91z4.cloudfront.net/user_3A6ZxB95Mnf55lwPBqzkePnTfzA/hf_20261009_002510_fb3fa838-e0f1-4440-aaf1-7363b3d1842d.mp4"
+  },
+  "createdAt": 1791505510.582876,
+  "liked": false
+ },
+ {
+  "id": "fe7174d4-81ef-4b38-9e6f-4c55a8af3a11",
+  "type": "video",
+  "status": "completed",
+  "model": "wan3_0",
+  "params": {
+   "prompt": "Create a polished 20-second vertical product-led DERMDOC sunscreen advertisement combining colour correction with a zero-white-cast optical demonstration.\n\nUse the exact supplied DERMDOC sunscreen tube. Preserve the original white tube, translucent pale-lavender flip cap, ribbed top, label layout and proportions.\n\nThe cream must be opaque pale lavender-purple and luxuriously smooth.\n\nSHOT SEQUENCE\n\n0:00\u20130:02\nExact tube stands on a cobalt optical laboratory table surrounded by clear glass prisms.\n\n0:02\u20130:04\nMacro cap opening. Dispense the purple sunscreen into a transparent glass dish.\n\n0:04\u20130:06 \u2014 COLOUR WHEEL\nA clean circular colour wheel forms inside a transparent optical prism. Violet is positioned directly opposite yellow. A narrow beam connects the two opposite colours.\n\nNo written labels, symbols, product or person in this shot.\n\n0:06\u20130:08\nA white beam enters through the yellow side, passes through the violet centre and exits as soft, visually balanced daylight.\n\n0:08\u20130:10\nThe pale-purple sunscreen sample receives the balanced beam and reflects a smooth, soft glow rather than chalky scattered light.\n\n0:10\u20130:12\nApply one thick but controlled purple stripe to a medium-brown Indian forearm.\n\n0:12\u20130:14\nOne correct hand blends the sunscreen. Show the purple colour gradually disappearing.\n\n0:14\u20130:16\nExtreme macro of fully blended natural brown skin. No white residue, purple cast or oily film.\n\n0:16\u20130:18\nMatched split-face of the same Indian woman. Left: dull with a visible chalky cast. Right: balanced, naturally radiant and cast-free. Maintain identical natural skin colour.\n\n0:18\u20130:20\nExact tube between transparent prisms with a pale-purple cream swipe and a subtle circular colour-wheel halo.\n\nUse glass chimes, optical light sweeps, cream swishes and a clean final product hit.\n\nNo added text, corner logo, subtitle, caption, claim, number, CTA, badge, interface or watermark. Only the original tube-label printing may remain.HINGLISH VOICEOVER:\n\u201cWhite cast ko light mein test karo.\nDERMDOC Ultra Violet Brightening Sunscreen ka purple tint Indian skin mein smoothly blend hota hai.\n4% Niacinamide ke saath SPF 50 PA+++ protection\u2014lightweight, non-greasy and no chalky residue.\nNatural skin tone stays. Bas radiant glow dikhe.\u201d\nVIDEO PROMPT:\nCreate a precise 20-second vertical product-led sunscreen advertisement based on the Zero-Cast Optical Test storyboard.\nUse the exact DERMDOC sunscreen tube from the reference. Preserve the white tube, pale-lavender cap, ribbed top and correct product label. Purple cream must be pale, opaque, smooth and spreadable.\n0:00\u20130:02 \u2014 Exact tube on a clean cobalt optical laboratory table surrounded by transparent prisms.\n0:02\u20130:04 \u2014 Flip cap opens and dispenses purple sunscreen into a clear glass dish.\n0:04\u20130:06 \u2014 A clean beam of white light passes through the purple cream sample and emerges soft and balanced.\n0:06\u20130:08 \u2014 Contrast with an abstract chalky white material scattering light harshly. Do not show a competing product.\n0:08\u20130:10 \u2014 Purple sunscreen is placed on a medium-brown forearm.\n0:10\u20130:12 \u2014 One correct hand blends it evenly.\n0:12\u20130:14 \u2014 Product disappears completely without purple or white residue.\n0:14\u20130:16 \u2014 Extreme macro of smooth, natural, non-greasy skin under moving daylight.\n0:16\u20130:18 \u2014 Matched split-face of one Indian woman: visible dull cast versus natural radiant finish, same skin colour.\n0:18\u20130:20 \u2014 Exact tube between clear optical prisms with pale-purple cream swipe.\nUse optical tones, glass chimes, cream swishes and a soft bright product resolve.\nAbsolutely no added logo, caption, subtitle, headline, number, label, CTA, frame marker or watermark. Only original product printing may be visible.",
+   "aspect_ratio": "9:16",
+   "duration": 20,
+   "medias": [
+    {
+     "role": "image",
+     "data": {
+      "id": "56723c57-45bc-48a3-8ebf-b889362b8d5e",
+      "type": "media_input",
+      "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3A6ZxB95Mnf55lwPBqzkePnTfzA/56723c57-45bc-48a3-8ebf-b889362b8d5e.webp"
+     }
+    },
+    {
+     "role": "image",
+     "data": {
+      "id": "1f7e84e9-253f-4bb2-9b92-8b462e680c3e",
+      "type": "media_input",
+      "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3A6ZxB95Mnf55lwPBqzkePnTfzA/1f7e84e9-253f-4bb2-9b92-8b462e680c3e.webp"
+     }
+    },
+    {
+     "role": "image",
+     "data": {
+      "id": "ceb451b6-a34d-477c-85eb-88de89424a6b",
+      "type": "media_input",
+      "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3A6ZxB95Mnf55lwPBqzkePnTfzA/ceb451b6-a34d-477c-85eb-88de89424a6b.png"
+     }
+    }
+   ],
+   "width": 480,
+   "height": 854,
+   "resolution": "480p",
+   "generate_audio": true
+  },
+  "results": {
+   "rawUrl": "https://d8j0ntlcm91z4.cloudfront.net/user_3A6ZxB95Mnf55lwPBqzkePnTfzA/hf_20261009_002442_fe7174d4-81ef-4b38-9e6f-4c55a8af3a11.mp4"
+  },
+  "createdAt": 1791505482.784184,
+  "liked": false
+ },
+ {
+  "id": "c01adcce-642c-4557-a230-9dab369f74e1",
+  "type": "video",
+  "status": "completed",
+  "model": "wan3_0",
+  "params": {
+   "prompt": "HINGLISH VOICEOVER:\n\u201cSunlight dikhta hai. Protection nahi\u2014but it should be there.\nDERMDOC Ultra Violet Brightening Sunscreen gives SPF 50 PA+++ protection with 4% Niacinamide.\nIts purple tint blends into Indian skin for an instant radiant glow, without white cast.\nInvisible protection. Visible glow.\u201d\nVIDEO PROMPT:\nCreate a premium 20-second vertical product-led sunscreen advertisement based on the Invisible UV Shield storyboard.\nUse the exact DERMDOC white tube and translucent lavender cap. Preserve the original label, tube proportions and purple cream texture.\n0:00\u20130:02 \u2014 Exact tube stands under an intense sunlight beam on a cobalt pedestal.\n0:02\u20130:04 \u2014 Sunlight refracts through a transparent protective arc surrounding the tube.\n0:04\u20130:06 \u2014 A pale-purple cream droplet generates an expanding invisible shield dome.\n0:06\u20130:08 \u2014 Gold and blue UV rays approach a realistic brown skin cross-section.\n0:08\u20130:10 \u2014 UV rays deflect away from the luminous shield above the skin.\n0:10\u20130:12 \u2014 Blue Niacinamide-like molecular bubbles support the upper skin surface.\n0:12\u20130:14 \u2014 Purple cream spreads into an even film across natural brown skin.\n0:14\u20130:16 \u2014 Water droplets and sunlight move over the protected-looking surface without residue.\n0:16\u20130:18 \u2014 Matched split-face of one Indian woman: dull versus naturally radiant and no white cast.\n0:18\u20130:20 \u2014 Exact tube enclosed inside the completed transparent shield dome with cream ribbon.\nUse sunlight impacts, shield expansion, UV deflection sounds, water movement and a clean sonic finish.\nNo text, headline, caption, subtitle, added logo, SPF graphic letters, CTA, numbers, labels or watermark. Only original tube-label printing is allowed.\nCreate a premium 20-second vertical 9:16 DERMDOC sunscreen advertisement combining purple colour correction with SPF protection.\n\nUse the exact DERMDOC Ultra Violet Brightening Sunscreen tube from the supplied product reference. Preserve its white body, correct proportions, ribbed top seam, translucent lavender flip cap and original front-facing label.\n\nSHOT SEQUENCE\n\n0:00\u20130:02\nExact product tube stands under a bright sunlight beam on a glossy cobalt pedestal.\n\n0:02\u20130:04\nThe translucent lavender cap opens and releases a smooth, opaque pale-purple cream droplet.\n\n0:04\u20130:06 \u2014 COLOUR WHEEL\nShow a separate floating glass colour wheel. Yellow glows on one side and violet glows directly opposite it. Slowly rotate the wheel until violet and yellow align across the centre.\n\nNo labels, letters, numbers, model or product in this frame.\n\n0:06\u20130:08\nThe purple droplet enters the centre of the colour wheel. A transparent violet protective dome grows outward from the wheel.\n\n0:08\u20130:10\nThe protective dome settles above a realistic brown human-skin cross-section.\n\n0:10\u20130:12\nGold and blue UVA/UVB-inspired light rays approach the skin and deflect from the transparent shield.\n\nDo not generate UVA, UVB or SPF letters; communicate rays visually.\n\n0:12\u20130:14\nBlue Niacinamide-inspired molecular bubbles move gently across the upper skin surface.\n\n0:14\u20130:16\nPurple sunscreen spreads across a medium-brown forearm and absorbs completely, leaving no white or purple residue.\n\n0:16\u20130:18\nMatched split-face of the same Indian woman. Left: dull and uneven-looking. Right: naturally radiant with no white cast. Skin tone must remain identical.\n\n0:18\u20130:20\nExact tube stands inside the completed transparent shield dome. Add a pale-purple cream ribbon and bright daylight halo.\n\nUse futuristic shield expansion, ray-deflection sounds, molecular shimmer and a resolved final sting.\n\nNo added text, captions, subtitles, logo overlay, ingredient labels, numbers, CTA, badges or watermarks. Only original product-label printing is permitted.",
+   "aspect_ratio": "9:16",
+   "duration": 20,
+   "medias": [
+    {
+     "role": "image",
+     "data": {
+      "id": "56723c57-45bc-48a3-8ebf-b889362b8d5e",
+      "type": "media_input",
+      "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3A6ZxB95Mnf55lwPBqzkePnTfzA/56723c57-45bc-48a3-8ebf-b889362b8d5e.webp"
+     }
+    },
+    {
+     "role": "image",
+     "data": {
+      "id": "1f7e84e9-253f-4bb2-9b92-8b462e680c3e",
+      "type": "media_input",
+      "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3A6ZxB95Mnf55lwPBqzkePnTfzA/1f7e84e9-253f-4bb2-9b92-8b462e680c3e.webp"
+     }
+    },
+    {
+     "role": "image",
+     "data": {
+      "id": "3af1a3cf-8b54-4d17-925c-9322dceeea1d",
+      "type": "media_input",
+      "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3A6ZxB95Mnf55lwPBqzkePnTfzA/3af1a3cf-8b54-4d17-925c-9322dceeea1d.png"
+     }
+    }
+   ],
+   "width": 480,
+   "height": 854,
+   "resolution": "480p",
+   "generate_audio": true
+  },
+  "results": {
+   "rawUrl": "https://d8j0ntlcm91z4.cloudfront.net/user_3A6ZxB95Mnf55lwPBqzkePnTfzA/hf_20261009_002414_c01adcce-642c-4557-a230-9dab369f74e1.mp4"
+  },
+  "createdAt": 1791505454.266181,
+  "liked": false
+ },
+ {
+  "id": "4010f985-0b39-4df5-a4b6-55724e48add2",
+  "type": "video",
+  "status": "completed",
+  "model": "wan3_0",
+  "params": {
+   "prompt": "Create a premium 20-second vertical 9:16 product-led DERMDOC sunscreen advertisement.\n\nPRODUCT LOCK\n\nUse the supplied product photograph as the exact reference. Preserve the tall soft white squeeze tube, ribbed top seam, tapered shoulders, translucent pale-lavender flip cap, DERMDOC Honest Science label, vertical ULTRA VIOLET lettering, 4% NIACINAMIDE WITH SPF 50 PA+++ and BRIGHTENING SUNSCREEN.\n\nDo not redesign, stretch or replace the tube.\n\nThe sunscreen must be smooth, creamy, opaque pale lavender-purple\u2014not neon, watery, translucent or stringy.\n\nSHOT SEQUENCE\n\n0:00\u20130:02\nShow the exact tube silhouetted against a warm yellow light representing yellow-looking dullness. Slowly rotate the product toward the camera.\n\n0:02\u20130:04\nReveal the exact tube clearly on a glossy cobalt-and-violet pedestal. Use a soft ultraviolet halo and premium product lighting.\n\n0:04\u20130:06\nMacro shot of the translucent lavender flip cap opening. Dispense one thick, smooth ribbon of pale-purple sunscreen.\n\n0:06\u20130:08 \u2014 COLOUR WHEEL\nShow a separate premium three-dimensional colour wheel on a cobalt background. Violet must sit directly opposite yellow. A soft light travels from the yellow section across the centre to violet.\n\nDo not include the product, woman, words, labels, letters or numbers in this colour-wheel shot.\n\n0:08\u20130:10\nA pale-purple cream droplet passes through the centre of the colour wheel. The harsh yellow illumination transforms into clean, balanced daylight.\n\n0:10\u20130:12\nApply one visible purple stripe to a medium-brown Indian forearm using one anatomically correct hand.\n\n0:12\u20130:14\nBlend the purple cream halfway. Clearly show the change from visible purple texture to transparent absorption.\n\n0:14\u20130:16\nThe sunscreen absorbs completely. Skin retains its natural brown colour with no purple residue, chalkiness or white cast.\n\n0:16\u20130:18\nMatched split-face comparison of the same Indian woman. Left: slightly dull and yellow-looking. Right: naturally balanced and radiant. Preserve identical face, angle, light and skin colour.\n\nDo not add Before or After labels.\n\n0:18\u20130:20\nFinal exact product hero with a pale-purple cream swipe and a balanced yellow-to-violet halo.\n\nSTYLE\n\nPremium photorealistic skincare advertising, cobalt blue, ultraviolet purple, white and balanced daylight. Use cap clicks, cream swishes, colour-energy sounds and a clean three-note finish.\n\nABSOLUTELY NO added text, corner logo, headline, caption, subtitle, claim, CTA, frame number, timestamp, badge, watermark or gibberish. Only the original printing physically present on the product tube is allowed.HINGLISH VOICEOVER:\n\u201cYellow-looking dullness ko balance karne ka colour secret? Purple.\nDERMDOC Ultra Violet Brightening Sunscreen ka purple tint dullness ko colour-correct karke instant radiant glow deta hai.\nWith 4% Niacinamide and SPF 50 PA+++ protection\u2014lightweight and without white cast.\nIndian skin ke liye.\u201d\nVIDEO PROMPT:\nCreate a 20-second vertical product-led DERMDOC sunscreen advertisement based on the Purple vs Yellow storyboard.\nUse the exact white DERMDOC Ultra Violet sunscreen tube with ribbed top seam, tapered body, translucent pale-lavender flip cap and correct original label. Preserve the packaging throughout. Texture must remain creamy opaque pale lavender.\n0:00\u20130:02 \u2014 Product silhouette against a warm yellow glow representing dullness.\n0:02\u20130:04 \u2014 Exact tube revealed upright on a violet laboratory pedestal.\n0:04\u20130:06 \u2014 Flip cap opens and dispenses one smooth purple cream ribbon.\n0:06\u20130:08 \u2014 A three-dimensional colour portal appears with yellow light on one side and violet on the opposite side.\n0:08\u20130:10 \u2014 Purple cream droplet travels through the portal and transforms the yellow glow into balanced daylight.\n0:10\u20130:12 \u2014 Purple cream stripe is applied to one medium-brown forearm.\n0:12\u20130:14 \u2014 One correct hand blends the stripe halfway.\n0:14\u20130:16 \u2014 Cream fully disappears into natural brown skin without purple or white residue.\n0:16\u20130:18 \u2014 Matched split-face of the same Indian woman: dull/yellow-looking versus naturally balanced and radiant. No whitening.\n0:18\u20130:20 \u2014 Exact tube in front of a balanced violet-and-daylight halo with cream swipe.\nUse colour-energy sweeps, cap click, cream swish and a bright final sting.\nNo added logo, text, captions, subtitles, labels, numbers, CTA or watermark. Only the printing on the actual product is allowed.",
+   "aspect_ratio": "9:16",
+   "duration": 20,
+   "medias": [
+    {
+     "role": "image",
+     "data": {
+      "id": "56723c57-45bc-48a3-8ebf-b889362b8d5e",
+      "type": "media_input",
+      "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3A6ZxB95Mnf55lwPBqzkePnTfzA/56723c57-45bc-48a3-8ebf-b889362b8d5e.webp"
+     }
+    },
+    {
+     "role": "image",
+     "data": {
+      "id": "1f7e84e9-253f-4bb2-9b92-8b462e680c3e",
+      "type": "media_input",
+      "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3A6ZxB95Mnf55lwPBqzkePnTfzA/1f7e84e9-253f-4bb2-9b92-8b462e680c3e.webp"
+     }
+    },
+    {
+     "role": "image",
+     "data": {
+      "id": "c6e9ad49-3ddc-47e4-8028-5b889b00fec7",
+      "type": "media_input",
+      "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3A6ZxB95Mnf55lwPBqzkePnTfzA/c6e9ad49-3ddc-47e4-8028-5b889b00fec7.png"
+     }
+    }
+   ],
+   "width": 480,
+   "height": 854,
+   "resolution": "480p",
+   "generate_audio": true
+  },
+  "results": {
+   "rawUrl": "https://d8j0ntlcm91z4.cloudfront.net/user_3A6ZxB95Mnf55lwPBqzkePnTfzA/hf_20261009_002340_4010f985-0b39-4df5-a4b6-55724e48add2.mp4"
+  },
+  "createdAt": 1791505420.373603,
+  "liked": false
+ },
+ {
+  "id": "b4c787e1-0f5d-44c1-8ddf-51da038c2862",
+  "type": "video",
+  "status": "completed",
+  "model": "wan3_0",
+  "params": {
+   "prompt": "HINGLISH VOICEOVER:\n\u201cDark spots scattered hain? Night routine ko smarter banao.\nDERMDOC 2% Kojic Acid Night Cream brings Kojic Acid, Niacinamide aur Alpha Arbutin together.\nIts Glow Fusion Formula helps reduce the appearance of dark spots and supports brighter, more even-looking skin.\nEvery night, one step closer to glow.\u201d\nVIDEO PROMPT:\nCreate a distinctive 20-second vertical DERMDOC KNC advertisement based on the Dark-Spot Constellation storyboard.\nUse the exact short cobalt-blue KNC jar, original broad white label and flat white lid. Preserve the product perfectly. Show rich opaque white cream.\n0:00\u20130:02 \u2014 Moonlit close-up of an Indian woman with flat cheek pigmentation.\n0:02\u20130:04 \u2014 Individual dark spots transform into a floating constellation of brown pigment points connected by faint golden light. No letters or symbols.\n0:04\u20130:06 \u2014 Exact jar appears beneath the constellation on a cobalt pedestal.\n0:06\u20130:08 \u2014 Top-down view into the exact open jar and its dense cream peak.\n0:08\u20130:10 \u2014 Three gold, blue and violet molecular orbs rise from the cream.\n0:10\u20130:12 \u2014 The orbs travel through the pigment constellation toward its densest clusters.\n0:12\u20130:14 \u2014 Match-cut into realistic upper epidermis as the clusters become less concentrated.\n0:14\u20130:16 \u2014 Same woman applies the cream at a mirror; exact jar is visible in the reflection.\n0:16\u20130:18 \u2014 Matched before/after after two weeks, same woman and natural skin colour.\n0:18\u20130:20 \u2014 Exact closed jar with the former pigment constellation resolved into a smooth, even halo behind it.\nUse constellation sparkles, orbital movement, molecular shimmer and a premium three-note finish.\nDo not add any text, caption, subtitle, headline, ingredient name, logo overlay, number, CTA, interface letter or watermark. Only original product-label printing is permitted.",
+   "aspect_ratio": "9:16",
+   "duration": 20,
+   "medias": [
+    {
+     "role": "image",
+     "data": {
+      "id": "fec0b659-b477-4622-9342-97f3d9a2e4ee",
+      "type": "media_input",
+      "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3A6ZxB95Mnf55lwPBqzkePnTfzA/fec0b659-b477-4622-9342-97f3d9a2e4ee.jpg"
+     }
+    },
+    {
+     "role": "image",
+     "data": {
+      "id": "8b27b7b3-0535-4128-9620-8548ae917bf4",
+      "type": "media_input",
+      "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3A6ZxB95Mnf55lwPBqzkePnTfzA/8b27b7b3-0535-4128-9620-8548ae917bf4.jpg"
+     }
+    }
+   ],
+   "width": 480,
+   "height": 854,
+   "resolution": "480p",
+   "generate_audio": true
+  },
+  "results": {
+   "rawUrl": "https://d8j0ntlcm91z4.cloudfront.net/user_3A6ZxB95Mnf55lwPBqzkePnTfzA/hf_20261009_002225_b4c787e1-0f5d-44c1-8ddf-51da038c2862.mp4"
+  },
+  "createdAt": 1791505345.060787,
+  "liked": false
+ },
+ {
+  "id": "e9528636-fdd1-44dd-8d23-1332918f40a4",
+  "type": "video",
+  "status": "completed",
+  "model": "wan3_0",
+  "params": {
+   "prompt": "HINGLISH VOICEOVER:\n\u201cRich night cream\u2014but heavy, bilkul nahi.\nDERMDOC 2% Kojic Acid Night Cream smoothly blends into your night routine.\nKojic Acid, Niacinamide aur Alpha Arbutin ka Glow Fusion Formula dark spots ki appearance reduce karke skin ko brighter aur more even-looking banane mein help kare.\nWake up to glow.\u201d\nVIDEO PROMPT:\nCreate a sensorial 20-second vertical 9:16 DERMDOC KNC advertisement based on the Cream-Ribbon Journey storyboard.\nUse the exact short, wide cobalt-blue jar with its correct label and broad white lid. Preserve product dimensions in every shot. Cream must look dense, smooth, opaque and luxurious.\n0:00\u20130:02 \u2014 Exact closed jar rotates slowly on a glossy cobalt surface.\n0:02\u20130:04 \u2014 Broad lid lifts, revealing the stable sculpted cream peak.\n0:04\u20130:06 \u2014 A clean transparent spatula lifts one rich, non-stringy dollop.\n0:06\u20130:08 \u2014 The cream forms an elegant white ribbon that match-cuts into the curved surface of realistic brown skin.\n0:08\u20130:10 \u2014 Cream ribbon spreads into a thin, even film over the skin.\n0:10\u20130:12 \u2014 Gold, blue and violet molecular lights separate beneath the absorbed film.\n0:12\u20130:14 \u2014 Molecular lights move through the upper epidermis as concentrated brown pigment becomes less dense.\n0:14\u20130:16 \u2014 Same Indian woman blends the cream into her cheek at night. Show complete absorption.\n0:16\u20130:18 \u2014 Matched before/after after two weeks. Preserve face, angle, lighting and natural skin tone.\n0:18\u20130:20 \u2014 Exact jar surrounded compositionally by one flowing white cream ribbon without covering the label.\nUse macro texture sounds, a silky ribbon whoosh, molecular shimmer and a clean resolved ending.\nNo added text, subtitles, captions, logos, ingredient labels, CTA, frame numbers or watermark. Only original product-label printing may be visible.",
+   "aspect_ratio": "9:16",
+   "duration": 20,
+   "medias": [
+    {
+     "role": "image",
+     "data": {
+      "id": "fec0b659-b477-4622-9342-97f3d9a2e4ee",
+      "type": "media_input",
+      "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3A6ZxB95Mnf55lwPBqzkePnTfzA/fec0b659-b477-4622-9342-97f3d9a2e4ee.jpg"
+     }
+    },
+    {
+     "role": "image",
+     "data": {
+      "id": "8b27b7b3-0535-4128-9620-8548ae917bf4",
+      "type": "media_input",
+      "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3A6ZxB95Mnf55lwPBqzkePnTfzA/8b27b7b3-0535-4128-9620-8548ae917bf4.jpg"
+     }
+    },
+    {
+     "role": "image",
+     "data": {
+      "id": "5f806f35-76a0-4d84-a932-20c100467637",
+      "type": "media_input",
+      "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3A6ZxB95Mnf55lwPBqzkePnTfzA/5f806f35-76a0-4d84-a932-20c100467637.png"
+     }
+    }
+   ],
+   "width": 480,
+   "height": 854,
+   "resolution": "480p",
+   "generate_audio": true
+  },
+  "results": {
+   "rawUrl": "https://d8j0ntlcm91z4.cloudfront.net/user_3A6ZxB95Mnf55lwPBqzkePnTfzA/hf_20261009_002207_e9528636-fdd1-44dd-8d23-1332918f40a4.mp4"
+  },
+  "createdAt": 1791505327.864674,
+  "liked": false
+ },
+ {
+  "id": "eab38211-696d-43c6-961f-c8361469946f",
+  "type": "video",
+  "status": "completed",
+  "model": "wan3_0",
+  "params": {
+   "prompt": "HINGLISH VOICEOVER:\n\u201cJab aap soti hain, aapki night routine kaam karti rehti hai.\nDERMDOC 2% Kojic Acid Night Cream ki Glow Fusion Formula mein hain Kojic Acid, Niacinamide aur Alpha Arbutin.\nDark spots ki appearance reduce karne aur skin ko more even-looking banane mein help kare.\nApply. Sleep. Glow.\u201d\nVIDEO PROMPT:\nCreate a luxurious 20-second vertical KNC advertisement centred on overnight action. Follow the Midnight Clock storyboard.\nPreserve the exact short cobalt-blue DERMDOC jar, broad white label and flat white lid. The cream must look dense, rich and opaque.\n0:00\u20130:02 \u2014 Indian woman notices flat cheek pigmentation at an evening mirror.\n0:02\u20130:04 \u2014 Exact jar sits beside an elegant analog clock and moonlit window.\n0:04\u20130:06 \u2014 Macro clock hands approach midnight while moonlight moves across the product.\n0:06\u20130:08 \u2014 Lid opens and reveals a dense sculpted cream peak.\n0:08\u20130:10 \u2014 Woman applies several small cream dots at night.\n0:10\u20130:12 \u2014 Cream blends and absorbs completely without whitening.\n0:12\u20130:14 \u2014 A transparent hourglass formed from moonlight appears. Gold, blue and violet molecular lights fall into realistic brown skin in its lower chamber.\n0:14\u20130:16 \u2014 Microscopic overnight transformation: concentrated pigment becomes gradually less dense and more evenly distributed.\n0:16\u20130:18 \u2014 Matched before/after after two weeks using the exact same woman, camera, lighting and natural skin colour.\n0:18\u20130:20 \u2014 Exact closed jar between fading moonlight and gentle dawn light, with one rich cream swipe.\nUse clock ticks, gentle midnight chime, molecular shimmer, dawn riser and the final three-note sting.\nNo on-screen text, captions, subtitles, added logo, CTA, numbers, labels, frame markers or watermark. The product\u2019s original printed label is the only permitted branding.",
+   "aspect_ratio": "9:16",
+   "duration": 20,
+   "medias": [
+    {
+     "role": "image",
+     "data": {
+      "id": "fec0b659-b477-4622-9342-97f3d9a2e4ee",
+      "type": "media_input",
+      "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3A6ZxB95Mnf55lwPBqzkePnTfzA/fec0b659-b477-4622-9342-97f3d9a2e4ee.jpg"
+     }
+    },
+    {
+     "role": "image",
+     "data": {
+      "id": "8b27b7b3-0535-4128-9620-8548ae917bf4",
+      "type": "media_input",
+      "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3A6ZxB95Mnf55lwPBqzkePnTfzA/8b27b7b3-0535-4128-9620-8548ae917bf4.jpg"
+     }
+    },
+    {
+     "role": "image",
+     "data": {
+      "id": "b081f6b6-41e9-4da2-bd40-b322091d226a",
+      "type": "media_input",
+      "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3A6ZxB95Mnf55lwPBqzkePnTfzA/b081f6b6-41e9-4da2-bd40-b322091d226a.png"
+     }
+    }
+   ],
+   "width": 480,
+   "height": 854,
+   "resolution": "480p",
+   "generate_audio": true
+  },
+  "results": {
+   "rawUrl": "https://d8j0ntlcm91z4.cloudfront.net/user_3A6ZxB95Mnf55lwPBqzkePnTfzA/hf_20261009_002149_eab38211-696d-43c6-961f-c8361469946f.mp4"
+  },
+  "createdAt": 1791505309.542978,
+  "liked": false
+ },
+ {
+  "id": "426b77bb-e23e-4d4c-bb6d-91f1454c2373",
+  "type": "video",
+  "status": "completed",
+  "model": "wan3_0",
+  "params": {
+   "prompt": "HINGLISH VOICEOVER:\n\u201cEk active achha hai. Lekin three-actives together?\nDERMDOC 2% Kojic Acid Night Cream combines Kojic Acid, Niacinamide aur Alpha Arbutin in one Glow Fusion Formula.\nTogether, they help reduce the appearance of dark spots and improve uneven-looking skin.\nOne jar. Three actives. Overnight glow.\u201d\nVIDEO PROMPT:\nCreate a premium 20-second vertical 9:16 DERMDOC KNC advertisement based exactly on the Three-Active Fusion storyboard.\nUse the exact low, wide cobalt-blue jar with its correct white label and broad white lid. Preserve the packaging throughout. Cream must remain thick, opaque and non-runny.\n0:00\u20130:02 \u2014 Exact jar floats above three separate glowing laboratory rings.\n0:02\u20130:04 \u2014 Reveal three elegant transparent chambers containing gold, blue and violet cosmetic molecules.\n0:04\u20130:06 \u2014 The three chambers open and their streams spiral independently toward the exact jar.\n0:06\u20130:08 \u2014 The broad white lid opens, revealing dense white cream with a stable sculpted peak.\n0:08\u20130:10 \u2014 A cream dollop transforms into a luminous pearl containing three coloured molecular cores.\n0:10\u20130:12 \u2014 The pearl lands gently on realistic brown skin above concentrated pigment.\n0:12\u20130:14 \u2014 The three molecular cores release into the upper epidermis, helping pigment look less concentrated.\n0:14\u20130:16 \u2014 One consistent Indian woman applies the cream during her night routine. Exact jar visible on the vanity.\n0:16\u20130:18 \u2014 Matched before/after after two weeks. Same face, angle, lighting and skin colour; only dark-spot visibility and evenness improve.\n0:18\u20130:20 \u2014 Exact jar inside the three-ring fusion chamber with a rich cream ribbon.\nUse three separate activation chimes, controlled energy sounds, cream swishes and a premium final brand sting.\nNo added text, logo overlay, subtitle, caption, ingredient name, number, frame label, badge, CTA or watermark. Only original product-label printing is allowed.",
+   "aspect_ratio": "9:16",
+   "duration": 20,
+   "medias": [
+    {
+     "role": "image",
+     "data": {
+      "id": "fec0b659-b477-4622-9342-97f3d9a2e4ee",
+      "type": "media_input",
+      "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3A6ZxB95Mnf55lwPBqzkePnTfzA/fec0b659-b477-4622-9342-97f3d9a2e4ee.jpg"
+     }
+    },
+    {
+     "role": "image",
+     "data": {
+      "id": "8b27b7b3-0535-4128-9620-8548ae917bf4",
+      "type": "media_input",
+      "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3A6ZxB95Mnf55lwPBqzkePnTfzA/8b27b7b3-0535-4128-9620-8548ae917bf4.jpg"
+     }
+    },
+    {
+     "role": "image",
+     "data": {
+      "id": "1cc7a9c2-479c-4a6e-8dc3-eb5316c4b2b3",
+      "type": "media_input",
+      "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3A6ZxB95Mnf55lwPBqzkePnTfzA/1cc7a9c2-479c-4a6e-8dc3-eb5316c4b2b3.png"
+     }
+    }
+   ],
+   "width": 480,
+   "height": 854,
+   "resolution": "480p",
+   "generate_audio": true
+  },
+  "results": {
+   "rawUrl": "https://d8j0ntlcm91z4.cloudfront.net/user_3A6ZxB95Mnf55lwPBqzkePnTfzA/hf_20261009_002130_426b77bb-e23e-4d4c-bb6d-91f1454c2373.mp4"
+  },
+  "createdAt": 1791505290.058908,
+  "liked": false
+ },
+ {
+  "id": "a9be56d9-ff47-4ed5-8b75-03d29e0527ef",
+  "type": "video",
+  "status": "completed",
+  "model": "wan3_0",
+  "params": {
+   "prompt": "HINGLISH VOICEOVER:\n\u201cDark spots sirf cover karna solution nahi hai.\nMeet DERMDOC 2% Kojic Acid Night Cream.\nIski Glow Fusion Formula mein Kojic Acid, Niacinamide aur Alpha Arbutin dark spots ki appearance reduce karke skin ko brighter aur more even-looking banane mein help karte hain.\nRaat ko lagao. Sleep to glow.\u201d\nVIDEO PROMPT:\nCreate a premium 20-second vertical 9:16 KNC cosmetic-science advertisement. Follow the supplied Pigment Scanner storyboard exactly.\nUse the exact short, wide cobalt-blue DERMDOC 2% Kojic Acid Night Cream jar from the reference. Preserve the white lid, white wrap label, blue base and correct proportions. The cream must be dense, opaque white and richly whipped.\n0:00\u20130:02 \u2014 Nighttime mirror close-up of an Indian woman examining flat cheek pigmentation. Slow camera push.\n0:02\u20130:04 \u2014 A transparent blue scanner light passes across her cheek and reveals concentrated golden-brown pigment beneath the visible spots. No letters or interface text.\n0:04\u20130:06 \u2014 Exact jar rises through a circular cobalt light aperture. Smooth product orbit and restrained bass impact.\n0:06\u20130:08 \u2014 Lid opens to reveal one thick sculpted cream peak. Macro focus pull and creamy swish.\n0:08\u20130:10 \u2014 Camera travels through one flat dark spot into a realistic brown upper epidermis.\n0:10\u20130:12 \u2014 Gold, blue and violet molecular lights approach concentrated brown pigment clusters.\n0:12\u20130:14 \u2014 Molecular lights enter the upper epidermis. Pigment clusters become less concentrated and more evenly distributed.\n0:14\u20130:16 \u2014 Same woman applies and blends the cream at night. Show full absorption without residue.\n0:16\u20130:18 \u2014 Perfectly matched before/after of the same woman after two weeks. Preserve identical face, lighting, angle and natural skin colour.\n0:18\u20130:20 \u2014 Exact closed jar with cream swipe, circular scanner halo and three molecular lights.\nUse premium cobalt-blue cosmetic-science styling, scanner pulses, molecular shimmer, cream swishes and a three-note closing sting.\nABSOLUTELY NO added logo, headline, captions, subtitles, ingredient labels, frame numbers, claims, CTA, watermark or gibberish. Only the original product-label printing may remain visible.",
+   "aspect_ratio": "9:16",
+   "duration": 20,
+   "medias": [
+    {
+     "role": "image",
+     "data": {
+      "id": "fec0b659-b477-4622-9342-97f3d9a2e4ee",
+      "type": "media_input",
+      "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3A6ZxB95Mnf55lwPBqzkePnTfzA/fec0b659-b477-4622-9342-97f3d9a2e4ee.jpg"
+     }
+    },
+    {
+     "role": "image",
+     "data": {
+      "id": "8b27b7b3-0535-4128-9620-8548ae917bf4",
+      "type": "media_input",
+      "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3A6ZxB95Mnf55lwPBqzkePnTfzA/8b27b7b3-0535-4128-9620-8548ae917bf4.jpg"
+     }
+    },
+    {
+     "role": "image",
+     "data": {
+      "id": "84212186-29cf-463c-bd85-906329ba018a",
+      "type": "media_input",
+      "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3A6ZxB95Mnf55lwPBqzkePnTfzA/84212186-29cf-463c-bd85-906329ba018a.png"
+     }
+    }
+   ],
+   "width": 480,
+   "height": 854,
+   "resolution": "480p",
+   "generate_audio": true
+  },
+  "results": {
+   "rawUrl": "https://d8j0ntlcm91z4.cloudfront.net/user_3A6ZxB95Mnf55lwPBqzkePnTfzA/hf_20261009_002020_a9be56d9-ff47-4ed5-8b75-03d29e0527ef.mp4"
+  },
+  "createdAt": 1791505220.763052,
+  "liked": false
+ }
+]

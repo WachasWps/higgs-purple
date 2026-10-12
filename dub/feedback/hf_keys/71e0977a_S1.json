@@ -1,0 +1,34 @@
+[
+  {
+    "created_at": "2026-10-09T19:01:10.477939Z",
+    "display_name": "Nano Banana Pro",
+    "id": "c0895272-2533-48ca-ae74-41dcb613d66f",
+    "job_type": "nano_banana_pro",
+    "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3A6ZxB95Mnf55lwPBqzkePnTfzA/hf_20261009_190110_c0895272-2533-48ca-ae74-41dcb613d66f_min.webp",
+    "params": {
+      "application": null,
+      "aspect_ratio": "9:16",
+      "batch_size": 1,
+      "height": 2752,
+      "input_image": null,
+      "input_images": [
+        {
+          "id": "3c33b187-cfa2-451b-879c-e7a68f6d5485",
+          "type": "media_input",
+          "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3A6ZxB95Mnf55lwPBqzkePnTfzA/3c33b187-cfa2-451b-879c-e7a68f6d5485.png"
+        },
+        {
+          "id": "279be7ab-8f26-41c8-abab-33950a050e37",
+          "type": "media_input",
+          "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3A6ZxB95Mnf55lwPBqzkePnTfzA/279be7ab-8f26-41c8-abab-33950a050e37.png"
+        }
+      ],
+      "prompt": "Edit image 1 (a frame from a vertical ad). Keep EXACTLY the same scene, people (same face, identity, hair, clothes, skin tone), cartoon characters, poses, framing, background, lighting and style. Change ONLY: keep the little cartoon dark-spot villain characters exactly, but underneath them her skin shows REALISTIC hyperpigmentation — soft-edged FLAT brown sun spots and uneven darker patches on the cheekbones, never round raised dots or chicken-pox marks (no round dots on the skin itself). Any night-cream jar must match image 2 exactly (short wide jar, royal-blue base, white label band, white lid, label text and layout exactly as image 2). No new text.",
+      "resolution": "2k",
+      "surface": null,
+      "width": 1536
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3A6ZxB95Mnf55lwPBqzkePnTfzA/hf_20261009_190110_c0895272-2533-48ca-ae74-41dcb613d66f.png",
+    "status": "completed"
+  }
+]

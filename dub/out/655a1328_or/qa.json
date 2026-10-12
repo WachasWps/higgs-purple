@@ -1,0 +1,48 @@
+[
+ {
+  "id": 1,
+  "speaker": "dullness",
+  "cer": 0.0,
+  "heard": "চাল তাসকিনেকু ডালো করিদেবা।",
+  "redub": true
+ },
+ {
+  "id": 2,
+  "speaker": "sunscreen",
+  "cer": 0.2,
+  "heard": "মু থাও থাও তহা হে বনি।"
+ },
+ {
+  "id": 3,
+  "speaker": "sunscreen",
+  "cer": 0.13,
+  "heard": "হুইল দেখা পরপল হলদের ভিপারিত তেনু ডলনে সক্যান সালা করে।",
+  "redub": true
+ },
+ {
+  "id": 4,
+  "speaker": "sunscreen",
+  "cer": 0.27,
+  "heard": "মো পারপল টিন্টি ইন্যান সকিন পাই হিতিয়ে"
+ },
+ {
+  "id": 5,
+  "speaker": "sunscreen",
+  "cer": 0.33,
+  "heard": "এবা ইন্স্টাইট ইবা লুকিক্লো।",
+  "redub": true
+ },
+ {
+  "id": 6,
+  "speaker": "sunscreen",
+  "cer": 0.21,
+  "heard": "এস্পি এ ফিটি পে ট্রিপল পাস্ প্রটিট করে।"
+ },
+ {
+  "id": 7,
+  "speaker": "sunscreen",
+  "cer": 0.11,
+  "heard": "সমান সকিন টোন সাথিরে ইন্সটান্ট গ্লো।",
+  "redub": true
+ }
+]

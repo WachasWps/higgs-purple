@@ -1,0 +1,37 @@
+[
+ {
+  "id": 1,
+  "speaker": "sunscreen",
+  "cer": 0.19,
+  "heard": "আবর শোকল শোকল সকিনে ডরামা।",
+  "redub": true
+ },
+ {
+  "id": 2,
+  "speaker": "sunscreen",
+  "cer": 0.1,
+  "heard": "রিলাক্স কালার হুইলে পারপল হুলুদের ঠিক ওল্তো দিকে তাই ডালুনেস কান্সিল করে",
+  "redub": true
+ },
+ {
+  "id": 3,
+  "speaker": "sunscreen",
+  "cer": 0.2,
+  "heard": "আমায় ব্রিন্ করে নাও ইন্যান সকিনে জুন নতোইরে কাস্ট নেই",
+  "redub": true
+ },
+ {
+  "id": 4,
+  "speaker": "sunscreen",
+  "cer": 0.57,
+  "heard": "আগে ডাল একটা একটা এমস্টাটা গ্য়েন আডিদিন লুকিং",
+  "redub": true
+ },
+ {
+  "id": 5,
+  "speaker": "sunscreen",
+  "cer": 0.19,
+  "heard": "আগে ইন্স্টন গ্লা তার পলগু।",
+  "redub": true
+ }
+]

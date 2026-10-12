@@ -1,0 +1,58 @@
+[
+ {
+  "id": 1,
+  "speaker": "creator",
+  "cer": 0.07,
+  "heard": "రోజో పద్ది నాస్ కెండల్గా ఉండేది.",
+  "redub": true
+ },
+ {
+  "id": 2,
+  "speaker": "creator",
+  "cer": 0.06,
+  "heard": "కలర్ వీల్ లో పర్పుల్ పసుపకి ఆపోసిట్ పసుపు డెల్నిస్ని తగ్గించగళదు.",
+  "redub": true
+ },
+ {
+  "id": 3,
+  "speaker": "creator",
+  "cer": 0.25,
+  "heard": "ఇకా బ్లెన్డిం చోడు.",
+  "redub": true
+ },
+ {
+  "id": 4,
+  "speaker": "creator",
+  "cer": 0.15,
+  "heard": "Lavender Minchi full clear.",
+  "redub": true
+ },
+ {
+  "id": 5,
+  "speaker": "creator",
+  "cer": 0.06,
+  "heard": "వైడ్ కోస్ట్ జీరో, పర్పుల్ మరక జీరో.",
+  "redub": true
+ },
+ {
+  "id": 6,
+  "speaker": "creator",
+  "cer": 0.15,
+  "heard": "Indian Skin Cosm 4% Neosinamide Bright Finish",
+  "redub": true
+ },
+ {
+  "id": 7,
+  "speaker": "creator",
+  "cer": 0.15,
+  "heard": "SPF 50 PA++++ Dye-Li Protection",
+  "redub": true
+ },
+ {
+  "id": 8,
+  "speaker": "creator",
+  "cer": 0.2,
+  "heard": "దిర్మ్డాక అల్టరవయోట్ ఇన్ట్ గ్లో.",
+  "redub": true
+ }
+]

@@ -1,0 +1,52 @@
+{
+ "video_id": "390113f1",
+ "product": "knc",
+ "category": "ingredient_personified",
+ "approach": "v2_original_story",
+ "shots": [
+  {
+   "start": 0,
+   "end": 3.6,
+   "action": "keep",
+   "n": 1
+  },
+  {
+   "start": 3.6,
+   "end": 6.9,
+   "action": "keep",
+   "n": 2
+  },
+  {
+   "start": 6.9,
+   "end": 10.4,
+   "action": "keep",
+   "n": 3
+  },
+  {
+   "start": 10.4,
+   "end": 12.9,
+   "action": "replace",
+   "replace_with": "KNA2_avatar_ingredients",
+   "note": "white cream dab + garbled baked 'After 2 Weeks' text",
+   "n": 4
+  },
+  {
+   "start": 12.9,
+   "end": 14.6,
+   "action": "replace",
+   "replace_with": "GRAPHIC_BA_SPLIT",
+   "ba_pair": [
+    "BA_390113f1_BEFORE",
+    "BA_390113f1_AFTER"
+   ],
+   "ba_face_y": 0.12,
+   "n": 5
+  },
+  {
+   "start": 14.6,
+   "end": 17.0,
+   "action": "keep",
+   "n": 6
+  }
+ ]
+}

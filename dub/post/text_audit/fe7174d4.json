@@ -1,0 +1,298 @@
+[
+ {
+  "n": 0,
+  "text": "DERMDOC",
+  "variants": [
+   "DERMDOC"
+  ],
+  "start": 0.0,
+  "end": 2.33,
+  "box": [
+   0.3917,
+   0.3185,
+   0.6083,
+   0.363
+  ],
+  "height": 0.0445,
+  "suspect_words": []
+ },
+ {
+  "n": 1,
+  "text": "Honest Science",
+  "variants": [
+   "Honest Science"
+  ],
+  "start": 0.0,
+  "end": 2.33,
+  "box": [
+   0.4165,
+   0.3419,
+   0.5917,
+   0.377
+  ],
+  "height": 0.0351,
+  "suspect_words": []
+ },
+ {
+  "n": 2,
+  "text": "ULTRA VIOLET",
+  "variants": [
+   "ULTRA VIOLET"
+  ],
+  "start": 0.0,
+  "end": 2.33,
+  "box": [
+   0.3817,
+   0.3718,
+   0.444,
+   0.5462
+  ],
+  "height": 0.1743,
+  "suspect_words": []
+ },
+ {
+  "n": 3,
+  "text": "4% NIACINAMIDE",
+  "variants": [
+   "4% NIACINAMIDE"
+  ],
+  "start": 0.0,
+  "end": 2.33,
+  "box": [
+   0.4333,
+   0.4473,
+   0.6208,
+   0.4637
+  ],
+  "height": 0.0164,
+  "suspect_words": []
+ },
+ {
+  "n": 4,
+  "text": "WITH SPF S0 PA+++",
+  "variants": [
+   "WITH SPF 30 PA++•",
+   "WITH SPF 50 PA++*",
+   "WITH SPF 50 PA+++",
+   "WITH SPF S0 PA+++",
+   "WITH SPF SO PA++*",
+   "WITH SPF SO PAt++"
+  ],
+  "start": 0.0,
+  "end": 2.33,
+  "box": [
+   0.4333,
+   0.4614,
+   0.5958,
+   0.4754
+  ],
+  "height": 0.0141,
+  "suspect_words": []
+ },
+ {
+  "n": 6,
+  "text": "SUNSCREEN",
+  "variants": [
+   "SUNSCREEN"
+  ],
+  "start": 0.0,
+  "end": 2.33,
+  "box": [
+   0.4375,
+   0.5504,
+   0.5708,
+   0.5785
+  ],
+  "height": 0.0281,
+  "suspect_words": []
+ },
+ {
+  "n": 8,
+  "text": "BRIGHTENING",
+  "variants": [
+   "BRIGHTENING"
+  ],
+  "start": 0.67,
+  "end": 2.33,
+  "box": [
+   0.4292,
+   0.5433,
+   0.5792,
+   0.5644
+  ],
+  "height": 0.0211,
+  "suspect_words": []
+ },
+ {
+  "n": 17,
+  "text": "FOT-FRIE TO RERION FAIN",
+  "variants": [
+   "FOT- FRE TO CHON GAIN",
+   "FOT-FRIE TO RERION FAIN"
+  ],
+  "start": 2.33,
+  "end": 3.0,
+  "box": [
+   0.3878,
+   -0.011,
+   0.7331,
+   0.0564
+  ],
+  "height": 0.0675,
+  "suspect_words": [
+   "CHON",
+   "FOT-FRIE",
+   "FRE",
+   "RERION"
+  ],
+  "crop": "post/text_audit/fe7174d4_17.png"
+ },
+ {
+  "n": 19,
+  "text": "DERMDOC",
+  "variants": [
+   "DERMDOC"
+  ],
+  "start": 17.67,
+  "end": 20.0,
+  "box": [
+   0.3999,
+   0.3416,
+   0.6001,
+   0.3747
+  ],
+  "height": 0.0331,
+  "suspect_words": []
+ },
+ {
+  "n": 20,
+  "text": "Honest Science",
+  "variants": [
+   "Honest Science",
+   "nest Science"
+  ],
+  "start": 17.67,
+  "end": 20.0,
+  "box": [
+   0.425,
+   0.363,
+   0.5792,
+   0.3888
+  ],
+  "height": 0.0258,
+  "suspect_words": []
+ },
+ {
+  "n": 21,
+  "text": "ULTRA VIOLET",
+  "variants": [
+   "ULTRA VIOLET"
+  ],
+  "start": 17.67,
+  "end": 20.0,
+  "box": [
+   0.3919,
+   0.3929,
+   0.4421,
+   0.5532
+  ],
+  "height": 0.1603,
+  "suspect_words": []
+ },
+ {
+  "n": 22,
+  "text": "4% NIACINAMIDE",
+  "variants": [
+   "4% NIACINAMIDE"
+  ],
+  "start": 17.67,
+  "end": 20.0,
+  "box": [
+   0.4417,
+   0.4614,
+   0.6083,
+   0.4754
+  ],
+  "height": 0.0141,
+  "suspect_words": []
+ },
+ {
+  "n": 23,
+  "text": "WITH SPF 30 PA+++",
+  "variants": [
+   "WITH SPF 10 PA+**",
+   "WITH SPF 10 PA+++",
+   "WITH SPF 30 PA+*+",
+   "WITH SPF 30 PA++*",
+   "WITH SPF 30 PA+++",
+   "WITH SPF 30 PAM+•"
+  ],
+  "start": 17.67,
+  "end": 20.0,
+  "box": [
+   0.4417,
+   0.4754,
+   0.5875,
+   0.4871
+  ],
+  "height": 0.0117,
+  "suspect_words": []
+ },
+ {
+  "n": 24,
+  "text": "BRIGHTENING",
+  "variants": [
+   "BRIGHTENING"
+  ],
+  "start": 17.67,
+  "end": 19.67,
+  "box": [
+   0.4375,
+   0.555,
+   0.5708,
+   0.5714
+  ],
+  "height": 0.0164,
+  "suspect_words": []
+ },
+ {
+  "n": 25,
+  "text": "SUNSCREEN",
+  "variants": [
+   "SUNSCREEN"
+  ],
+  "start": 17.67,
+  "end": 20.0,
+  "box": [
+   0.4458,
+   0.5641,
+   0.5625,
+   0.5855
+  ],
+  "height": 0.0214,
+  "suspect_words": []
+ },
+ {
+  "n": 26,
+  "text": "FER TAR TO MARKIE MAN",
+  "variants": [
+   "FER TAR TO MARKIE MAN",
+   "FOR REE TO MAINESE ARM"
+  ],
+  "start": 17.67,
+  "end": 18.33,
+  "box": [
+   0.4333,
+   0.5878,
+   0.5667,
+   0.5995
+  ],
+  "height": 0.0117,
+  "suspect_words": [
+   "FER",
+   "MAINESE",
+   "MARKIE"
+  ],
+  "crop": "post/text_audit/fe7174d4_26.png"
+ }
+]

@@ -1,0 +1,65 @@
+[
+ {
+  "id": 1,
+  "speaker": "creator",
+  "cer": 0.06,
+  "heard": "সকিন ডল ডারক সপার সলুচো নথিলা",
+  "redub": true
+ },
+ {
+  "id": 2,
+  "speaker": "creator",
+  "cer": 0.25,
+  "heard": "তেনো এহারো জর আতির এরুটিন।",
+  "redub": true
+ },
+ {
+  "id": 3,
+  "speaker": "creator",
+  "cer": 0.07,
+  "heard": "গ্লা ফিয়্জন কোজিক এসিড নিযা সিনামাইড আল্ফা আরবুটিনো",
+  "redub": true
+ },
+ {
+  "id": 4,
+  "speaker": "creator",
+  "cer": 0.14,
+  "heard": "করিম ট্স্চ্চ্র একদম রিচ",
+  "redub": true
+ },
+ {
+  "id": 5,
+  "speaker": "creator",
+  "cer": 0.38,
+  "heard": "অরপটিকে জথেশ্ট।",
+  "redub": true
+ },
+ {
+  "id": 6,
+  "speaker": "creator",
+  "cer": 0.08,
+  "heard": "মহা বেকরে পুরা ব্লেন্ড করে।",
+  "redub": true
+ },
+ {
+  "id": 7,
+  "speaker": "creator",
+  "cer": 0.33,
+  "heard": "তপরাই সল্তু গোরেটিন.",
+  "redub": true
+ },
+ {
+  "id": 8,
+  "speaker": "creator",
+  "cer": 0.18,
+  "heard": "দুই সপতা হরে দাগকা মিলা পডি সকিন তুন সেয়া।",
+  "redub": true
+ },
+ {
+  "id": 9,
+  "speaker": "creator",
+  "cer": 0.0,
+  "heard": "ডার মাডাকা কোজিকা এসেডা নাইটু করিম।",
+  "redub": true
+ }
+]

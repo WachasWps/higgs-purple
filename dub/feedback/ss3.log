@@ -1,0 +1,17 @@
+  4010f985 L1: 1.43s / slot 1.90s
+  4010f985 L2: 2.79s / slot 3.10s
+  4010f985 L3: 2.32s / slot 2.35s
+  4010f985 L4: 1.45s / slot 2.85s
+  4010f985 L5: 2.03s / slot 2.10s
+  4010f985 L6: 2.08s / slot 2.25s
+  4010f985 L7: 1.48s / slot 1.70s
+  4010f985 L8: 1.97s / slot 2.25s
+  4010f985 L9: 1.69s / slot 4.40s
+4010f985: voiced (hf_alpha/h)
+04:47:28 done: 1 ok, 0 failed; avg 3.0s/render
+DONE 3 files -> /Users/wachas/Documents/higgs-purple/dub/deliver_music
+04:47:29 SS3 RENDERED
+TOTAL 161 files -> /Users/wachas/Documents/higgs-purple/dub/Final_Deliverables
+loudness failures: []
+04:48:04 PACK DONE
+04:48:04 SS3 DONE

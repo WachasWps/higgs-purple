@@ -1,0 +1,48 @@
+[
+ {
+  "id": 1,
+  "speaker": "uv_rays",
+  "cer": 0.27,
+  "heard": "দাসকিন পাইয়কে ছান্স নহে।",
+  "redub": true
+ },
+ {
+  "id": 2,
+  "speaker": "judge",
+  "cer": 0.17,
+  "heard": "কোটে বে আরম ভহিউছে।"
+ },
+ {
+  "id": 3,
+  "speaker": "spf_shield",
+  "cer": 0.38,
+  "heard": "প্রামান নমব্র একা যুবিও যুবিপিপ্রাকিকশন"
+ },
+ {
+  "id": 4,
+  "speaker": "purple_tint",
+  "cer": 0.26,
+  "heard": "প্রমান দুই পর পল হলা দ্রিয় ভিপরিত ডাল নেস কেন্চাল।",
+  "redub": true
+ },
+ {
+  "id": 5,
+  "speaker": "niacinamide",
+  "cer": 0.0,
+  "heard": "ডাল সকিন বরাইট করিবারে হলপো করে।",
+  "redub": true
+ },
+ {
+  "id": 6,
+  "speaker": "judge",
+  "cer": 0.28,
+  "heard": "রাযো হলা, পুরা মিসিজায়, ইন্সটন্ট গ্লা।",
+  "redub": true
+ },
+ {
+  "id": 7,
+  "speaker": "judge",
+  "cer": 0.5,
+  "heard": "কিস গোজাক"
+ }
+]

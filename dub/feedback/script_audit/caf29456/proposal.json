@@ -1,0 +1,139 @@
+{
+ "video": "caf29456",
+ "shots": [
+  {
+   "n": 1,
+   "start": 0,
+   "end": 2.67,
+   "on_screen": "Annoyed woman on sunny balcony touching her cheek."
+  },
+  {
+   "n": 2,
+   "start": 2.67,
+   "end": 6.6,
+   "on_screen": "Full-screen colour wheel 'Purple Tint Instant Glow for Indian skin tone', purple linked to yellow."
+  },
+  {
+   "n": 3,
+   "start": 6.6,
+   "end": 8.1,
+   "on_screen": "Lavender cream swirl next to tube, fingertip touching it."
+  },
+  {
+   "n": 4,
+   "start": 8.1,
+   "end": 8.73,
+   "on_screen": "Lavender stripe swatched on the back of a hand."
+  },
+  {
+   "n": 5,
+   "start": 8.73,
+   "end": 10.6,
+   "on_screen": "Swatch rubbed in, turning clear on the hand."
+  },
+  {
+   "n": 6,
+   "start": 10.6,
+   "end": 14.57,
+   "on_screen": "Woman on balcony dotting lavender cream on her face and spreading it."
+  },
+  {
+   "n": 7,
+   "start": 14.57,
+   "end": 16.23,
+   "on_screen": "Before/after split, subtle glow difference."
+  },
+  {
+   "n": 8,
+   "start": 16.23,
+   "end": 20.04,
+   "on_screen": "Woman holding tube in sunshine inside a protective bubble."
+  }
+ ],
+ "lines": [
+  {
+   "id": 1,
+   "start": 0.0,
+   "slot_s": 2.47,
+   "speaker": "creator",
+   "current": "Why does my skin always look so dull?",
+   "on_screen_during": "Annoyed woman on balcony",
+   "verdict": "rewrite",
+   "new": "Why's my skin so dull?",
+   "words": 5,
+   "reason": "Fit 2.47s slot"
+  },
+  {
+   "id": 2,
+   "start": 2.62,
+   "slot_s": 1.79,
+   "speaker": "creator",
+   "current": "Purple sits opposite yellow on the colour wheel.",
+   "on_screen_during": "Colour wheel",
+   "verdict": "rewrite",
+   "new": "Purple sits opposite yellow.",
+   "words": 4,
+   "reason": "Fit 1.8s slot; wheel visible"
+  },
+  {
+   "id": 3,
+   "start": 4.56,
+   "slot_s": 1.95,
+   "speaker": "creator",
+   "current": "So it helps cancel yellow-looking dullness.",
+   "on_screen_during": "Colour wheel",
+   "verdict": "rewrite",
+   "new": "It cancels yellow-looking dullness.",
+   "words": 4,
+   "reason": "Fit budget"
+  },
+  {
+   "id": 4,
+   "start": 6.66,
+   "slot_s": 1.35,
+   "speaker": "creator",
+   "current": "And no, it doesn't stay purple.",
+   "on_screen_during": "Lavender cream swirl, finger touching",
+   "verdict": "rewrite",
+   "new": "Purple? Won't stay.",
+   "words": 3,
+   "reason": "Fit 1.35s slot"
+  },
+  {
+   "id": 5,
+   "start": 8.16,
+   "slot_s": 2.39,
+   "speaker": "creator",
+   "current": "It blends clear on Indian skin, no white cast.",
+   "on_screen_during": "Swatch blending clear on hand",
+   "verdict": "rewrite",
+   "new": "Blends clear. No white cast.",
+   "words": 5,
+   "reason": "Match blend; fit budget"
+  },
+  {
+   "id": 6,
+   "start": 10.7,
+   "slot_s": 5.57,
+   "speaker": "creator",
+   "current": "With 4% Niacinamide, I get an Instant Glow and more even-looking skin, without changing my natural skin tone.",
+   "on_screen_during": "Dotting and spreading on face, then B/A split",
+   "verdict": "rewrite",
+   "new": "Dot it, blend it. With 4% Niacinamide: Instant Glow, even-looking skin.",
+   "words": 11,
+   "reason": "Match application then result; old 18 words"
+  },
+  {
+   "id": 7,
+   "start": 16.42,
+   "slot_s": 3.94,
+   "speaker": "creator",
+   "current": "And SPF 50 PA+++ keeps my daytime protection covered.",
+   "on_screen_during": "Holding tube in sun, protective bubble",
+   "verdict": "keep",
+   "new": "And SPF 50 PA+++ keeps my daytime protection covered.",
+   "words": 9,
+   "reason": "Fits"
+  }
+ ]
+}

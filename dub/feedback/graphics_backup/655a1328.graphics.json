@@ -1,0 +1,103 @@
+{
+ "video_id": "655a1328",
+ "product": "uv_sunscreen",
+ "caption_y": 0.9,
+ "elements": [
+  {
+   "type": "label",
+   "start": 0.3,
+   "end": 2.2,
+   "lines": [
+    "DULLNESS",
+    "VILLAIN"
+   ],
+   "x": 0.18,
+   "y": 0.64,
+   "anim": "pop"
+  },
+  {
+   "type": "claim_bold",
+   "start": 8.1,
+   "end": 10.8,
+   "lines": [
+    "MADE FOR",
+    "INDIAN SKIN TONES"
+   ],
+   "sub": "NO WHITE CAST",
+   "x": 0.5,
+   "y": 0.76,
+   "anim": "fade"
+  },
+  {
+   "type": "label",
+   "start": 10.93,
+   "end": 14.0,
+   "lines": [
+    "BEFORE"
+   ],
+   "x": 0.5,
+   "y": 0.455,
+   "anim": "pop"
+  },
+  {
+   "type": "label",
+   "start": 10.93,
+   "end": 14.0,
+   "lines": [
+    "INSTANT GLOW"
+   ],
+   "x": 0.5,
+   "y": 0.955,
+   "anim": "pop"
+  },
+  {
+   "type": "hud",
+   "variant": "corners",
+   "start": 11.0,
+   "end": 13.95
+  },
+  {
+   "type": "pill",
+   "start": 11.1,
+   "end": 13.2,
+   "lines": [
+    "4% NIACINAMIDE"
+   ],
+   "x": 0.6,
+   "y": 0.075,
+   "anim": "pop"
+  },
+  {
+   "type": "pill",
+   "start": 14.1,
+   "end": 16.4,
+   "lines": [
+    "SPF 50 PA+++",
+    "UVA + UVB"
+   ],
+   "x": 0.5,
+   "y": 0.76,
+   "anim": "pop"
+  },
+  {
+   "type": "claim_bold",
+   "start": 16.8,
+   "end": 19.95,
+   "lines": [
+    "INSTANT GLOW"
+   ],
+   "sub": "NO WHITE CAST",
+   "x": 0.5,
+   "y": 0.12,
+   "anim": "fade"
+  }
+ ],
+ "notes": "Text pass (EDL): DULLNESS VILLAIN tag under the dullness cloud of the shared villain-hook clip; no supers in the colour-wheel window 4.0-7.43; MADE FOR INDIAN SKIN TONES / NO WHITE CAST below the chin on PS05; top/bottom B/A split 10.93-14.0 with BEFORE over the divider and INSTANT GLOW under the after face, captions moved to 0.58 under the divider, corner HUD, 4% NIACINAMIDE pill on the hair above the split; SPF pill below the chin on PS09; INSTANT GLOW / NO WHITE CAST above Meera's head on PSA3.",
+ "caption_moves": [
+  {
+   "start": 10.93,
+   "end": 14.0,
+   "y": 0.58
+  }
+ ]
+}

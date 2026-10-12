@@ -1,0 +1,127 @@
+{
+ "video": "f7ce58d4",
+ "shots": [
+  {
+   "n": 1,
+   "start": 0,
+   "end": 2.3,
+   "on_screen": "Night: woman with dark-spot villain on cheek, holding the talking jar; 'Dark spots again?'"
+  },
+  {
+   "n": 2,
+   "start": 2.3,
+   "end": 5.1,
+   "on_screen": "Jar opens; Kojic Acid, Niacinamide and Alpha Arbutin heroes burst out."
+  },
+  {
+   "n": 3,
+   "start": 5.1,
+   "end": 9.9,
+   "on_screen": "Kojic hero zaps spots ('2% Kojic Acid Targets dark spots'), then Alpha Arbutin hero evens a two-tone villain (on-screen text misspelled 'Alpha Arbutie' / 'Halps')."
+  },
+  {
+   "n": 4,
+   "start": 9.9,
+   "end": 12.1,
+   "on_screen": "Night: fingertip scoops cream from the jar."
+  },
+  {
+   "n": 5,
+   "start": 12.1,
+   "end": 13.77,
+   "on_screen": "Before/after split: spotty top, clearer bottom."
+  },
+  {
+   "n": 6,
+   "start": 13.77,
+   "end": 17.0,
+   "on_screen": "End card: jar with heroes, 'Target Dark Spots While You Sleep', then 'Honeet Suience' typo."
+  }
+ ],
+ "lines": [
+  {
+   "id": 1,
+   "start": 0.0,
+   "slot_s": 2.17,
+   "speaker": "kojic_jar",
+   "current": "Dark spots, having another meeting?",
+   "on_screen_during": "S1 villain on cheek, talking jar",
+   "verdict": "keep",
+   "new": "Dark spots, having another meeting?",
+   "words": 5,
+   "reason": "matches"
+  },
+  {
+   "id": 2,
+   "start": 2.32,
+   "slot_s": 2.57,
+   "speaker": "kojic_jar",
+   "current": "Night team, meeting cancelled!",
+   "on_screen_during": "S2 jar releasing the three heroes",
+   "verdict": "keep",
+   "new": "Night team, meeting cancelled!",
+   "words": 4,
+   "reason": "night team appears"
+  },
+  {
+   "id": 3,
+   "start": 5.04,
+   "slot_s": 1.55,
+   "speaker": "kojic_acid",
+   "current": "I'll take the stubborn dark spots.",
+   "on_screen_during": "S3 Kojic hero zapping spots",
+   "verdict": "keep",
+   "new": "I'll take the stubborn dark spots.",
+   "words": 6,
+   "reason": "matches"
+  },
+  {
+   "id": 4,
+   "start": 6.74,
+   "slot_s": 1.49,
+   "speaker": "niacinamide",
+   "current": "And I'll clear the dullness.",
+   "on_screen_during": "S3 (between Kojic and Arbutin)",
+   "verdict": "keep",
+   "new": "And I'll clear the dullness.",
+   "words": 5,
+   "reason": "niacinamide not visible in sampled frames; kept"
+  },
+  {
+   "id": 5,
+   "start": 8.38,
+   "slot_s": 1.71,
+   "speaker": "alpha_arbutin",
+   "current": "Uneven tone? Leave it to me.",
+   "on_screen_during": "S3 Alpha Arbutin evens two-tone villain",
+   "verdict": "keep",
+   "new": "Uneven tone? Leave it to me.",
+   "words": 6,
+   "reason": "matches"
+  },
+  {
+   "id": 6,
+   "start": 10.24,
+   "slot_s": 3.35,
+   "speaker": "narrator",
+   "current": "Three targeted ingredients. One powerful night cream.",
+   "on_screen_during": "S4 scoop, S5 before/after",
+   "verdict": "rewrite",
+   "new": "Rich cream. Two weeks later: spots look reduced.",
+   "words": 8,
+   "reason": "texture over scoop, two-week result over BA"
+  },
+  {
+   "id": 7,
+   "start": 13.74,
+   "slot_s": 3.04,
+   "speaker": "narrator",
+   "current": "DERMDOC two percent Kojic Acid Night Cream.",
+   "on_screen_during": "S6 end card",
+   "verdict": "keep",
+   "new": "DERMDOC two percent Kojic Acid Night Cream.",
+   "words": 7,
+   "reason": "brand name over end card"
+  }
+ ]
+}

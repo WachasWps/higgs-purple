@@ -1,0 +1,31 @@
+[
+  {
+    "created_at": "2026-10-09T13:12:48.871362Z",
+    "display_name": "Wan 3.0",
+    "id": "05d2c7eb-a3fd-48e5-b684-18374d2bf9b4",
+    "job_type": "wan3_0",
+    "min_result_url": null,
+    "params": {
+      "aspect_ratio": "9:16",
+      "duration": 5,
+      "generate_audio": false,
+      "height": 1344,
+      "medias": [
+        {
+          "data": {
+            "id": "200fb1fd-d57a-4173-8d7c-8e6ea98a4e0d",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3A6ZxB95Mnf55lwPBqzkePnTfzA/200fb1fd-d57a-4173-8d7c-8e6ea98a4e0d.png"
+          },
+          "role": "start_image"
+        }
+      ],
+      "prompt": "Her fingertips start blending the dots across her cheeks in gentle strokes; slow, natural movement; face stays the same person. Photorealistic, natural motion, stable identity, product packaging stays exactly as in the first frame, no text appears.",
+      "resolution": "480p",
+      "width": 768
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3A6ZxB95Mnf55lwPBqzkePnTfzA/hf_20261009_131248_05d2c7eb-a3fd-48e5-b684-18374d2bf9b4.mp4",
+    "status": "completed",
+    "thumbnail_url": "https://cdn.higgsfield.ai/user_3A6ZxB95Mnf55lwPBqzkePnTfzA/hf_20261009_131248_05d2c7eb-a3fd-48e5-b684-18374d2bf9b4_thumbnail.webp"
+  }
+]

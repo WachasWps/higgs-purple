@@ -1,0 +1,151 @@
+{
+ "video": "51440b1f",
+ "shots": [
+  {
+   "n": 1,
+   "start": 0.0,
+   "end": 2.17,
+   "on_screen": "Creator in glasses on a sunny terrace touches her cheek, worried, phone in hand."
+  },
+  {
+   "n": 2,
+   "start": 2.17,
+   "end": 5.6,
+   "on_screen": "Full-screen colour wheel 'Purple tint, instant glow for Indian skin tone'; marker runs purple top to yellow bottom."
+  },
+  {
+   "n": 3,
+   "start": 5.6,
+   "end": 6.93,
+   "on_screen": "Ultra Violet tube beside a lavender cream swirl; a fingertip reaches in."
+  },
+  {
+   "n": 4,
+   "start": 6.93,
+   "end": 8.8,
+   "on_screen": "Lavender stripe on the back of a hand being spread in circles."
+  },
+  {
+   "n": 5,
+   "start": 8.8,
+   "end": 10.6,
+   "on_screen": "Lavender patch on the hand fading to clear on the skin."
+  },
+  {
+   "n": 6,
+   "start": 10.6,
+   "end": 12.87,
+   "on_screen": "Creator dots lavender cream on forehead and cheeks and starts patting it in."
+  },
+  {
+   "n": 7,
+   "start": 12.87,
+   "end": 14.3,
+   "on_screen": "Before/after split of the creator's face, after looks brighter."
+  },
+  {
+   "n": 8,
+   "start": 14.3,
+   "end": 20.04,
+   "on_screen": "Creator smiles holding the tube outdoors; a protective bubble appears around her."
+  }
+ ],
+ "lines": [
+  {
+   "id": 1,
+   "start": 0.0,
+   "slot_s": 2.03,
+   "speaker": "creator",
+   "current": "My skin looked dull every single morning.",
+   "on_screen_during": "S1 worried creator, daylight",
+   "verdict": "rewrite",
+   "new": "Dull skin, every morning.",
+   "words": 4,
+   "reason": "over length (7w vs 4); kept meaning"
+  },
+  {
+   "id": 2,
+   "start": 2.18,
+   "slot_s": 3.29,
+   "speaker": "creator",
+   "current": "Purple sits opposite yellow on the colour wheel, so it helps cancel yellow-looking dullness.",
+   "on_screen_during": "S2 colour wheel, purple top / yellow bottom",
+   "verdict": "rewrite",
+   "new": "Purple sits opposite yellow, cancelling yellow-looking dullness.",
+   "words": 7,
+   "reason": "over length; tightened wheel explanation"
+  },
+  {
+   "id": 3,
+   "start": 5.62,
+   "slot_s": 0.87,
+   "speaker": "creator",
+   "current": "Now watch it blend.",
+   "on_screen_during": "S3 lavender swirl, finger reaching in",
+   "verdict": "rewrite",
+   "new": "Watch this.",
+   "words": 2,
+   "reason": "over length for 0.87s slot; cream not yet blending"
+  },
+  {
+   "id": 4,
+   "start": 6.64,
+   "slot_s": 2.01,
+   "speaker": "creator",
+   "current": "It starts lavender, then blends completely clear.",
+   "on_screen_during": "S3 end / S4 lavender stripe being spread on hand",
+   "verdict": "rewrite",
+   "new": "Lavender, blending clear.",
+   "words": 3,
+   "reason": "over length"
+  },
+  {
+   "id": 5,
+   "start": 8.8,
+   "slot_s": 1.77,
+   "speaker": "creator",
+   "current": "Zero white cast, zero purple residue.",
+   "on_screen_during": "S5 patch fading clear on hand",
+   "verdict": "rewrite",
+   "new": "Zero cast, zero residue.",
+   "words": 4,
+   "reason": "over length"
+  },
+  {
+   "id": 6,
+   "start": 10.72,
+   "slot_s": 3.47,
+   "speaker": "creator",
+   "current": "It's made for Indian skin, with 4% niacinamide for a brighter-looking finish.",
+   "on_screen_during": "S6 dots on face being blended, then S7 before/after split",
+   "verdict": "rewrite",
+   "new": "Made for Indian skin: blends in, instant glow.",
+   "words": 8,
+   "reason": "before/after lands mid-line; needs result, not ingredient"
+  },
+  {
+   "id": 7,
+   "start": 14.34,
+   "slot_s": 3.51,
+   "speaker": "creator",
+   "current": "And SPF 50 PA+++ gives me the daily protection I actually need.",
+   "on_screen_during": "S8 holding tube, protective bubble",
+   "verdict": "rewrite",
+   "new": "SPF 50 PA+++ gives me daily protection.",
+   "words": 7,
+   "reason": "over length; bubble matches SPF"
+  },
+  {
+   "id": 8,
+   "start": 18.0,
+   "slot_s": 2.1,
+   "speaker": "creator",
+   "current": "Before: dull. After: Instant Glow!",
+   "on_screen_during": "S8 smiling with tube (no before/after on screen)",
+   "verdict": "rewrite",
+   "new": "DERMDOC Ultra Violet. Instant glow!",
+   "words": 5,
+   "reason": "'Before/After' phrasing but no split on screen; she's showing the tube"
+  }
+ ]
+}

@@ -1,0 +1,32 @@
+[
+ {
+  "id": 1,
+  "speaker": "narrator",
+  "cer": 0.31,
+  "heard": "बালকুনেরু রাস্তা জাইই খরাসাং গারে।"
+ },
+ {
+  "id": 2,
+  "speaker": "narrator",
+  "cer": 0.15,
+  "heard": "50p a triple plus a four percent niacinamide"
+ },
+ {
+  "id": 3,
+  "speaker": "narrator",
+  "cer": 0.32,
+  "heard": "পাল হলাদিয়েয়ে ভিপডিত্য়েনু এহারা টিন্ট ডাল্নেস কমাইভারে হেল্পা করে"
+ },
+ {
+  "id": 4,
+  "speaker": "narrator",
+  "cer": 0.48,
+  "heard": "এটা কাস্টা বিনা মিসিজায় দেই ইনিসটা গ্লো"
+ },
+ {
+  "id": 5,
+  "speaker": "narrator",
+  "cer": 0.19,
+  "heard": "दर्मডকা অলটরা ভায়লেট প্রতিদিনর ইন্ডিযন খরাপাই তিযারি।"
+ }
+]

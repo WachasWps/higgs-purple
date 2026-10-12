@@ -1,0 +1,6 @@
+Read CODEX_BRIEF.md in this folder first and follow it strictly.
+Attached reference images: ba_refs/715b1b5c_face.png. Product photos are the ground truth for packaging; the out/*_model_ref.png image is the identity reference for the woman — keep the SAME face, hair and skin tone.
+TASK: generate ONE photorealistic vertical 9:16 keyframe image:
+Use the attached frame ba_refs/715b1b5c_face.png ONLY as the identity reference. Create ONE photoreal vertical 9:16 close-up portrait of the SAME woman — same face, features, hair, skin tone and the same orange pyjamas — facing the camera, head and shoulders, face centred in the upper-middle of the frame, softly blurred bedroom background, soft neutral evening light. This is the BEFORE image of a before/after: REALISTIC hyperpigmentation — soft-edged FLAT brown sun spots and uneven darker patches on the cheekbones and upper cheeks, a few faint post-acne marks, skin slightly dull and tired. NOT round raised dots, NOT chicken-pox. NO cartoon characters, NO jar or product, NO text.
+
+Use your image generation tool (pass the reference images to it), then copy the generated file to out/BA_715b1b5c_BEFORE.png. Reply only with the saved path.

@@ -1,0 +1,5 @@
+Read CODEX_BRIEF.md in this folder first and follow it strictly.
+TASK: generate ONE photorealistic vertical 9:16 keyframe image:
+Identity reference portrait (9:16, chest-up, looking at camera, soft neutral daylight by a window) of MEERA: Indian woman, 27, DUSKY medium-deep brown skin tone (relatable South/East Indian complexion, clearly not fair), natural dark wavy hair in a loose low bun, soft natural brows, minimal makeup, small gold stud earrings, plain white linen top. Real skin texture with pores, healthy but natural (no product yet), calm friendly expression. Plain softly blurred home background.
+
+Use your image generation tool (pass the reference images to it), then copy the generated file to out/ps_model_ref.png. Reply only with the saved path.

@@ -1,0 +1,41 @@
+[
+ {
+  "id": 1,
+  "speaker": "professor_jar",
+  "cer": 0.15,
+  "heard": "class a rambow, ihinnekei lessen, brighter, even-looking skin."
+ },
+ {
+  "id": 2,
+  "speaker": "professor_jar",
+  "cer": 0.27,
+  "heard": "மோனி பிரிச்சனை மோன சப்பெஷிலிஸ்ட்"
+ },
+ {
+  "id": 3,
+  "speaker": "kojic_acid",
+  "cer": 0.15,
+  "heard": "Lesson 1. Adanga the Talks Parts Target"
+ },
+ {
+  "id": 4,
+  "speaker": "niacinamide",
+  "cer": 0.15,
+  "heard": "lessen 2, brighter skin 3, even looking tone.",
+  "redub": true
+ },
+ {
+  "id": 5,
+  "speaker": "professor_jar",
+  "cer": 0.17,
+  "heard": "ரிச்கிரிம் நைத்தில தரவுங்க மீதி தீம் பாத்துக்கும்.",
+  "redub": true
+ },
+ {
+  "id": 6,
+  "speaker": "narrator",
+  "cer": 0.19,
+  "heard": "ரிண்டு வரத்தில சபாட்ஸ் கம்ய திரிது ஗லாஸ் ஓவர்",
+  "redub": true
+ }
+]

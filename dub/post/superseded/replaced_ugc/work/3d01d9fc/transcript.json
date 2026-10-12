@@ -1,0 +1,455 @@
+{
+ "language": "en",
+ "segments": [
+  {
+   "seg": 0,
+   "start": 0.0,
+   "end": 2.48,
+   "text": "Window Light showed me exactly what my sunscreen was missing.",
+   "f0_median_hz": 215,
+   "words": [
+    [
+     "Window",
+     0.0,
+     0.28
+    ],
+    [
+     "Light",
+     0.28,
+     0.52
+    ],
+    [
+     "showed",
+     0.52,
+     0.76
+    ],
+    [
+     "me",
+     0.76,
+     0.9
+    ],
+    [
+     "exactly",
+     0.9,
+     1.3
+    ],
+    [
+     "what",
+     1.3,
+     1.52
+    ],
+    [
+     "my",
+     1.52,
+     1.64
+    ],
+    [
+     "sunscreen",
+     1.64,
+     1.94
+    ],
+    [
+     "was",
+     1.94,
+     2.2
+    ],
+    [
+     "missing.",
+     2.2,
+     2.48
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 1,
+   "start": 2.72,
+   "end": 6.16,
+   "text": "Purple sits opposite yellow, so the tint helps balance yellow-looking dullness.",
+   "f0_median_hz": 207,
+   "words": [
+    [
+     "Purple",
+     2.72,
+     3.0
+    ],
+    [
+     "sits",
+     3.0,
+     3.22
+    ],
+    [
+     "opposite",
+     3.22,
+     3.54
+    ],
+    [
+     "yellow,",
+     3.54,
+     3.86
+    ],
+    [
+     "so",
+     4.02,
+     4.16
+    ],
+    [
+     "the",
+     4.16,
+     4.28
+    ],
+    [
+     "tint",
+     4.28,
+     4.48
+    ],
+    [
+     "helps",
+     4.48,
+     4.76
+    ],
+    [
+     "balance",
+     4.76,
+     5.08
+    ],
+    [
+     "yellow",
+     5.08,
+     5.44
+    ],
+    [
+     "-looking",
+     5.44,
+     5.7
+    ],
+    [
+     "dullness.",
+     5.7,
+     6.16
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 2,
+   "start": 6.22,
+   "end": 7.66,
+   "text": "But the real test is how it blends.",
+   "f0_median_hz": 220,
+   "words": [
+    [
+     "But",
+     6.22,
+     6.4
+    ],
+    [
+     "the",
+     6.4,
+     6.52
+    ],
+    [
+     "real",
+     6.52,
+     6.7
+    ],
+    [
+     "test",
+     6.7,
+     6.98
+    ],
+    [
+     "is",
+     6.98,
+     7.12
+    ],
+    [
+     "how",
+     7.12,
+     7.24
+    ],
+    [
+     "it",
+     7.24,
+     7.38
+    ],
+    [
+     "blends.",
+     7.38,
+     7.66
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 3,
+   "start": 7.82,
+   "end": 10.28,
+   "text": "No chalkiness, no purple residue, and no white cast.",
+   "f0_median_hz": 224,
+   "words": [
+    [
+     "No",
+     7.82,
+     7.96
+    ],
+    [
+     "chalkiness,",
+     7.96,
+     8.42
+    ],
+    [
+     "no",
+     8.6,
+     8.74
+    ],
+    [
+     "purple",
+     8.74,
+     9.02
+    ],
+    [
+     "residue,",
+     9.02,
+     9.36
+    ],
+    [
+     "and",
+     9.56,
+     9.64
+    ],
+    [
+     "no",
+     9.64,
+     9.8
+    ],
+    [
+     "white",
+     9.8,
+     10.0
+    ],
+    [
+     "cast.",
+     10.0,
+     10.28
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 4,
+   "start": 10.44,
+   "end": 13.12,
+   "text": "It's made for Indian skin and feels lightweight once absorbed.",
+   "f0_median_hz": 209,
+   "words": [
+    [
+     "It's",
+     10.44,
+     10.6
+    ],
+    [
+     "made",
+     10.6,
+     10.78
+    ],
+    [
+     "for",
+     10.78,
+     10.96
+    ],
+    [
+     "Indian",
+     10.96,
+     11.2
+    ],
+    [
+     "skin",
+     11.2,
+     11.56
+    ],
+    [
+     "and",
+     11.56,
+     11.78
+    ],
+    [
+     "feels",
+     11.78,
+     12.02
+    ],
+    [
+     "lightweight",
+     12.02,
+     12.4
+    ],
+    [
+     "once",
+     12.4,
+     12.7
+    ],
+    [
+     "absorbed.",
+     12.7,
+     13.12
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 5,
+   "start": 13.36,
+   "end": 16.66,
+   "text": "Plus, 4% niacinamide gives me a brighter, more even-looking finish.",
+   "f0_median_hz": 221,
+   "words": [
+    [
+     "Plus,",
+     13.36,
+     13.58
+    ],
+    [
+     "4",
+     13.72,
+     13.86
+    ],
+    [
+     "%",
+     13.86,
+     14.16
+    ],
+    [
+     "niacinamide",
+     14.16,
+     14.74
+    ],
+    [
+     "gives",
+     14.74,
+     14.9
+    ],
+    [
+     "me",
+     14.9,
+     15.06
+    ],
+    [
+     "a",
+     15.06,
+     15.16
+    ],
+    [
+     "brighter,",
+     15.16,
+     15.46
+    ],
+    [
+     "more",
+     15.64,
+     15.78
+    ],
+    [
+     "even",
+     15.78,
+     16.06
+    ],
+    [
+     "-looking",
+     16.06,
+     16.34
+    ],
+    [
+     "finish.",
+     16.34,
+     16.66
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 6,
+   "start": 16.94,
+   "end": 19.06,
+   "text": "An SPF 50 PA plup handles the protection.",
+   "f0_median_hz": 220,
+   "words": [
+    [
+     "An",
+     16.94,
+     17.06
+    ],
+    [
+     "SPF",
+     17.06,
+     17.46
+    ],
+    [
+     "50",
+     17.46,
+     17.7
+    ],
+    [
+     "PA",
+     17.7,
+     17.98
+    ],
+    [
+     "plup",
+     17.98,
+     18.26
+    ],
+    [
+     "handles",
+     18.26,
+     18.58
+    ],
+    [
+     "the",
+     18.58,
+     18.7
+    ],
+    [
+     "protection.",
+     18.7,
+     19.06
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 7,
+   "start": 19.3,
+   "end": 20.0,
+   "text": "That's my kind of glow.",
+   "f0_median_hz": 193,
+   "words": [
+    [
+     "That's",
+     19.3,
+     19.58
+    ],
+    [
+     "my",
+     19.58,
+     19.68
+    ],
+    [
+     "kind",
+     19.68,
+     19.82
+    ],
+    [
+     "of",
+     19.82,
+     19.92
+    ],
+    [
+     "glow.",
+     19.92,
+     20.0
+    ]
+   ],
+   "voice_cluster_hint": null
+  }
+ ]
+}

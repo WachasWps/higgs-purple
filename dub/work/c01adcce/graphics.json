@@ -1,0 +1,34 @@
+{
+ "video_id": "c01adcce",
+ "product": "uv_sunscreen",
+ "caption_y": 0.9,
+ "no_outro": true,
+ "own_music": false,
+ "caption_moves": [],
+ "elements": [
+  {
+   "type": "claim_bold",
+   "start": 5.3,
+   "end": 7.9,
+   "lines": [
+    "SPF 50 PA+++"
+   ],
+   "sub": "UVA + UVB",
+   "x": 0.5,
+   "y": 0.3,
+   "anim": "fade"
+  },
+  {
+   "type": "label",
+   "start": 8.6,
+   "end": 10.4,
+   "lines": [
+    "STEP OUT GLOWING"
+   ],
+   "x": 0.5,
+   "y": 0.8,
+   "anim": "pop"
+  }
+ ],
+ "notes": "user's General Ad: text only where the footage has none baked in; own end card + music"
+}

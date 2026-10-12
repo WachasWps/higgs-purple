@@ -1,0 +1,51 @@
+[
+ {
+  "id": 1,
+  "speaker": "creator",
+  "cer": 0.19,
+  "heard": "சகின்டல்லார்ந்தச் சின்ஸ்கிரின் ஒன்றுமே பண்ணலை.",
+  "redub": true
+ },
+ {
+  "id": 2,
+  "speaker": "creator",
+  "cer": 0.29,
+  "heard": "பார்பில் மன்சிலுக்கு அப்போசிட்டலின்ச் பேலன்ச்.",
+  "redub": true
+ },
+ {
+  "id": 3,
+  "speaker": "creator",
+  "cer": 0.15,
+  "heard": "அனா, real test to blending.",
+  "redub": true
+ },
+ {
+  "id": 4,
+  "speaker": "creator",
+  "cer": 0.11,
+  "heard": "நோ சாக்கி, நோ பரப்பில மார்க நோ வைக்காஸ்ட.",
+  "redub": true
+ },
+ {
+  "id": 5,
+  "speaker": "creator",
+  "cer": 0.12,
+  "heard": "இந்தியன் சகினுக்காகவே அப்சார் பானதும் லைட்",
+  "redub": true
+ },
+ {
+  "id": 6,
+  "speaker": "creator",
+  "cer": 0.15,
+  "heard": "கூடவே 4% நியாசினமைட் E1 LOOK instant glow finish.",
+  "redub": true
+ },
+ {
+  "id": 7,
+  "speaker": "creator",
+  "cer": 0.15,
+  "heard": "SPF 50BA Trebber Plus Instant Claw",
+  "redub": true
+ }
+]

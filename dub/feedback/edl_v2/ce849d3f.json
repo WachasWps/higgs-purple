@@ -1,0 +1,73 @@
+{
+ "video_id": "ce849d3f",
+ "product": "ps",
+ "category": "ingredient_personified",
+ "approach": "v2_original_story",
+ "shots": [
+  {
+   "start": 0,
+   "end": 2.7,
+   "action": "keep",
+   "n": 1
+  },
+  {
+   "start": 2.7,
+   "end": 4.6,
+   "action": "replace",
+   "replace_with": "STORY_ce849d3f_S2",
+   "n": 2
+  },
+  {
+   "start": 4.6,
+   "end": 6.9,
+   "action": "replace",
+   "replace_with": "GRAPHIC_COLOUR_WHEEL",
+   "n": 3
+  },
+  {
+   "start": 6.9,
+   "end": 8.6,
+   "action": "keep",
+   "n": 4
+  },
+  {
+   "start": 8.6,
+   "end": 9.6,
+   "action": "replace",
+   "replace_with": "USR_PS_BLEND",
+   "clip_offset": 1.3,
+   "n": 5
+  },
+  {
+   "start": 9.6,
+   "end": 11.8,
+   "action": "keep",
+   "n": 6
+  },
+  {
+   "start": 11.8,
+   "end": 13.9,
+   "action": "keep",
+   "n": 7
+  },
+  {
+   "start": 13.9,
+   "end": 15.6,
+   "action": "replace",
+   "replace_with": "GRAPHIC_BA_SPLIT",
+   "ba_pair": [
+    "BA2_ce849d3f_BEFORE",
+    "BA2_ce849d3f_AFTER"
+   ],
+   "ba_face_y": 0.08,
+   "client": "instant glow post application shot is missing in all videos",
+   "n": 8
+  },
+  {
+   "start": 15.6,
+   "end": 17.0,
+   "action": "keep",
+   "n": 9
+  }
+ ]
+}

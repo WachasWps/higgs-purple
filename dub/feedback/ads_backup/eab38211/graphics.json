@@ -1,0 +1,87 @@
+{
+ "video_id": "eab38211",
+ "product": "kojic_night_cream",
+ "caption_y": 0.9,
+ "elements": [
+  {
+   "type": "hook_mono",
+   "start": 0.2,
+   "end": 2.9,
+   "lines": [
+    "YOU SLEEP,",
+    "IT KEEPS WORKING"
+   ],
+   "position": "top",
+   "anim": "slide_up"
+  },
+  {
+   "type": "claim_bold",
+   "start": 4.6,
+   "end": 6.8,
+   "lines": [
+    "GLOW FUSION",
+    "FORMULA"
+   ],
+   "position": "top",
+   "anim": "fade"
+  },
+  {
+   "type": "pill",
+   "start": 7.2,
+   "end": 9.2,
+   "lines": [
+    "KOJIC + NIACINAMIDE",
+    "+ ALPHA ARBUTIN"
+   ],
+   "position": "lower",
+   "anim": "pop"
+  },
+  {
+   "type": "pill",
+   "start": 14.1,
+   "end": 15.6,
+   "lines": [
+    "REDUCES LOOK OF",
+    "DARK SPOTS"
+   ],
+   "position": "top",
+   "anim": "pop"
+  },
+  {
+   "type": "label",
+   "start": 17.3,
+   "end": 18.3,
+   "lines": [
+    "BEFORE"
+   ],
+   "x": 0.25,
+   "y": 0.83,
+   "anim": "pop"
+  },
+  {
+   "type": "label",
+   "start": 17.3,
+   "end": 18.3,
+   "lines": [
+    "AFTER"
+   ],
+   "x": 0.75,
+   "y": 0.83,
+   "anim": "pop"
+  },
+  {
+   "type": "hud",
+   "variant": "corners",
+   "start": 17.3,
+   "end": 18.3
+  }
+ ],
+ "notes": "Overnight hook above her head at the mirror; Glow Fusion in the moonlit window above the jar+clock; actives on the lower clock face (hands to 12 kept clear); dark-spot pill in the hourglass upper chamber as pigment thins; BEFORE/AFTER on the neck of the split. All flagged OCR = jar label (ignored); no floating text. | AD pass: actives pill starts after the 7.13 cut; captions lifted to the dark jar rim (y .63) during the open-jar shot so they leave the printed label; BEFORE/AFTER + corners now start on the split shot (17.23-18.33) instead of over the epidermis macro.",
+ "caption_moves": [
+  {
+   "start": 9.4,
+   "end": 10.6,
+   "y": 0.63
+  }
+ ]
+}

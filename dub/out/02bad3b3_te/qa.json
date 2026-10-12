@@ -1,0 +1,58 @@
+[
+ {
+  "id": 1,
+  "speaker": "creator",
+  "cer": 0.16,
+  "heard": "డాక స్పాట్ తో ఫేస అన్యవన గఉండేది.",
+  "redub": true
+ },
+ {
+  "id": 2,
+  "speaker": "creator",
+  "cer": 0.46,
+  "heard": "దేర్డోగ్ 2% కోజిక ఆసిడ్ నఈట్ క్రిమ్ తెచా.",
+  "redub": true
+ },
+ {
+  "id": 3,
+  "speaker": "creator",
+  "cer": 0.09,
+  "heard": "ఇది లో కోజిక అసిడ్ నియసినమిడ్ అల్ఫా అర్బుటిన్.",
+  "redub": true
+ },
+ {
+  "id": 4,
+  "speaker": "creator",
+  "cer": 0.18,
+  "heard": "చోడు తేక్రచ టెక్స్చ్చెర్.",
+  "redub": true
+ },
+ {
+  "id": 5,
+  "speaker": "creator",
+  "cer": 0.12,
+  "heard": "కంచె మ్రాసి ఇంకి పెయవరకు మసాచ్ చెస్తా.",
+  "redub": true
+ },
+ {
+  "id": 6,
+  "speaker": "creator",
+  "cer": 0.12,
+  "heard": "గ్లో ఫ్యోం ఫార్మలా రాత్రంతా వర్క.",
+  "redub": true
+ },
+ {
+  "id": 7,
+  "speaker": "creator",
+  "cer": 0.27,
+  "heard": "రెిదవారాలో స్పాట్ తగినటు, స్కిన ఇవన్.",
+  "redub": true
+ },
+ {
+  "id": 8,
+  "speaker": "creator",
+  "cer": 0.44,
+  "heard": "ఇది నా స్లా.",
+  "redub": true
+ }
+]

@@ -1,0 +1,48 @@
+[
+ {
+  "id": 1,
+  "speaker": "dullness",
+  "cer": 0.07,
+  "heard": "పదా దీని స్కిన్ నిడల్ చేసదామ్.",
+  "redub": true
+ },
+ {
+  "id": 2,
+  "speaker": "sunscreen",
+  "cer": 0.0,
+  "heard": "నేనుండగా అది జరగదు."
+ },
+ {
+  "id": 3,
+  "speaker": "sunscreen",
+  "cer": 0.17,
+  "heard": "వీల్ చొసవా పర్పుల్ పస్పుకి ఆపోసిట్ అందికే డల్ ఇస్కాంసిల్.",
+  "redub": true
+ },
+ {
+  "id": 4,
+  "speaker": "sunscreen",
+  "cer": 0.14,
+  "heard": "న ప్పుల టింట ఇండియోం స్కిన కోస్ము తఆయరెంది."
+ },
+ {
+  "id": 5,
+  "speaker": "sunscreen",
+  "cer": 0.25,
+  "heard": "ఇపడు ఇన్సట ఇవనుకుం గ్లో.",
+  "redub": true
+ },
+ {
+  "id": 6,
+  "speaker": "sunscreen",
+  "cer": 0.15,
+  "heard": "SPF 50 PA triple plus protection."
+ },
+ {
+  "id": 7,
+  "speaker": "sunscreen",
+  "cer": 0.44,
+  "heard": "అదే సేస్క తోన ఇక ఈన్క ఇన్ట్ గ్లో.",
+  "redub": true
+ }
+]

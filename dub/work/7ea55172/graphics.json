@@ -1,0 +1,113 @@
+{
+ "video_id": "7ea55172",
+ "product": "uv_sunscreen",
+ "caption_y": 0.9,
+ "elements": [
+  {
+   "type": "label",
+   "start": 0.15,
+   "end": 1.85,
+   "lines": [
+    "GREASINESS"
+   ],
+   "x": 0.18,
+   "y": 0.46,
+   "anim": "pop"
+  },
+  {
+   "type": "label",
+   "start": 2.1,
+   "end": 3.7,
+   "lines": [
+    "DULLNESS"
+   ],
+   "x": 0.2,
+   "y": 0.64,
+   "anim": "pop"
+  },
+  {
+   "type": "claim_bold",
+   "start": 8.4,
+   "end": 11.1,
+   "lines": [
+    "MADE FOR",
+    "INDIAN SKIN TONES"
+   ],
+   "sub": "NO WHITE CAST",
+   "x": 0.5,
+   "y": 0.76,
+   "anim": "fade"
+  },
+  {
+   "type": "hud",
+   "variant": "scan",
+   "start": 11.3,
+   "end": 13.95
+  },
+  {
+   "type": "pill",
+   "start": 11.3,
+   "end": 12.95,
+   "lines": [
+    "4% NIACINAMIDE"
+   ],
+   "x": 0.6,
+   "y": 0.075,
+   "anim": "pop"
+  },
+  {
+   "type": "label",
+   "start": 11.35,
+   "end": 13.95,
+   "lines": [
+    "BEFORE"
+   ],
+   "x": 0.5,
+   "y": 0.455,
+   "anim": "pop"
+  },
+  {
+   "type": "label",
+   "start": 11.35,
+   "end": 13.95,
+   "lines": [
+    "AFTER"
+   ],
+   "x": 0.5,
+   "y": 0.895,
+   "anim": "pop"
+  },
+  {
+   "type": "label",
+   "start": 11.35,
+   "end": 13.95,
+   "lines": [
+    "INSTANT GLOW"
+   ],
+   "x": 0.5,
+   "y": 0.955,
+   "anim": "pop"
+  },
+  {
+   "type": "claim_bold",
+   "start": 16.6,
+   "end": 19.95,
+   "lines": [
+    "INSTANT GLOW"
+   ],
+   "sub": "FOR INDIAN SKIN TONES",
+   "x": 0.5,
+   "y": 0.12,
+   "anim": "fade"
+  }
+ ],
+ "notes": "Text pass (EDL): GREASINESS / DULLNESS tags in the villain column of the shared villain-hook clip; no supers in the colour-wheel window 5.27-8.27 (COLOUR CORRECTION pill removed); MADE FOR INDIAN SKIN TONES / NO WHITE CAST below the chin on PS05; top/bottom B/A split 11.27-14.0 with BEFORE / INSTANT GLOW labels, captions at 0.58 under the divider, scan HUD, 4% NIACINAMIDE pill on the hair above the split; SPF pill below the chin on PS09; INSTANT GLOW / FOR INDIAN SKIN TONES above Meera's head on PSA3.",
+ "caption_moves": [
+  {
+   "start": 10.7,
+   "end": 14.0,
+   "y": 0.497,
+   "ext": 1
+  }
+ ]
+}

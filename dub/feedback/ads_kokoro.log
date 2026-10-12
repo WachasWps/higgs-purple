@@ -1,0 +1,211 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+/Users/wachas/Documents/higgs-purple/dub/.venv/lib/python3.12/site-packages/torch/nn/modules/rnn.py:1011: UserWarning: dropout option adds dropout after all but last recurrent layer, so non-zero dropout expects num_layers greater than 1, but got dropout=0.2 and num_layers=1
+  super().__init__("LSTM", *args, **kwargs)
+/Users/wachas/Documents/higgs-purple/dub/.venv/lib/python3.12/site-packages/torch/nn/utils/weight_norm.py:145: FutureWarning: `torch.nn.utils.weight_norm` is deprecated in favor of `torch.nn.utils.parametrizations.weight_norm`.
+  WeightNorm.apply(module, name, dim)
+/Users/wachas/Documents/higgs-purple/dub/.venv/lib/python3.12/site-packages/torch/jit/_script.py:1491: FutureWarning: `torch.jit.script` is deprecated. Please switch to `torch.compile` or `torch.export`.
+  warnings.warn(
+  4010f985 L1: 1.30s / slot 2.30s
+  4010f985 L2: 2.87s / slot 3.10s
+  4010f985 L3: 3.94s / slot 3.90s
+  4010f985 L4: 3.11s / slot 3.50s
+  4010f985 L5: 1.70s / slot 4.20s
+uniform tempo x1.00  |  voice ends at 14.93s  |  max late start +0.00s
+line  orig_cue  new_start  shift   length
+   1      0.20       0.20  +0.00    1.30s
+   2      2.60       2.45  -0.15    2.87s
+   3      5.80       5.65  -0.15    3.88s
+   4      9.80       9.65  -0.15    3.10s
+   5     13.40      13.25  -0.15    1.68s
+wrote /Users/wachas/Documents/higgs-purple/dub/out/4010f985_en.mp4
+  remuxed 4010f985_bn.mp4
+  remuxed 4010f985_en.mp4
+  remuxed 4010f985_ml.mp4
+  remuxed 4010f985_or.mp4
+  remuxed 4010f985_ta.mp4
+  remuxed 4010f985_te.mp4
+4010f985: voiced (hf_beta/a)
+  c01adcce L1: 2.15s / slot 2.50s
+  c01adcce L2: 3.74s / slot 3.70s
+  c01adcce L3: 3.59s / slot 3.60s
+  c01adcce L4: 2.46s / slot 3.30s
+  c01adcce L5: 2.67s / slot 3.90s
+uniform tempo x1.00  |  voice ends at 16.21s  |  max late start +0.00s
+line  orig_cue  new_start  shift   length
+   1      0.20       0.20  +0.00    2.15s
+   2      2.80       2.65  -0.15    3.63s
+   3      6.60       6.45  -0.15    3.57s
+   4     10.30      10.15  -0.15    2.44s
+   5     13.70      13.55  -0.15    2.66s
+wrote /Users/wachas/Documents/higgs-purple/dub/out/c01adcce_en.mp4
+  remuxed c01adcce_bn.mp4
+  remuxed c01adcce_en.mp4
+  remuxed c01adcce_ml.mp4
+  remuxed c01adcce_or.mp4
+  remuxed c01adcce_ta.mp4
+  remuxed c01adcce_te.mp4
+c01adcce: voiced (hf_beta/a)
+  fe7174d4 L1: 1.80s / slot 2.40s
+  fe7174d4 L2: 3.47s / slot 3.50s
+  fe7174d4 L3: 3.64s / slot 3.10s
+  fe7174d4 L4: 3.35s / slot 3.30s
+  fe7174d4 L5: 2.80s / slot 4.50s
+uniform tempo x1.00  |  voice ends at 16.08s  |  max late start +0.40s
+line  orig_cue  new_start  shift   length
+   1      0.20       0.20  +0.00    1.79s
+   2      2.70       2.55  -0.15    3.39s
+   3      6.30       6.15  -0.15    3.62s
+   4      9.50       9.87  +0.37    3.32s
+   5     12.90      13.30  +0.40    2.79s
+wrote /Users/wachas/Documents/higgs-purple/dub/out/fe7174d4_en.mp4
+  remuxed fe7174d4_bn.mp4
+  remuxed fe7174d4_en.mp4
+  remuxed fe7174d4_ml.mp4
+  remuxed fe7174d4_or.mp4
+  remuxed fe7174d4_ta.mp4
+  remuxed fe7174d4_te.mp4
+fe7174d4: voiced (hf_beta/a)
+  fb3fa838 L1: 2.10s / slot 2.60s
+  fb3fa838 L2: 3.55s / slot 3.40s
+  fb3fa838 L3: 3.56s / slot 3.80s
+  fb3fa838 L4: 2.89s / slot 3.30s
+  fb3fa838 L5: 3.43s / slot 3.90s
+uniform tempo x1.00  |  voice ends at 16.86s  |  max late start +0.00s
+line  orig_cue  new_start  shift   length
+   1      0.20       0.20  +0.00    2.10s
+   2      2.90       2.75  -0.15    3.53s
+   3      6.40       6.38  -0.02    3.53s
+   4     10.30      10.15  -0.15    2.88s
+   5     13.70      13.55  -0.15    3.31s
+wrote /Users/wachas/Documents/higgs-purple/dub/out/fb3fa838_en.mp4
+  remuxed fb3fa838_bn.mp4
+  remuxed fb3fa838_en.mp4
+  remuxed fb3fa838_ml.mp4
+  remuxed fb3fa838_or.mp4
+  remuxed fb3fa838_ta.mp4
+  remuxed fb3fa838_te.mp4
+fb3fa838: voiced (hf_beta/a)
+  ce52c347 L1: 2.14s / slot 2.30s
+  ce52c347 L2: 4.18s / slot 3.60s
+  ce52c347 L3: 2.62s / slot 3.30s
+  ce52c347 L4: 3.48s / slot 3.40s
+  ce52c347 L5: 2.98s / slot 4.40s
+uniform tempo x1.00  |  voice ends at 16.03s  |  max late start +0.34s
+line  orig_cue  new_start  shift   length
+   1      0.20       0.20  +0.00    2.14s
+   2      2.60       2.45  -0.15    4.09s
+   3      6.30       6.64  +0.34    2.60s
+   4      9.70       9.55  -0.15    3.44s
+   5     13.20      13.09  -0.11    2.94s
+wrote /Users/wachas/Documents/higgs-purple/dub/out/ce52c347_en.mp4
+  remuxed ce52c347_bn.mp4
+  remuxed ce52c347_en.mp4
+  remuxed ce52c347_ml.mp4
+  remuxed ce52c347_or.mp4
+  remuxed ce52c347_ta.mp4
+  remuxed ce52c347_te.mp4
+ce52c347: voiced (hf_beta/a)
+  a9be56d9 L1: 2.18s / slot 2.60s
+  a9be56d9 L2: 2.83s / slot 2.90s
+  a9be56d9 L3: 4.52s / slot 4.50s
+  a9be56d9 L4: 2.13s / slot 2.70s
+  a9be56d9 L5: 1.68s / slot 2.50s
+  a9be56d9 L6: 1.67s / slot 1.90s
+uniform tempo x1.00  |  voice ends at 17.41s  |  max late start +0.00s
+line  orig_cue  new_start  shift   length
+   1      0.20       0.20  +0.00    2.17s
+   2      2.90       2.75  -0.15    2.82s
+   3      5.90       5.75  -0.15    4.37s
+   4     10.50      10.35  -0.15    2.11s
+   5     13.30      13.15  -0.15    1.66s
+   6     15.90      15.75  -0.15    1.66s
+wrote /Users/wachas/Documents/higgs-purple/dub/out/a9be56d9_en.mp4
+  remuxed a9be56d9_bn.mp4
+  remuxed a9be56d9_en.mp4
+  remuxed a9be56d9_ml.mp4
+  remuxed a9be56d9_or.mp4
+  remuxed a9be56d9_ta.mp4
+  remuxed a9be56d9_te.mp4
+a9be56d9: voiced (hf_beta/a)
+  426b77bb L1: 2.01s / slot 2.70s
+  426b77bb L2: 2.83s / slot 3.20s
+  426b77bb L3: 4.52s / slot 4.40s
+  426b77bb L4: 1.83s / slot 2.70s
+  426b77bb L5: 1.66s / slot 2.10s
+  426b77bb L6: 1.46s / slot 2.00s
+uniform tempo x1.00  |  voice ends at 17.10s  |  max late start +0.00s
+line  orig_cue  new_start  shift   length
+   1      0.20       0.20  +0.00    2.01s
+   2      3.00       2.85  -0.15    2.82s
+   3      6.30       6.15  -0.15    4.38s
+   4     10.80      10.65  -0.15    1.81s
+   5     13.60      13.45  -0.15    1.65s
+   6     15.80      15.65  -0.15    1.45s
+wrote /Users/wachas/Documents/higgs-purple/dub/out/426b77bb_en.mp4
+  remuxed 426b77bb_bn.mp4
+  remuxed 426b77bb_en.mp4
+  remuxed 426b77bb_ml.mp4
+  remuxed 426b77bb_or.mp4
+  remuxed 426b77bb_ta.mp4
+  remuxed 426b77bb_te.mp4
+426b77bb: voiced (hf_beta/a)
+  eab38211 L1: 2.42s / slot 2.90s
+  eab38211 L2: 2.56s / slot 2.70s
+  eab38211 L3: 4.18s / slot 4.10s
+  eab38211 L4: 2.13s / slot 2.80s
+  eab38211 L5: 1.59s / slot 4.70s
+uniform tempo x1.00  |  voice ends at 14.53s  |  max late start +0.00s
+line  orig_cue  new_start  shift   length
+   1      0.20       0.20  +0.00    2.40s
+   2      3.20       3.05  -0.15    2.55s
+   3      6.00       5.85  -0.15    4.08s
+   4     10.20      10.05  -0.15    2.11s
+   5     13.10      12.95  -0.15    1.58s
+wrote /Users/wachas/Documents/higgs-purple/dub/out/eab38211_en.mp4
+  remuxed eab38211_bn.mp4
+  remuxed eab38211_en.mp4
+  remuxed eab38211_ml.mp4
+  remuxed eab38211_or.mp4
+  remuxed eab38211_ta.mp4
+  remuxed eab38211_te.mp4
+eab38211: voiced (hf_beta/a)
+  e9528636 L1: 1.85s / slot 2.50s
+  e9528636 L2: 3.23s / slot 3.20s
+  e9528636 L3: 3.10s / slot 3.90s
+  e9528636 L4: 3.13s / slot 3.10s
+  e9528636 L5: 1.68s / slot 4.30s
+uniform tempo x1.00  |  voice ends at 14.83s  |  max late start +0.00s
+line  orig_cue  new_start  shift   length
+   1      0.20       0.20  +0.00    1.83s
+   2      2.80       2.65  -0.15    3.22s
+   3      6.10       5.97  -0.13    3.06s
+   4     10.10       9.95  -0.15    3.11s
+   5     13.30      13.16  -0.14    1.67s
+wrote /Users/wachas/Documents/higgs-purple/dub/out/e9528636_en.mp4
+  remuxed e9528636_bn.mp4
+  remuxed e9528636_en.mp4
+  remuxed e9528636_ml.mp4
+  remuxed e9528636_or.mp4
+  remuxed e9528636_ta.mp4
+  remuxed e9528636_te.mp4
+e9528636: voiced (hf_beta/a)
+  b4c787e1 L1: 2.08s / slot 2.70s
+  b4c787e1 L2: 3.09s / slot 3.00s
+  b4c787e1 L3: 2.83s / slot 4.00s
+  b4c787e1 L4: 3.26s / slot 3.30s
+  b4c787e1 L5: 3.33s / slot 4.00s
+uniform tempo x1.00  |  voice ends at 16.72s  |  max late start +0.00s
+line  orig_cue  new_start  shift   length
+   1      0.20       0.20  +0.00    2.07s
+   2      3.00       2.85  -0.15    3.08s
+   3      6.10       6.03  -0.07    2.83s
+   4     10.20      10.05  -0.15    3.22s
+   5     13.60      13.45  -0.15    3.27s
+wrote /Users/wachas/Documents/higgs-purple/dub/out/b4c787e1_en.mp4
+  remuxed b4c787e1_bn.mp4
+  remuxed b4c787e1_en.mp4
+  remuxed b4c787e1_ml.mp4
+  remuxed b4c787e1_or.mp4
+  remuxed b4c787e1_ta.mp4
+  remuxed b4c787e1_te.mp4
+b4c787e1: voiced (hf_beta/a)

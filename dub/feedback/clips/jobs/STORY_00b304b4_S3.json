@@ -1,0 +1,31 @@
+[
+  {
+    "created_at": "2026-10-09T18:20:32.70747Z",
+    "display_name": "Wan 3.0",
+    "id": "3158691c-f945-4737-851e-4d0d7fc8bc09",
+    "job_type": "wan3_0",
+    "min_result_url": null,
+    "params": {
+      "aspect_ratio": "9:16",
+      "duration": 5,
+      "generate_audio": false,
+      "height": 1344,
+      "medias": [
+        {
+          "data": {
+            "id": "745acb35-0bc1-4284-94e2-e5c097399922",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3A6ZxB95Mnf55lwPBqzkePnTfzA/745acb35-0bc1-4284-94e2-e5c097399922.png"
+          },
+          "role": "start_image"
+        }
+      ],
+      "prompt": "The hand lifts the tube as the lavender ribbon swirls around it and the hero characters cheer and bounce; the tube stays exactly as in the first frame. Keep the exact look of the first frame: same real woman and skin tone, same cartoon characters, product label and cap exactly as in the first frame (cap on, no nozzle); smooth natural motion; no text appears.",
+      "resolution": "480p",
+      "width": 768
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3A6ZxB95Mnf55lwPBqzkePnTfzA/hf_20261009_182032_3158691c-f945-4737-851e-4d0d7fc8bc09.mp4",
+    "status": "completed",
+    "thumbnail_url": "https://cdn.higgsfield.ai/user_3A6ZxB95Mnf55lwPBqzkePnTfzA/hf_20261009_182032_3158691c-f945-4737-851e-4d0d7fc8bc09_thumbnail.webp"
+  }
+]

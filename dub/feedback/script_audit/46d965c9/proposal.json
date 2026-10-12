@@ -1,0 +1,163 @@
+{
+ "video": "46d965c9",
+ "shots": [
+  {
+   "n": 1,
+   "start": 0,
+   "end": 2.67,
+   "on_screen": "Woman at night desk with glasses and hand mirror, checking her skin."
+  },
+  {
+   "n": 2,
+   "start": 2.67,
+   "end": 4.6,
+   "on_screen": "She picks up the jar and walks away from her night desk."
+  },
+  {
+   "n": 3,
+   "start": 4.6,
+   "end": 6.93,
+   "on_screen": "Jar on a bathroom counter, moon in the window."
+  },
+  {
+   "n": 4,
+   "start": 6.93,
+   "end": 8.97,
+   "on_screen": "Spatula scooping thick white cream."
+  },
+  {
+   "n": 5,
+   "start": 8.97,
+   "end": 10.93,
+   "on_screen": "At the mirror she dots cream on her face."
+  },
+  {
+   "n": 6,
+   "start": 10.93,
+   "end": 13.17,
+   "on_screen": "She massages cream into her face."
+  },
+  {
+   "n": 7,
+   "start": 13.17,
+   "end": 13.9,
+   "on_screen": "Jar with three glowing orbs."
+  },
+  {
+   "n": 8,
+   "start": 13.9,
+   "end": 15.77,
+   "on_screen": "Jar with three orbs swirling."
+  },
+  {
+   "n": 9,
+   "start": 15.77,
+   "end": 17.73,
+   "on_screen": "She sleeps, jar on the nightstand."
+  },
+  {
+   "n": 10,
+   "start": 17.73,
+   "end": 20.04,
+   "on_screen": "Before/after split (different model from the creator)."
+  }
+ ],
+ "lines": [
+  {
+   "id": 1,
+   "start": 0.0,
+   "slot_s": 2.53,
+   "speaker": "creator",
+   "current": "By the end of the day, my skin always looked tired and uneven.",
+   "on_screen_during": "Checking skin at night desk.",
+   "verdict": "rewrite",
+   "new": "End of day: tired, uneven-looking skin.",
+   "words": 6,
+   "reason": "Fits but 13 words was double the slot."
+  },
+  {
+   "id": 2,
+   "start": 2.68,
+   "slot_s": 1.89,
+   "speaker": "creator",
+   "current": "So my nighttime reset starts with this night cream.",
+   "on_screen_during": "Picks up the jar.",
+   "verdict": "rewrite",
+   "new": "Night reset starts here.",
+   "words": 4,
+   "reason": "Fits; trimmed."
+  },
+  {
+   "id": 3,
+   "start": 4.72,
+   "slot_s": 1.99,
+   "speaker": "creator",
+   "current": "DERMDOC 2% Kojic Acid Night Cream.",
+   "on_screen_during": "Jar on bathroom counter.",
+   "verdict": "keep",
+   "new": "DERMDOC 2% Kojic Acid Night Cream.",
+   "words": 6,
+   "reason": "Fits. Kept although 6 words exceeds the 4.8-word budget (pre-existing timing)."
+  },
+  {
+   "id": 4,
+   "start": 6.86,
+   "slot_s": 2.03,
+   "speaker": "creator",
+   "current": "It has a rich, non-watery night cream texture.",
+   "on_screen_during": "Spatula scoop.",
+   "verdict": "rewrite",
+   "new": "Rich, thick, non-watery texture.",
+   "words": 4,
+   "reason": "Fits; trimmed."
+  },
+  {
+   "id": 5,
+   "start": 9.04,
+   "slot_s": 1.63,
+   "speaker": "creator",
+   "current": "I apply a small amount before sleeping.",
+   "on_screen_during": "Dotting cream at the mirror.",
+   "verdict": "rewrite",
+   "new": "Dot it on.",
+   "words": 3,
+   "reason": "Fits; trimmed."
+  },
+  {
+   "id": 6,
+   "start": 10.82,
+   "slot_s": 2.47,
+   "speaker": "creator",
+   "current": "The Glow Fusion Formula combines three brightening actives.",
+   "on_screen_during": "Massaging it in.",
+   "verdict": "rewrite",
+   "new": "Massaged in, it absorbs fully.",
+   "words": 5,
+   "reason": "Massaging on screen, not orbs."
+  },
+  {
+   "id": 7,
+   "start": 13.44,
+   "slot_s": 4.11,
+   "speaker": "creator",
+   "current": "Together, they help reduce the appearance of dark spots and support a more even-looking complexion.",
+   "on_screen_during": "Three-orb jar, then sleeping.",
+   "verdict": "rewrite",
+   "new": "Glow Fusion Formula: Kojic Acid, Niacinamide, Alpha Arbutin, overnight.",
+   "words": 9,
+   "reason": "Orbs on screen; name the actives."
+  },
+  {
+   "id": 8,
+   "start": 17.7,
+   "slot_s": 2.64,
+   "speaker": "creator",
+   "current": "After two weeks, my skin looks brighter and more even.",
+   "on_screen_during": "Before/after split.",
+   "verdict": "rewrite",
+   "new": "After two weeks, spots look reduced.",
+   "words": 6,
+   "reason": "Fits; trimmed."
+  }
+ ]
+}

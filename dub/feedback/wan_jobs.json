@@ -1,0 +1,638 @@
+[
+ {
+  "clip": "PS01_hero_vanity",
+  "keyframe": "feedback/codex/out/PS01_hero_vanity.png",
+  "needs_wan": false,
+  "motion_prompt": "Slow cinematic push-in toward the sunscreen tube standing on its cap on the marble vanity; soft sunlight and leaf shadows drift gently; the tube stays perfectly still and unchanged. Photorealistic, natural motion, stable identity, product packaging stays exactly as in the first frame, no text appears.",
+  "settings": {
+   "model": "Wan (cheapest current version on Higgsfield)",
+   "resolution": "480p",
+   "duration_s": 5,
+   "aspect": "9:16"
+  }
+ },
+ {
+  "clip": "PS02_hold_balcony",
+  "keyframe": "feedback/codex/out/PS02_hold_balcony.png",
+  "needs_wan": true,
+  "motion_prompt": "She lifts the tube slightly toward the camera and smiles; gentle breeze in her hair; the tube label stays readable and unchanged; handheld feel. Photorealistic, natural motion, stable identity, product packaging stays exactly as in the first frame, no text appears.",
+  "settings": {
+   "model": "Wan (cheapest current version on Higgsfield)",
+   "resolution": "480p",
+   "duration_s": 5,
+   "aspect": "9:16"
+  }
+ },
+ {
+  "clip": "PS03_fingertips",
+  "keyframe": "feedback/codex/out/PS03_fingertips.png",
+  "needs_wan": true,
+  "motion_prompt": "Fingertips rub together gently, the lavender cream spreads smoothly and silkily; slow motion; tube in background stays unchanged. Photorealistic, natural motion, stable identity, product packaging stays exactly as in the first frame, no text appears.",
+  "settings": {
+   "model": "Wan (cheapest current version on Higgsfield)",
+   "resolution": "480p",
+   "duration_s": 5,
+   "aspect": "9:16"
+  }
+ },
+ {
+  "clip": "PS04_dot_face",
+  "keyframe": "feedback/codex/out/PS04_dot_face.png",
+  "needs_wan": true,
+  "motion_prompt": "Her fingertips start blending the dots across her cheeks in gentle strokes; slow, natural movement; face stays the same person. Photorealistic, natural motion, stable identity, product packaging stays exactly as in the first frame, no text appears.",
+  "settings": {
+   "model": "Wan (cheapest current version on Higgsfield)",
+   "resolution": "480p",
+   "duration_s": 5,
+   "aspect": "9:16"
+  }
+ },
+ {
+  "clip": "PS05_blend_glow",
+  "keyframe": "feedback/codex/out/PS05_blend_glow.png",
+  "needs_wan": true,
+  "motion_prompt": "She finishes blending; the lavender completely disappears into the skin leaving no cast or residue; her skin turns visibly even, smooth and dewy with a healthy instant glow; she lowers her hand and smiles. Photorealistic, natural motion, stable identity, product packaging stays exactly as in the first frame, no text appears.",
+  "settings": {
+   "model": "Wan (cheapest current version on Higgsfield)",
+   "resolution": "480p",
+   "duration_s": 5,
+   "aspect": "9:16"
+  }
+ },
+ {
+  "clip": "PS06_glow_after",
+  "keyframe": "feedback/codex/out/PS06_glow_after.png",
+  "needs_wan": false,
+  "motion_prompt": "Slow head turn toward the window light; light glides across her glowing cheekbone; gentle smile; camera almost static. Photorealistic, natural motion, stable identity, product packaging stays exactly as in the first frame, no text appears.",
+  "settings": {
+   "model": "Wan (cheapest current version on Higgsfield)",
+   "resolution": "480p",
+   "duration_s": 5,
+   "aspect": "9:16"
+  }
+ },
+ {
+  "clip": "PS07_before_dull",
+  "keyframe": "feedback/codex/out/PS07_before_dull.png",
+  "needs_wan": false,
+  "motion_prompt": "Subtle blink and a small sigh; she touches her cheek lightly; camera static. Photorealistic, natural motion, stable identity, product packaging stays exactly as in the first frame, no text appears.",
+  "settings": {
+   "model": "Wan (cheapest current version on Higgsfield)",
+   "resolution": "480p",
+   "duration_s": 5,
+   "aspect": "9:16"
+  }
+ },
+ {
+  "clip": "PS08_hand_swatch",
+  "keyframe": "feedback/codex/out/PS08_hand_swatch.png",
+  "needs_wan": true,
+  "motion_prompt": "Fingertips rub the stripe in circles; the lavender vanishes completely leaving no white cast and no residue; the skin on that patch looks visibly more even and radiant than before. Photorealistic, natural motion, stable identity, product packaging stays exactly as in the first frame, no text appears.",
+  "settings": {
+   "model": "Wan (cheapest current version on Higgsfield)",
+   "resolution": "480p",
+   "duration_s": 5,
+   "aspect": "9:16"
+  }
+ },
+ {
+  "clip": "PS09_outdoor_glow",
+  "keyframe": "feedback/codex/out/PS09_outdoor_glow.png",
+  "needs_wan": true,
+  "motion_prompt": "She steps forward into the sunlight, turns her face to the sun with a relaxed smile; hair moves in the breeze; light handheld tracking. Photorealistic, natural motion, stable identity, product packaging stays exactly as in the first frame, no text appears.",
+  "settings": {
+   "model": "Wan (cheapest current version on Higgsfield)",
+   "resolution": "480p",
+   "duration_s": 5,
+   "aspect": "9:16"
+  }
+ },
+ {
+  "clip": "PS10_texture_macro",
+  "keyframe": "feedback/codex/out/PS10_texture_macro.png",
+  "needs_wan": true,
+  "motion_prompt": "A fingertip slowly swipes through the cream swirl showing a light, smooth, non-watery texture; slow motion; tube unchanged. Photorealistic, natural motion, stable identity, product packaging stays exactly as in the first frame, no text appears.",
+  "settings": {
+   "model": "Wan (cheapest current version on Higgsfield)",
+   "resolution": "480p",
+   "duration_s": 5,
+   "aspect": "9:16"
+  }
+ },
+ {
+  "clip": "PSA1_avatar_talk",
+  "keyframe": "feedback/codex/out/PSA1_avatar_talk.png",
+  "needs_wan": true,
+  "motion_prompt": "The tube mascot talks cheerfully to camera, blinking and gesturing with one hand; the label, cap and shape stay exactly the same; gentle camera drift. Photorealistic, natural motion, stable identity, product packaging stays exactly as in the first frame, no text appears.",
+  "settings": {
+   "model": "Wan (cheapest current version on Higgsfield)",
+   "resolution": "480p",
+   "duration_s": 5,
+   "aspect": "9:16"
+  }
+ },
+ {
+  "clip": "PSA2_avatar_point",
+  "keyframe": "feedback/codex/out/PSA2_avatar_point.png",
+  "needs_wan": true,
+  "motion_prompt": "The mascot points to the empty right side and nods while talking; nothing appears on the right side; camera static. Photorealistic, natural motion, stable identity, product packaging stays exactly as in the first frame, no text appears.",
+  "settings": {
+   "model": "Wan (cheapest current version on Higgsfield)",
+   "resolution": "480p",
+   "duration_s": 5,
+   "aspect": "9:16"
+  }
+ },
+ {
+  "clip": "PSA3_avatar_model",
+  "keyframe": "feedback/codex/out/PSA3_avatar_model.png",
+  "needs_wan": true,
+  "motion_prompt": "The tube mascot waves at her and she laughs and touches her glowing cheek; natural movement; only one tube. Photorealistic, natural motion, stable identity, product packaging stays exactly as in the first frame, no text appears.",
+  "settings": {
+   "model": "Wan (cheapest current version on Higgsfield)",
+   "resolution": "480p",
+   "duration_s": 5,
+   "aspect": "9:16"
+  }
+ },
+ {
+  "clip": "KN01_hero_night",
+  "keyframe": "feedback/codex/out/KN01_hero_night.png",
+  "needs_wan": false,
+  "motion_prompt": "Slow cinematic push-in to the open jar; warm lamp light flickers softly; the jar and label stay perfectly unchanged. Photorealistic, natural motion, stable identity, product packaging stays exactly as in the first frame, no text appears.",
+  "settings": {
+   "model": "Wan (cheapest current version on Higgsfield)",
+   "resolution": "480p",
+   "duration_s": 5,
+   "aspect": "9:16"
+  }
+ },
+ {
+  "clip": "KN02_scoop",
+  "keyframe": "feedback/codex/out/KN02_scoop.png",
+  "needs_wan": true,
+  "motion_prompt": "The fingertip lifts out a soft peak of thick cream in slow motion; the cream is rich and holds its shape; jar unchanged. Photorealistic, natural motion, stable identity, product packaging stays exactly as in the first frame, no text appears.",
+  "settings": {
+   "model": "Wan (cheapest current version on Higgsfield)",
+   "resolution": "480p",
+   "duration_s": 5,
+   "aspect": "9:16"
+  }
+ },
+ {
+  "clip": "KN03_before_night",
+  "keyframe": "feedback/codex/out/KN03_before_night.png",
+  "needs_wan": true,
+  "motion_prompt": "She gently touches her cheek and studies the spots in the mirror; subtle head turn; camera static. Photorealistic, natural motion, stable identity, product packaging stays exactly as in the first frame, no text appears.",
+  "settings": {
+   "model": "Wan (cheapest current version on Higgsfield)",
+   "resolution": "480p",
+   "duration_s": 5,
+   "aspect": "9:16"
+  }
+ },
+ {
+  "clip": "KN04_apply_night",
+  "keyframe": "feedback/codex/out/KN04_apply_night.png",
+  "needs_wan": true,
+  "motion_prompt": "She massages the cream in gentle upward circles until it fully absorbs, leaving soft, smooth, healthy-looking skin with no white residue; calm bedtime mood. Photorealistic, natural motion, stable identity, product packaging stays exactly as in the first frame, no text appears.",
+  "settings": {
+   "model": "Wan (cheapest current version on Higgsfield)",
+   "resolution": "480p",
+   "duration_s": 5,
+   "aspect": "9:16"
+  }
+ },
+ {
+  "clip": "KN05_sleep",
+  "keyframe": "feedback/codex/out/KN05_sleep.png",
+  "needs_wan": true,
+  "motion_prompt": "Gentle breathing; moonlight slowly warms into the first soft dawn light across the room; time-lapse feel; very calm. Photorealistic, natural motion, stable identity, product packaging stays exactly as in the first frame, no text appears.",
+  "settings": {
+   "model": "Wan (cheapest current version on Higgsfield)",
+   "resolution": "480p",
+   "duration_s": 5,
+   "aspect": "9:16"
+  }
+ },
+ {
+  "clip": "KN06_morning_wake",
+  "keyframe": "feedback/codex/out/KN06_morning_wake.png",
+  "needs_wan": true,
+  "motion_prompt": "She stretches, then touches her smooth glowing cheek and smiles at camera; sunlight glows on her skin; gentle camera push. Photorealistic, natural motion, stable identity, product packaging stays exactly as in the first frame, no text appears.",
+  "settings": {
+   "model": "Wan (cheapest current version on Higgsfield)",
+   "resolution": "480p",
+   "duration_s": 5,
+   "aspect": "9:16"
+  }
+ },
+ {
+  "clip": "KN07_after_day",
+  "keyframe": "feedback/codex/out/KN07_after_day.png",
+  "needs_wan": false,
+  "motion_prompt": "Subtle smile and slow head tilt toward the light; glow on cheekbones; camera static. Photorealistic, natural motion, stable identity, product packaging stays exactly as in the first frame, no text appears.",
+  "settings": {
+   "model": "Wan (cheapest current version on Higgsfield)",
+   "resolution": "480p",
+   "duration_s": 5,
+   "aspect": "9:16"
+  }
+ },
+ {
+  "clip": "KN08_before_day",
+  "keyframe": "feedback/codex/out/KN08_before_day.png",
+  "needs_wan": false,
+  "motion_prompt": "Small blink and slight head tilt; camera static. Photorealistic, natural motion, stable identity, product packaging stays exactly as in the first frame, no text appears.",
+  "settings": {
+   "model": "Wan (cheapest current version on Higgsfield)",
+   "resolution": "480p",
+   "duration_s": 5,
+   "aspect": "9:16"
+  }
+ },
+ {
+  "clip": "KNA1_avatar_talk",
+  "keyframe": "feedback/codex/out/KNA1_avatar_talk.png",
+  "needs_wan": true,
+  "motion_prompt": "The jar mascot talks warmly to camera, blinking and gesturing; label and jar shape stay exactly the same; gentle camera drift. Photorealistic, natural motion, stable identity, product packaging stays exactly as in the first frame, no text appears.",
+  "settings": {
+   "model": "Wan (cheapest current version on Higgsfield)",
+   "resolution": "480p",
+   "duration_s": 5,
+   "aspect": "9:16"
+  }
+ },
+ {
+  "clip": "KNA2_avatar_ingredients",
+  "keyframe": "feedback/codex/out/KNA2_avatar_ingredients.png",
+  "needs_wan": true,
+  "motion_prompt": "The three glowing orbs rise out of the cream and orbit slowly above the jar, sparkles trailing; jar unchanged; camera slow push-in. Photorealistic, natural motion, stable identity, product packaging stays exactly as in the first frame, no text appears.",
+  "settings": {
+   "model": "Wan (cheapest current version on Higgsfield)",
+   "resolution": "480p",
+   "duration_s": 5,
+   "aspect": "9:16"
+  }
+ },
+ {
+  "clip": "UGC_dad2130b_S9",
+  "keyframe": "feedback/codex/out/UGC_dad2130b_S9.png",
+  "needs_wan": false,
+  "motion_prompt": "She smiles warmly into the selfie camera and tilts the tube slightly toward the lens; gentle handheld selfie sway; skin stays glowing and even; tube and label unchanged. Photorealistic, natural motion, stable identity, the woman's face and skin tone stay exactly as in the first frame, product packaging stays exactly as in the first frame (cap on, no nozzle), no text appears.",
+  "settings": {
+   "model": "wan3_0",
+   "resolution": "480p",
+   "duration": 5,
+   "audio": false
+  }
+ },
+ {
+  "clip": "UGC_65a0c520_S5",
+  "keyframe": "feedback/codex/out/UGC_65a0c520_S5.png",
+  "needs_wan": false,
+  "motion_prompt": "Her fingertips blend the thin lavender cream on her cheek in small circles until it disappears completely, leaving evenly radiant skin with no white cast; tube unchanged. Photorealistic, natural motion, stable identity, the woman's face and skin tone stay exactly as in the first frame, product packaging stays exactly as in the first frame (cap on, no nozzle), no text appears.",
+  "settings": {
+   "model": "wan3_0",
+   "resolution": "480p",
+   "duration": 5,
+   "audio": false
+  }
+ },
+ {
+  "clip": "UGC_02bad3b3_S1",
+  "keyframe": "feedback/codex/out/UGC_02bad3b3_S1.png",
+  "needs_wan": false,
+  "motion_prompt": "She gently touches her cheek and studies her skin, a little concerned, with small natural head movement; warm night light; jar unchanged. Photorealistic, natural motion, stable identity, the woman's face and skin tone stay exactly as in the first frame, product packaging stays exactly as in the first frame (cap on, no nozzle), no text appears.",
+  "settings": {
+   "model": "wan3_0",
+   "resolution": "480p",
+   "duration": 5,
+   "audio": false
+  }
+ },
+ {
+  "clip": "UGC_784c77c5_S1",
+  "keyframe": "feedback/codex/out/UGC_784c77c5_S1.png",
+  "needs_wan": false,
+  "motion_prompt": "She touches the spots on her cheek and looks into her hand mirror, a little concerned; small natural movement; warm night light. Photorealistic, natural motion, stable identity, the woman's face and skin tone stay exactly as in the first frame, product packaging stays exactly as in the first frame (cap on, no nozzle), no text appears.",
+  "settings": {
+   "model": "wan3_0",
+   "resolution": "480p",
+   "duration": 5,
+   "audio": false
+  }
+ },
+ {
+  "clip": "UGC_a5c00002_S4",
+  "keyframe": "feedback/codex/out/UGC_a5c00002_S4.png",
+  "needs_wan": false,
+  "motion_prompt": "Her fingertip slowly points at the flat brown spots on her cheek; slight natural head movement; soft night light. Photorealistic, natural motion, stable identity, the woman's face and skin tone stay exactly as in the first frame, product packaging stays exactly as in the first frame (cap on, no nozzle), no text appears.",
+  "settings": {
+   "model": "wan3_0",
+   "resolution": "480p",
+   "duration": 5,
+   "audio": false
+  }
+ },
+ {
+  "clip": "UGC_02bad3b3_S6",
+  "keyframe": "feedback/codex/out/UGC_02bad3b3_S6.png",
+  "needs_wan": false,
+  "motion_prompt": "She massages the cream in with gentle upward strokes until it disappears completely into her skin, no white residue; warm night light. Photorealistic, natural motion, stable identity, the woman's face and skin tone stay exactly as in the first frame, product packaging stays exactly as in the first frame (cap on, no nozzle), no text appears.",
+  "settings": {
+   "model": "wan3_0",
+   "resolution": "480p",
+   "duration": 5,
+   "audio": false
+  }
+ },
+ {
+  "clip": "UGC_02bad3b3_S9",
+  "keyframe": "feedback/codex/out/UGC_02bad3b3_S9.png",
+  "needs_wan": false,
+  "motion_prompt": "She lifts her head slightly and smiles softly at the camera in gentle morning light, skin glowing; jar unchanged. Photorealistic, natural motion, stable identity, the woman's face and skin tone stay exactly as in the first frame, product packaging stays exactly as in the first frame (cap on, no nozzle), no text appears.",
+  "settings": {
+   "model": "wan3_0",
+   "resolution": "480p",
+   "duration": 5,
+   "audio": false
+  }
+ },
+ {
+  "clip": "PILOT_33c29291_S1",
+  "keyframe": "feedback/codex/out/PILOT_33c29291_S1.png",
+  "needs_wan": false,
+  "motion_prompt": "The chalky white-cast blob villain smears a grey streak on her cheek and snarls; the sunscreen tube mascot hops in between them with a determined face, arms raised to block it; the woman stays calm; camera static; tube label and lavender cap unchanged. Keep the exact look of the first frame: same real woman, same cartoon mascot design with its lavender cap on, same villain; smooth natural motion; product label stays exactly as in the first frame; no text appears.",
+  "settings": {
+   "model": "wan3_0",
+   "resolution": "480p",
+   "duration": 5,
+   "audio": false
+  }
+ },
+ {
+  "clip": "PILOT_33c29291_S2",
+  "keyframe": "feedback/codex/out/PILOT_33c29291_S2.png",
+  "needs_wan": false,
+  "motion_prompt": "The tube mascot points at the colour wheel as the glowing arrow pulses between the purple and the yellow segments; the white-cast blob droops sadly; gentle camera push-in; tube label and lavender cap unchanged. Keep the exact look of the first frame: same real woman, same cartoon mascot design with its lavender cap on, same villain; smooth natural motion; product label stays exactly as in the first frame; no text appears.",
+  "settings": {
+   "model": "wan3_0",
+   "resolution": "480p",
+   "duration": 5,
+   "audio": false
+  }
+ },
+ {
+  "clip": "PILOT_33c29291_S5",
+  "keyframe": "feedback/codex/out/PILOT_33c29291_S5.png",
+  "needs_wan": false,
+  "motion_prompt": "She smiles and turns toward the camera, glowing even skin catching the warm light; the little colour wheel glows softly; the white-cast blob shrinks back, confused; camera static. Keep the exact look of the first frame: same real woman, same cartoon mascot design with its lavender cap on, same villain; smooth natural motion; product label stays exactly as in the first frame; no text appears.",
+  "settings": {
+   "model": "wan3_0",
+   "resolution": "480p",
+   "duration": 5,
+   "audio": false
+  }
+ },
+ {
+  "clip": "STORY_291827ba_S2",
+  "keyframe": "feedback/codex/out/STORY_291827ba_S2.png",
+  "needs_wan": false,
+  "motion_prompt": "The hero characters gather proudly around the upright tube on the marble court counter; gentle camera push-in; the tube stays exactly as in the first frame. Keep the exact look of the first frame: same real woman and skin tone, same cartoon characters, product label and cap exactly as in the first frame (cap on, no nozzle); smooth natural motion; no text appears.",
+  "settings": {
+   "model": "wan3_0",
+   "resolution": "480p",
+   "duration": 5,
+   "audio": false
+  }
+ },
+ {
+  "clip": "STORY_655a1328_S5",
+  "keyframe": "feedback/codex/out/STORY_655a1328_S5.png",
+  "needs_wan": false,
+  "motion_prompt": "The woman smiles warmly at the camera with glowing skin; the tube mascot gives a thumbs-up holding the small colour wheel; gentle camera push-in. Keep the exact look of the first frame: same real woman and skin tone, same cartoon characters, product label and cap exactly as in the first frame (cap on, no nozzle); smooth natural motion; no text appears.",
+  "settings": {
+   "model": "wan3_0",
+   "resolution": "480p",
+   "duration": 5,
+   "audio": false
+  }
+ },
+ {
+  "clip": "STORY_715b1b5c_S4",
+  "keyframe": "feedback/codex/out/STORY_715b1b5c_S4.png",
+  "needs_wan": false,
+  "motion_prompt": "The three glowing orbs rise one by one from the jar and hover in a row, sparkles trailing; the jar mascot smiles and gestures upward; the jar label stays unchanged. Keep the exact look of the first frame: same real woman and skin tone, same cartoon characters, product label and cap exactly as in the first frame (cap on, no nozzle); smooth natural motion; no text appears.",
+  "settings": {
+   "model": "wan3_0",
+   "resolution": "480p",
+   "duration": 5,
+   "audio": false
+  }
+ },
+ {
+  "clip": "STORY_7558fbf1_S2",
+  "keyframe": "feedback/codex/out/STORY_7558fbf1_S2.png",
+  "needs_wan": false,
+  "motion_prompt": "The jar mascot steps forward confidently and points at the fuzzy dark-spot villain, which shrinks back nervously; the jar label stays unchanged. Keep the exact look of the first frame: same real woman and skin tone, same cartoon characters, product label and cap exactly as in the first frame (cap on, no nozzle); smooth natural motion; no text appears.",
+  "settings": {
+   "model": "wan3_0",
+   "resolution": "480p",
+   "duration": 5,
+   "audio": false
+  }
+ },
+ {
+  "clip": "STORY_7558fbf1_S4",
+  "keyframe": "feedback/codex/out/STORY_7558fbf1_S4.png",
+  "needs_wan": false,
+  "motion_prompt": "The three glowing rings float and orbit gently above the open jar; the jar mascot points up at them; the jar label stays unchanged. Keep the exact look of the first frame: same real woman and skin tone, same cartoon characters, product label and cap exactly as in the first frame (cap on, no nozzle); smooth natural motion; no text appears.",
+  "settings": {
+   "model": "wan3_0",
+   "resolution": "480p",
+   "duration": 5,
+   "audio": false
+  }
+ },
+ {
+  "clip": "STORY_7558fbf1_S9",
+  "keyframe": "feedback/codex/out/STORY_7558fbf1_S9.png",
+  "needs_wan": false,
+  "motion_prompt": "She smiles softly at the camera in bright morning light and gently touches her cheek, skin glowing and clear. Keep the exact look of the first frame: same real woman and skin tone, same cartoon characters, product label and cap exactly as in the first frame (cap on, no nozzle); smooth natural motion; no text appears.",
+  "settings": {
+   "model": "wan3_0",
+   "resolution": "480p",
+   "duration": 5,
+   "audio": false
+  }
+ },
+ {
+  "clip": "STORY_89697c77_S1",
+  "keyframe": "feedback/codex/out/STORY_89697c77_S1.png",
+  "needs_wan": false,
+  "motion_prompt": "She rests her head on her hand, tired, looking at her skin in the mirror; the purple cartoon villain floats beside her, smirking; warm night light. Keep the exact look of the first frame: same real woman and skin tone, same cartoon characters, product label and cap exactly as in the first frame (cap on, no nozzle); smooth natural motion; no text appears.",
+  "settings": {
+   "model": "wan3_0",
+   "resolution": "480p",
+   "duration": 5,
+   "audio": false
+  }
+ },
+ {
+  "clip": "STORY_89697c77_S7",
+  "keyframe": "feedback/codex/out/STORY_89697c77_S7.png",
+  "needs_wan": false,
+  "motion_prompt": "She gently presses her palms to her cheeks with eyes half closed, relaxed, skin smooth and softly glowing; warm night light. Keep the exact look of the first frame: same real woman and skin tone, same cartoon characters, product label and cap exactly as in the first frame (cap on, no nozzle); smooth natural motion; no text appears.",
+  "settings": {
+   "model": "wan3_0",
+   "resolution": "480p",
+   "duration": 5,
+   "audio": false
+  }
+ },
+ {
+  "clip": "STORY_00b304b4_S3",
+  "keyframe": "feedback/codex/out/STORY_00b304b4_S3.png",
+  "needs_wan": false,
+  "motion_prompt": "The hand lifts the tube as the lavender ribbon swirls around it and the hero characters cheer and bounce; the tube stays exactly as in the first frame. Keep the exact look of the first frame: same real woman and skin tone, same cartoon characters, product label and cap exactly as in the first frame (cap on, no nozzle); smooth natural motion; no text appears.",
+  "settings": {
+   "model": "wan3_0",
+   "resolution": "480p",
+   "duration": 5,
+   "audio": false
+  }
+ },
+ {
+  "clip": "STORY_c51221b6_S2",
+  "keyframe": "feedback/codex/out/STORY_c51221b6_S2.png",
+  "needs_wan": false,
+  "motion_prompt": "The woman smiles at the tube in the foreground; the white-cast blob villain backs away, worried; gentle camera push-in; the tube stays exactly as in the first frame. Keep the exact look of the first frame: same real woman and skin tone, same cartoon characters, product label and cap exactly as in the first frame (cap on, no nozzle); smooth natural motion; no text appears.",
+  "settings": {
+   "model": "wan3_0",
+   "resolution": "480p",
+   "duration": 5,
+   "audio": false
+  }
+ },
+ {
+  "clip": "STORY_ce849d3f_S2",
+  "keyframe": "feedback/codex/out/STORY_ce849d3f_S2.png",
+  "needs_wan": false,
+  "motion_prompt": "The tube mascot steps in front of the woman's cheek and pushes the greasiness villain away; the little hero characters cheer; the tube stays exactly as in the first frame. Keep the exact look of the first frame: same real woman and skin tone, same cartoon characters, product label and cap exactly as in the first frame (cap on, no nozzle); smooth natural motion; no text appears.",
+  "settings": {
+   "model": "wan3_0",
+   "resolution": "480p",
+   "duration": 5,
+   "audio": false
+  }
+ },
+ {
+  "clip": "STORY_5fd50ab8_S1",
+  "keyframe": "feedback/codex/out/STORY_5fd50ab8_S1.png",
+  "needs_wan": false,
+  "motion_prompt": "The woman looks at her dull skin in the mirror and sighs; the tube mascot on the counter waves to get her attention; the grey cloud drifts; the tube stays exactly as in the first frame. Keep the exact look of the first frame: same real woman and skin tone, same cartoon characters, product label and cap exactly as in the first frame (cap on, no nozzle); smooth natural motion; no text appears.",
+  "settings": {
+   "model": "wan3_0",
+   "resolution": "480p",
+   "duration": 5,
+   "audio": false
+  }
+ },
+ {
+  "clip": "STORY_5fd50ab8_S2",
+  "keyframe": "feedback/codex/out/STORY_5fd50ab8_S2.png",
+  "needs_wan": false,
+  "motion_prompt": "The tube mascot smiles and points down at the dollop of lavender cream on the fingertip; the fingertip lifts slightly; the tube stays exactly as in the first frame. Keep the exact look of the first frame: same real woman and skin tone, same cartoon characters, product label and cap exactly as in the first frame (cap on, no nozzle); smooth natural motion; no text appears.",
+  "settings": {
+   "model": "wan3_0",
+   "resolution": "480p",
+   "duration": 5,
+   "audio": false
+  }
+ },
+ {
+  "clip": "STORY_5fd50ab8_S3",
+  "keyframe": "feedback/codex/out/STORY_5fd50ab8_S3.png",
+  "needs_wan": false,
+  "motion_prompt": "Her fingertips blend the thin lavender layer until it disappears and her cheek glows; the grey cloud villain shrinks away; the tube mascot cheers; the tube stays exactly as in the first frame. Keep the exact look of the first frame: same real woman and skin tone, same cartoon characters, product label and cap exactly as in the first frame (cap on, no nozzle); smooth natural motion; no text appears.",
+  "settings": {
+   "model": "wan3_0",
+   "resolution": "480p",
+   "duration": 5,
+   "audio": false
+  }
+ },
+ {
+  "clip": "STORY_5fd50ab8_S5",
+  "keyframe": "feedback/codex/out/STORY_5fd50ab8_S5.png",
+  "needs_wan": false,
+  "motion_prompt": "The tube mascot on the balcony table does a happy little dance on its shoes; the woman behind smiles; sunny morning; the tube stays exactly as in the first frame. Keep the exact look of the first frame: same real woman and skin tone, same cartoon characters, product label and cap exactly as in the first frame (cap on, no nozzle); smooth natural motion; no text appears.",
+  "settings": {
+   "model": "wan3_0",
+   "resolution": "480p",
+   "duration": 5,
+   "audio": false
+  }
+ },
+ {
+  "clip": "LEFT_7ea55172_S5",
+  "keyframe": "feedback/codex/out/LEFT_7ea55172_S5.png",
+  "needs_wan": false,
+  "motion_prompt": "The tube mascot walks along the ledge holding its shield and the small colour wheel; the woman smiles; gentle city motion; the colour wheel and tube stay exactly as in the first frame. Keep the exact look of the first frame: same real woman and skin tone, same cartoon characters, product label and cap exactly as in the first frame; smooth natural motion; no text appears.",
+  "settings": {
+   "model": "wan3_0",
+   "resolution": "480p",
+   "duration": 5,
+   "audio": false
+  }
+ },
+ {
+  "clip": "LEFT_7558fbf1_S7",
+  "keyframe": "feedback/codex/out/LEFT_7558fbf1_S7.png",
+  "needs_wan": false,
+  "motion_prompt": "She massages the night cream in with gentle strokes until it disappears completely, no white residue; warm night light. Keep the exact look of the first frame: same real woman and skin tone, same cartoon characters, product label and cap exactly as in the first frame; smooth natural motion; no text appears.",
+  "settings": {
+   "model": "wan3_0",
+   "resolution": "480p",
+   "duration": 5,
+   "audio": false
+  }
+ },
+ {
+  "clip": "LEFT_715b1b5c_S7",
+  "keyframe": "feedback/codex/out/LEFT_715b1b5c_S7.png",
+  "needs_wan": false,
+  "motion_prompt": "She massages the cream in with gentle upward strokes until it is fully absorbed, no white residue; warm night light. Keep the exact look of the first frame: same real woman and skin tone, same cartoon characters, product label and cap exactly as in the first frame; smooth natural motion; no text appears.",
+  "settings": {
+   "model": "wan3_0",
+   "resolution": "480p",
+   "duration": 5,
+   "audio": false
+  }
+ },
+ {
+  "clip": "LEFT_23850d94_S1",
+  "keyframe": "feedback/codex/out/LEFT_23850d94_S1.png",
+  "needs_wan": false,
+  "motion_prompt": "She smiles softly at the camera holding the professor jar mascot, which adjusts its glasses; warm night light; the jar stays exactly as in the first frame. Keep the exact look of the first frame: same real woman and skin tone, same cartoon characters, product label and cap exactly as in the first frame; smooth natural motion; no text appears.",
+  "settings": {
+   "model": "wan3_0",
+   "resolution": "480p",
+   "duration": 5,
+   "audio": false
+  }
+ },
+ {
+  "clip": "LEFT_71e0977a_S1",
+  "keyframe": "feedback/codex/out/LEFT_71e0977a_S1.png",
+  "needs_wan": false,
+  "motion_prompt": "The little cartoon dark-spot villains bounce and taunt on her cheek; she holds the jar mascot close; the jar stays exactly as in the first frame. Keep the exact look of the first frame: same real woman and skin tone, same cartoon characters, product label and cap exactly as in the first frame; smooth natural motion; no text appears.",
+  "settings": {
+   "model": "wan3_0",
+   "resolution": "480p",
+   "duration": 5,
+   "audio": false
+  }
+ }
+]

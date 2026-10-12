@@ -1,0 +1,69 @@
+{
+  "video_id": "5fd50ab8",
+  "style": "product_avatar",
+  "duration": 20.04,
+  "cast": [
+    {
+      "id": "sunscreen",
+      "name": "DERMDOC Ultra Violet Sunscreen",
+      "role": "product_mascot",
+      "description": "talking white DERMDOC Ultra Violet sunscreen tube with lavender cap, cartoon eyes, white-gloved arms and lavender shoes; confident, playful, lightly sarcastic cartoon voice, fairly low and relaxed (f0 ~140-155 Hz)",
+      "ref_ranges": [[0.78, 2.68], [4.6, 8.98], [10.52, 12.32]],
+      "fx": "cartoon",
+      "pitch_semitones": 0
+    }
+  ],
+  "lines": [
+    {
+      "id": 1, "speaker": "sunscreen", "start": 0.78, "end": 2.68, "max_end": 3.34,
+      "en": "Morning skin drama again?",
+      "tag": "surprise", "keep_original": false,
+      "bn": "আবার সকাল সকাল স্কিনের ড্রামা?",
+      "ta": "மறுபடியும் மார்னிங் ஸ்கின் ட்ராமாவா?",
+      "te": "మళ్ళీ మార్నింగ్ స్కిన్ డ్రామానా?",
+      "ml": "പിന്നേം രാവിലെ സ്കിൻ ഡ്രാമയാണോ?",
+      "or": "ପୁଣି ସକାଳୁ ସକାଳୁ ସ୍କିନ ଡ୍ରାମା?"
+    },
+    {
+      "id": 2, "speaker": "sunscreen", "start": 3.38, "end": 8.98, "max_end": 9.12,
+      "en": "Relax. Purple tint, SPF 50 PA+++ and 4% niacinamide.",
+      "tag": null, "keep_original": false,
+      "bn": "রিল্যাক্স। পার্পল টিন্ট, এসপিএফ ফিফটি পিএ ট্রিপল প্লাস, আর চার পার্সেন্ট নায়াসিনামাইড।",
+      "ta": "ரிலாக்ஸ். பர்பிள் டின்ட், எஸ்பிஎஃப் ஃபிப்டி பிஏ ட்ரிபிள் ப்ளஸ், அதோட நாலு பர்சென்ட் நியாசினமைட்!",
+      "te": "రిలాక్స్. పర్పుల్ టింట్, ఎస్పీఎఫ్ ఫిఫ్టీ పీఏ ట్రిపుల్ ప్లస్, ఇంకా నాలుగు పర్సెంట్ నియాసినమైడ్!",
+      "ml": "റിലാക്സ്. പർപ്പിൾ ടിന്റ്, എസ്പിഎഫ് ഫിഫ്റ്റി പിഎ ട്രിപ്പിൾ പ്ലസ്, പിന്നെ നാല് പെർസെന്റ് നിയാസിനമൈഡ്!",
+      "or": "ରିଲାକ୍ସ। ପର୍ପଲ ଟିଣ୍ଟ, ଏସପିଏଫ ଫିଫ୍ଟି ପିଏ ଟ୍ରିପଲ ପ୍ଲସ, ଆଉ ଚାରି ପର୍ସେଣ୍ଟ ନିଆସିନାମାଇଡ।"
+    },
+    {
+      "id": 3, "speaker": "sunscreen", "start": 9.16, "end": 12.32, "max_end": 12.8,
+      "en": "Blend me in. No ashy-looking finish.",
+      "tag": "happy", "keep_original": false,
+      "bn": "আমায় ব্লেন্ড করে নাও। কোনো অ্যাশি ফিনিশ নেই!",
+      "ta": "என்ன ப்ளெண்ட் பண்ணு. ஆஷி ஃபினிஷ் கிடையாது!",
+      "te": "నన్ను బ్లెండ్ చెయ్యి. యాషీ ఫినిష్ ఉండదు!",
+      "ml": "എന്നെ അങ്ങ് ബ്ലെൻഡ് ചെയ്യ്. ആഷി ഫിനിഷ് ഒന്നുമില്ല!",
+      "or": "ମୋତେ ବ୍ଲେଣ୍ଡ କର। କୌଣସି ଆଶି ଫିନିଶ ନାହିଁ!"
+    },
+    {
+      "id": 4, "speaker": "sunscreen", "start": 12.84, "end": 15.4, "max_end": 17.86,
+      "en": "Protected. Bright-looking. Ready.",
+      "tag": "happy", "keep_original": false,
+      "bn": "প্রোটেক্টেড। ব্রাইট লুকিং। একদম রেডি!",
+      "ta": "ப்ரொடெக்ஷன் ஆச்சு. ப்ரைட் லுக் வந்தாச்சு. ரெடி!",
+      "te": "ప్రొటెక్షన్ ఉంది. బ్రైట్ లుక్ వచ్చింది. రెడీ!",
+      "ml": "പ്രൊട്ടക്ഷൻ ഓക്കെ. ബ്രൈറ്റ് ലുക്ക്. റെഡി!",
+      "or": "ପ୍ରୋଟେକ୍ସନ ହେଇଗଲା। ବ୍ରାଇଟ ଲୁକ। ରେଡି!"
+    },
+    {
+      "id": 5, "speaker": "sunscreen", "start": 17.9, "end": 19.44, "max_end": 19.64,
+      "en": "Glow, then go.",
+      "tag": "happy", "keep_original": false,
+      "bn": "আগে গ্লো, তারপর গো!",
+      "ta": "முதல்ல க்ளோ, அப்புறம் கோ!",
+      "te": "ముందు గ్లో, తర్వాత గో!",
+      "ml": "ആദ്യം ഗ്ലോ, പിന്നെ ഗോ!",
+      "or": "ଆଗେ ଗ୍ଲୋ, ତା ପରେ ଗୋ!"
+    }
+  ],
+  "notes": "Only one speaker: the sunscreen tube mascot (consistent ~140-155 Hz across all segments, matches prompt 'one consistent voice for the tube'). The small Dullness villain and the woman are silent; no narrator. Whisper returned one long segment 0.78-9.96; split at word timings into lines 1-3 by shot (line 3 merges 'Blend me in.' with 'No ashy-looking finish.' from segment 1). Audio says 'SPF 50 PA plus'; product label and prompt are SPF 50 PA+++, so translations say 'PA triple plus'. Line 4 slot includes ~2.4 s of silence/ambience after 'Ready.' before the tagline. DERMDOC three-note sting expected near the end."
+}

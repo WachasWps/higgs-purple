@@ -1,0 +1,91 @@
+{
+  "video_id": "906fbf3c",
+  "product": "knc",
+  "category": "product_avatar",
+  "shots": [
+    {
+      "n": 1, "start": 0.0, "end": 2.27,
+      "content": "Fair-medium woman in pyjamas at a night mirror, worried, with a cluster of brown spots on her cheek; a smoky dark-spot villain with angry eyes floats beside her.",
+      "issues": ["model_not_dusky"],
+      "action": "replace", "replace_with": "KN03_before_night", "custom": null,
+      "note": "L1 villain 'Night time. My time.' plays over ANANYA at the mirror at night with realistic soft brown spots (2.27 s). The woman is replaced, so S1, S7 and S8 are all replaced (in S5 she is only a defocused edge or reflection)."
+    },
+    {
+      "n": 2, "start": 2.33, "end": 4.0,
+      "content": "Jar mascot (face on the label, 2% KOJIC ACID still visible) on a vanity, pointing at a glowing hex control panel.",
+      "issues": [],
+      "action": "keep", "replace_with": null, "custom": null,
+      "note": "The label name is readable. Matches L2 'Actually, this is my shift...'"
+    },
+    {
+      "n": 3, "start": 4.0, "end": 5.47,
+      "content": "Jar mascot with its lid popped open; baked '2% KOJIC ACID' headline above it.",
+      "issues": [],
+      "action": "keep", "replace_with": null, "custom": null,
+      "note": "Correct label and spelling. Ends L2 'I'm the overnight brightener.'"
+    },
+    {
+      "n": 4, "start": 5.47, "end": 8.27,
+      "content": "Open jar mascot beaming three glowing hex badges: baked '2% KOJIC ACID' (gold) and 'ALPHA ARBUTIN' (pink), plus a faint icy hex covered by our white mono 'NIACINAMIDE' pill.",
+      "issues": ["mixed_text_styles"],
+      "action": "keep", "replace_with": null, "custom": null,
+      "note": "Client at 6.33: 'keep same text style'. The shot itself is fine and matches L3 'My 3Xpert formula brings three brightening actives together.' Fix it in post: redraw our NIACINAMIDE label as a matching glowing icy-blue hex badge in the same white bold sans as the baked hexes, instead of the mono pill."
+    },
+    {
+      "n": 5, "start": 8.27, "end": 9.6,
+      "content": "Mascot hand presses a gold '2% KOJIC ACID' hex button that zaps three cartoon dark-spot blobs; the woman is only a defocused edge or mirror reflection; our pill 'KOJIC ACID / FOR DARK SPOTS'.",
+      "issues": ["kojic_label_duplicated"],
+      "action": "keep", "replace_with": null, "custom": null,
+      "note": "L4 villain 'Three against one?' The baked hex already names 2% KOJIC ACID, so our second 'KOJIC ACID' pill is removed (Kojic shown twice, in a different style)."
+    },
+    {
+      "n": 6, "start": 9.6, "end": 11.27,
+      "content": "Macro of the thick white cream peak; our 'RICH & CREAMY / OVERNIGHT BRIGHTENER'.",
+      "issues": [],
+      "action": "keep", "replace_with": null, "custom": null,
+      "note": "No skin, correct texture. Matches L5."
+    },
+    {
+      "n": 7, "start": 11.27, "end": 13.3,
+      "content": "Fair woman's face close-up dabbing a thick white cream blob on her cheek.",
+      "issues": ["model_not_dusky", "cream_not_blended"],
+      "action": "replace", "replace_with": "KN04_apply_night", "custom": null,
+      "note": "L6 'Apply, massage and let me get to work.' plays over ANANYA at night massaging until fully absorbed, no residue (2.03 s)."
+    },
+    {
+      "n": 8, "start": 13.3, "end": 16.6,
+      "content": "Diagonal split: the woman asleep (left) and awake touching her face (right) under baked '> AFTER 2 WEEKS'; she talks to camera.",
+      "issues": ["model_not_dusky", "two_weeks_text_on_wake_frame", "no_ba_split", "lip_sync_talking"],
+      "action": "replace", "replace_with": "KN06_morning_wake", "custom": null,
+      "segments": [
+        {"start": 13.3, "end": 14.9, "replace_with": "KN06_morning_wake"},
+        {"start": 14.9, "end": 16.6, "replace_with": "GRAPHIC_BA_SPLIT"}
+      ],
+      "note": "Silent absorption beat, then L7 woman 'Now that's a glow worth waking up to.' plays as VO. First ANANYA wakes in morning daylight with spotless glowing skin (morning super), then the proper face B/A split (KN08 | KN07, AFTER 2 WEEKS)."
+    },
+    {
+      "n": 9, "start": 16.6, "end": 20.04,
+      "content": "Packshot: open jar mascot on a marble vanity by the control panel; baked 'DERMDOC 2% KOJIC ACID NIGHT CREAM / SLEEP TO GLOW'; our 3XPERT FORMULA claim.",
+      "issues": [],
+      "action": "keep", "replace_with": null, "custom": null,
+      "note": "The '2% KOJIC ACID' label is readable and 'SLEEP TO GLOW' is baked, so the VO can drop the tagline."
+    }
+  ],
+  "script_changes": [
+    {"line_id": 8, "old_en": "DERMDOC 2% Kojic Acid Night Cream. Sleep to glow.", "new_en": "DERMDOC 2% Kojic Acid Night Cream.", "reason": "The full product name must survive in every dub (the current dubs drop 'Acid'); 'Sleep to glow' is already baked on the end shot."}
+  ],
+  "new_lines": [],
+  "supers": [
+    {"action": "change", "match": "DARK SPOT", "text": "DARK SPOTS", "start": 0.3, "end": 1.75, "why": "The villain is gone in KN03; tag the realistic spots on her cheek."},
+    {"action": "change", "match": "NIACINAMIDE", "text": "NIACINAMIDE", "start": 5.65, "end": 8.27, "why": "Client 'keep same text style': render it as a glowing icy-blue hex badge with white bold sans text matching the baked 2% KOJIC ACID / ALPHA ARBUTIN hexes, covering the faint baked hex. No mono pill."},
+    {"action": "remove", "match": "KOJIC ACID / FOR DARK SPOTS", "text": "", "start": 8.32, "end": 9.5, "why": "The baked gold hex already says 2% KOJIC ACID; avoid naming Kojic twice in two styles."},
+    {"action": "add", "match": null, "text": "BRIGHTER, CLEARER-LOOKING SKIN BY MORNING", "start": 13.3, "end": 14.9, "why": "Client: the morning wake-up text must be this style, not '2 weeks'."},
+    {"action": "add", "match": null, "text": "BEFORE", "start": 14.9, "end": 16.6, "why": "B/A split label under the left half."},
+    {"action": "add", "match": null, "text": "AFTER 2 WEEKS", "start": 14.9, "end": 16.6, "why": "Client: 'AFTER 2 WEEKS' under the after image."},
+    {"action": "change", "match": "3XPERT FORMULA", "text": "3XPERT FORMULA / 2% KOJIC ACID · NIACINAMIDE · ALPHA ARBUTIN", "start": 16.9, "end": 18.15, "why": "Use the three ingredient names consistently ('2% Kojic Acid', not 'Kojic')."}
+  ],
+  "voice_changes": [
+    {"speaker": "dark_spot", "to": "female", "why": "Very low male voice (77-109 Hz); female VO only."}
+  ],
+  "summary": "Only the woman shots are replaced: KN03 opening, KN04 night application, and a KN06 morning wake plus B/A split instead of the 'after 2 weeks' sleep/wake split. The mascot, hex and texture shots are kept; the Niacinamide label is restyled to match the hexes and the duplicate Kojic pill is removed. The end line keeps the full name and the villain goes female."
+}

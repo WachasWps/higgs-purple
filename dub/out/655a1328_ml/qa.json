@@ -1,0 +1,48 @@
+[
+ {
+  "id": 1,
+  "speaker": "dullness",
+  "cer": 0.62,
+  "heard": "വർ എവലുടിസകിന്ടിലാക.",
+  "redub": true
+ },
+ {
+  "id": 2,
+  "speaker": "sunscreen",
+  "cer": 0.44,
+  "heard": "എന ഉളപോള അദ് നടക്കില്."
+ },
+ {
+  "id": 3,
+  "speaker": "sunscreen",
+  "cer": 0.44,
+  "heard": "വീല കന് പര്പൽ മന്യുടു നേരേ എതിരാ ഡല്നൾസ കാനൽ ചെയുവ്.",
+  "redub": true
+ },
+ {
+  "id": 4,
+  "speaker": "sunscreen",
+  "cer": 0.48,
+  "heard": "എന്റ പര്പോലതിന്റ ഇന്റിന്സ കിന്റയന്റകിയദാ."
+ },
+ {
+  "id": 5,
+  "speaker": "sunscreen",
+  "cer": 0.15,
+  "heard": "iphob, instant, even looking glow.",
+  "redub": true
+ },
+ {
+  "id": 6,
+  "speaker": "sunscreen",
+  "cer": 0.15,
+  "heard": "SPF50 PE A triple plus sum dictionary"
+ },
+ {
+  "id": 7,
+  "speaker": "sunscreen",
+  "cer": 0.44,
+  "heard": "അതേ സകിന് ട�ൾന് കോടെ ഇന്സിന് ഗൽാ.",
+  "redub": true
+ }
+]

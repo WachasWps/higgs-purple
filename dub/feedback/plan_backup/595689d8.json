@@ -1,0 +1,199 @@
+{
+  "video_id": "595689d8",
+  "style": "product_avatar",
+  "duration": 20.039,
+  "cast": [
+    {
+      "id": "dullness",
+      "name": "Dullness",
+      "role": "villain",
+      "description": "smoky ghost villain inside the mirror who dims the woman's glow, deep growly menacing voice",
+      "ref_ranges": [
+        [
+          0.0,
+          2.44
+        ]
+      ],
+      "fx": "villain",
+      "pitch_semitones": 0
+    },
+    {
+      "id": "jar",
+      "name": "DERMDOC Kojic Night Cream Jar",
+      "role": "product_mascot",
+      "description": "talking DERMDOC 2% Kojic Acid Night Cream jar with cartoon eyes and gloved hands, confident bright bouncy cartoon voice",
+      "ref_ranges": [
+        [
+          2.6,
+          4.0
+        ],
+        [
+          4.36,
+          5.94
+        ],
+        [
+          6.18,
+          8.42
+        ]
+      ],
+      "fx": "cartoon",
+      "pitch_semitones": 0
+    },
+    {
+      "id": "woman",
+      "name": "Woman",
+      "role": "creator",
+      "description": "real adult Indian woman, after-2-weeks reveal at the mirror, warm happy natural voice",
+      "ref_ranges": [
+        [
+          14.24,
+          15.6
+        ],
+        [
+          15.88,
+          17.34
+        ]
+      ],
+      "fx": "none",
+      "pitch_semitones": 0
+    }
+  ],
+  "lines": [
+    {
+      "id": 1,
+      "speaker": "dullness",
+      "start": 0.0,
+      "end": 2.44,
+      "max_end": 2.56,
+      "en": "I control tonight's complexion.",
+      "tag": "angry",
+      "keep_original": false,
+      "bn": "আজ রাতে এই স্কিন আমার কন্ট্রোলে!",
+      "ta": "இன்னிக்கு நைட் இந்த ஸ்கின் என் கண்ட்ரோல்ல!",
+      "te": "ఈ రాత్రి ఈ స్కిన్ నా కంట్రోల్‌లో!",
+      "ml": "ഇന്ന് രാത്രി ഈ സ്കിൻ എന്റെ കൺട്രോളിൽ!",
+      "or": "ଆଜି ରାତିରେ ଏ ସ୍କିନ ମୋ କଣ୍ଟ୍ରୋଲରେ!"
+    },
+    {
+      "id": 2,
+      "speaker": "jar",
+      "start": 2.6,
+      "end": 4.0,
+      "max_end": 4.32,
+      "en": "Step away from the controls.",
+      "tag": "angry",
+      "keep_original": false,
+      "bn": "কন্ট্রোল থেকে সরে দাঁড়া!",
+      "ta": "கண்ட்ரோல விட்டு தள்ளி நில்லு!",
+      "te": "కంట్రోల్స్ వదిలి పక్కకు జరుగు!",
+      "ml": "കൺട്രോളിൽ നിന്ന് മാറി നിൽക്ക്!",
+      "or": "କଣ୍ଟ୍ରୋଲରୁ ଦୂରେଇ ଯା!"
+    },
+    {
+      "id": 3,
+      "speaker": "jar",
+      "start": 4.36,
+      "end": 5.94,
+      "max_end": 6.14,
+      "en": "Activating my 3Xpert formula.",
+      "tag": "happy",
+      "keep_original": false,
+      "bn": "আমার থ্রি এক্সপার্ট ফর্মুলা, অন!",
+      "ta": "என் த்ரீ எக்ஸ்பர்ட் ஃபார்முலா ஆன்!",
+      "te": "నా త్రీ ఎక్స్‌పర్ట్ ఫార్ములా ఆన్!",
+      "ml": "എന്റെ ത്രീ എക്സ്പേർട്ട് ഫോർമുല ഓൺ!",
+      "or": "ମୋ ଥ୍ରୀ ଏକ୍ସପର୍ଟ ଫର୍ମୁଲା ଅନ!"
+    },
+    {
+      "id": 4,
+      "speaker": "jar",
+      "start": 6.18,
+      "end": 8.42,
+      "max_end": 8.64,
+      "en": "Kojic acid targets the appearance of dark spots.",
+      "tag": null,
+      "keep_original": false,
+      "bn": "কোজিক অ্যাসিড ডার্ক স্পটের লুক টার্গেট করে।",
+      "ta": "கோஜிக் ஆசிட் டார்க் ஸ்பாட்ஸ டார்கெட் பண்ணும்.",
+      "te": "కోజిక్ యాసిడ్ టార్గెట్, డార్క్ స్పాట్స్ మీదే!",
+      "ml": "കോജിക് ആസിഡ്, ഡാർക്ക് സ്പോട്ട്സിന് എതിരെ!",
+      "or": "କୋଜିକ ଏସିଡ ଡାର୍କ ସ୍ପଟ୍ସକୁ ଟାର୍ଗେଟ କରେ।"
+    },
+    {
+      "id": 5,
+      "speaker": "jar",
+      "start": 8.68,
+      "end": 9.78,
+      "max_end": 9.92,
+      "en": "Niacinamide, for more even-looking skin.",
+      "tag": null,
+      "keep_original": false,
+      "bn": "নায়াসিনামাইড, ইভেন!",
+      "ta": "நியாசினமைட், ஈவன் டோன்!",
+      "te": "నియాసినమైడ్, ఈవెన్ టోన్!",
+      "ml": "നിയാസിനമൈഡ്, ഈവൻ ടോൺ!",
+      "or": "ନିଆସିନାମାଇଡ, ଇଭେନ ଟୋନ!"
+    },
+    {
+      "id": 6,
+      "speaker": "jar",
+      "start": 9.96,
+      "end": 11.96,
+      "max_end": 12.22,
+      "en": "And alpha arbutin joins the brightening action.",
+      "tag": "happy",
+      "keep_original": false,
+      "bn": "আর আলফা আরবুটিনও ব্রাইটেনিং টিমে!",
+      "ta": "ஆல்ஃபா அர்புடினும் ப்ரைட்டனிங் டீம்ல!",
+      "te": "ఆల్ఫా అర్బుటిన్ కూడా బ్రైటెనింగ్ టీమ్‌లో!",
+      "ml": "ആൽഫ ആർബ്യൂട്ടിനും ബ്രൈറ്റനിംഗ് ടീമിൽ!",
+      "or": "ଆଲଫା ଆରବୁଟିନ ବି ବ୍ରାଇଟେନିଂ ଟିମରେ!"
+    },
+    {
+      "id": 7,
+      "speaker": "jar",
+      "start": 12.26,
+      "end": 13.98,
+      "max_end": 14.2,
+      "en": "Now let the night shift begin.",
+      "tag": "happy",
+      "keep_original": false,
+      "bn": "এবার নাইট শিফট শুরু!",
+      "ta": "இப்போ நைட் ஷிஃப்ட் ஸ்டார்ட்!",
+      "te": "ఇప్పుడు నైట్ షిఫ్ట్ మొదలు!",
+      "ml": "ഇനി നൈറ്റ് ഷിഫ്റ്റ് തുടങ്ങട്ടെ!",
+      "or": "ଏବେ ନାଇଟ ସିଫ୍ଟ ଆରମ୍ଭ!"
+    },
+    {
+      "id": 8,
+      "speaker": "woman",
+      "start": 14.24,
+      "end": 17.34,
+      "max_end": 17.76,
+      "en": "Dark spots look reduced. My glow looks switched on.",
+      "tag": "happy",
+      "keep_original": false,
+      "bn": "ডার্ক স্পটস কম লাগছে। আমার গ্লো যেন সুইচ অন!",
+      "ta": "டார்க் ஸ்பாட்ஸ் கம்மியா தெரியுது. என் க்ளோ ஸ்விட்ச் ஆன்!",
+      "te": "డార్క్ స్పాట్స్ తగ్గినట్టు ఉన్నాయి. నా గ్లో స్విచ్ ఆన్!",
+      "ml": "ഡാർക്ക് സ്പോട്ട്സ് കുറഞ്ഞപോലെ. എന്റെ ഗ്ലോ സ്വിച്ച് ഓൺ!",
+      "or": "ଡାର୍କ ସ୍ପଟ୍ସ କମ ଦିଶୁଛି। ମୋ ଗ୍ଲୋ ସୁଇଚ ଅନ!"
+    },
+    {
+      "id": 9,
+      "speaker": "jar",
+      "start": 17.8,
+      "end": 19.8,
+      "max_end": 19.64,
+      "en": "Three experts. One overnight brightener.",
+      "tag": "happy",
+      "keep_original": false,
+      "bn": "তিন এক্সপার্ট, নাইট ব্রাইটনার!",
+      "ta": "மூணு எக்ஸ்பர்ட், நைட் ப்ரைட்டனர்!",
+      "te": "త్రీ ఎక్స్‌పర్ట్, ఓవర్‌నైట్ బ్రైటెనర్!",
+      "ml": "ത്രീ എക്സ്പേർട്ട്, നൈറ്റ് ബ്രൈറ്റനർ!",
+      "or": "ତିନି ଏକ୍ସପର୍ଟ, ନାଇଟ ବ୍ରାଇଟେନର!"
+    }
+  ],
+  "notes": "Video runs 20.04 s (prompt says 15 s), timings stretched. Dullness (f0 ~93 Hz) only speaks line 1; its prompt line 'My controls!' is not in the audio and was skipped. Line 5: Whisper heard '9 more even-looking skin' (8.68-9.78), i.e. the Niacinamide line is clipped/rushed in the source; dubbed as 'Niacinamide, even tone' to fit the 1.24 s slot. Jar and woman have similar pitch (~180-250 Hz); woman speaks only 14.24-17.34 (after-2-weeks reveal, on camera), jar is voice-over elsewhere. Line 9 ends 19.80, slightly past max_end (within tolerance)."
+}

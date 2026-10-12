@@ -1,0 +1,390 @@
+{
+ "language": "en",
+ "segments": [
+  {
+   "seg": 0,
+   "start": 1.34,
+   "end": 4.88,
+   "text": "Okay, can we talk about how annoying some sunscreens are?",
+   "f0_median_hz": 215,
+   "words": [
+    [
+     "Okay,",
+     1.34,
+     1.9
+    ],
+    [
+     "can",
+     2.0,
+     2.1
+    ],
+    [
+     "we",
+     2.1,
+     2.22
+    ],
+    [
+     "talk",
+     2.22,
+     2.44
+    ],
+    [
+     "about",
+     2.44,
+     2.72
+    ],
+    [
+     "how",
+     2.72,
+     3.14
+    ],
+    [
+     "annoying",
+     3.14,
+     3.7
+    ],
+    [
+     "some",
+     3.7,
+     4.04
+    ],
+    [
+     "sunscreens",
+     4.04,
+     4.58
+    ],
+    [
+     "are?",
+     4.58,
+     4.88
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 1,
+   "start": 5.1,
+   "end": 8.4,
+   "text": "White cast, sticky finish, especially in this heat.",
+   "f0_median_hz": 231,
+   "words": [
+    [
+     "White",
+     5.1,
+     5.64
+    ],
+    [
+     "cast,",
+     5.64,
+     6.06
+    ],
+    [
+     "sticky",
+     6.26,
+     6.68
+    ],
+    [
+     "finish,",
+     6.68,
+     7.08
+    ],
+    [
+     "especially",
+     7.38,
+     7.74
+    ],
+    [
+     "in",
+     7.74,
+     7.94
+    ],
+    [
+     "this",
+     7.94,
+     8.1
+    ],
+    [
+     "heat.",
+     8.1,
+     8.4
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 2,
+   "start": 8.6,
+   "end": 10.86,
+   "text": "So I've been trying this Dermdok sunscreen.",
+   "f0_median_hz": 220,
+   "words": [
+    [
+     "So",
+     8.6,
+     9.02
+    ],
+    [
+     "I've",
+     9.02,
+     9.26
+    ],
+    [
+     "been",
+     9.26,
+     9.38
+    ],
+    [
+     "trying",
+     9.38,
+     9.64
+    ],
+    [
+     "this",
+     9.64,
+     9.9
+    ],
+    [
+     "Dermdok",
+     9.9,
+     10.42
+    ],
+    [
+     "sunscreen.",
+     10.42,
+     10.86
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 3,
+   "start": 11.24,
+   "end": 12.88,
+   "text": "Look at this, it's literally purple.",
+   "f0_median_hz": 272,
+   "words": [
+    [
+     "Look",
+     11.24,
+     11.5
+    ],
+    [
+     "at",
+     11.5,
+     11.6
+    ],
+    [
+     "this,",
+     11.6,
+     11.78
+    ],
+    [
+     "it's",
+     11.9,
+     12.06
+    ],
+    [
+     "literally",
+     12.06,
+     12.42
+    ],
+    [
+     "purple.",
+     12.42,
+     12.88
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 4,
+   "start": 18.02,
+   "end": 20.06,
+   "text": "And I love how lightweight it feels.",
+   "f0_median_hz": 224,
+   "words": [
+    [
+     "And",
+     18.02,
+     18.58
+    ],
+    [
+     "I",
+     18.58,
+     18.68
+    ],
+    [
+     "love",
+     18.68,
+     18.94
+    ],
+    [
+     "how",
+     18.94,
+     19.12
+    ],
+    [
+     "lightweight",
+     19.12,
+     19.48
+    ],
+    [
+     "it",
+     19.48,
+     19.76
+    ],
+    [
+     "feels.",
+     19.76,
+     20.06
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 5,
+   "start": 20.32,
+   "end": 24.28,
+   "text": "Plus it has SPF 50, PA++ and 4% niacinamide.",
+   "f0_median_hz": 234,
+   "words": [
+    [
+     "Plus",
+     20.32,
+     20.52
+    ],
+    [
+     "it",
+     20.52,
+     20.74
+    ],
+    [
+     "has",
+     20.74,
+     20.96
+    ],
+    [
+     "SPF",
+     20.96,
+     21.48
+    ],
+    [
+     "50,",
+     21.48,
+     21.8
+    ],
+    [
+     "PA++",
+     21.92,
+     22.46
+    ],
+    [
+     "and",
+     22.46,
+     22.94
+    ],
+    [
+     "4",
+     22.94,
+     23.2
+    ],
+    [
+     "%",
+     23.2,
+     23.52
+    ],
+    [
+     "niacinamide.",
+     23.52,
+     24.28
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 6,
+   "start": 24.76,
+   "end": 26.02,
+   "text": "Definitely check this one out.",
+   "f0_median_hz": 226,
+   "words": [
+    [
+     "Definitely",
+     24.76,
+     25.12
+    ],
+    [
+     "check",
+     25.12,
+     25.4
+    ],
+    [
+     "this",
+     25.4,
+     25.6
+    ],
+    [
+     "one",
+     25.6,
+     25.76
+    ],
+    [
+     "out.",
+     25.76,
+     26.02
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 7,
+   "start": 26.22,
+   "end": 27.24,
+   "text": "It's available on purple.",
+   "f0_median_hz": 230,
+   "words": [
+    [
+     "It's",
+     26.22,
+     26.38
+    ],
+    [
+     "available",
+     26.38,
+     26.68
+    ],
+    [
+     "on",
+     26.68,
+     26.92
+    ],
+    [
+     "purple.",
+     26.92,
+     27.24
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 8,
+   "start": 30.46,
+   "end": 31.82,
+   "text": "Thank you.",
+   "f0_median_hz": 249,
+   "words": [
+    [
+     "Thank",
+     30.46,
+     31.14
+    ],
+    [
+     "you.",
+     31.14,
+     31.82
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  }
+ ]
+}

@@ -1,0 +1,56 @@
+[
+ {
+  "id": 1,
+  "speaker": "greasiness",
+  "cer": 0.19,
+  "heard": "இன்னாச் ஏன் இன்னும் பிசபிசபா.",
+  "redub": true
+ },
+ {
+  "id": 2,
+  "speaker": "tube",
+  "cer": 0.25,
+  "heard": "என் பினிஸ்ல உனக்கு எடாமில்"
+ },
+ {
+  "id": 3,
+  "speaker": "purple_tint",
+  "cer": 0.19,
+  "heard": "காலர் வீல் சோல்லுது மன்றில் டல்னஸ் நான் கேன்சல் பண்டியா.",
+  "redub": true
+ },
+ {
+  "id": 4,
+  "speaker": "greasiness",
+  "cer": 0.2,
+  "heard": "ஏரிஸ்டிக் கிலையார் ஏங்குபோசு.",
+  "redub": true
+ },
+ {
+  "id": 5,
+  "speaker": "tube",
+  "cer": 0.5,
+  "heard": "நிவாயிர்து."
+ },
+ {
+  "id": 6,
+  "speaker": "spf_shield",
+  "cer": 0.15,
+  "heard": "Comfort A Peel Finish, serious production.",
+  "redub": true
+ },
+ {
+  "id": 7,
+  "speaker": "niacinamide",
+  "cer": 0.15,
+  "heard": "நான் instant glow கொண்டு வருது ஒரே.",
+  "redub": true
+ },
+ {
+  "id": 8,
+  "speaker": "tube",
+  "cer": 0.14,
+  "heard": "பிராட்ட்டட் கம்பி இந்தியன் சகின்னுக்கு",
+  "redub": true
+ }
+]

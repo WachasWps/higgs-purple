@@ -1,0 +1,61 @@
+{
+ "video_id": "655a1328",
+ "product": "ps",
+ "category": "product_avatar",
+ "approach": "v2_original_story",
+ "shots": [
+  {
+   "start": 0,
+   "end": 4.0,
+   "action": "keep",
+   "n": 1
+  },
+  {
+   "start": 4.0,
+   "end": 7.4,
+   "action": "replace",
+   "replace_with": "GRAPHIC_COLOUR_WHEEL",
+   "n": 2
+  },
+  {
+   "start": 7.4,
+   "end": 8.9,
+   "action": "replace",
+   "replace_with": "USR_PS_TUBE_SWIRL",
+   "n": 3,
+   "clip_offset": 3.0
+  },
+  {
+   "start": 8.9,
+   "end": 10.9,
+   "action": "keep",
+   "n": 4
+  },
+  {
+   "start": 10.9,
+   "end": 14.0,
+   "action": "replace",
+   "replace_with": "GRAPHIC_BA_SPLIT",
+   "n": 5,
+   "ba_pair": [
+    "BA2_655a1328_BEFORE",
+    "BA2_655a1328_AFTER"
+   ],
+   "ba_face_y": 0.08
+  },
+  {
+   "start": 14.0,
+   "end": 16.6,
+   "action": "replace",
+   "replace_with": "USR_PS_TUBE_SWIRL",
+   "n": 6
+  },
+  {
+   "start": 16.6,
+   "end": 20.0,
+   "action": "replace",
+   "replace_with": "STORY_655a1328_S5",
+   "n": 7
+  }
+ ]
+}

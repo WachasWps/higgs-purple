@@ -1,0 +1,240 @@
+{
+ "video": "eab38211",
+ "style": "product_ad",
+ "cast": [
+  {
+   "id": "narrator",
+   "name": "Narrator",
+   "description": "calm, premium female ad narrator"
+  }
+ ],
+ "lines": [
+  {
+   "id": 1,
+   "start": 0.2,
+   "end": 2.9,
+   "speaker": "narrator",
+   "en": "While you sleep, your night routine keeps working."
+  },
+  {
+   "id": 2,
+   "start": 3.2,
+   "end": 5.7,
+   "speaker": "narrator",
+   "en": "DERMDOC 2% Kojic Acid Night Cream."
+  },
+  {
+   "id": 3,
+   "start": 6.0,
+   "end": 9.9,
+   "speaker": "narrator",
+   "en": "Its Glow Fusion Formula: Kojic Acid, Niacinamide and Alpha Arbutin."
+  },
+  {
+   "id": 4,
+   "start": 10.2,
+   "end": 12.8,
+   "speaker": "narrator",
+   "en": "It helps reduce the look of dark spots."
+  },
+  {
+   "id": 5,
+   "start": 13.1,
+   "end": 16.2,
+   "speaker": "narrator",
+   "en": "Apply. Sleep. Wake up glowing."
+  }
+ ],
+ "shots": [
+  {
+   "n": 1,
+   "start": 0,
+   "end": 1.5,
+   "what": "USR_KNC_SCIENCE_B",
+   "frames": [
+    "s01_0.jpg",
+    "s01_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 1,
+     "start": 0.2,
+     "end": 2.9,
+     "speaker": "narrator",
+     "en": "While you sleep, your night routine keeps working."
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "start": 1.5,
+   "end": 3.0,
+   "what": "KN05_sleep",
+   "frames": [
+    "s02_0.jpg",
+    "s02_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 1,
+     "start": 0.2,
+     "end": 2.9,
+     "speaker": "narrator",
+     "en": "While you sleep, your night routine keeps working."
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "start": 3.0,
+   "end": 4.4,
+   "what": "USR_KNC_HERO",
+   "frames": [
+    "s03_0.jpg",
+    "s03_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 2,
+     "start": 3.2,
+     "end": 5.7,
+     "speaker": "narrator",
+     "en": "DERMDOC 2% Kojic Acid Night Cream."
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "start": 4.4,
+   "end": 5.9,
+   "what": "KN01_hero_night",
+   "frames": [
+    "s04_0.jpg",
+    "s04_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 2,
+     "start": 3.2,
+     "end": 5.7,
+     "speaker": "narrator",
+     "en": "DERMDOC 2% Kojic Acid Night Cream."
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "start": 5.9,
+   "end": 10.0,
+   "what": "KNA2_avatar_ingredients",
+   "frames": [
+    "s05_0.jpg",
+    "s05_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 3,
+     "start": 6.0,
+     "end": 9.9,
+     "speaker": "narrator",
+     "en": "Its Glow Fusion Formula: Kojic Acid, Niacinamide and Alpha Arbutin."
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "start": 10.0,
+   "end": 11.3,
+   "what": "USR_KNC_SCIENCE_A",
+   "frames": [
+    "s06_0.jpg",
+    "s06_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 4,
+     "start": 10.2,
+     "end": 12.8,
+     "speaker": "narrator",
+     "en": "It helps reduce the look of dark spots."
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "start": 11.3,
+   "end": 12.9,
+   "what": "KN04_apply_night",
+   "frames": [
+    "s07_0.jpg",
+    "s07_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 4,
+     "start": 10.2,
+     "end": 12.8,
+     "speaker": "narrator",
+     "en": "It helps reduce the look of dark spots."
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "start": 12.9,
+   "end": 14.2,
+   "what": "KN05_sleep",
+   "frames": [
+    "s08_0.jpg",
+    "s08_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 5,
+     "start": 13.1,
+     "end": 16.2,
+     "speaker": "narrator",
+     "en": "Apply. Sleep. Wake up glowing."
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "start": 14.2,
+   "end": 15.8,
+   "what": "KN06_morning_wake",
+   "frames": [
+    "s09_0.jpg",
+    "s09_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 5,
+     "start": 13.1,
+     "end": 16.2,
+     "speaker": "narrator",
+     "en": "Apply. Sleep. Wake up glowing."
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "start": 15.8,
+   "end": 18.0,
+   "what": "GRAPHIC_BA_SPLIT",
+   "frames": [
+    "s10_0.jpg",
+    "s10_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 5,
+     "start": 13.1,
+     "end": 16.2,
+     "speaker": "narrator",
+     "en": "Apply. Sleep. Wake up glowing."
+    }
+   ]
+  }
+ ]
+}

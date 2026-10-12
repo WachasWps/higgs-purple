@@ -1,0 +1,58 @@
+[
+ {
+  "id": 1,
+  "speaker": "creator",
+  "cer": 0.0,
+  "heard": "ডারক স্পটরে মুহা অনাই ভেনা লাগু থিলা।",
+  "redub": true
+ },
+ {
+  "id": 2,
+  "speaker": "creator",
+  "cer": 0.15,
+  "heard": "দারমডা কো টুপরেট কোজিকা এসিড নইট ক্রিম লগায়।",
+  "redub": true
+ },
+ {
+  "id": 3,
+  "speaker": "creator",
+  "cer": 0.17,
+  "heard": "এতিরে কোজিক নিযাসিনামাইড আও আল্ফা রবটিন।",
+  "redub": true
+ },
+ {
+  "id": 4,
+  "speaker": "creator",
+  "cer": 0.6,
+  "heard": "কিতিকর ইজো তেকসা",
+  "redub": true
+ },
+ {
+  "id": 5,
+  "speaker": "creator",
+  "cer": 0.31,
+  "heard": "হালপনেই পুরা মেশি঵াজারে মসাজকরে।",
+  "redub": true
+ },
+ {
+  "id": 6,
+  "speaker": "creator",
+  "cer": 0.06,
+  "heard": "গ্লো ফ্যুজন ফার্মুলা সোইলে কামা করে।",
+  "redub": true
+ },
+ {
+  "id": 7,
+  "speaker": "creator",
+  "cer": 0.08,
+  "heard": "দুই সপতাহরে ডার্ক স্পটকমল আগুছে স্কিন অই ভিন।",
+  "redub": true
+ },
+ {
+  "id": 8,
+  "speaker": "creator",
+  "cer": 0.2,
+  "heard": "এটমস ল্টগ্লো",
+  "redub": true
+ }
+]

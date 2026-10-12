@@ -1,0 +1,49 @@
+[
+ {
+  "id": 1,
+  "speaker": "white_cast",
+  "cer": 0.05,
+  "heard": "এই সনস্করিন কু সমস্তে দেখিবে পকা !",
+  "redub": true
+ },
+ {
+  "id": 2,
+  "speaker": "sunscreen",
+  "cer": 0.08,
+  "heard": "ভলসেড ভুলসানস্করিনা"
+ },
+ {
+  "id": 3,
+  "speaker": "sunscreen",
+  "cer": 0.15,
+  "heard": "পরপল হলদিয়ের ঠিকা বিপারিত তেনু ডলনেস কান সলকরে।",
+  "redub": true
+ },
+ {
+  "id": 4,
+  "speaker": "sunscreen",
+  "cer": 0.29,
+  "heard": "একটা দমমিশিজা ইন্ডিযান সকিন পাইতিযারি।",
+  "redub": true
+ },
+ {
+  "id": 5,
+  "speaker": "sunscreen",
+  "cer": 0.38,
+  "heard": "আও ফোপরসান নিাসনামাইড ইনুসটান্গো।",
+  "redub": true
+ },
+ {
+  "id": 6,
+  "speaker": "sunscreen",
+  "cer": 0.27,
+  "heard": "আও এসা পিয়ে ফিটি পিয়ে টরিপল পাসো প্রটিটকরে।"
+ },
+ {
+  "id": 7,
+  "speaker": "sunscreen",
+  "cer": 0.19,
+  "heard": "হাইট কাস্টন আহি খালি প্রটিক্সনো আউ ইন্সটান্ট গ্লো।",
+  "redub": true
+ }
+]

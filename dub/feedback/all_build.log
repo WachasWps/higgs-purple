@@ -1,0 +1,33 @@
+00b304b4: source_fixed.mp4 17.07s (source 17.02s), 3 shots replaced
+291827ba: source_fixed.mp4 17.07s (source 17.02s), 3 shots replaced
+c51221b6: source_fixed.mp4 17.07s (source 17.02s), 3 shots replaced
+ce849d3f: source_fixed.mp4 17.00s (source 17.02s), 3 shots replaced
+e7e42eaf: source_fixed.mp4 17.07s (source 17.02s), 1 shots replaced
+5fd50ab8: source_fixed.mp4 20.07s (source 20.04s), 6 shots replaced
+655a1328: source_fixed.mp4 20.07s (source 20.04s), 5 shots replaced
+74495eba: source_fixed.mp4 20.00s (source 20.04s), 1 shots replaced
+7ea55172: source_fixed.mp4 20.00s (source 20.04s), 2 shots replaced
+23850d94: source_fixed.mp4 17.00s (source 17.02s), 1 shots replaced
+390113f1: source_fixed.mp4 17.00s (source 17.02s), 1 shots replaced
+71e0977a: source_fixed.mp4 17.03s (source 17.02s), 1 shots replaced
+bd3b8af7: source_fixed.mp4 15.00s (source 15.02s), 2 shots replaced
+f7ce58d4: source_fixed.mp4 17.00s (source 17.02s), 2 shots replaced
+595689d8: source_fixed.mp4 20.00s (source 20.04s), 2 shots replaced
+715b1b5c: source_fixed.mp4 20.00s (source 20.04s), 3 shots replaced
+7558fbf1: source_fixed.mp4 20.00s (source 20.04s), 4 shots replaced
+89697c77: source_fixed.mp4 20.10s (source 20.04s), 4 shots replaced
+906fbf3c: source_fixed.mp4 20.00s (source 20.04s), 3 shots replaced
+00:25:20 done: 19 ok, 0 failed; avg 6.8s/render
+00:26:40 STORY BUILD DONE: 00b304b4 291827ba c51221b6 ce849d3f e7e42eaf 5fd50ab8 655a1328 74495eba 7ea55172 23850d94 390113f1 71e0977a bd3b8af7 f7ce58d4 595689d8 715b1b5c 7558fbf1 89697c77 906fbf3c
+4010f985: source_fixed.mp4 17.80s (source 17.80s), 11 shots replaced
+c01adcce: source_fixed.mp4 17.80s (source 17.80s), 10 shots replaced
+fe7174d4: source_fixed.mp4 17.60s (source 17.60s), 9 shots replaced
+fb3fa838: source_fixed.mp4 17.80s (source 17.80s), 10 shots replaced
+ce52c347: source_fixed.mp4 17.80s (source 17.80s), 10 shots replaced
+a9be56d9: source_fixed.mp4 18.00s (source 18.00s), 10 shots replaced
+426b77bb: source_fixed.mp4 18.00s (source 18.00s), 9 shots replaced
+eab38211: source_fixed.mp4 18.00s (source 18.00s), 10 shots replaced
+e9528636: source_fixed.mp4 17.80s (source 17.80s), 9 shots replaced
+b4c787e1: source_fixed.mp4 17.80s (source 17.80s), 9 shots replaced
+00:32:20 done: 10 ok, 0 failed; avg 5.8s/render
+00:32:24 ADS V3 DONE

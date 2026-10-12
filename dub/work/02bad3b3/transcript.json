@@ -1,0 +1,520 @@
+{
+ "language": "en",
+ "segments": [
+  {
+   "seg": 0,
+   "start": 0.0,
+   "end": 2.54,
+   "text": "Lately, my dark spots were making my whole complexion look uneven.",
+   "f0_median_hz": 237,
+   "words": [
+    [
+     "Lately,",
+     0.0,
+     0.34
+    ],
+    [
+     "my",
+     0.48,
+     0.5
+    ],
+    [
+     "dark",
+     0.5,
+     0.7
+    ],
+    [
+     "spots",
+     0.7,
+     0.94
+    ],
+    [
+     "were",
+     0.94,
+     1.08
+    ],
+    [
+     "making",
+     1.08,
+     1.28
+    ],
+    [
+     "my",
+     1.28,
+     1.44
+    ],
+    [
+     "whole",
+     1.44,
+     1.64
+    ],
+    [
+     "complexion",
+     1.64,
+     2.08
+    ],
+    [
+     "look",
+     2.08,
+     2.22
+    ],
+    [
+     "uneven.",
+     2.22,
+     2.54
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 1,
+   "start": 2.72,
+   "end": 5.78,
+   "text": "So I added Dermdok 2% Kojic Acid Night Cream to my bedtime routine.",
+   "f0_median_hz": 229,
+   "words": [
+    [
+     "So",
+     2.72,
+     2.9
+    ],
+    [
+     "I",
+     2.9,
+     3.02
+    ],
+    [
+     "added",
+     3.02,
+     3.24
+    ],
+    [
+     "Dermdok",
+     3.24,
+     3.64
+    ],
+    [
+     "2",
+     3.64,
+     3.8
+    ],
+    [
+     "%",
+     3.8,
+     4.06
+    ],
+    [
+     "Kojic",
+     4.06,
+     4.36
+    ],
+    [
+     "Acid",
+     4.36,
+     4.6
+    ],
+    [
+     "Night",
+     4.6,
+     4.74
+    ],
+    [
+     "Cream",
+     4.74,
+     4.92
+    ],
+    [
+     "to",
+     4.92,
+     5.08
+    ],
+    [
+     "my",
+     5.08,
+     5.18
+    ],
+    [
+     "bedtime",
+     5.18,
+     5.46
+    ],
+    [
+     "routine.",
+     5.46,
+     5.78
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 2,
+   "start": 5.96,
+   "end": 8.66,
+   "text": "It combines 2% Kojic Acid, Niacinamide and Alpha Arbutin.",
+   "f0_median_hz": 229,
+   "words": [
+    [
+     "It",
+     5.96,
+     6.04
+    ],
+    [
+     "combines",
+     6.04,
+     6.34
+    ],
+    [
+     "2",
+     6.34,
+     6.52
+    ],
+    [
+     "%",
+     6.52,
+     6.7
+    ],
+    [
+     "Kojic",
+     6.7,
+     7.1
+    ],
+    [
+     "Acid,",
+     7.1,
+     7.38
+    ],
+    [
+     "Niacinamide",
+     7.44,
+     7.92
+    ],
+    [
+     "and",
+     7.92,
+     8.02
+    ],
+    [
+     "Alpha",
+     8.02,
+     8.24
+    ],
+    [
+     "Arbutin.",
+     8.24,
+     8.66
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 3,
+   "start": 8.74,
+   "end": 10.04,
+   "text": "Look at that thick, rich texture.",
+   "f0_median_hz": 263,
+   "words": [
+    [
+     "Look",
+     8.74,
+     8.9
+    ],
+    [
+     "at",
+     8.9,
+     9.0
+    ],
+    [
+     "that",
+     9.0,
+     9.14
+    ],
+    [
+     "thick,",
+     9.14,
+     9.44
+    ],
+    [
+     "rich",
+     9.54,
+     9.68
+    ],
+    [
+     "texture.",
+     9.68,
+     10.04
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 4,
+   "start": 10.24,
+   "end": 13.4,
+   "text": "I use a small amount at night and massage it in until it disappears completely.",
+   "f0_median_hz": 218,
+   "words": [
+    [
+     "I",
+     10.24,
+     10.4
+    ],
+    [
+     "use",
+     10.4,
+     10.56
+    ],
+    [
+     "a",
+     10.56,
+     10.66
+    ],
+    [
+     "small",
+     10.66,
+     10.86
+    ],
+    [
+     "amount",
+     10.86,
+     11.14
+    ],
+    [
+     "at",
+     11.14,
+     11.26
+    ],
+    [
+     "night",
+     11.26,
+     11.46
+    ],
+    [
+     "and",
+     11.46,
+     11.66
+    ],
+    [
+     "massage",
+     11.66,
+     11.94
+    ],
+    [
+     "it",
+     11.94,
+     12.12
+    ],
+    [
+     "in",
+     12.12,
+     12.26
+    ],
+    [
+     "until",
+     12.26,
+     12.48
+    ],
+    [
+     "it",
+     12.48,
+     12.62
+    ],
+    [
+     "disappears",
+     12.62,
+     12.94
+    ],
+    [
+     "completely.",
+     12.94,
+     13.4
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 5,
+   "start": 13.58,
+   "end": 15.4,
+   "text": "Then I let the Glow Fusion formula work overnight.",
+   "f0_median_hz": 213,
+   "words": [
+    [
+     "Then",
+     13.58,
+     13.72
+    ],
+    [
+     "I",
+     13.72,
+     13.82
+    ],
+    [
+     "let",
+     13.82,
+     13.96
+    ],
+    [
+     "the",
+     13.96,
+     14.06
+    ],
+    [
+     "Glow",
+     14.06,
+     14.24
+    ],
+    [
+     "Fusion",
+     14.24,
+     14.48
+    ],
+    [
+     "formula",
+     14.48,
+     14.82
+    ],
+    [
+     "work",
+     14.82,
+     15.06
+    ],
+    [
+     "overnight.",
+     15.06,
+     15.4
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 6,
+   "start": 15.64,
+   "end": 18.18,
+   "text": "After 2 weeks, my dark spots look reduced and my skin looks more even.",
+   "f0_median_hz": 224,
+   "words": [
+    [
+     "After",
+     15.64,
+     15.84
+    ],
+    [
+     "2",
+     15.84,
+     15.96
+    ],
+    [
+     "weeks,",
+     15.96,
+     16.16
+    ],
+    [
+     "my",
+     16.26,
+     16.32
+    ],
+    [
+     "dark",
+     16.32,
+     16.48
+    ],
+    [
+     "spots",
+     16.48,
+     16.74
+    ],
+    [
+     "look",
+     16.74,
+     16.88
+    ],
+    [
+     "reduced",
+     16.88,
+     17.18
+    ],
+    [
+     "and",
+     17.18,
+     17.36
+    ],
+    [
+     "my",
+     17.36,
+     17.46
+    ],
+    [
+     "skin",
+     17.46,
+     17.62
+    ],
+    [
+     "looks",
+     17.62,
+     17.8
+    ],
+    [
+     "more",
+     17.8,
+     17.96
+    ],
+    [
+     "even.",
+     17.96,
+     18.18
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 7,
+   "start": 18.34,
+   "end": 19.8,
+   "text": "Now this is my Sleep to Glow Essential.",
+   "f0_median_hz": 217,
+   "words": [
+    [
+     "Now",
+     18.34,
+     18.56
+    ],
+    [
+     "this",
+     18.56,
+     18.74
+    ],
+    [
+     "is",
+     18.74,
+     18.86
+    ],
+    [
+     "my",
+     18.86,
+     19.0
+    ],
+    [
+     "Sleep",
+     19.0,
+     19.24
+    ],
+    [
+     "to",
+     19.24,
+     19.36
+    ],
+    [
+     "Glow",
+     19.36,
+     19.54
+    ],
+    [
+     "Essential.",
+     19.54,
+     19.8
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  }
+ ]
+}

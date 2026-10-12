@@ -1,0 +1,236 @@
+[{"stream_name":"stderr","time":6.336414465,"data":"0.00s - Debugger warning: It seems that frozen modules are being used, which may\n"}
+,{"stream_name":"stderr","time":6.336489612,"data":"0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off\n"}
+,{"stream_name":"stderr","time":6.33649618,"data":"0.00s - to python to disable frozen modules.\n"}
+,{"stream_name":"stderr","time":6.336499982,"data":"0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.\n"}
+,{"stream_name":"stderr","time":6.920971479,"data":"0.00s - Debugger warning: It seems that frozen modules are being used, which may\n"}
+,{"stream_name":"stderr","time":6.921001003,"data":"0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off\n"}
+,{"stream_name":"stderr","time":6.921006131,"data":"0.00s - to python to disable frozen modules.\n"}
+,{"stream_name":"stderr","time":6.921010402,"data":"0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.\n"}
+,{"stream_name":"stdout","time":9.918574795,"data":"Fri Oct  9 01:16:03 2026       \n"}
+,{"stream_name":"stdout","time":9.918604538,"data":"+-----------------------------------------------------------------------------------------+\n"}
+,{"stream_name":"stdout","time":9.918609358,"data":"| NVIDIA-SMI 580.178.04             Driver Version: 580.178.04     CUDA Version: 13.0     |\n"}
+,{"stream_name":"stdout","time":9.918617971,"data":"+-----------------------------------------+------------------------+----------------------+\n"}
+,{"stream_name":"stdout","time":9.918621195,"data":"| GPU  Name                 Persistence-M | Bus-Id          Disp.A | Volatile Uncorr. ECC |\n"}
+,{"stream_name":"stdout","time":9.918623555,"data":"| Fan  Temp   Perf          Pwr:Usage/Cap |           Memory-Usage | GPU-Util  Compute M. |\n"}
+,{"stream_name":"stdout","time":9.918626147,"data":"|                                         |                        |               MIG M. |\n"}
+,{"stream_name":"stdout","time":9.918628493,"data":"|=========================================+========================+======================|\n"}
+,{"stream_name":"stdout","time":9.918630803,"data":"|   0  Tesla T4                       Off |   00000000:00:04.0 Off |                    0 |\n"}
+,{"stream_name":"stdout","time":9.91863306,"data":"| N/A   41C    P8              9W /   70W |       0MiB /  15360MiB |      0%      Default |\n"}
+,{"stream_name":"stdout","time":9.918635371,"data":"|                                         |                        |                  N/A |\n"}
+,{"stream_name":"stdout","time":9.918637578,"data":"+-----------------------------------------+------------------------+----------------------+\n"}
+,{"stream_name":"stdout","time":9.918639784,"data":"|   1  Tesla T4                       Off |   00000000:00:05.0 Off |                    0 |\n"}
+,{"stream_name":"stdout","time":9.91864206,"data":"| N/A   36C    P8              9W /   70W |       0MiB /  15360MiB |      0%      Default |\n"}
+,{"stream_name":"stdout","time":9.918644271,"data":"|                                         |                        |                  N/A |\n"}
+,{"stream_name":"stdout","time":9.918646472,"data":"+-----------------------------------------+------------------------+----------------------+\n"}
+,{"stream_name":"stdout","time":9.91864871,"data":"\n"}
+,{"stream_name":"stdout","time":9.918650791,"data":"+-----------------------------------------------------------------------------------------+\n"}
+,{"stream_name":"stdout","time":9.918653087,"data":"| Processes:                                                                              |\n"}
+,{"stream_name":"stdout","time":9.918655318999999,"data":"|  GPU   GI   CI              PID   Type   Process name                        GPU Memory |\n"}
+,{"stream_name":"stdout","time":9.918667914,"data":"|        ID   ID                                                               Usage      |\n"}
+,{"stream_name":"stdout","time":9.91867069,"data":"|=========================================================================================|\n"}
+,{"stream_name":"stdout","time":9.918672907,"data":"|  No running processes found                                                             |\n"}
+,{"stream_name":"stdout","time":9.91867606,"data":"+-----------------------------------------------------------------------------------------+\n"}
+,{"stream_name":"stdout","time":9.918678449,"data":"\n"}
+,{"stream_name":"stdout","time":14.123600821,"data":"python 3.13.15 | torch 2.11.0+cu128 (CUDA 12.8) | Tesla T4 cc 7.5 | no bf16 -\u003e Indic-Mio fp16 (fp32 fallback), MioCodec fp32 | 14.6 GB GPU memory\n"}
+,{"stream_name":"stdout","time":14.123636325,"data":"2 videos: e7e42eaf, f7ce58d4\n"}
+,{"stream_name":"stdout","time":14.368160497,"data":"$ /usr/bin/python3 -m pip install -q -c /tmp/constraints.txt faster-whisper==1.2.1 demucs==4.1.0 librosa soundfile pyloudnorm threadpoolctl packaging\n"}
+,{"stream_name":"stdout","time":17.607450862,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 1.1/1.1 MB 29.7 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":17.636798528,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100.6/100.6 kB 4.6 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":17.952764163,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 35.0/35.0 MB 62.8 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":18.28816016,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 39.6/39.6 MB 56.6 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":18.335859176,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 247.6/247.6 kB 13.5 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":18.542488964,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 23.6/23.6 MB 85.6 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":18.772196015,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 18.1/18.1 MB 55.1 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":24.541651365,"data":"[exit 0 after 10s]\n"}
+,{"stream_name":"stdout","time":24.542555557,"data":"$ /usr/bin/python3 -m pip install -q -c /tmp/constraints.txt git+https://github.com/Aratako/MioCodec\n"}
+,{"stream_name":"stdout","time":31.377323808,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 800.2/800.2 kB 21.2 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":31.402796259,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 174.8/174.8 kB 10.1 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":34.149786958,"data":"[exit 0 after 10s]\n"}
+,{"stream_name":"stdout","time":34.153107021,"data":"$ /usr/bin/python3 -c import faster_whisper, demucs.api, miocodec, librosa, pyloudnorm, transformers, torch; print('imports ok | transformers', transformers.__version__, '| torch', torch.__version__)\n"}
+,{"stream_name":"stdout","time":36.176805923,"data":"[2026-10-09 01:16:31,630] WARNING miocodec: FlashAttention is not installed. Falling back to PyTorch SDPA implementation. There is no warranty that the model will work correctly.\n"}
+,{"stream_name":"stdout","time":45.967783463,"data":"imports ok | transformers 5.16.1 | torch 2.11.0+cu128\n"}
+,{"stream_name":"stdout","time":48.48453588,"data":"[exit 0 after 14s]\n"}
+,{"stream_name":"stdout","time":48.662446242,"data":"wrote 11 files under /tmp/dub\n"}
+,{"stream_name":"stdout","time":48.662475191,"data":"e7e42eaf: plan OK  OK  bn:107/199  ta:160/237  te:141/222  ml:149/237  or:110/191\n"}
+,{"stream_name":"stdout","time":48.662481178,"data":"f7ce58d4: plan OK  OK  bn:203/212  ta:230/253  te:222/237  ml:225/253  or:198/204\n"}
+,{"stream_name":"stdout","time":48.674431836,"data":"$ /usr/bin/python3 vm/prep_cuda.py work --gens colab_gens.json --only e7e42eaf,f7ce58d4 --stems-only\n"}
+,{"stream_name":"stdout","time":53.601622253,"data":"fetched 2/2 videos\n"}
+,{"stream_name":"stdout","time":55.639971415,"data":"Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.\n"}
+,{"stream_name":"stdout","time":62.945141848,"data":"separated 2\n"}
+,{"stream_name":"stdout","time":62.945168883,"data":"PREP DONE\n"}
+,{"stream_name":"stdout","time":63.819130407,"data":"[exit 0 after 15s]\n"}
+,{"stream_name":"stdout","time":63.820655985,"data":"e7e42eaf: stems ready\n"}
+,{"stream_name":"stdout","time":63.820686453,"data":"f7ce58d4: stems ready\n"}
+,{"stream_name":"stdout","time":63.83615864,"data":"$ /usr/bin/python3 vm/dubplan_cuda.py work out --backend transformers --group 1 --only e7e42eaf,f7ce58d4\n"}
+,{"stream_name":"stdout","time":66.292018235,"data":"[2026-10-09 01:17:01,745] WARNING miocodec: FlashAttention is not installed. Falling back to PyTorch SDPA implementation. There is no warranty that the model will work correctly.\n"}
+,{"stream_name":"stdout","time":76.641853126,"data":"Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.\n"}
+,{"stream_name":"stdout","time":90.256670666,"data":"\n"}
+,{"stream_name":"stdout","time":90.632780397,"data":"Loading weights:   0%|          | 0/310 [00:00\u003c?, ?it/s]\n"}
+,{"stream_name":"stdout","time":90.742156881,"data":"Loading weights:   0%|          | 1/310 [00:00\u003c01:57,  2.64it/s]\n"}
+,{"stream_name":"stdout","time":90.797646449,"data":"Loading weights:  83%|████████▎ | 258/310 [00:00\u003c00:00, 703.87it/s]\n"}
+,{"stream_name":"stdout","time":90.79846619,"data":"Loading weights: 100%|██████████| 310/310 [00:00\u003c00:00, 569.59it/s]\n"}
+,{"stream_name":"stdout","time":91.768489292,"data":"[transformers] Both `max_new_tokens` (=48) and `max_length`(=32768) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)\n"}
+,{"stream_name":"stdout","time":101.174752733,"data":"Downloading: \"https://download.pytorch.org/torchaudio/models/wavlm_base_plus.pth\" to /root/.cache/torch/hub/checkpoints/wavlm_base_plus.pth\n"}
+,{"stream_name":"stdout","time":101.254825075,"data":"\n"}
+,{"stream_name":"stdout","time":101.356250582,"data":"  0%|          | 0.00/360M [00:00\u003c?, ?B/s]\n"}
+,{"stream_name":"stdout","time":101.456274267,"data":"  7%|▋         | 25.9M/360M [00:00\u003c00:01, 271MB/s]\n"}
+,{"stream_name":"stdout","time":101.556860923,"data":" 15%|█▌        | 55.8M/360M [00:00\u003c00:01, 296MB/s]\n"}
+,{"stream_name":"stdout","time":101.656369546,"data":" 24%|██▎       | 85.0M/360M [00:00\u003c00:00, 300MB/s]\n"}
+,{"stream_name":"stdout","time":101.756434601,"data":" 33%|███▎      | 119M/360M [00:00\u003c00:00, 322MB/s] \n"}
+,{"stream_name":"stdout","time":101.857456495,"data":" 46%|████▌     | 164M/360M [00:00\u003c00:00, 376MB/s]\n"}
+,{"stream_name":"stdout","time":101.959112574,"data":" 57%|█████▋    | 204M/360M [00:00\u003c00:00, 392MB/s]\n"}
+,{"stream_name":"stdout","time":102.059251446,"data":" 67%|██████▋   | 242M/360M [00:00\u003c00:00, 389MB/s]\n"}
+,{"stream_name":"stdout","time":102.159424862,"data":" 82%|████████▏ | 295M/360M [00:00\u003c00:00, 441MB/s]\n"}
+,{"stream_name":"stdout","time":102.174455684,"data":" 97%|█████████▋| 349M/360M [00:00\u003c00:00, 481MB/s]\n"}
+,{"stream_name":"stdout","time":102.175286271,"data":"100%|██████████| 360M/360M [00:00\u003c00:00, 411MB/s]\n"}
+,{"stream_name":"stdout","time":104.035365405,"data":"[2026-10-09 01:17:39,488] INFO miocodec: Loaded weights from safetensors file: /root/.cache/huggingface/hub/models--Aratako--MioCodec-25Hz-24kHz/snapshots/3a737f0de2c6324cb2fe40c1fbd1056c7add423d/model.safetensors\n"}
+,{"stream_name":"stdout","time":118.416297908,"data":"models ready in 53.8s | GPU cc 7.5 | TTS transformers fp16 | codec fp32 | whisper float16\n"}
+,{"stream_name":"stdout","time":118.417425101,"data":"restricted to 2 video ids\n"}
+,{"stream_name":"stdout","time":133.50820827,"data":"[transformers] Both `max_new_tokens` (=245) and `max_length`(=32768) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)\n"}
+,{"stream_name":"stdout","time":141.613980879,"data":"[transformers] Both `max_new_tokens` (=299) and `max_length`(=32768) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)\n"}
+,{"stream_name":"stdout","time":201.034586583,"data":"[transformers] Both `max_new_tokens` (=299) and `max_length`(=32768) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)\n"}
+,{"stream_name":"stdout","time":208.555294006,"data":"[group e7e42eaf] 30 lines voiced in 90s, retried 2\n"}
+,{"stream_name":"stdout","time":208.804738898,"data":"[transformers] Both `max_new_tokens` (=241) and `max_length`(=32768) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)\n"}
+,{"stream_name":"stdout","time":212.206206401,"data":"uniform tempo x1.00  |  voice ends at 15.68s  |  max late start +0.03s\n"}
+,{"stream_name":"stdout","time":212.20801897,"data":"line  orig_cue  new_start  shift   length\n"}
+,{"stream_name":"stdout","time":212.210796361,"data":"   1      1.08       1.08  +0.00    2.21s\n"}
+,{"stream_name":"stdout","time":212.212968637,"data":"   2      3.46       3.39  -0.07    1.41s\n"}
+,{"stream_name":"stdout","time":212.216176472,"data":"   3      5.54       5.39  -0.15    2.08s\n"}
+,{"stream_name":"stdout","time":212.217481611,"data":"   4      9.04       8.89  -0.15    2.50s\n"}
+,{"stream_name":"stdout","time":212.219907572,"data":"   5     11.46      11.49  +0.03    1.75s\n"}
+,{"stream_name":"stdout","time":212.221355744,"data":"   6     14.24      14.09  -0.15    1.59s\n"}
+,{"stream_name":"stdout","time":212.222587394,"data":"wrote out/e7e42eaf_bn.mp4\n"}
+,{"stream_name":"stdout","time":214.244307047,"data":"uniform tempo x1.00  |  voice ends at 16.00s  |  max late start +0.17s\n"}
+,{"stream_name":"stdout","time":214.249225531,"data":"line  orig_cue  new_start  shift   length\n"}
+,{"stream_name":"stdout","time":214.251192061,"data":"   1      1.08       1.08  +0.00    2.45s\n"}
+,{"stream_name":"stdout","time":214.255133157,"data":"   2      3.46       3.63  +0.17    1.94s\n"}
+,{"stream_name":"stdout","time":214.257702591,"data":"   3      5.54       5.68  +0.14    1.92s\n"}
+,{"stream_name":"stdout","time":214.259188557,"data":"   4      9.04       8.89  -0.15    2.00s\n"}
+,{"stream_name":"stdout","time":214.264704231,"data":"   5     11.46      11.31  -0.15    2.13s\n"}
+,{"stream_name":"stdout","time":214.265773725,"data":"   6     14.24      14.09  -0.15    1.91s\n"}
+,{"stream_name":"stdout","time":214.266804821,"data":"wrote out/e7e42eaf_ta.mp4\n"}
+,{"stream_name":"stdout","time":216.242134194,"data":"uniform tempo x1.00  |  voice ends at 15.91s  |  max late start +0.33s\n"}
+,{"stream_name":"stdout","time":216.248558636,"data":"line  orig_cue  new_start  shift   length\n"}
+,{"stream_name":"stdout","time":216.251990995,"data":"   1      1.08       1.08  +0.00    2.61s\n"}
+,{"stream_name":"stdout","time":216.254978452,"data":"   2      3.46       3.79  +0.33    1.59s\n"}
+,{"stream_name":"stdout","time":216.259394165,"data":"   3      5.54       5.49  -0.05    2.03s\n"}
+,{"stream_name":"stdout","time":216.26324606,"data":"   4      9.04       8.89  -0.15    2.01s\n"}
+,{"stream_name":"stdout","time":216.264404158,"data":"   5     11.46      11.31  -0.15    2.29s\n"}
+,{"stream_name":"stdout","time":216.266120333,"data":"   6     14.24      14.09  -0.15    1.82s\n"}
+,{"stream_name":"stdout","time":216.267501962,"data":"wrote out/e7e42eaf_te.mp4\n"}
+,{"stream_name":"stdout","time":218.181949665,"data":"uniform tempo x1.00  |  voice ends at 15.43s  |  max late start +0.00s\n"}
+,{"stream_name":"stdout","time":218.183548168,"data":"line  orig_cue  new_start  shift   length\n"}
+,{"stream_name":"stdout","time":218.184845302,"data":"   1      1.08       1.08  +0.00    2.20s\n"}
+,{"stream_name":"stdout","time":218.186603678,"data":"   2      3.46       3.38  -0.08    1.62s\n"}
+,{"stream_name":"stdout","time":218.188161152,"data":"   3      5.54       5.39  -0.15    1.90s\n"}
+,{"stream_name":"stdout","time":218.189470189,"data":"   4      9.04       8.89  -0.15    1.94s\n"}
+,{"stream_name":"stdout","time":218.190392579,"data":"   5     11.46      11.31  -0.15    2.11s\n"}
+,{"stream_name":"stdout","time":218.191519581,"data":"   6     14.24      14.09  -0.15    1.34s\n"}
+,{"stream_name":"stdout","time":218.19255877,"data":"wrote out/e7e42eaf_ml.mp4\n"}
+,{"stream_name":"stdout","time":219.572809055,"data":"uniform tempo x1.00  |  voice ends at 15.61s  |  max late start +0.00s\n"}
+,{"stream_name":"stdout","time":219.573677228,"data":"line  orig_cue  new_start  shift   length\n"}
+,{"stream_name":"stdout","time":219.574722745,"data":"   1      1.08       1.08  +0.00    1.99s\n"}
+,{"stream_name":"stdout","time":219.575704586,"data":"   2      3.46       3.31  -0.15    1.69s\n"}
+,{"stream_name":"stdout","time":219.576673761,"data":"   3      5.54       5.39  -0.15    1.69s\n"}
+,{"stream_name":"stdout","time":219.577548935,"data":"   4      9.04       8.89  -0.15    2.22s\n"}
+,{"stream_name":"stdout","time":219.578307712,"data":"   5     11.46      11.31  -0.15    2.03s\n"}
+,{"stream_name":"stdout","time":219.579056709,"data":"   6     14.24      14.09  -0.15    1.52s\n"}
+,{"stream_name":"stdout","time":219.579789216,"data":"wrote out/e7e42eaf_or.mp4\n"}
+,{"stream_name":"stdout","time":219.58054461,"data":"[e7e42eaf] 5 langs in 101s | worst line CER 0.54 | retried 2\n"}
+,{"stream_name":"stdout","time":219.793988806,"data":"[transformers] Both `max_new_tokens` (=299) and `max_length`(=32768) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)\n"}
+,{"stream_name":"stdout","time":300.335127751,"data":"[transformers] Both `max_new_tokens` (=299) and `max_length`(=32768) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)\n"}
+,{"stream_name":"stdout","time":319.695031772,"data":"[group f7ce58d4] 35 lines voiced in 111s, retried 3\n"}
+,{"stream_name":"stdout","time":324.480053118,"data":"uniform tempo x1.11  |  voice ends at 16.65s  |  max late start +0.34s\n"}
+,{"stream_name":"stdout","time":324.481593205,"data":"line  orig_cue  new_start  shift   length\n"}
+,{"stream_name":"stdout","time":324.48257904,"data":"   1      0.00       0.05  +0.05    2.37s\n"}
+,{"stream_name":"stdout","time":324.483720001,"data":"   2      2.32       2.52  +0.20    1.97s\n"}
+,{"stream_name":"stdout","time":324.485022401,"data":"   3      5.04       4.89  -0.15    1.90s\n"}
+,{"stream_name":"stdout","time":324.486558261,"data":"   4      6.74       6.89  +0.15    1.63s\n"}
+,{"stream_name":"stdout","time":324.487570071,"data":"   5      8.38       8.63  +0.25    1.85s\n"}
+,{"stream_name":"stdout","time":324.488626248,"data":"   6     10.24      10.58  +0.34    2.96s\n"}
+,{"stream_name":"stdout","time":324.489609242,"data":"   7     13.74      13.64  -0.10    3.00s\n"}
+,{"stream_name":"stdout","time":324.490515033,"data":"wrote out/f7ce58d4_bn.mp4\n"}
+,{"stream_name":"stdout","time":326.508750032,"data":"uniform tempo x1.00  |  voice ends at 15.81s  |  max late start +0.05s\n"}
+,{"stream_name":"stdout","time":326.510972669,"data":"line  orig_cue  new_start  shift   length\n"}
+,{"stream_name":"stdout","time":326.512732563,"data":"   1      0.00       0.05  +0.05    1.85s\n"}
+,{"stream_name":"stdout","time":326.513686192,"data":"   2      2.32       2.17  -0.15    1.97s\n"}
+,{"stream_name":"stdout","time":326.516620867,"data":"   3      5.04       4.89  -0.15    1.76s\n"}
+,{"stream_name":"stdout","time":326.517819632,"data":"   4      6.74       6.75  +0.01    1.29s\n"}
+,{"stream_name":"stdout","time":326.524952698,"data":"   5      8.38       8.23  -0.15    1.84s\n"}
+,{"stream_name":"stdout","time":326.526349444,"data":"   6     10.24      10.17  -0.07    2.80s\n"}
+,{"stream_name":"stdout","time":326.529450743,"data":"   7     13.74      13.59  -0.15    2.22s\n"}
+,{"stream_name":"stdout","time":326.530851015,"data":"wrote out/f7ce58d4_ta.mp4\n"}
+,{"stream_name":"stdout","time":329.419654644,"data":"uniform tempo x1.04  |  voice ends at 16.59s  |  max late start +0.35s\n"}
+,{"stream_name":"stdout","time":329.421462568,"data":"line  orig_cue  new_start  shift   length\n"}
+,{"stream_name":"stdout","time":329.422474622,"data":"   1      0.00       0.05  +0.05    2.26s\n"}
+,{"stream_name":"stdout","time":329.423641197,"data":"   2      2.32       2.41  +0.09    1.99s\n"}
+,{"stream_name":"stdout","time":329.425346737,"data":"   3      5.04       4.89  -0.15    1.55s\n"}
+,{"stream_name":"stdout","time":329.426232395,"data":"   4      6.74       6.59  -0.15    1.73s\n"}
+,{"stream_name":"stdout","time":329.426747995,"data":"   5      8.38       8.42  +0.04    2.07s\n"}
+,{"stream_name":"stdout","time":329.42762571,"data":"   6     10.24      10.59  +0.35    3.02s\n"}
+,{"stream_name":"stdout","time":329.428454602,"data":"   7     13.74      13.71  -0.03    2.88s\n"}
+,{"stream_name":"stdout","time":329.429312728,"data":"wrote out/f7ce58d4_te.mp4\n"}
+,{"stream_name":"stdout","time":332.051659231,"data":"uniform tempo x1.03  |  voice ends at 16.64s  |  max late start +0.66s\n"}
+,{"stream_name":"stdout","time":332.052857671,"data":"line  orig_cue  new_start  shift   length\n"}
+,{"stream_name":"stdout","time":332.053870715,"data":"   1      0.00       0.05  +0.05    2.02s\n"}
+,{"stream_name":"stdout","time":332.054851962,"data":"   2      2.32       2.17  -0.15    3.04s\n"}
+,{"stream_name":"stdout","time":332.05565649,"data":"   3      5.04       5.31  +0.27    1.78s\n"}
+,{"stream_name":"stdout","time":332.056484086,"data":"   4      6.74       7.19  +0.45    1.69s\n"}
+,{"stream_name":"stdout","time":332.05754313,"data":"   5      8.38       8.98  +0.60    1.82s\n"}
+,{"stream_name":"stdout","time":332.058328081,"data":"   6     10.24      10.90  +0.66    2.85s\n"}
+,{"stream_name":"stdout","time":332.058984255,"data":"   7     13.74      13.85  +0.11    2.79s\n"}
+,{"stream_name":"stdout","time":332.05973864,"data":"wrote out/f7ce58d4_ml.mp4\n"}
+,{"stream_name":"stdout","time":334.699224543,"data":"uniform tempo x1.21  |  voice ends at 16.60s  |  max late start +0.26s\n"}
+,{"stream_name":"stdout","time":334.70130214,"data":"line  orig_cue  new_start  shift   length\n"}
+,{"stream_name":"stdout","time":334.701491616,"data":"   1      0.00       0.05  +0.05    1.66s\n"}
+,{"stream_name":"stdout","time":334.70273114,"data":"   2      2.32       2.17  -0.15    1.98s\n"}
+,{"stream_name":"stdout","time":334.703827542,"data":"   3      5.04       4.89  -0.15    1.76s\n"}
+,{"stream_name":"stdout","time":334.705167875,"data":"   4      6.74       6.75  +0.01    1.42s\n"}
+,{"stream_name":"stdout","time":334.706194016,"data":"   5      8.38       8.26  -0.12    1.99s\n"}
+,{"stream_name":"stdout","time":334.707417887,"data":"   6     10.24      10.35  +0.11    3.54s\n"}
+,{"stream_name":"stdout","time":334.708630286,"data":"   7     13.74      14.00  +0.26    2.60s\n"}
+,{"stream_name":"stdout","time":334.709777455,"data":"wrote out/f7ce58d4_or.mp4\n"}
+,{"stream_name":"stdout","time":334.710730155,"data":"[f7ce58d4] 5 langs in 126s | worst line CER 0.69 | retried 3\n"}
+,{"stream_name":"stdout","time":335.070039961,"data":"DUB DONE: 2 videos\n"}
+,{"stream_name":"stdout","time":337.235418941,"data":"[exit 0 after 273s]\n"}
+,{"stream_name":"stdout","time":337.236183597,"data":"$ /usr/bin/python3 vm/repair_cuda.py work out 0.6 --backend transformers --only e7e42eaf,f7ce58d4\n"}
+,{"stream_name":"stdout","time":337.993987994,"data":"2 flagged lines in 1 videos\n"}
+,{"stream_name":"stdout","time":339.719998217,"data":"[2026-10-09 01:21:35,174] WARNING miocodec: FlashAttention is not installed. Falling back to PyTorch SDPA implementation. There is no warranty that the model will work correctly.\n"}
+,{"stream_name":"stdout","time":344.970114631,"data":"Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.\n"}
+,{"stream_name":"stdout","time":347.124806309,"data":"\n"}
+,{"stream_name":"stdout","time":347.471201644,"data":"Loading weights:   0%|          | 0/310 [00:00\u003c?, ?it/s]\n"}
+,{"stream_name":"stdout","time":347.571257846,"data":"Loading weights:   0%|          | 1/310 [00:00\u003c01:49,  2.83it/s]\n"}
+,{"stream_name":"stdout","time":347.667492045,"data":"Loading weights:  75%|███████▌  | 234/310 [00:00\u003c00:00, 663.91it/s]\n"}
+,{"stream_name":"stdout","time":347.668525052,"data":"Loading weights: 100%|██████████| 310/310 [00:00\u003c00:00, 558.99it/s]\n"}
+,{"stream_name":"stdout","time":348.580535998,"data":"[transformers] Both `max_new_tokens` (=48) and `max_length`(=32768) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)\n"}
+,{"stream_name":"stdout","time":354.114012289,"data":"[2026-10-09 01:21:49,567] INFO miocodec: Loaded weights from safetensors file: /root/.cache/huggingface/hub/models--Aratako--MioCodec-25Hz-24kHz/snapshots/3a737f0de2c6324cb2fe40c1fbd1056c7add423d/model.safetensors\n"}
+,{"stream_name":"stdout","time":359.789076193,"data":"models ready in 21.8s | GPU cc 7.5 | TTS transformers fp16 | codec fp32 | whisper float16\n"}
+,{"stream_name":"stdout","time":361.169557124,"data":"[transformers] Both `max_new_tokens` (=299) and `max_length`(=32768) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)\n"}
+,{"stream_name":"stdout","time":394.555622972,"data":"re-voiced 2 lines x 6 takes in 35s\n"}
+,{"stream_name":"stdout","time":397.603231128,"data":"uniform tempo x1.07  |  voice ends at 16.54s  |  max late start +0.35s\n"}
+,{"stream_name":"stdout","time":397.604841849,"data":"line  orig_cue  new_start  shift   length\n"}
+,{"stream_name":"stdout","time":397.606301855,"data":"   1      0.00       0.05  +0.05    1.95s\n"}
+,{"stream_name":"stdout","time":397.607466173,"data":"   2      2.32       2.17  -0.15    2.92s\n"}
+,{"stream_name":"stdout","time":397.608704875,"data":"   3      5.04       5.19  +0.15    1.71s\n"}
+,{"stream_name":"stdout","time":397.609898404,"data":"   4      6.74       7.01  +0.27    1.63s\n"}
+,{"stream_name":"stdout","time":397.611011618,"data":"   5      8.38       8.73  +0.35    1.75s\n"}
+,{"stream_name":"stdout","time":397.612112718,"data":"   6     10.24      10.58  +0.34    3.18s\n"}
+,{"stream_name":"stdout","time":397.613230104,"data":"   7     13.74      13.86  +0.12    2.69s\n"}
+,{"stream_name":"stdout","time":397.614129675,"data":"wrote out/f7ce58d4_ml.mp4\n"}
+,{"stream_name":"stdout","time":397.614943716,"data":"[f7ce58d4] repaired 2 flagged -\u003e improved in ['ml'] (38s)\n"}
+,{"stream_name":"stdout","time":397.869027923,"data":"REPAIR DONE: improved 1/2 lines\n"}
+,{"stream_name":"stdout","time":399.708592495,"data":"[exit 0 after 62s]\n"}
+,{"stream_name":"stdout","time":399.710202424,"data":"e7e42eaf: 5/5 languages bn ta te ml or\n"}
+,{"stream_name":"stdout","time":399.710243319,"data":"f7ce58d4: 5/5 languages bn ta te ml or\n"}
+,{"stream_name":"stdout","time":399.710254294,"data":"dub + repair took 5.6 min; 10 mp4s\n"}
+,{"stream_name":"stdout","time":399.908227988,"data":"/kaggle/working/dub_out.zip: 10 videos, 96.7 MB\n"}
+,{"stream_name":"stdout","time":400.170886872,"data":"Drive copy skipped (set COPY_TO_DRIVE = True to enable)\n"}
+,{"stream_name":"stderr","time":403.243001139,"data":"/usr/local/lib/python3.13/dist-packages/mistune.py:435: SyntaxWarning: invalid escape sequence '\\|'\n"}
+,{"stream_name":"stderr","time":403.243037506,"data":"  cells[i][c] = re.sub('\\\\\\\\\\|', '|', cell)\n"}
+,{"stream_name":"stderr","time":403.394539483,"data":"/usr/local/lib/python3.13/dist-packages/nbconvert/filters/filter_links.py:36: SyntaxWarning: invalid escape sequence '\\_'\n"}
+,{"stream_name":"stderr","time":403.394572654,"data":"  text = re.sub(r'_', '\\_', text) # Escape underscores in display text\n"}
+,{"stream_name":"stderr","time":404.150806691,"data":"[NbConvertApp] Converting notebook __notebook__.ipynb to notebook\n"}
+,{"stream_name":"stderr","time":404.25254955,"data":"[NbConvertApp] Writing 74317 bytes to __notebook__.ipynb\n"}
+,{"stream_name":"stderr","time":406.708172109,"data":"[NbConvertApp] Converting notebook __notebook__.ipynb to html\n"}
+,{"stream_name":"stderr","time":407.225131894,"data":"[NbConvertApp] Writing 376144 bytes to __results__.html\n"}
+]

@@ -1,0 +1,65 @@
+{
+  "video_id": "00b304b4",
+  "product": "ps",
+  "category": "ingredient_personified",
+  "shots": [
+    {
+      "n": 1, "start": 0.0, "end": 2.6,
+      "content": "Light-skinned woman at a vanity doing makeup; DERMDOC tube AND its carton on the vanity; hook 'SKIN PROTECTION DEPARTMENT'.",
+      "issues": ["model_not_dusky", "tube_plus_carton_reads_as_two_products"],
+      "action": "replace", "replace_with": "PSA1_avatar_talk", "custom": null,
+      "note": "L1 'Team, we've got a full day ahead.' is spoken by the tube (team manager), so open on the talking tube mascot on a sunny morning marble vanity, which is the same setting. Use 0.0-2.6 s of the clip."
+    },
+    {
+      "n": 2, "start": 2.6, "end": 5.1,
+      "content": "Cartoon villain gang at the window (angry sun, white-cast blob with bucket, golden oil drop, grey dullness cloud).",
+      "issues": [],
+      "action": "keep", "replace_with": null, "custom": null,
+      "note": "Cartoon villains only, with no product and no skin. Matches L2 'Let's ruin her work day!'."
+    },
+    {
+      "n": 3, "start": 5.1, "end": 7.6,
+      "content": "Tube mascot held by a fair hand: the cap end is open with a lavender cream ribbon pouring out and a loose lid disc beside it. SPF shield, purple droplet and niacinamide characters below.",
+      "issues": ["cap_open_cream_pouring_out (nozzle-like)", "loose_lid", "hand_of_non_library_model"],
+      "action": "replace", "replace_with": "PS04_dot_face", "custom": null,
+      "note": "L3 'Everyone knows their assignment.' cuts to the assignment: Meera's face with five neat lavender dots, about to blend (application step 1). Use 0-2.5 s."
+    },
+    {
+      "n": 4, "start": 7.6, "end": 14.73,
+      "content": "7.1 s close-up of a light-skinned woman's face with a niacinamide character and a grey cloud on her cheek.",
+      "issues": ["model_not_dusky", "no_application_blend_instant_glow_shown", "purple_why_not_explained"],
+      "action": "replace", "replace_with": "GRAPHIC_COLOUR_WHEEL", "custom": null,
+      "split": [
+        {"start": 7.6, "end": 11.0, "clip": "GRAPHIC_COLOUR_WHEEL"},
+        {"start": 11.0, "end": 14.73, "clip": "PS05_blend_glow"}
+      ],
+      "note": "Covered by two library clips. (a) 7.6-11.0 GRAPHIC_COLOUR_WHEEL on PSA2_avatar_point. During L4 'I've got the UV rays' the empty right side shows the SPF 50 PA+++ card. At 9.4, on new L5, a CORRECT wheel animates in on the right (purple directly opposite yellow; arrow purple to yellow; yellow segment dims). (b) 11.0-14.73 PS05_blend_glow: the dots blend in invisibly and her dusky skin turns even and dewy with an Instant Glow. It plays under L6 (niacinamide, instant glow) and L7 'Team, protection complete.'"
+    },
+    {
+      "n": 5, "start": 14.73, "end": 17.02,
+      "content": "Light-skinned woman walking in the city holding an oversized tube, with the hero characters at her feet.",
+      "issues": ["model_not_dusky", "tube_scale_off"],
+      "action": "replace", "replace_with": "PSA3_avatar_model", "custom": null,
+      "note": "L8 'Instant glow. Ready for the day.' plays over Meera on a sunny balcony with the ONE tube mascot waving. She touches her glowing cheek, so the video ends on a glowing face plus the exact product. Use 0-2.3 s."
+    }
+  ],
+  "script_changes": [
+    {"line_id": 5, "old_en": "I've got the ashy cast.", "new_en": "I cancel yellow-looking dullness.", "reason": "Explain WHY purple (purple tint character + colour wheel graphic). Fits in 9.44-11.0."},
+    {"line_id": 6, "old_en": "And I've got the dullness.", "new_en": "And I've got the instant glow.", "reason": "Say 'Instant Glow'. Avoids repeating 'dullness' after the new L5."},
+    {"line_id": 8, "old_en": "Ready for the day.", "new_en": "Instant glow. Ready for the day.", "reason": "Instant Glow named on the after/glow shot. There is 1.1 s of slack before 17.02."}
+  ],
+  "new_lines": [],
+  "supers": [
+    {"action": "remove", "match": "hud 7.75-9.3", "text": "", "start": 7.75, "end": 9.3, "why": "Shot replaced by the full-screen colour-wheel graphic, and the HUD corners would clash with it."},
+    {"action": "add", "match": null, "text": "SPF 50 PA+++ | UVA + UVB", "start": 7.7, "end": 9.3, "why": "Card in PSA2's empty right half while the SPF shield speaks L4."},
+    {"action": "change", "match": "PURPLE TINT / NO WHITE CAST", "text": "PURPLE SITS OPPOSITE YELLOW / CANCELS YELLOW-LOOKING DULLNESS", "start": 9.4, "end": 11.0, "why": "Colour-wheel explanation in text, in sync with the wheel animation and new L5."},
+    {"action": "change", "match": "4% NIACINAMIDE / RADIANT GLOW", "text": "4% NIACINAMIDE / INSTANT GLOW", "start": 11.0, "end": 12.7, "why": "'Glow' becomes 'Instant Glow'."},
+    {"action": "add", "match": null, "text": "MADE FOR INDIAN SKIN TONES / NO WHITE CAST", "start": 12.8, "end": 14.7, "why": "Completes the chain purple > yellow > Indian skin > no cast, over the fully blended skin."},
+    {"action": "add", "match": null, "text": "INSTANT GLOW", "start": 14.9, "end": 16.95, "why": "Label the glow result on the final face."}
+  ],
+  "voice_changes": [
+    {"speaker": "uv_rays", "to": "female", "why": "Villain voice pitched -3 st (male/scary). Use a female voice and drop the negative pitch shift, keeping it playful."},
+    {"speaker": "spf_shield", "to": "female", "why": "Written as a 'deep, gruff tough-guy' voice, which is male."}
+  ],
+  "summary": "Keep the villain-gang shot. Replace the non-dusky woman everywhere and the open-cap/pouring tube with the PSA1 mascot, PS04 dots, the colour-wheel graphic, PS05 blend and PSA3 Meera+mascot. Purple tint now explains purple vs yellow, and 'Instant Glow' is said and shown."
+}

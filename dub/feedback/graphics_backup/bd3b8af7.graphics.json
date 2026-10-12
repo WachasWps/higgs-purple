@@ -1,0 +1,93 @@
+{
+ "video_id": "bd3b8af7",
+ "product": "kojic_night_cream",
+ "caption_y": 0.9,
+ "caption_moves": [
+  {
+   "start": 12.0,
+   "end": 13.6,
+   "y": 0.58
+  }
+ ],
+ "elements": [
+  {
+   "type": "hook_mono",
+   "start": 0.2,
+   "end": 2.2,
+   "lines": [
+    "THE NIGHT TEAM",
+    "CLOCKS IN"
+   ],
+   "position": "top",
+   "anim": "slide_up"
+  },
+  {
+   "type": "pill",
+   "start": 4.0,
+   "end": 6.2,
+   "lines": [
+    "2% KOJIC ACID"
+   ],
+   "x": 0.5,
+   "y": 0.17,
+   "anim": "pop"
+  },
+  {
+   "type": "pill",
+   "start": 6.35,
+   "end": 8.4,
+   "lines": [
+    "NIACINAMIDE"
+   ],
+   "x": 0.3,
+   "y": 0.27,
+   "anim": "pop"
+  },
+  {
+   "type": "pill",
+   "start": 8.5,
+   "end": 9.95,
+   "lines": [
+    "ALPHA ARBUTIN"
+   ],
+   "x": 0.7,
+   "y": 0.27,
+   "anim": "pop"
+  },
+  {
+   "type": "label",
+   "start": 12.0,
+   "end": 13.6,
+   "lines": [
+    "BEFORE"
+   ],
+   "x": 0.5,
+   "y": 0.455,
+   "anim": "pop"
+  },
+  {
+   "type": "label",
+   "start": 12.0,
+   "end": 13.6,
+   "lines": [
+    "AFTER 2 WEEKS"
+   ],
+   "x": 0.5,
+   "y": 0.955,
+   "anim": "pop"
+  },
+  {
+   "type": "claim_bold",
+   "start": 13.65,
+   "end": 14.95,
+   "lines": [
+    "GLOW FUSION FORMULA",
+    "2% KOJIC ACID"
+   ],
+   "sub": "WITH NIACINAMIDE & ALPHA ARBUTIN",
+   "position": "top",
+   "anim": "fade"
+  }
+ ],
+ "notes": "Text pass (client EDL): hook kept on KN05; the three actives as separate same-style ingredient pills: 2% KOJIC ACID on the Kojic line over KN03 (top, clear of her face), NIACINAMIDE (x.30) and ALPHA ARBUTIN (x.70) over the icy and pink KNA2 orbs on L3/L4; new B/A split labels with captions at 0.58; the end claim now names all three actives in full ('ARBUTIN' alone is gone) and starts after the B/A."
+}

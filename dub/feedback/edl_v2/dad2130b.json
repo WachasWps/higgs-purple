@@ -1,0 +1,82 @@
+{
+ "video_id": "dad2130b",
+ "product": "ps",
+ "category": "ugc",
+ "approach": "v2_original_creator",
+ "shots": [
+  {
+   "start": 0,
+   "end": 2.77,
+   "action": "keep",
+   "n": 1
+  },
+  {
+   "start": 2.77,
+   "end": 5.6,
+   "action": "replace",
+   "replace_with": "GRAPHIC_COLOUR_WHEEL",
+   "client": "5.3 color wheel is off",
+   "n": 2
+  },
+  {
+   "start": 5.6,
+   "end": 6.6,
+   "action": "replace",
+   "replace_with": "PS10_texture_macro",
+   "client": "6.3 nozzel?",
+   "n": 3
+  },
+  {
+   "start": 6.6,
+   "end": 8.3,
+   "action": "replace",
+   "replace_with": "PS08_hand_swatch",
+   "client": "6.7 difference? residue",
+   "n": 4
+  },
+  {
+   "start": 8.3,
+   "end": 9.63,
+   "action": "replace",
+   "replace_with": "PS08_hand_swatch",
+   "clip_offset": 3.7,
+   "client": "9.3 ??? (three-hand shot)",
+   "n": 5
+  },
+  {
+   "start": 9.63,
+   "end": 10.6,
+   "action": "replace",
+   "replace_with": "PS10_texture_macro",
+   "clip_offset": 2.5,
+   "client": "10.0 tube? hand smooth/glowy",
+   "n": 6
+  },
+  {
+   "start": 10.6,
+   "end": 14.23,
+   "action": "keep",
+   "n": 7
+  },
+  {
+   "start": 14.23,
+   "end": 17.43,
+   "action": "replace",
+   "client": "16.0 where is the difference, write instant glow in After",
+   "n": 8,
+   "replace_with": "GRAPHIC_BA_SPLIT",
+   "ba_pair": [
+    "BA2_dad2130b_BEFORE",
+    "BA2_dad2130b_AFTER"
+   ],
+   "ba_face_y": 0.08
+  },
+  {
+   "start": 17.43,
+   "end": 20.04,
+   "action": "replace",
+   "n": 9,
+   "replace_with": "UGC_dad2130b_S9"
+  }
+ ]
+}

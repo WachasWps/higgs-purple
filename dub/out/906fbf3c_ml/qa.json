@@ -1,0 +1,55 @@
+[
+ {
+  "id": 1,
+  "speaker": "dark_spot",
+  "cer": 0.15,
+  "heard": "Rātriai, ini endatayum.",
+  "redub": true
+ },
+ {
+  "id": 2,
+  "speaker": "jar",
+  "cer": 0.15,
+  "heard": "Sorry..."
+ },
+ {
+  "id": 3,
+  "speaker": "jar",
+  "cer": 0.15,
+  "heard": "3. Xpert Formula. Mono brightening active.",
+  "redub": true
+ },
+ {
+  "id": 4,
+  "speaker": "dark_spot",
+  "cer": 0.56,
+  "heard": "മവനം കർറിയനറ്.",
+  "redub": true
+ },
+ {
+  "id": 5,
+  "speaker": "jar",
+  "cer": 0.15,
+  "heard": "Nhăn�적 krymil í ratrikeoj"
+ },
+ {
+  "id": 6,
+  "speaker": "jar",
+  "cer": 0.15,
+  "heard": "teď umas ajijeýýðé bake nějaká?"
+ },
+ {
+  "id": 7,
+  "speaker": "woman",
+  "cer": 0.56,
+  "heard": "ഇർംടായചില് സ്പര്ട്സ കർരണ്യപോലേ.",
+  "redub": true
+ },
+ {
+  "id": 8,
+  "speaker": "jar",
+  "cer": 0.15,
+  "heard": "Dermadog 2% Kojic Acid Nitocrine",
+  "redub": true
+ }
+]

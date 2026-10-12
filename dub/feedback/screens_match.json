@@ -1,0 +1,275 @@
+{
+ "00003229": {
+  "file": "PS_Ingredient-Personified_personification-purple-tint_Bengali.mp4",
+  "time": 13.333333333333334,
+  "score": 18,
+  "ocr_time": "0:13 / 0:22",
+  "n_cands": 1
+ },
+ "00003231": {
+  "file": "PS_Ingredient-Personified_personification-the-sunscreen-courtroom_Bengali.mp4",
+  "time": 2.6666666666666665,
+  "score": 152,
+  "ocr_time": "",
+  "n_cands": 30
+ },
+ "00003233": {
+  "file": "KNC_Product-Avatar_product-avatar-we-re-moving-in-permanently_Bengali.mp4",
+  "time": 15.666666666666666,
+  "score": 123,
+  "ocr_time": "0:15 / 0:25",
+  "n_cands": 30
+ },
+ "00003234": {
+  "file": "KNC_Product-Avatar_product-avatar-we-re-moving-in-permanently_Bengali.mp4",
+  "time": 2.3333333333333335,
+  "score": 261,
+  "ocr_time": "",
+  "n_cands": 30
+ },
+ "00003235": {
+  "file": "KNC_Product-Avatar_product-avatar-sleep-to-glow_Bengali.mp4",
+  "time": 7.666666666666667,
+  "score": 64,
+  "ocr_time": "0:08 / 0:25",
+  "n_cands": 1
+ },
+ "00003236": {
+  "file": "KNC_Product-Avatar_product-avatar-night-time-my-time_Bengali.mp4",
+  "time": 6.333333333333333,
+  "score": 291,
+  "ocr_time": "",
+  "n_cands": 1
+ },
+ "00003237": {
+  "file": "KNC_Product-Avatar_product-avatar-glow-fusion-night-patrol_Bengali.mp4",
+  "time": 7.333333333333333,
+  "score": 137,
+  "ocr_time": "0:07 / 0:25",
+  "n_cands": 1
+ },
+ "00003238": {
+  "file": "KNC_Product-Avatar_product-avatar-sleep-to-glow_Bengali.mp4",
+  "time": 1.0,
+  "score": 184,
+  "ocr_time": "0:01 / 0:25",
+  "n_cands": 1
+ },
+ "00003239": {
+  "file": "KNC_Product-Avatar_product-avatar-sleep-to-glow_Bengali.mp4",
+  "time": 14.0,
+  "score": 72,
+  "ocr_time": "",
+  "n_cands": 1
+ },
+ "00003240": {
+  "file": "KNC_Product-Avatar_product-avatar-we-re-moving-in-permanently_Bengali.mp4",
+  "time": 7.666666666666667,
+  "score": 194,
+  "ocr_time": "",
+  "n_cands": 30
+ },
+ "00003241": {
+  "file": "KNC_Product-Avatar_product-avatar-we-re-moving-in-permanently_Bengali.mp4",
+  "time": 8.666666666666666,
+  "score": 315,
+  "ocr_time": "",
+  "n_cands": 30
+ },
+ "00003252": {
+  "file": "PS_Product-Avatar_product-avatar-purple-tint_Bengali.mp4",
+  "time": 18.666666666666668,
+  "score": 41,
+  "ocr_time": "0:18 / 0:25",
+  "n_cands": 1
+ },
+ "00003253": {
+  "file": "PS_Product-Avatar_product-avatar-purple-tint_Bengali.mp4",
+  "time": 7.666666666666667,
+  "score": 255,
+  "ocr_time": "",
+  "n_cands": 30
+ },
+ "00003254": {
+  "file": "PS_Product-Avatar_product-avatar-purple-tint_Bengali.mp4",
+  "time": 6.0,
+  "score": 320,
+  "ocr_time": "",
+  "n_cands": 1
+ },
+ "00003255": {
+  "file": "PS_Product-Avatar_product-avatar-purple-tint_Bengali_74495eba.mp4",
+  "time": 18.333333333333332,
+  "score": 143,
+  "ocr_time": "",
+  "n_cands": 1
+ },
+ "00003256": {
+  "file": "PS_Product-Avatar_product-avatar-purple-tint_Bengali_74495eba.mp4",
+  "time": 15.0,
+  "score": 164,
+  "ocr_time": "",
+  "n_cands": 1
+ },
+ "00003257": {
+  "file": "PS_Product-Avatar_product-avatar-purple-tint_Bengali_74495eba.mp4",
+  "time": 9.333333333333334,
+  "score": 152,
+  "ocr_time": "",
+  "n_cands": 1
+ },
+ "00003258": {
+  "file": "PS_Product-Avatar_product-avatar-purple-tint_Bengali_33c29291.mp4",
+  "time": 16.666666666666668,
+  "score": 158,
+  "ocr_time": "",
+  "n_cands": 1
+ },
+ "00003259": {
+  "file": "PS_Product-Avatar_product-avatar-purple-tint_Bengali_33c29291.mp4",
+  "time": 8.0,
+  "score": 152,
+  "ocr_time": "",
+  "n_cands": 1
+ },
+ "00003260": {
+  "file": "PS_Product-Avatar_product-avatar-purple-tint_Bengali_33c29291.mp4",
+  "time": 6.333333333333333,
+  "score": 199,
+  "ocr_time": "",
+  "n_cands": 1
+ },
+ "00003261": {
+  "file": "PS_Product-Avatar_product-avatar-purple-tint_Bengali_33c29291.mp4",
+  "time": 3.0,
+  "score": 153,
+  "ocr_time": "",
+  "n_cands": 30
+ },
+ "00003262": {
+  "file": "PS_Product-Avatar_product-avatar-purple-tint_Bengali_7ea55172.mp4",
+  "time": 8.333333333333334,
+  "score": 70,
+  "ocr_time": "",
+  "n_cands": 1
+ },
+ "00003263": {
+  "file": "PS_Product-Avatar_product-avatar-purple-tint_Bengali_7ea55172.mp4",
+  "time": 7.0,
+  "score": 257,
+  "ocr_time": "",
+  "n_cands": 1
+ },
+ "00003271": {
+  "file": "KNC_UGC_ugc-so-this-became-part-of-every-night_Bengali.mp4",
+  "time": 16.333333333333332,
+  "score": 187,
+  "ocr_time": "",
+  "n_cands": 1
+ },
+ "00003282": {
+  "file": "PS_UGC_ugc-the-tint-is-made-for-indian-skin_Bengali.mp4",
+  "time": 19.0,
+  "score": 173,
+  "ocr_time": "",
+  "n_cands": 1
+ },
+ "00003283": {
+  "file": "PS_UGC_ugc-the-tint-is-made-for-indian-skin_Bengali.mp4",
+  "time": 16.0,
+  "score": 157,
+  "ocr_time": "",
+  "n_cands": 1
+ },
+ "00003284": {
+  "file": "PS_UGC_ugc-the-tint-is-made-for-indian-skin_Bengali.mp4",
+  "time": 10.0,
+  "score": 52,
+  "ocr_time": "",
+  "n_cands": 1
+ },
+ "00003285": {
+  "file": "PS_UGC_ugc-the-tint-is-made-for-indian-skin_Bengali.mp4",
+  "time": 9.333333333333334,
+  "score": 186,
+  "ocr_time": "",
+  "n_cands": 1
+ },
+ "00003286": {
+  "file": "PS_UGC_ugc-the-tint-is-made-for-indian-skin_Bengali.mp4",
+  "time": 6.666666666666667,
+  "score": 21,
+  "ocr_time": "0:07 / 0:25",
+  "n_cands": 1
+ },
+ "00003287": {
+  "file": "PS_UGC_ugc-the-tint-is-made-for-indian-skin_Bengali.mp4",
+  "time": 6.333333333333333,
+  "score": 32,
+  "ocr_time": "",
+  "n_cands": 1
+ },
+ "00003288": {
+  "file": "PS_UGC_ugc-the-tint-is-made-for-indian-skin_Bengali.mp4",
+  "time": 5.333333333333333,
+  "score": 101,
+  "ocr_time": "",
+  "n_cands": 1
+ },
+ "00003289": {
+  "file": "PS_UGC_ugc-now-watch-both-hands_Bengali.mp4",
+  "time": 19.333333333333332,
+  "score": 302,
+  "ocr_time": "",
+  "n_cands": 1
+ },
+ "00003290": {
+  "file": "PS_UGC_ugc-now-watch-both-hands_Bengali.mp4",
+  "time": 8.333333333333334,
+  "score": 17,
+  "ocr_time": "0:08 / 0:25",
+  "n_cands": 1
+ },
+ "00003291": {
+  "file": "PS_UGC_ugc-now-watch-both-hands_Bengali.mp4",
+  "time": 5.333333333333333,
+  "score": 26,
+  "ocr_time": "0:05 / 0:25",
+  "n_cands": 1
+ },
+ "00003292": {
+  "file": "PS_UGC_ugc-let-s-test-it-on-one-side_Bengali.mp4",
+  "time": 10.333333333333334,
+  "score": 126,
+  "ocr_time": "",
+  "n_cands": 1
+ },
+ "00003293": {
+  "file": "PS_UGC_ugc-but-the-real-test-is-how-it-blends_Bengali.mp4",
+  "time": 16.333333333333332,
+  "score": 122,
+  "ocr_time": "",
+  "n_cands": 1
+ },
+ "00003294": {
+  "file": "PS_UGC_ugc-and-no-it-doesn-t-stay-purple_Bengali.mp4",
+  "time": 14.333333333333334,
+  "score": 80,
+  "ocr_time": "",
+  "n_cands": 1
+ },
+ "00003295": {
+  "file": "PS_UGC_ugc-and-no-it-doesn-t-stay-purple_Bengali.mp4",
+  "time": 9.333333333333334,
+  "score": 184,
+  "ocr_time": "",
+  "n_cands": 1
+ },
+ "00003296": {
+  "file": "PS_UGC_ugc-and-no-it-doesn-t-stay-purple_Bengali.mp4",
+  "time": 0.6666666666666666,
+  "score": 414,
+  "ocr_time": "",
+  "n_cands": 30
+ }
+}

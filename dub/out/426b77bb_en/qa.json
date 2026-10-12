@@ -1,0 +1,38 @@
+[
+ {
+  "id": 1,
+  "speaker": "narrator",
+  "cer": 0.0,
+  "heard": "One active is good. Three together."
+ },
+ {
+  "id": 2,
+  "speaker": "narrator",
+  "cer": 0.0,
+  "heard": "Meet DERMDOC 2% Kojic Acid Night Cream."
+ },
+ {
+  "id": 3,
+  "speaker": "narrator",
+  "cer": 0.05,
+  "heard": "COGIC acid, niacinamide, and alpha-albutin in one glow fusion formula."
+ },
+ {
+  "id": 4,
+  "speaker": "narrator",
+  "cer": 0.0,
+  "heard": "Apply at night. It melts right in."
+ },
+ {
+  "id": 5,
+  "speaker": "narrator",
+  "cer": 0.0,
+  "heard": "Wake up to brighter looking skin."
+ },
+ {
+  "id": 6,
+  "speaker": "narrator",
+  "cer": 0.0,
+  "heard": "One jar. Three actives."
+ }
+]

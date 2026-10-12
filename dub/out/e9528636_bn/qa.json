@@ -1,0 +1,32 @@
+[
+ {
+  "id": 1,
+  "speaker": "narrator",
+  "cer": 0.05,
+  "heard": "রিচ নইট করিম কিন্টু এক দুম ভারিনয়।"
+ },
+ {
+  "id": 2,
+  "speaker": "narrator",
+  "cer": 0.15,
+  "heard": "Dharmodok 2% Kozyk Acid Night Cream, Mishazai"
+ },
+ {
+  "id": 3,
+  "speaker": "narrator",
+  "cer": 0.19,
+  "heard": "কটাজিক এসিট, নিযাসিনামইট আর আল্ফা আরবুটিন দিয়ে।"
+ },
+ {
+  "id": 4,
+  "speaker": "narrator",
+  "cer": 0.15,
+  "heard": "Glow Fusion Formula Darkspot কম দেখতে শাজুকরে।"
+ },
+ {
+  "id": 5,
+  "speaker": "narrator",
+  "cer": 0.27,
+  "heard": "रাথি লাগন শোকলে উঠুন গ্লোনে"
+ }
+]

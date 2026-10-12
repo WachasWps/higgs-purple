@@ -1,0 +1,59 @@
+{
+ "video_id": "426b77bb",
+ "product": "kojic_night_cream",
+ "caption_y": 0.9,
+ "no_outro": true,
+ "own_music": false,
+ "caption_moves": [],
+ "elements": [
+  {
+   "type": "hook_mono",
+   "start": 0.2,
+   "end": 1.8,
+   "lines": [
+    "NIGHT SHIFT",
+    "FOR SKIN"
+   ],
+   "position": "lower",
+   "anim": "slide_up"
+  },
+  {
+   "type": "label",
+   "start": 8.0,
+   "end": 9.2,
+   "lines": [
+    "APPLY AT NIGHT"
+   ],
+   "x": 0.5,
+   "y": 0.3,
+   "anim": "pop"
+  },
+  {
+   "type": "claim_bold",
+   "start": 9.4,
+   "end": 11.9,
+   "lines": [
+    "GLOW FUSION",
+    "FORMULA"
+   ],
+   "sub": "KOJIC · NIACINAMIDE · ARBUTIN",
+   "x": 0.5,
+   "y": 0.3,
+   "anim": "fade"
+  },
+  {
+   "type": "claim_bold",
+   "start": 16.8,
+   "end": 18.9,
+   "lines": [
+    "WAKE UP",
+    "BRIGHTER"
+   ],
+   "sub": "MORE EVEN-LOOKING SKIN",
+   "x": 0.5,
+   "y": 0.3,
+   "anim": "fade"
+  }
+ ],
+ "notes": "user's General Ad: text only where the footage has none baked in; own end card + music"
+}

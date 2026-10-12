@@ -1,0 +1,41 @@
+[
+ {
+  "id": 1,
+  "speaker": "professor_jar",
+  "cer": 0.06,
+  "heard": "কলাসারামভ আজি রাতির লেসন ব্রাইটর আউ ইভেন লুকিংগ সকিন।"
+ },
+ {
+  "id": 2,
+  "speaker": "professor_jar",
+  "cer": 0.18,
+  "heard": "তিনটি সমস্যা। তিনি জন স্েশালিস্ট।"
+ },
+ {
+  "id": 3,
+  "speaker": "kojic_acid",
+  "cer": 0.14,
+  "heard": "লেসান ওন জিদিয় ডারক সপটাগু টারগেট করা।"
+ },
+ {
+  "id": 4,
+  "speaker": "niacinamide",
+  "cer": 0.15,
+  "heard": "Lesson 2. Brighter Skin 3. Even Looking Tone",
+  "redub": true
+ },
+ {
+  "id": 5,
+  "speaker": "professor_jar",
+  "cer": 0.25,
+  "heard": "এচকরিম রাতির লগার ভাকি কমতিম করিভো",
+  "redub": true
+ },
+ {
+  "id": 6,
+  "speaker": "narrator",
+  "cer": 0.19,
+  "heard": "দুই সপতাহের সপাট্স গমদে স�ুছে কলাস সচোটে",
+  "redub": true
+ }
+]

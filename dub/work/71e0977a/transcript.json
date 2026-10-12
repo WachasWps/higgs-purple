@@ -1,0 +1,195 @@
+{
+ "language": "en",
+ "segments": [
+  {
+   "seg": 0,
+   "start": 0.0,
+   "end": 1.5,
+   "text": "You can't fade us!",
+   "f0_median_hz": 178,
+   "words": [
+    [
+     "You",
+     0.0,
+     0.32
+    ],
+    [
+     "can't",
+     0.32,
+     0.7
+    ],
+    [
+     "fade",
+     0.7,
+     1.0
+    ],
+    [
+     "us!",
+     1.0,
+     1.5
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 1,
+   "start": 1.7,
+   "end": 2.76,
+   "text": "Want to test that theory?",
+   "f0_median_hz": 193,
+   "words": [
+    [
+     "Want",
+     1.7,
+     1.88
+    ],
+    [
+     "to",
+     1.88,
+     1.98
+    ],
+    [
+     "test",
+     1.98,
+     2.2
+    ],
+    [
+     "that",
+     2.2,
+     2.42
+    ],
+    [
+     "theory?",
+     2.42,
+     2.76
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 2,
+   "start": 4.4,
+   "end": 5.6,
+   "text": "Challenge accepted.",
+   "f0_median_hz": 267,
+   "words": [
+    [
+     "Challenge",
+     4.4,
+     5.04
+    ],
+    [
+     "accepted.",
+     5.04,
+     5.6
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 3,
+   "start": 9.32,
+   "end": 12.54,
+   "text": "Powered by three targeted ingredients in one night cream.",
+   "f0_median_hz": 206,
+   "words": [
+    [
+     "Powered",
+     9.32,
+     9.96
+    ],
+    [
+     "by",
+     9.96,
+     10.1
+    ],
+    [
+     "three",
+     10.1,
+     10.38
+    ],
+    [
+     "targeted",
+     10.38,
+     10.82
+    ],
+    [
+     "ingredients",
+     10.82,
+     11.36
+    ],
+    [
+     "in",
+     11.36,
+     11.68
+    ],
+    [
+     "one",
+     11.68,
+     11.98
+    ],
+    [
+     "night",
+     11.98,
+     12.2
+    ],
+    [
+     "cream.",
+     12.2,
+     12.54
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 4,
+   "start": 13.68,
+   "end": 16.56,
+   "text": "Dermdok KNC Night Cream. Make every night count.",
+   "f0_median_hz": 204,
+   "words": [
+    [
+     "Dermdok",
+     13.68,
+     14.08
+    ],
+    [
+     "KNC",
+     14.08,
+     14.66
+    ],
+    [
+     "Night",
+     14.66,
+     14.84
+    ],
+    [
+     "Cream.",
+     14.84,
+     15.1
+    ],
+    [
+     "Make",
+     15.28,
+     15.74
+    ],
+    [
+     "every",
+     15.74,
+     16.04
+    ],
+    [
+     "night",
+     16.04,
+     16.24
+    ],
+    [
+     "count.",
+     16.24,
+     16.56
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  }
+ ]
+}

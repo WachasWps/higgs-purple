@@ -1,0 +1,163 @@
+{
+ "video": "906fbf3c",
+ "shots": [
+  {
+   "n": 1,
+   "start": 0,
+   "end": 2.3,
+   "on_screen": "Night: worried woman touching spotty cheek, smoky dark-spot villain beside her."
+  },
+  {
+   "n": 2,
+   "start": 2.3,
+   "end": 4.0,
+   "on_screen": "Talking jar pressing a glowing three-button panel on a night counter."
+  },
+  {
+   "n": 3,
+   "start": 4.0,
+   "end": 5.5,
+   "on_screen": "Jar opens, '2% KOJIC ACID' caption, jar raising a finger."
+  },
+  {
+   "n": 4,
+   "start": 5.5,
+   "end": 8.3,
+   "on_screen": "Jar of cream with three glowing orbs (the three actives) circling."
+  },
+  {
+   "n": 5,
+   "start": 8.3,
+   "end": 9.6,
+   "on_screen": "Golden '2% Kojic Acid' hexagon blasting dark-spot villains."
+  },
+  {
+   "n": 6,
+   "start": 9.6,
+   "end": 11.3,
+   "on_screen": "Macro of rich white cream peak in the jar."
+  },
+  {
+   "n": 7,
+   "start": 11.3,
+   "end": 13.3,
+   "on_screen": "Fingertip scooping cream from the jar at night."
+  },
+  {
+   "n": 8,
+   "start": 13.3,
+   "end": 14.9,
+   "on_screen": "Close-up cheek: dark-spot villain dissolving, skin clearing."
+  },
+  {
+   "n": 9,
+   "start": 14.9,
+   "end": 16.6,
+   "on_screen": "Before/after split: both halves frowning; after has slightly fewer spots."
+  },
+  {
+   "n": 10,
+   "start": 16.6,
+   "end": 20.0,
+   "on_screen": "Jar on night counter, end card '2% Kojic Acid Night Cream, Sleep to Glow'."
+  }
+ ],
+ "lines": [
+  {
+   "id": 1,
+   "start": 0.0,
+   "slot_s": 2.17,
+   "speaker": "dark_spot",
+   "current": "Night time. My time.",
+   "on_screen_during": "Dark-spot villain on her cheek at night",
+   "verdict": "keep",
+   "new": "Night time. My time.",
+   "words": 4,
+   "reason": "Villain on screen"
+  },
+  {
+   "id": 2,
+   "start": 2.32,
+   "slot_s": 3.11,
+   "speaker": "jar",
+   "current": "Actually, this is my shift. I'm the overnight brightener.",
+   "on_screen_during": "Jar at control panel, then '2% KOJIC ACID' caption",
+   "verdict": "rewrite",
+   "new": "My shift now. Two percent Kojic Acid!",
+   "words": 7,
+   "reason": "Match on-screen caption; old line over budget"
+  },
+  {
+   "id": 3,
+   "start": 5.58,
+   "slot_s": 2.67,
+   "speaker": "jar",
+   "current": "My 3Xpert formula brings three brightening actives together.",
+   "on_screen_during": "Three glowing actives circling the jar",
+   "verdict": "rewrite",
+   "new": "Three glowing actives, one 3XPERT formula.",
+   "words": 6,
+   "reason": "Describe orbs; fix 3XPERT spelling; fit budget"
+  },
+  {
+   "id": 4,
+   "start": 8.4,
+   "slot_s": 0.95,
+   "speaker": "dark_spot",
+   "current": "Three against one?",
+   "on_screen_during": "Kojic hexagon blasting spot villains",
+   "verdict": "rewrite",
+   "new": "Three?! Unfair!",
+   "words": 2,
+   "reason": "Villain reaction kept; trimmed to 0.95s slot"
+  },
+  {
+   "id": 5,
+   "start": 9.5,
+   "slot_s": 1.71,
+   "speaker": "jar",
+   "current": "And I'm rich, creamy and made for the night.",
+   "on_screen_during": "End of blast, then rich cream macro",
+   "verdict": "rewrite",
+   "new": "Rich, creamy, night-ready.",
+   "words": 3,
+   "reason": "Describe the texture shown; old line far over budget"
+  },
+  {
+   "id": 6,
+   "start": 11.36,
+   "slot_s": 2.95,
+   "speaker": "jar",
+   "current": "Apply, massage and let me get to work.",
+   "on_screen_during": "Fingertip scoop, then spot villain dissolving",
+   "verdict": "rewrite",
+   "new": "Scoop, massage in, and let me work.",
+   "words": 7,
+   "reason": "Match scoop + villain dissolving; fit budget"
+  },
+  {
+   "id": 7,
+   "start": 14.46,
+   "slot_s": 2.15,
+   "speaker": "woman",
+   "current": "Now that's a glow worth waking up to.",
+   "on_screen_during": "Before/after split (night lighting)",
+   "verdict": "rewrite",
+   "new": "Two weeks: spots look reduced!",
+   "words": 5,
+   "reason": "B/A must state 2-week result; removed morning wording over night shot"
+  },
+  {
+   "id": 8,
+   "start": 16.76,
+   "slot_s": 3.18,
+   "speaker": "jar",
+   "current": "DERMDOC 2% Kojic Acid Night Cream.",
+   "on_screen_during": "End card with product name",
+   "verdict": "keep",
+   "new": "DERMDOC 2% Kojic Acid Night Cream.",
+   "words": 6,
+   "reason": "Fits end card"
+  }
+ ]
+}

@@ -1,0 +1,224 @@
+{
+ "video": "23850d94",
+ "style": "personification",
+ "cast": [
+  {
+   "id": "professor_jar",
+   "name": "Professor Jar",
+   "description": "talking DERMDOC Kojic Acid night cream jar wearing round glasses and holding a pointer, teaching a mini night class; playful, bossy-but-fun cartoon teacher voice"
+  },
+  {
+   "id": "kojic_acid",
+   "name": "Kojic Acid",
+   "description": "golden spiky Kojic Acid ingredient hero who points at the Dark Spot villain; confident, punchy, upbeat cartoon voice"
+  },
+  {
+   "id": "niacinamide",
+   "name": "Niacinamide",
+   "description": "silver-white Niacinamide ingredient hero who sweeps away the grey Dullness villain; light, airy, sparkly cartoon voice, higher than Kojic Acid"
+  },
+  {
+   "id": "narrator",
+   "name": "Narrator",
+   "description": "off-screen brand voiceover over the end frame; warm, clear, polished ad narrator"
+  }
+ ],
+ "lines": [
+  {
+   "id": 1,
+   "start": 0.0,
+   "end": 3.44,
+   "speaker": "professor_jar",
+   "en": "Class is in session. Tonight's lesson: brighter, even-looking skin."
+  },
+  {
+   "id": 2,
+   "start": 3.78,
+   "end": 5.4,
+   "speaker": "professor_jar",
+   "en": "Three concerns. Three specialists."
+  },
+  {
+   "id": 3,
+   "start": 5.82,
+   "end": 8.1,
+   "speaker": "kojic_acid",
+   "en": "Lesson one: target stubborn dark spots."
+  },
+  {
+   "id": 4,
+   "start": 8.34,
+   "end": 10.5,
+   "speaker": "niacinamide",
+   "en": "Lesson two: brighter skin. Three: even-looking tone."
+  },
+  {
+   "id": 5,
+   "start": 10.84,
+   "end": 13.34,
+   "speaker": "professor_jar",
+   "en": "Now apply at night, and let the team get to work."
+  },
+  {
+   "id": 6,
+   "start": 13.66,
+   "end": 16.5,
+   "speaker": "narrator",
+   "en": "DERMDOC 2% Kojic Acid Night Cream. Class dismissed."
+  }
+ ],
+ "shots": [
+  {
+   "n": 1,
+   "start": 0,
+   "end": 3.6,
+   "what": "LEFT_23850d94_S1",
+   "frames": [
+    "s01_0.jpg",
+    "s01_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 1,
+     "start": 0.0,
+     "end": 3.44,
+     "speaker": "professor_jar",
+     "en": "Class is in session. Tonight's lesson: brighter, even-looking skin."
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "start": 3.6,
+   "end": 5.6,
+   "what": "original footage",
+   "frames": [
+    "s02_0.jpg",
+    "s02_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 2,
+     "start": 3.78,
+     "end": 5.4,
+     "speaker": "professor_jar",
+     "en": "Three concerns. Three specialists."
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "start": 5.6,
+   "end": 8.1,
+   "what": "original footage",
+   "frames": [
+    "s03_0.jpg",
+    "s03_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 3,
+     "start": 5.82,
+     "end": 8.1,
+     "speaker": "kojic_acid",
+     "en": "Lesson one: target stubborn dark spots."
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "start": 8.1,
+   "end": 9.1,
+   "what": "original footage",
+   "frames": [
+    "s04_0.jpg",
+    "s04_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 4,
+     "start": 8.34,
+     "end": 10.5,
+     "speaker": "niacinamide",
+     "en": "Lesson two: brighter skin. Three: even-looking tone."
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "start": 9.1,
+   "end": 10.7,
+   "what": "original footage",
+   "frames": [
+    "s05_0.jpg",
+    "s05_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 4,
+     "start": 8.34,
+     "end": 10.5,
+     "speaker": "niacinamide",
+     "en": "Lesson two: brighter skin. Three: even-looking tone."
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "start": 10.7,
+   "end": 13.6,
+   "what": "KN02_scoop",
+   "frames": [
+    "s06_0.jpg",
+    "s06_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 5,
+     "start": 10.84,
+     "end": 13.34,
+     "speaker": "professor_jar",
+     "en": "Now apply at night, and let the team get to work."
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "start": 13.6,
+   "end": 15.2,
+   "what": "GRAPHIC_BA_SPLIT",
+   "frames": [
+    "s07_0.jpg",
+    "s07_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 6,
+     "start": 13.66,
+     "end": 16.5,
+     "speaker": "narrator",
+     "en": "DERMDOC 2% Kojic Acid Night Cream. Class dismissed."
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "start": 15.2,
+   "end": 17.0,
+   "what": "original footage",
+   "frames": [
+    "s08_0.jpg",
+    "s08_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 6,
+     "start": 13.66,
+     "end": 16.5,
+     "speaker": "narrator",
+     "en": "DERMDOC 2% Kojic Acid Night Cream. Class dismissed."
+    }
+   ]
+  }
+ ]
+}

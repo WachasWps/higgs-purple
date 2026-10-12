@@ -1,0 +1,212 @@
+{
+ "video_id": "51440b1f",
+ "product": "ps",
+ "category": "ugc",
+ "shots": [
+  {
+   "n": 1,
+   "start": 0.0,
+   "end": 2.17,
+   "content": "Fair creator in glasses and green kurta on a terrace, touching her cheek and talking at a phone camera.",
+   "issues": [
+    "model_not_dusky",
+    "lip_sync_talking_head"
+   ],
+   "action": "replace",
+   "replace_with": "PS07_before_dull",
+   "custom": null,
+   "note": "L1 (rewritten) 'My skin looked dull every single morning.' MEERA's dull, matte BEFORE face as B-roll, with a small sigh and a touch to her cheek. Opens on a face."
+  },
+  {
+   "n": 2,
+   "start": 2.17,
+   "end": 5.6,
+   "content": "AI colour wheel sketched in a notebook with a lavender swatch (wrong: blue opposite yellow).",
+   "issues": [
+    "wrong_colour_wheel",
+    "colour_wheel_unexplained"
+   ],
+   "action": "replace",
+   "replace_with": "GRAPHIC_COLOUR_WHEEL",
+   "custom": null,
+   "note": "Client 00003291 'colour wheel is off, yellow is opposite purple not blue'. Correct animated wheel full-screen: purple exactly opposite yellow, an arrow between them, and yellow neutralising on 'helps cancel yellow-looking dullness' (rewritten L2)."
+  },
+  {
+   "n": 3,
+   "start": 5.6,
+   "end": 6.93,
+   "content": "Tube dispensing a lavender blob onto the back of a hand from a nozzle-like tip.",
+   "issues": [
+    "nozzle",
+    "packaging_wrong",
+    "hand_continuity"
+   ],
+   "action": "replace",
+   "replace_with": "PS08_hand_swatch",
+   "custom": null,
+   "note": "L3 'Now watch it blend.' S3+S4+S5 (5.6-10.6 = 5.0 s) = ONE PS08 clip at real speed. Here clip 0-1.33 s: lavender stripe on MEERA's dusky hand, with no tube in frame."
+  },
+  {
+   "n": 4,
+   "start": 6.93,
+   "end": 8.8,
+   "content": "Two hands on a wooden ledge, with a thick lavender smear on one.",
+   "issues": [
+    "not_blended",
+    "residue"
+   ],
+   "action": "replace",
+   "replace_with": "PS08_hand_swatch",
+   "custom": null,
+   "note": "L4 'It starts lavender, then blends completely clear.' PS08 clip 1.33-3.2 s: fingertips rub and the lavender visibly disappears."
+  },
+  {
+   "n": 5,
+   "start": 8.8,
+   "end": 10.6,
+   "content": "Two hands side by side after 'blending', with no visible difference.",
+   "issues": [
+    "no_visible_difference",
+    "not_blended"
+   ],
+   "action": "replace",
+   "replace_with": "PS08_hand_swatch",
+   "custom": null,
+   "note": "Client 00003290 'product is not blended, there has to be difference shown after mixing'. PS08 clip 3.2-5.0 s: fully blended, with no cast or residue, and the treated patch looks visibly more even and radiant. Under L5 'Zero white cast, zero purple residue'."
+  },
+  {
+   "n": 6,
+   "start": 10.6,
+   "end": 14.3,
+   "content": "Creator with large lavender patches on forehead and cheeks, hands on face, with BEFORE/AFTER labels at 12.8-13.95.",
+   "issues": [
+    "model_not_dusky",
+    "thick_application",
+    "transformation_missing",
+    "lip_sync"
+   ],
+   "action": "replace",
+   "replace_with": "PS04_dot_face",
+   "custom": null,
+   "note": "L6 'made for Indian skin, 4% niacinamide...'. Two library clips: PS04_dot_face clip 0-1.4 s (neat small dots), then PS05_blend_glow clip 2.7-5.0 s (cream melts in invisibly -> dewy Instant Glow, smile). Remove the mid-shot BEFORE/AFTER labels; the B/A moves to the end.",
+   "then": "PS05_blend_glow"
+  },
+  {
+   "n": 7,
+   "start": 14.3,
+   "end": 19.07,
+   "content": "Creator in an SPF bubble holding the tube, eyes closed, on the terrace.",
+   "issues": [
+    "model_not_dusky",
+    "continuity"
+   ],
+   "action": "replace",
+   "replace_with": "PS02_hold_balcony",
+   "custom": null,
+   "note": "L7 'SPF 50 PA+++ gives me the daily protection I actually need.' (14.34-17.92). Use PS02 14.3-17.95 (3.65 s): MEERA lifts the exact capped tube and smiles. Keep the SPF super. From 17.95 cut to the B/A split (see S8), so the last 1.1 s of this slot becomes the split."
+  },
+  {
+   "n": 8,
+   "start": 19.07,
+   "end": 20.04,
+   "content": "Packshot of the tube standing next to its box.",
+   "issues": [
+    "two_products_in_frame",
+    "client_remove",
+    "random_shot_before_endslate"
+   ],
+   "action": "replace",
+   "replace_with": "GRAPHIC_BA_SPLIT",
+   "custom": null,
+   "note": "Client 00003289 'remove this'. Drop the packshot. The slot is reused (together with 17.95-19.07) for the B/A split the video was missing: left PS07_before_dull, right PS06_glow_after, labels 'BEFORE' / 'INSTANT GLOW', 17.95-20.04, under the new line 'Before: dull. After: Instant Glow!'. Ends on a face."
+  }
+ ],
+ "script_changes": [
+  {
+   "line_id": 1,
+   "old_en": "My morning glow was definitely not glowing.",
+   "new_en": "My skin looked dull every single morning.",
+   "reason": "Clear dull 'before' set-up; 'glow' wording is reserved for the Instant Glow payoff"
+  },
+  {
+   "line_id": 2,
+   "old_en": "The purple tint is color correction. Violet helps balance yellow-looking dullness.",
+   "new_en": "Purple sits opposite yellow on the colour wheel, so it helps cancel yellow-looking dullness.",
+   "reason": "Explain WHY purple: it is opposite yellow on the colour wheel"
+  },
+  {
+   "line_id": 3,
+   "old_en": "Now watch both hands.",
+   "new_en": "Now watch it blend.",
+   "reason": "New B-roll shows one hand being blended (PS08)"
+  }
+ ],
+ "new_lines": [
+  {
+   "after_line_id": 7,
+   "en": "Before: dull. After: Instant Glow!",
+   "speaker": "creator",
+   "purpose": "B/A payoff over the new split at 17.95-20.04 (previously silent and holding the removed packshot)"
+  }
+ ],
+ "supers": [
+  {
+   "action": "change",
+   "match": "WHERE'S MY / MORNING GLOW?",
+   "text": "WHERE'S MY / INSTANT GLOW?",
+   "start": 0.2,
+   "end": 1.95,
+   "why": "'glow' -> 'Instant Glow'; sets up the payoff"
+  },
+  {
+   "action": "change",
+   "match": "PURPLE TINT / COLOUR CORRECTION",
+   "text": "PURPLE IS OPPOSITE YELLOW / HELPS CANCEL YELLOW-LOOKING DULLNESS",
+   "start": 2.4,
+   "end": 5.4,
+   "why": "Explain the colour wheel and sync it to the correct wheel graphic"
+  },
+  {
+   "action": "remove",
+   "match": "BEFORE",
+   "text": "BEFORE",
+   "start": 12.8,
+   "end": 13.95,
+   "why": "Mid-application B/A labels removed; the B/A moves to the end"
+  },
+  {
+   "action": "remove",
+   "match": "AFTER",
+   "text": "AFTER",
+   "start": 12.8,
+   "end": 13.95,
+   "why": "Same as above"
+  },
+  {
+   "action": "add",
+   "match": null,
+   "text": "INSTANT GLOW",
+   "start": 12.9,
+   "end": 14.2,
+   "why": "Label the moment the cream disappears and the glow appears (PS05)"
+  },
+  {
+   "action": "add",
+   "match": null,
+   "text": "BEFORE",
+   "start": 18.0,
+   "end": 20.0,
+   "why": "B/A split label (left)"
+  },
+  {
+   "action": "add",
+   "match": null,
+   "text": "INSTANT GLOW",
+   "start": 18.0,
+   "end": 20.0,
+   "why": "Client: 'Instant Glow' under the after image"
+  }
+ ],
+ "voice_changes": [],
+ "summary": "Creator replaced everywhere by MEERA B-roll. The wrong wheel becomes the correct graphic, the hand demo now visibly blends clear, the dots -> blend -> Instant Glow beat is added, and the client-flagged tube+box packshot is swapped for an end B/A split with a new 'Before: dull. After: Instant Glow!' line. 0 custom."
+}

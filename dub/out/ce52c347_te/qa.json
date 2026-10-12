@@ -1,0 +1,32 @@
+[
+ {
+  "id": 1,
+  "speaker": "narrator",
+  "cer": 0.06,
+  "heard": "ఒక సంస్క్రీన్ రెండు స్మర్ట్ పనులు."
+ },
+ {
+  "id": 2,
+  "speaker": "narrator",
+  "cer": 0.15,
+  "heard": "Ocatee SPF 50 PA++++ UVA UVB protection."
+ },
+ {
+  "id": 3,
+  "speaker": "narrator",
+  "cer": 0.15,
+  "heard": "2.4% niacinamide, దాంతో పాటు, పర్పుల టింట్."
+ },
+ {
+  "id": 4,
+  "speaker": "narrator",
+  "cer": 0.07,
+  "heard": "పర్పెల్ పసుపకి ఏదిరు.అందికే పసుపోట్ డల్నిస్ని తగ్గించగలదు."
+ },
+ {
+  "id": 5,
+  "speaker": "narrator",
+  "cer": 0.16,
+  "heard": "ుంది వీడ్ కాస్ట్ లేకుండా బ్లెండ్ అవుతుంది. జస్టిన్ స్టన్ట్ గ్లో."
+ }
+]

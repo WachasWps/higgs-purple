@@ -1,0 +1,228 @@
+{
+ "video_id": "00b304b4",
+ "style": "personification",
+ "duration": 17.02,
+ "cast": [
+  {
+   "id": "tube",
+   "name": "DERMDOC Sunscreen Tube",
+   "role": "product_mascot",
+   "description": "the white DERMDOC Ultra Violet sunscreen tube with lavender cap, tiny arms and legs; confident team-manager boss, warm upbeat bright cartoon voice, in charge and encouraging",
+   "ref_ranges": [
+    [
+     0.0,
+     2.46
+    ],
+    [
+     5.6,
+     7.2
+    ],
+    [
+     13.06,
+     14.66
+    ],
+    [
+     14.96,
+     15.9
+    ]
+   ],
+   "fx": "cartoon",
+   "pitch_semitones": 0
+  },
+  {
+   "id": "uv_rays",
+   "name": "UV Rays",
+   "role": "villain",
+   "description": "angry golden-orange sun-ray villain at the window (leader of the villain gang: White Cast, Greasiness, Dullness); scheming, gleeful, theatrical cartoon-villain voice, should sound sneaky and menacing but playful",
+   "ref_ranges": [
+    [
+     0.0,
+     2.46
+    ],
+    [
+     2.68,
+     4.5
+    ],
+    [
+     13.44,
+     17.56
+    ]
+   ],
+   "fx": "villain_f",
+   "pitch_semitones": -1,
+   "ref_file": "work/46d965c9/stems/vocals.wav",
+   "recast": "female villain (was f0≈309 Hz)"
+  },
+  {
+   "id": "spf_shield",
+   "name": "SPF Shield",
+   "role": "hero",
+   "description": "cobalt-blue SPF 50 PA+++ shield bodyguard character; deep, gruff, steady tough-guy bodyguard voice",
+   "ref_ranges": [
+    [
+     0.0,
+     5.5
+    ],
+    [
+     5.62,
+     10.5
+    ]
+   ],
+   "fx": "cartoon",
+   "pitch_semitones": 0,
+   "ref_file": "work/51440b1f/stems/vocals.wav",
+   "recast": "female hero (was f0≈136 Hz)"
+  },
+  {
+   "id": "purple_tint",
+   "name": "Purple Tint",
+   "role": "hero",
+   "description": "little lavender droplet character; sweet, perky, bouncy squeaky cartoon voice",
+   "ref_ranges": [
+    [
+     9.36,
+     10.92
+    ]
+   ],
+   "fx": "cartoon",
+   "pitch_semitones": 2
+  },
+  {
+   "id": "niacinamide",
+   "name": "Niacinamide",
+   "role": "hero",
+   "description": "silver-lavender 4% niacinamide molecule character; smart, cheeky, confident bright cartoon voice",
+   "ref_ranges": [
+    [
+     10.96,
+     12.8
+    ]
+   ],
+   "fx": "cartoon",
+   "pitch_semitones": 0
+  }
+ ],
+ "lines": [
+  {
+   "id": 1,
+   "speaker": "tube",
+   "start": 0.0,
+   "end": 2.46,
+   "max_end": 2.54,
+   "en": "Team, we've got a full day ahead.",
+   "tag": "happy",
+   "keep_original": false,
+   "bn": "টিম, আজ সারাদিন অনেক কাজ!",
+   "ta": "டீம், இன்னைக்கு ஃபுல் டே வேலை இருக்கு!",
+   "te": "టీమ్, ఈరోజు ఫుల్ డే పని ఉంది!",
+   "ml": "ടീം, ഇന്ന് ഫുൾ ഡേ പണിയുണ്ട്!",
+   "or": "ଟିମ୍, ଆଜି ପୂରା ଦିନ କାମ ଅଛି!"
+  },
+  {
+   "id": 2,
+   "speaker": "uv_rays",
+   "start": 2.58,
+   "end": 4.42,
+   "max_end": 5.56,
+   "en": "Let's ruin her work day!",
+   "tag": "angry",
+   "keep_original": false,
+   "bn": "চল, আজ ওর অফিসের দিনটার বারোটা বাজাই!",
+   "ta": "வாங்கடா, இவ ஆபீஸ் டேவையே காலி பண்ணலாம்!",
+   "te": "పదండి, ఈమె ఆఫీస్ డేని పాడు చేద్దాం!",
+   "ml": "വാടാ, ഇവളുടെ ഓഫീസ് ദിവസം നമുക്ക് കുളമാക്കാം!",
+   "or": "ଚାଲ, ତା ଅଫିସ୍ ଦିନଟାକୁ ବରବାଦ କରିଦେବା!"
+  },
+  {
+   "id": 3,
+   "speaker": "tube",
+   "start": 5.6,
+   "end": 7.2,
+   "max_end": 7.5,
+   "en": "Everyone knows their assignment.",
+   "tag": null,
+   "keep_original": false,
+   "bn": "সবাই জানো কার কী ডিউটি!",
+   "ta": "எல்லாருக்கும் டியூட்டி தெரியும்!",
+   "te": "అందరికీ వాళ్ళ డ్యూటీ తెలుసు!",
+   "ml": "എല്ലാർക്കും സ്വന്തം ഡ്യൂട്ടി അറിയാം!",
+   "or": "ସମସ୍ତେ ନିଜ ନିଜ ଡ୍ୟୁଟି ଜାଣିଛ!"
+  },
+  {
+   "id": 4,
+   "speaker": "spf_shield",
+   "start": 7.54,
+   "end": 9.26,
+   "max_end": 9.4,
+   "en": "I've got the UV rays.",
+   "tag": null,
+   "keep_original": false,
+   "bn": "ইউভি রে আমি সামলাব!",
+   "ta": "யூவி ரேஸ் என் பொறுப்பு!",
+   "te": "యూవీ రేస్ నేను చూసుకుంటా!",
+   "ml": "യൂവി റേസ് ഞാൻ നോക്കിക്കോളാം!",
+   "or": "ୟୁଭି ରେଜ୍ ମୁଁ ସମ୍ଭାଳିବି!"
+  },
+  {
+   "id": 5,
+   "speaker": "purple_tint",
+   "start": 9.44,
+   "end": 10.82,
+   "max_end": 10.96,
+   "en": "Purple beats yellow dullness!",
+   "tag": "happy",
+   "keep_original": false,
+   "bn": "পার্পল হলদেটে ডালনেস হারায়!",
+   "ta": "மஞ்சள் டல்னெஸ்ஸ பர்ப்பிள் அடிச்சிடும்!",
+   "te": "పర్పుల్‌తో పసుపు డల్‌నెస్ ఔట్!",
+   "ml": "പർപ്പിൾ മഞ്ഞ ഡൾനെസിനെ തോൽപ്പിക്കും!",
+   "or": "ପର୍ପଲ ହଳଦିଆ ଡଲନେସକୁ ହରାଏ!"
+  },
+  {
+   "id": 6,
+   "speaker": "niacinamide",
+   "start": 11.0,
+   "end": 12.66,
+   "max_end": 13.02,
+   "en": "I'll brighten that dullness!",
+   "tag": "happy",
+   "keep_original": false,
+   "bn": "ওই ডালনেস আমি ব্রাইট করে দেব!",
+   "ta": "டல்னெஸ்ஸ நான் ப்ரைட்டாக்குவேன்!",
+   "te": "ఆ డల్‌నెస్‌ని నేను బ్రైట్ చేస్తా!",
+   "ml": "ആ ഡൾനെസ് ഞാൻ ബ്രൈറ്റാക്കും!",
+   "or": "ସେଇ ଡଲନେସକୁ ମୁଁ ବ୍ରାଇଟ କରିଦେବି!"
+  },
+  {
+   "id": 7,
+   "speaker": "tube",
+   "start": 13.06,
+   "end": 14.66,
+   "max_end": 14.92,
+   "en": "Blends right in. No residue!",
+   "tag": "happy",
+   "keep_original": false,
+   "bn": "একদম মিশে যায়। নো রেসিডিউ!",
+   "ta": "அப்படியே கலந்துடும். ரெசிடியூ இல்ல!",
+   "te": "కలిసిపోతుంది. నో రెసిడ్యూ!",
+   "ml": "നന്നായി അലിഞ്ഞുചേരും. നോ റെസിഡ്യൂ!",
+   "or": "ଏକଦମ ମିଶିଯାଏ। ନୋ ରେସିଡ୍ୟୁ!"
+  },
+  {
+   "id": 8,
+   "speaker": "tube",
+   "start": 14.96,
+   "end": 15.9,
+   "max_end": 16.62,
+   "en": "Instant glow. Let's go!",
+   "tag": "happy",
+   "keep_original": false,
+   "bn": "ইনস্ট্যান্ট গ্লো, চলো যাই!",
+   "ta": "இன்ஸ்டன்ட் க்ளோ, லெட்ஸ் கோ!",
+   "te": "ఇన్‌స్టంట్ గ్లో, లెట్స్ గో!",
+   "ml": "ഇൻസ്റ്റന്റ് ഗ്ലോ, ലെറ്റ്സ് ഗോ!",
+   "or": "ଇନଷ୍ଟାଣ୍ଟ ଗ୍ଲୋ, ଚାଲ ଯିବା!"
+  }
+ ],
+ "notes": "Video is 17.0 s (prompt planned 20 s); all 8 scripted lines spoken in order, no Whisper hallucinations. Tube speaks lines 1, 3, 7, 8 (pitch varies 217-312 Hz, same character, expressive). UV Rays line 2 is a high 367 Hz cartoon villain voice, deepened -3 st with villain fx. SPF Shield is the clearly low male voice (136 Hz). Purple Tint (244 Hz) and Niacinamide (269 Hz) are close in pitch, so Purple Tint gets +2 st to keep them distinct. Purple Tint and Niacinamide ref ranges are padded slightly into the surrounding silence to reach 1.5 s. Line 2 slot runs into the 1.2 s gap before line 3 (shot change, tube cap flip)."
+}

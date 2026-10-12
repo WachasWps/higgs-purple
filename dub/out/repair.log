@@ -1,0 +1,16 @@
+37 flagged lines in 17 videos
+models ready in 5.0s
+[00b304b4] repaired 6 flagged -> improved in ['bn', 'ml', 'or', 'ta'] (224s)
+[02bad3b3] repaired 1 flagged -> improved in ['ml'] (37s)
+[23850d94] repaired 6 flagged -> improved in ['ml', 'te'] (177s)
+Traceback (most recent call last):
+  File "/Users/wachas/Documents/higgs-purple/dub/repair.py", line 118, in <module>
+    main(*sys.argv[1:])
+  File "/Users/wachas/Documents/higgs-purple/dub/repair.py", line 99, in main
+    sf.write(clips / f"line_{i}.wav", eng.finish(best[3], voices[l["speaker"]]), eng.sr)
+                                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wachas/Documents/higgs-purple/dub/dubplan.py", line 171, in finish
+    p = subprocess.run(["ffmpeg", "-v", "error", "-f", "f32le", "-ar", str(self.sr), "-ac", "1", "-i", "pipe:0",
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.12/3.12.13_4/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,

@@ -1,0 +1,42 @@
+[
+ {
+  "id": 1,
+  "speaker": "uv_villain",
+  "cer": 0.08,
+  "heard": "খরা আসিগালা চালা তাকু ধরিভা।",
+  "redub": true
+ },
+ {
+  "id": 2,
+  "speaker": "sunscreen_tube",
+  "cer": 0.27,
+  "heard": "মো থাও থাও একটা মানাহে।"
+ },
+ {
+  "id": 3,
+  "speaker": "spf_shield",
+  "cer": 0.15,
+  "heard": "UBiAo UBB, Blockord",
+  "redub": true
+ },
+ {
+  "id": 4,
+  "speaker": "purple_tint",
+  "cer": 0.24,
+  "heard": "এলার হোইল কোছি হলাদ্যা ডলনেস মু কাটি দিয়ে।",
+  "redub": true
+ },
+ {
+  "id": 5,
+  "speaker": "niacinamide",
+  "cer": 0.3,
+  "heard": "ইন্ড্যন্স কিন পই ত্যারি. হিলো, ইন্সাট গো.",
+  "redub": true
+ },
+ {
+  "id": 6,
+  "speaker": "sunscreen_tube",
+  "cer": 0.0,
+  "heard": "আ রে খরা আমি রেডি।"
+ }
+]

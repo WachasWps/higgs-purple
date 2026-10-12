@@ -1,0 +1,55 @@
+[
+ {
+  "id": 1,
+  "speaker": "dark_spot",
+  "cer": 0.57,
+  "heard": "একটা আমা টাইম।",
+  "redub": true
+ },
+ {
+  "id": 2,
+  "speaker": "jar",
+  "cer": 0.04,
+  "heard": "আশোলে এটা আমার শেফ্ট আমি ওভার নাইট ব্রাইটে নার।"
+ },
+ {
+  "id": 3,
+  "speaker": "jar",
+  "cer": 0.15,
+  "heard": "3x part maane team brightening active",
+  "redub": true
+ },
+ {
+  "id": 4,
+  "speaker": "dark_spot",
+  "cer": 0.43,
+  "heard": "ইনবন নামেক?",
+  "redub": true
+ },
+ {
+  "id": 5,
+  "speaker": "jar",
+  "cer": 0.15,
+  "heard": "Áram mirójsz. Krymi rátë er gin noi"
+ },
+ {
+  "id": 6,
+  "speaker": "jar",
+  "cer": 0.31,
+  "heard": "লাগার মাই শচ করু। বাকি কাজা মার।"
+ },
+ {
+  "id": 7,
+  "speaker": "woman",
+  "cer": 0.36,
+  "heard": "দুই সবতা এক সবট কম লাকছে।",
+  "redub": true
+ },
+ {
+  "id": 8,
+  "speaker": "jar",
+  "cer": 0.15,
+  "heard": "Dharm Dog 2% Conjic Acid Night Cream",
+  "redub": true
+ }
+]

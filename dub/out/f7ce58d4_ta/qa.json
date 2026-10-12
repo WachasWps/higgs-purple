@@ -1,0 +1,46 @@
+[
+ {
+  "id": 1,
+  "speaker": "kojic_jar",
+  "cer": 0.12,
+  "heard": "டாக் சபாட்ஸ் திரும்ப மீட்டிங்க."
+ },
+ {
+  "id": 2,
+  "speaker": "kojic_jar",
+  "cer": 0.15,
+  "heard": "Night team meeting cancel.",
+  "redub": true
+ },
+ {
+  "id": 3,
+  "speaker": "kojic_acid",
+  "cer": 0.2,
+  "heard": "பெடிவாத் டாக்ஸ் பார்ச் எனக்கு"
+ },
+ {
+  "id": 4,
+  "speaker": "niacinamide",
+  "cer": 0.4,
+  "heard": "தல்லசி நான் கலீர் பண்றேன்."
+ },
+ {
+  "id": 5,
+  "speaker": "alpha_arbutin",
+  "cer": 0.12,
+  "heard": "அனை வண்டோன் என் கிட்டு விடுங்க"
+ },
+ {
+  "id": 6,
+  "speaker": "narrator",
+  "cer": 0.19,
+  "heard": "ரிஜ் குரிம் முடுசாகுரிடும். ரெண்டு வரத்திலே சபாட்ஸ் கமியா திரியிது.",
+  "redub": true
+ },
+ {
+  "id": 7,
+  "speaker": "narrator",
+  "cer": 0.18,
+  "heard": "தரும்டக்து பரசன் கோஜி காசிட் நைட் கரீம்"
+ }
+]

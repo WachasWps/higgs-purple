@@ -1,0 +1,31 @@
+[
+  {
+    "created_at": "2026-10-09T18:18:05.625381Z",
+    "display_name": "Wan 3.0",
+    "id": "44991833-f96f-4846-8b7a-f491fdd1079a",
+    "job_type": "wan3_0",
+    "min_result_url": null,
+    "params": {
+      "aspect_ratio": "9:16",
+      "duration": 5,
+      "generate_audio": false,
+      "height": 1344,
+      "medias": [
+        {
+          "data": {
+            "id": "bc13b8f6-ae4d-4c4f-a68c-d27aa10f72fc",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3A6ZxB95Mnf55lwPBqzkePnTfzA/bc13b8f6-ae4d-4c4f-a68c-d27aa10f72fc.png"
+          },
+          "role": "start_image"
+        }
+      ],
+      "prompt": "The jar mascot steps forward confidently and points at the fuzzy dark-spot villain, which shrinks back nervously; the jar label stays unchanged. Keep the exact look of the first frame: same real woman and skin tone, same cartoon characters, product label and cap exactly as in the first frame (cap on, no nozzle); smooth natural motion; no text appears.",
+      "resolution": "480p",
+      "width": 768
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3A6ZxB95Mnf55lwPBqzkePnTfzA/hf_20261009_181805_44991833-f96f-4846-8b7a-f491fdd1079a.mp4",
+    "status": "completed",
+    "thumbnail_url": "https://cdn.higgsfield.ai/user_3A6ZxB95Mnf55lwPBqzkePnTfzA/hf_20261009_181805_44991833-f96f-4846-8b7a-f491fdd1079a_thumbnail.webp"
+  }
+]

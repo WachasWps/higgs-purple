@@ -1,0 +1,52 @@
+[
+ {
+  "id": 1,
+  "speaker": "dark_spot_leader",
+  "cer": 0.12,
+  "heard": "এটাই আমাদের পারমনিন ছিকা না।"
+ },
+ {
+  "id": 2,
+  "speaker": "jar",
+  "cer": 0.13,
+  "heard": "দুস অপতাহে নোটিস আজ রাত থেকে।"
+ },
+ {
+  "id": 3,
+  "speaker": "jar",
+  "cer": 0.14,
+  "heard": "আমা জর টু পারেন্ট কোজিকেশিড নিযা সিনামাইড আর আল্ফা আরবটিন।"
+ },
+ {
+  "id": 4,
+  "speaker": "jar",
+  "cer": 0.15,
+  "heard": "X-hade amræg lo fusion fórmula."
+ },
+ {
+  "id": 5,
+  "speaker": "jar",
+  "cer": 0.25,
+  "heard": "গুমুনোর আগে আমাকে মাশায়েচ করে নাও।"
+ },
+ {
+  "id": 6,
+  "speaker": "dark_spot_leader",
+  "cer": 0.15,
+  "heard": "Áæ!? Är aku nih ud tid!?"
+ },
+ {
+  "id": 7,
+  "speaker": "woman",
+  "cer": 0.22,
+  "heard": "দুই সাপতাহে স�েশ্মেস পাততারি গুটিয়েছে।",
+  "redub": true
+ },
+ {
+  "id": 8,
+  "speaker": "jar",
+  "cer": 0.15,
+  "heard": "Dumbdog 2% Kojic Acid Night Cream",
+  "redub": true
+ }
+]

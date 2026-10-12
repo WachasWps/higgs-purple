@@ -1,0 +1,38 @@
+[
+ {
+  "id": 1,
+  "speaker": "narrator",
+  "cer": 0.19,
+  "heard": "ডারকস্পরট লুচেরা সমাধন নুহে।"
+ },
+ {
+  "id": 2,
+  "speaker": "narrator",
+  "cer": 0.15,
+  "heard": "এই হিলা ডারমডা কট�ু। পারসেট কোজিকা ইশ্যড নাইট ক্রিম।"
+ },
+ {
+  "id": 3,
+  "speaker": "narrator",
+  "cer": 0.19,
+  "heard": "এহর গ্লোপযুজন ফারমুলা কোজিকো এসিড নিযসিনামাইড আওযাল পারভুটিন।"
+ },
+ {
+  "id": 4,
+  "speaker": "narrator",
+  "cer": 0.21,
+  "heard": "डারক কা স্পটকম দেখাই বরে সাধ্য করে।"
+ },
+ {
+  "id": 5,
+  "speaker": "narrator",
+  "cer": 0.18,
+  "heard": "रাতিরে লগান্তু সককালে গ্লোসহ উঠন্তু।"
+ },
+ {
+  "id": 6,
+  "speaker": "narrator",
+  "cer": 0.15,
+  "heard": "Brighter, Even Looking Skin"
+ }
+]

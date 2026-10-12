@@ -1,0 +1,53 @@
+{
+ "video_id": "71e0977a",
+ "product": "knc",
+ "category": "ingredient_personified",
+ "approach": "v2_original_story",
+ "shots": [
+  {
+   "start": 0,
+   "end": 3.0,
+   "action": "replace",
+   "n": 1,
+   "replace_with": "LEFT_71e0977a_S1"
+  },
+  {
+   "start": 3.0,
+   "end": 5.9,
+   "action": "keep",
+   "n": 2
+  },
+  {
+   "start": 5.9,
+   "end": 9.6,
+   "action": "keep",
+   "n": 3
+  },
+  {
+   "start": 9.6,
+   "end": 12.57,
+   "action": "replace",
+   "replace_with": "KNA2_avatar_ingredients",
+   "note": "thick unblended cream dab macro",
+   "n": 4
+  },
+  {
+   "start": 12.57,
+   "end": 14.3,
+   "action": "replace",
+   "replace_with": "GRAPHIC_BA_SPLIT",
+   "ba_pair": [
+    "BA_71e0977a_BEFORE",
+    "BA_71e0977a_AFTER"
+   ],
+   "ba_face_y": 0.12,
+   "n": 5
+  },
+  {
+   "start": 14.3,
+   "end": 17.0,
+   "action": "keep",
+   "n": 6
+  }
+ ]
+}

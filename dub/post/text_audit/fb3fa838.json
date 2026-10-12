@@ -1,0 +1,339 @@
+[
+ {
+  "n": 0,
+  "text": "DERMDOC",
+  "variants": [
+   "DERMDOC"
+  ],
+  "start": 0.0,
+  "end": 3.33,
+  "box": [
+   0.3583,
+   0.2951,
+   0.6292,
+   0.3583
+  ],
+  "height": 0.0632,
+  "suspect_words": []
+ },
+ {
+  "n": 1,
+  "text": "Honest Science",
+  "variants": [
+   "Honest Science"
+  ],
+  "start": 0.0,
+  "end": 3.33,
+  "box": [
+   0.3917,
+   0.3232,
+   0.5958,
+   0.3747
+  ],
+  "height": 0.0515,
+  "suspect_words": []
+ },
+ {
+  "n": 2,
+  "text": "4% NIACINAMIDE",
+  "variants": [
+   "4% NIACINAMIDE"
+  ],
+  "start": 0.0,
+  "end": 3.33,
+  "box": [
+   0.4208,
+   0.4145,
+   0.6375,
+   0.445
+  ],
+  "height": 0.0304,
+  "suspect_words": []
+ },
+ {
+  "n": 3,
+  "text": "BRIGHTENING",
+  "variants": [
+   "BRIGHTENING"
+  ],
+  "start": 0.0,
+  "end": 3.33,
+  "box": [
+   0.4125,
+   0.5386,
+   0.5875,
+   0.5652
+  ],
+  "height": 0.0265,
+  "suspect_words": []
+ },
+ {
+  "n": 4,
+  "text": "SUNSCREEN",
+  "variants": [
+   "SUNSCREEN"
+  ],
+  "start": 0.0,
+  "end": 3.33,
+  "box": [
+   0.4208,
+   0.5502,
+   0.5792,
+   0.5808
+  ],
+  "height": 0.0306,
+  "suspect_words": []
+ },
+ {
+  "n": 5,
+  "text": "WITH SPF SO PA+++",
+  "variants": [
+   "WITH SHE SO PA+++",
+   "WITH SPF S0 PA++",
+   "WITH SPF S0 PA++*",
+   "WITH SPF SO PA++",
+   "WITH SPF SO PA+++",
+   "WITH SPF SO PA+••"
+  ],
+  "start": 0.33,
+  "end": 3.33,
+  "box": [
+   0.4208,
+   0.4309,
+   0.6083,
+   0.4543
+  ],
+  "height": 0.0234,
+  "suspect_words": []
+ },
+ {
+  "n": 6,
+  "text": "Baleces never alien tena and",
+  "variants": [
+   "Balaces unever able tame and",
+   "Balaces unever lie tone sod",
+   "Balances uneven ella tens and",
+   "Baleces never alien tena and",
+   "Balesces unzzes elis tene and",
+   "Palaces never elis bew"
+  ],
+  "start": 0.33,
+  "end": 2.67,
+  "box": [
+   0.425,
+   0.4567,
+   0.6083,
+   0.4707
+  ],
+  "height": 0.0141,
+  "suspect_words": [
+   "Balaces",
+   "Baleces",
+   "Balesces",
+   "alances",
+   "bew",
+   "tena",
+   "tene",
+   "unever",
+   "unzzes"
+  ],
+  "crop": "post/text_audit/fb3fa838_6.png"
+ },
+ {
+  "n": 14,
+  "text": "lerves an Instant redlant gloe",
+  "variants": [
+   "leaves en lectent redient glen",
+   "lerves an Instant redlant gloe",
+   "lezves en instant refiert glos"
+  ],
+  "start": 2.0,
+  "end": 3.33,
+  "box": [
+   0.4208,
+   0.466,
+   0.6083,
+   0.4801
+  ],
+  "height": 0.0141,
+  "suspect_words": [
+   "gloe",
+   "glos",
+   "lectent",
+   "lerves",
+   "lezves",
+   "redlant",
+   "refiert"
+  ],
+  "crop": "post/text_audit/fb3fa838_14.png"
+ },
+ {
+  "n": 16,
+  "text": "ULTRA VIOLE",
+  "variants": [
+   "ULTRA VIOLE",
+   "ULTRA VIOLET"
+  ],
+  "start": 2.33,
+  "end": 3.33,
+  "box": [
+   0.3592,
+   0.3649,
+   0.4109,
+   0.5484
+  ],
+  "height": 0.1835,
+  "suspect_words": [
+   "VIOLE"
+  ],
+  "crop": "post/text_audit/fb3fa838_16.png"
+ },
+ {
+  "n": 18,
+  "text": "FOR PAI TO MEMUM SEIN",
+  "variants": [
+   "FOR PAI TO MEMUM SEIN",
+   "POR PAM TO HEBAUM SEIN"
+  ],
+  "start": 2.67,
+  "end": 3.33,
+  "box": [
+   0.4125,
+   0.5855,
+   0.5875,
+   0.5995
+  ],
+  "height": 0.0141,
+  "suspect_words": [
+   "HEBAUM",
+   "MEMUM",
+   "PAI",
+   "POR",
+   "SEIN"
+  ],
+  "crop": "post/text_audit/fb3fa838_18.png"
+ },
+ {
+  "n": 19,
+  "text": "DERMDOC",
+  "variants": [
+   "DERMDOC"
+  ],
+  "start": 18.0,
+  "end": 20.0,
+  "box": [
+   0.375,
+   0.3138,
+   0.6125,
+   0.356
+  ],
+  "height": 0.0422,
+  "suspect_words": []
+ },
+ {
+  "n": 20,
+  "text": "Honest Science",
+  "variants": [
+   "Honest Science"
+  ],
+  "start": 18.0,
+  "end": 20.0,
+  "box": [
+   0.4042,
+   0.3396,
+   0.588,
+   0.37
+  ],
+  "height": 0.0304,
+  "suspect_words": []
+ },
+ {
+  "n": 21,
+  "text": "ULTRA VIOLET",
+  "variants": [
+   "ULTRA VIOLET"
+  ],
+  "start": 18.0,
+  "end": 20.0,
+  "box": [
+   0.3634,
+   0.3784,
+   0.4282,
+   0.5537
+  ],
+  "height": 0.1754,
+  "suspect_words": []
+ },
+ {
+  "n": 22,
+  "text": "4% NIACINAMIDE",
+  "variants": [
+   "4% NIACINAMIDE"
+  ],
+  "start": 18.0,
+  "end": 20.0,
+  "box": [
+   0.4292,
+   0.4614,
+   0.6167,
+   0.4754
+  ],
+  "height": 0.0141,
+  "suspect_words": []
+ },
+ {
+  "n": 23,
+  "text": "WITH SPF SO PA+++",
+  "variants": [
+   "WITH SPF 50 PA++*",
+   "WITH SPF 50 PA+++",
+   "WITH SPF 90 PA+++",
+   "WITH SPF 90 PAH+",
+   "WITH SPF SO PA+++"
+  ],
+  "start": 18.0,
+  "end": 20.0,
+  "box": [
+   0.4292,
+   0.4754,
+   0.5917,
+   0.4871
+  ],
+  "height": 0.0117,
+  "suspect_words": []
+ },
+ {
+  "n": 24,
+  "text": "BRIGHTENING",
+  "variants": [
+   "BRIGHTENING"
+  ],
+  "start": 18.0,
+  "end": 20.0,
+  "box": [
+   0.4292,
+   0.555,
+   0.575,
+   0.5761
+  ],
+  "height": 0.0211,
+  "suspect_words": []
+ },
+ {
+  "n": 25,
+  "text": "SUNSCREEN",
+  "variants": [
+   "SUNSCREEN"
+  ],
+  "start": 18.0,
+  "end": 20.0,
+  "box": [
+   0.4375,
+   0.5667,
+   0.5667,
+   0.5902
+  ],
+  "height": 0.0234,
+  "suspect_words": []
+ }
+]

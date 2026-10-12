@@ -1,0 +1,255 @@
+{
+ "language": "en",
+ "segments": [
+  {
+   "seg": 0,
+   "start": 0.0,
+   "end": 5.4,
+   "text": "Class is in session. Tonight's lesson, brighter, even-looking skin. Three concerns, three specialists.",
+   "f0_median_hz": 195,
+   "words": [
+    [
+     "Class",
+     0.0,
+     0.32
+    ],
+    [
+     "is",
+     0.32,
+     0.5
+    ],
+    [
+     "in",
+     0.5,
+     0.66
+    ],
+    [
+     "session.",
+     0.66,
+     0.96
+    ],
+    [
+     "Tonight's",
+     1.2,
+     1.54
+    ],
+    [
+     "lesson,",
+     1.54,
+     1.86
+    ],
+    [
+     "brighter,",
+     2.14,
+     2.34
+    ],
+    [
+     "even",
+     2.64,
+     2.8
+    ],
+    [
+     "-looking",
+     2.8,
+     3.08
+    ],
+    [
+     "skin.",
+     3.08,
+     3.44
+    ],
+    [
+     "Three",
+     3.78,
+     3.9
+    ],
+    [
+     "concerns,",
+     3.9,
+     4.36
+    ],
+    [
+     "three",
+     4.66,
+     4.84
+    ],
+    [
+     "specialists.",
+     4.84,
+     5.4
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 1,
+   "start": 5.82,
+   "end": 10.5,
+   "text": "Lesson 1. Target stubborn dark spots. Lesson 2. Brighten dull-looking skin.",
+   "f0_median_hz": 205,
+   "words": [
+    [
+     "Lesson",
+     5.82,
+     6.14
+    ],
+    [
+     "1.",
+     6.14,
+     6.44
+    ],
+    [
+     "Target",
+     6.64,
+     7.02
+    ],
+    [
+     "stubborn",
+     7.02,
+     7.42
+    ],
+    [
+     "dark",
+     7.42,
+     7.66
+    ],
+    [
+     "spots.",
+     7.66,
+     8.1
+    ],
+    [
+     "Lesson",
+     8.34,
+     8.64
+    ],
+    [
+     "2.",
+     8.64,
+     8.96
+    ],
+    [
+     "Brighten",
+     9.26,
+     9.62
+    ],
+    [
+     "dull",
+     9.62,
+     9.8
+    ],
+    [
+     "-looking",
+     9.8,
+     10.12
+    ],
+    [
+     "skin.",
+     10.12,
+     10.5
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 2,
+   "start": 10.84,
+   "end": 16.5,
+   "text": "Now apply at night and let the team get to work. Dermdoc KNC Night Cream. Night class dismissed.",
+   "f0_median_hz": 162,
+   "words": [
+    [
+     "Now",
+     10.84,
+     11.0
+    ],
+    [
+     "apply",
+     11.0,
+     11.34
+    ],
+    [
+     "at",
+     11.34,
+     11.54
+    ],
+    [
+     "night",
+     11.54,
+     11.78
+    ],
+    [
+     "and",
+     11.78,
+     12.06
+    ],
+    [
+     "let",
+     12.06,
+     12.24
+    ],
+    [
+     "the",
+     12.24,
+     12.38
+    ],
+    [
+     "team",
+     12.38,
+     12.66
+    ],
+    [
+     "get",
+     12.66,
+     12.88
+    ],
+    [
+     "to",
+     12.88,
+     13.02
+    ],
+    [
+     "work.",
+     13.02,
+     13.34
+    ],
+    [
+     "Dermdoc",
+     13.66,
+     14.12
+    ],
+    [
+     "KNC",
+     14.12,
+     14.78
+    ],
+    [
+     "Night",
+     14.78,
+     14.98
+    ],
+    [
+     "Cream.",
+     14.98,
+     15.26
+    ],
+    [
+     "Night",
+     15.48,
+     15.84
+    ],
+    [
+     "class",
+     15.84,
+     16.18
+    ],
+    [
+     "dismissed.",
+     16.18,
+     16.5
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  }
+ ]
+}

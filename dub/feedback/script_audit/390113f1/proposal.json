@@ -1,0 +1,103 @@
+{
+ "video": "390113f1",
+ "shots": [
+  {
+   "n": 1,
+   "start": 0,
+   "end": 3.6,
+   "on_screen": "Woman asleep at night; dark-spot and dullness villains stamping on her cheek."
+  },
+  {
+   "n": 2,
+   "start": 3.6,
+   "end": 6.9,
+   "on_screen": "Night cream jar on nightstand wakes up; gold, silver and pink actives burst out."
+  },
+  {
+   "n": 3,
+   "start": 6.9,
+   "end": 10.4,
+   "on_screen": "On her cheek, Kojic Acid hero hits dark spots ('2% Kojic Acid targets dark spots'), then Niacinamide clears dullness."
+  },
+  {
+   "n": 4,
+   "start": 10.4,
+   "end": 12.9,
+   "on_screen": "Jar with three glowing active orbs on blue backdrop."
+  },
+  {
+   "n": 5,
+   "start": 12.9,
+   "end": 14.6,
+   "on_screen": "Before/after split: spots on top, clearer-looking skin below."
+  },
+  {
+   "n": 6,
+   "start": 14.6,
+   "end": 17.0,
+   "on_screen": "End card: sleepy jar with three actives, 'Target Dark Spots While You Sleep'."
+  }
+ ],
+ "lines": [
+  {
+   "id": 1,
+   "start": 1.56,
+   "slot_s": 1.77,
+   "speaker": "dark_spot",
+   "current": "Quick, she's asleep.",
+   "on_screen_during": "Villains on sleeping woman's cheek.",
+   "verdict": "keep",
+   "new": "Quick, she's asleep.",
+   "words": 3,
+   "reason": "Villain on screen; fits."
+  },
+  {
+   "id": 2,
+   "start": 3.48,
+   "slot_s": 1.53,
+   "speaker": "knc_jar",
+   "current": "So is my night team.",
+   "on_screen_during": "Jar waking, actives bursting out.",
+   "verdict": "rewrite",
+   "new": "My team's awake!",
+   "words": 3,
+   "reason": "'So is my night team' contradicts the team visibly springing out."
+  },
+  {
+   "id": 3,
+   "start": 5.16,
+   "slot_s": 6.13,
+   "speaker": "kojic_acid",
+   "current": "Keep it down. We're working.",
+   "on_screen_during": "Team leaves jar, then Kojic and Niacinamide fight spots and dullness.",
+   "verdict": "rewrite",
+   "new": "Shh, we're working. I'm on spots, Niacinamide's on dullness.",
+   "words": 9,
+   "reason": "Shot 3 was silent; line extended within its 6.1 s slot to cover the visible action."
+  },
+  {
+   "id": 4,
+   "start": 11.44,
+   "slot_s": 3.03,
+   "speaker": "narrator",
+   "current": "Working through the night for brighter, even-looking skin.",
+   "on_screen_during": "Three-orb jar, then before/after split.",
+   "verdict": "rewrite",
+   "new": "Three actives. Two weeks: spots look reduced.",
+   "words": 7,
+   "reason": "Orbs then before/after; cover both."
+  },
+  {
+   "id": 5,
+   "start": 14.62,
+   "slot_s": 2.44,
+   "speaker": "knc_jar",
+   "current": "Dark spots don't get the night off.",
+   "on_screen_during": "End card 'Target Dark Spots While You Sleep'.",
+   "verdict": "keep",
+   "new": "Dark spots don't get the night off.",
+   "words": 7,
+   "reason": "Fits. Kept although 7 words exceeds the 5.9-word budget (pre-existing timing)."
+  }
+ ]
+}

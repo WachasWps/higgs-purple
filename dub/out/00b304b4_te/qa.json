@@ -1,0 +1,56 @@
+[
+ {
+  "id": 1,
+  "speaker": "tube",
+  "cer": 0.25,
+  "heard": "తేమ్ ఏరో చో ఫుల్ డేపను ఉంది."
+ },
+ {
+  "id": 2,
+  "speaker": "uv_rays",
+  "cer": 0.4,
+  "heard": "కదండి ఇమే అఫిస్ దేని పాడు జాదం.",
+  "redub": true
+ },
+ {
+  "id": 3,
+  "speaker": "tube",
+  "cer": 0.15,
+  "heard": "అందరికి వాల డ్యూటి తలసు."
+ },
+ {
+  "id": 4,
+  "speaker": "spf_shield",
+  "cer": 0.0,
+  "heard": "యూవి రేస్నేను చూస్కుంటా.",
+  "redub": true
+ },
+ {
+  "id": 5,
+  "speaker": "purple_tint",
+  "cer": 0.21,
+  "heard": "పారపుంతో పాస్పడల్ నేస ఆఉట్.",
+  "redub": true
+ },
+ {
+  "id": 6,
+  "speaker": "niacinamide",
+  "cer": 0.14,
+  "heard": "అడల్నస్ని నిను బ్రయ్ట్ చిస్తా.",
+  "redub": true
+ },
+ {
+  "id": 7,
+  "speaker": "tube",
+  "cer": 0.0,
+  "heard": "కలి సుపోతుంది నో రేసిడ్యో.",
+  "redub": true
+ },
+ {
+  "id": 8,
+  "speaker": "tube",
+  "cer": 0.15,
+  "heard": "Instant glow. Let's go.",
+  "redub": true
+ }
+]

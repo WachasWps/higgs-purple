@@ -1,0 +1,34 @@
+[
+  {
+    "created_at": "2026-10-09T19:01:10.5406Z",
+    "display_name": "Nano Banana Pro",
+    "id": "af7cb465-d411-4aec-9953-1b1e6fc98173",
+    "job_type": "nano_banana_pro",
+    "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3A6ZxB95Mnf55lwPBqzkePnTfzA/hf_20261009_190110_af7cb465-d411-4aec-9953-1b1e6fc98173_min.webp",
+    "params": {
+      "application": null,
+      "aspect_ratio": "9:16",
+      "batch_size": 1,
+      "height": 2752,
+      "input_image": null,
+      "input_images": [
+        {
+          "id": "2e30e789-72da-48d8-bfa0-6168cea4cf61",
+          "type": "media_input",
+          "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3A6ZxB95Mnf55lwPBqzkePnTfzA/2e30e789-72da-48d8-bfa0-6168cea4cf61.png"
+        },
+        {
+          "id": "8f06d210-240c-434e-9b5c-119ed5d7fcd7",
+          "type": "media_input",
+          "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3A6ZxB95Mnf55lwPBqzkePnTfzA/8f06d210-240c-434e-9b5c-119ed5d7fcd7.png"
+        }
+      ],
+      "prompt": "Edit image 1 (a frame from a vertical ad). Keep EXACTLY the same scene, people (same face, identity, hair, clothes, skin tone), cartoon characters, poses, framing, background, lighting and style. Change ONLY: replace the white cream blob on her cheek with a few small dabs of white night cream being massaged in, mostly absorbed, thin sheen only; her skin shows REALISTIC hyperpigmentation — soft-edged FLAT brown sun spots and uneven darker patches on the cheekbones, never round raised dots or chicken-pox marks. Any night-cream jar must match image 2 exactly (short wide jar, royal-blue base, white label band, white lid, label text and layout exactly as image 2). No new text.",
+      "resolution": "2k",
+      "surface": null,
+      "width": 1536
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3A6ZxB95Mnf55lwPBqzkePnTfzA/hf_20261009_190110_af7cb465-d411-4aec-9953-1b1e6fc98173.png",
+    "status": "completed"
+  }
+]

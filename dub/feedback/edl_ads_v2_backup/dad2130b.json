@@ -1,0 +1,209 @@
+{
+ "video_id": "dad2130b",
+ "product": "ps",
+ "category": "ugc",
+ "shots": [
+  {
+   "n": 1,
+   "start": 0.0,
+   "end": 2.77,
+   "content": "Fair-skinned creator in lavender tee talking to camera beside a round mirror, holding the tube, sceptical expression.",
+   "issues": [
+    "model_not_dusky",
+    "lip_sync_talking_head",
+    "ai_look"
+   ],
+   "action": "replace",
+   "replace_with": "PS07_before_dull",
+   "custom": null,
+   "note": "L1 'Purple sunscreen? I thought it would make me look purple.' Use as B-roll VO over MEERA's dull, matte BEFORE face (first 2.8 s: blink, small sigh). This opens on a face and sets up the dull 'before'. Keep the 'PURPLE SUNSCREEN?' hook super."
+  },
+  {
+   "n": 2,
+   "start": 2.77,
+   "end": 5.6,
+   "content": "Creator holding a printed colour wheel next to her face (AI wheel: yellow is not opposite purple).",
+   "issues": [
+    "wrong_colour_wheel",
+    "colour_wheel_unexplained",
+    "model_not_dusky",
+    "lip_sync_talking_head"
+   ],
+   "action": "replace",
+   "replace_with": "GRAPHIC_COLOUR_WHEEL",
+   "custom": null,
+   "note": "L2, rewritten to explain it: the correct animated wheel full-screen (no mascot in UGC), purple placed exactly opposite yellow, an arrow purple->yellow, then the yellow segment dims/neutralises as the VO says 'helps cancel yellow dullness'. Runs the full 2.77-5.6 (and may hold until 6.0)."
+  },
+  {
+   "n": 3,
+   "start": 5.6,
+   "end": 6.6,
+   "content": "Tube squeezed upside-down onto back of hand, cream coming out of a pointed nozzle.",
+   "issues": [
+    "nozzle",
+    "packaging_wrong",
+    "hand_continuity"
+   ],
+   "action": "replace",
+   "replace_with": "PS03_fingertips",
+   "custom": null,
+   "note": "Client 00003287 'nozzel?'. L3 'The tint is made for Indian skin.' starts at 6.22. Use the first 1.0 s of PS03 (dusky fingertips holding a pale-lavender dollop, capped tube behind, no nozzle)."
+  },
+  {
+   "n": 4,
+   "start": 6.6,
+   "end": 8.3,
+   "content": "Two fists side by side, one with a visible lavender residue layer.",
+   "issues": [
+    "residue",
+    "no_visible_difference",
+    "hand_continuity"
+   ],
+   "action": "replace",
+   "replace_with": "PS08_hand_swatch",
+   "custom": null,
+   "note": "Client 00003286 'what is the difference? looks like a residue'. S4+S5+S6 (6.6-10.6 = 4.0 s) become ONE continuous PS08 clip played at 1.25x: here clip 0-2.1 s = lavender stripe on MEERA's dusky hand under L3 'made for Indian skin'."
+  },
+  {
+   "n": 5,
+   "start": 8.3,
+   "end": 9.63,
+   "content": "Odd three-hand blending shot with shoes in background, lavender cast still visible.",
+   "issues": [
+    "weird_hands",
+    "white_cast",
+    "not_blended"
+   ],
+   "action": "replace",
+   "replace_with": "PS08_hand_swatch",
+   "custom": null,
+   "note": "Client 00003285 '???'. Continuation of PS08 (clip 2.1-3.8 s): fingertips rub the stripe and the lavender vanishes, landing on L4 'It blends in completely'. Keep the 'FOR INDIAN SKIN / NO WHITE CAST' pill."
+  },
+  {
+   "n": 6,
+   "start": 9.63,
+   "end": 10.6,
+   "content": "Fist on stone floor next to a lying tube.",
+   "issues": [
+    "packaging_wrong",
+    "hand_not_glowy",
+    "hand_continuity"
+   ],
+   "action": "replace",
+   "replace_with": "PS08_hand_swatch",
+   "custom": null,
+   "note": "Client 00003284 'tube? also hand has to look more smooth and glowy'. End of PS08 (clip 3.8-5.0 s): the patch is fully blended, with no cast and a visibly more even, radiant hand. L4 '...no white cast'."
+  },
+  {
+   "n": 7,
+   "start": 10.6,
+   "end": 14.23,
+   "content": "Creator with lavender dots on forehead and cheeks, hands covering face while applying.",
+   "issues": [
+    "model_not_dusky",
+    "transformation_missing"
+   ],
+   "action": "replace",
+   "replace_with": "PS04_dot_face",
+   "custom": null,
+   "note": "L5 '4% Niacinamide and SPF 50 PA+++'. Two library clips: PS04_dot_face clip 0-1.6 s (neat dots, starts blending), then PS05_blend_glow clip 3.0-5.0 s (lavender disappears with no cast, and the skin turns dewy with an Instant Glow). This gives the application -> blended -> glow sequence the client asked for.",
+   "then": "PS05_blend_glow"
+  },
+  {
+   "n": 8,
+   "start": 14.23,
+   "end": 17.43,
+   "content": "AI before/after split face, with almost no difference between the halves and dark circles.",
+   "issues": [
+    "no_visible_difference",
+    "dark_circles",
+    "missing_instant_glow_label"
+   ],
+   "action": "replace",
+   "replace_with": "GRAPHIC_BA_SPLIT",
+   "custom": null,
+   "note": "Client 00003283 'where is the difference, also write instant glow in After'. Vertical half/half: left PS07_before_dull, right PS06_glow_after (same framing), with labels 'BEFORE' and 'INSTANT GLOW'. Matches the rewritten L6."
+  },
+  {
+   "n": 9,
+   "start": 17.43,
+   "end": 20.04,
+   "content": "Selfie of creator holding tube to her cheek, sky, molecule graphics and sun.",
+   "issues": [
+    "packaging_wrong",
+    "skin_not_glowy",
+    "dark_circles",
+    "model_not_dusky"
+   ],
+   "action": "replace",
+   "replace_with": "PS02_hold_balcony",
+   "custom": null,
+   "note": "Client 00003282 'tube? skin has to be much more glowy and smooth, no dark circles'. MEERA, glowing, lifts the exact capped tube toward the camera and smiles, so the video ends on a face. L7 is rewritten to the Instant Glow payoff."
+  }
+ ],
+ "script_changes": [
+  {
+   "line_id": 2,
+   "old_en": "But look at the colour wheel. Purple helps correct yellow-looking dullness.",
+   "new_en": "Purple sits opposite yellow on the colour wheel, so it helps cancel yellow dullness.",
+   "reason": "Colour wheel must be explained: purple is opposite yellow, so it cancels yellow-looking dullness"
+  },
+  {
+   "line_id": 6,
+   "old_en": "Before: dull. After: even-looking, protected glow.",
+   "new_en": "Before: dull. After: smooth, even-looking Instant Glow.",
+   "reason": "Instant Glow wording; matches the new B/A split"
+  },
+  {
+   "line_id": 7,
+   "old_en": "Okay, purple tint makes perfect sense now.",
+   "new_en": "Purple tint, Instant Glow, zero white cast. Makes sense!",
+   "reason": "Instant Glow + no white cast payoff (VO + text)"
+  }
+ ],
+ "new_lines": [],
+ "supers": [
+  {
+   "action": "change",
+   "match": "COLOUR CORRECTION / PURPLE VS YELLOW-LOOKING DULLNESS",
+   "text": "PURPLE IS OPPOSITE YELLOW / HELPS CANCEL YELLOW-LOOKING DULLNESS",
+   "start": 3.0,
+   "end": 5.55,
+   "why": "Explain the colour wheel and sync it to the correct wheel graphic"
+  },
+  {
+   "action": "change",
+   "match": "AFTER",
+   "text": "INSTANT GLOW",
+   "start": 14.35,
+   "end": 17.3,
+   "why": "Client: write 'Instant Glow' under the after image"
+  },
+  {
+   "action": "change",
+   "match": "BEFORE",
+   "text": "BEFORE",
+   "start": 14.35,
+   "end": 17.3,
+   "why": "Extend the label to the full B/A shot"
+  },
+  {
+   "action": "add",
+   "match": null,
+   "text": "INSTANT GLOW",
+   "start": 12.6,
+   "end": 14.1,
+   "why": "Label the moment the cream fully blends and the glow appears (PS05 segment)"
+  },
+  {
+   "action": "change",
+   "match": "PURPLE TINT / PROTECTED GLOW",
+   "text": "PURPLE TINT / INSTANT GLOW",
+   "start": 17.6,
+   "end": 19.8,
+   "why": "'glow' -> 'Instant Glow'"
+  }
+ ],
+ "voice_changes": [],
+ "summary": "All creator shots replaced with MEERA library B-roll (no lip-sync): dull before -> correct colour wheel -> hand swatch blends clear -> dots -> blend -> Instant Glow -> B/A split -> glowing hold. Fixes the nozzle, residue, 'no difference' and missing INSTANT GLOW label; 0 custom."
+}

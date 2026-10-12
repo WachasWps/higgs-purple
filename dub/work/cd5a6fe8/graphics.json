@@ -1,0 +1,91 @@
+{
+ "video_id": "cd5a6fe8",
+ "product": "kojic_night_cream",
+ "caption_y": 0.9,
+ "caption_moves": [
+  {
+   "start": 7.97,
+   "end": 9.97,
+   "y": 0.72
+  },
+  {
+   "start": 14.3,
+   "end": 17.73,
+   "y": 0.497,
+   "ext": 1
+  }
+ ],
+ "elements": [
+  {
+   "type": "hook_mono",
+   "start": 0.2,
+   "end": 2.8,
+   "lines": [
+    "DULL SKIN?",
+    "DARK SPOTS?"
+   ],
+   "position": "lower",
+   "x": 0.5,
+   "y": 0.76,
+   "anim": "slide_up"
+  },
+  {
+   "type": "label",
+   "start": 5.9,
+   "end": 7.95,
+   "lines": [
+    "2% KOJIC ACID",
+    "NIACINAMIDE",
+    "ALPHA ARBUTIN"
+   ],
+   "x": 0.5,
+   "y": 0.82,
+   "anim": "pop"
+  },
+  {
+   "type": "pill",
+   "start": 13.3,
+   "end": 14.8,
+   "lines": [
+    "SLEEP-TO-GLOW",
+    "ROUTINE"
+   ],
+   "position": "top",
+   "anim": "pop"
+  },
+  {
+   "type": "label",
+   "start": 14.95,
+   "end": 17.68,
+   "lines": [
+    "BEFORE"
+   ],
+   "x": 0.5,
+   "y": 0.455,
+   "anim": "pop"
+  },
+  {
+   "type": "label",
+   "start": 14.95,
+   "end": 17.68,
+   "lines": [
+    "AFTER 2 WEEKS"
+   ],
+   "x": 0.5,
+   "y": 0.955,
+   "anim": "pop"
+  },
+  {
+   "type": "claim_bold",
+   "start": 17.8,
+   "end": 20.0,
+   "lines": [
+    "WORKS WHILE",
+    "YOU SLEEP"
+   ],
+   "position": "top",
+   "anim": "fade"
+  }
+ ],
+ "notes": "Hook low on the KN03 opener; three separate orb labels on KNA2 (correct 'ALPHA ARBUTIN'); captions lifted to the jar rim only on the kept jar macro 7.97-9.97; sleep-to-glow over the dark wall of KN05; B/A split BEFORE / AFTER 2 WEEKS with captions under the divider; morning-result text on KN06. The 'GLOW FUSION FORMULA' claim and scan hud were dropped: the TEXT_BRIEF puts the ingredient labels at the top of the same shot (collision) and the video would exceed the 8-text-element cap."
+}

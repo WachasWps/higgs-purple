@@ -1,0 +1,106 @@
+07:55:56 5 render(s) queued, 3 in parallel
+07:55:56 start 51440b1f_bn (20.00s + outro) -> deliver/Bengali/25_uv-sunscreen_ugc_now-watch-both-hands_51440b1f.mp4
+07:55:56 start 51440b1f_ta (20.00s + outro) -> deliver/Tamil/25_uv-sunscreen_ugc_now-watch-both-hands_51440b1f.mp4
+07:55:56 start 51440b1f_te (20.00s + outro) -> deliver/Telugu/25_uv-sunscreen_ugc_now-watch-both-hands_51440b1f.mp4
+07:56:03 ok     51440b1f_bn  7.0s
+07:56:03 start 51440b1f_ml (20.00s + outro) -> deliver/Malayalam/25_uv-sunscreen_ugc_now-watch-both-hands_51440b1f.mp4
+07:56:05 ok     51440b1f_ta  7.6s
+07:56:05 start 51440b1f_or (20.00s + outro) -> deliver/Odia/25_uv-sunscreen_ugc_now-watch-both-hands_51440b1f.mp4
+07:56:06 ok     51440b1f_te  8.1s
+07:56:10 ok     51440b1f_ml  6.6s
+07:56:11 ok     51440b1f_or  5.8s
+07:56:11 done: 5 ok, 0 failed; avg 7.0s/render
+07:56:11 5 render(s) queued, 3 in parallel
+07:56:11 start caf29456_bn (20.00s + outro) -> deliver/Bengali/22_uv-sunscreen_ugc_and-no-it-doesn-t-stay-purple_caf29456.mp4
+07:56:11 start caf29456_ta (20.00s + outro) -> deliver/Tamil/22_uv-sunscreen_ugc_and-no-it-doesn-t-stay-purple_caf29456.mp4
+07:56:11 start caf29456_te (20.00s + outro) -> deliver/Telugu/22_uv-sunscreen_ugc_and-no-it-doesn-t-stay-purple_caf29456.mp4
+07:56:19 ok     caf29456_bn  7.9s
+07:56:19 start caf29456_ml (20.00s + outro) -> deliver/Malayalam/22_uv-sunscreen_ugc_and-no-it-doesn-t-stay-purple_caf29456.mp4
+07:56:20 ok     caf29456_ta  8.0s
+07:56:20 start caf29456_or (20.00s + outro) -> deliver/Odia/22_uv-sunscreen_ugc_and-no-it-doesn-t-stay-purple_caf29456.mp4
+07:56:21 ok     caf29456_te  8.1s
+07:56:25 ok     caf29456_ml  6.3s
+07:56:26 ok     caf29456_or  5.7s
+07:56:26 done: 5 ok, 0 failed; avg 7.2s/render
+07:56:26 1 render(s) queued, 3 in parallel
+07:56:26 start ce52c347_hi (20.00s + outro) -> deliver/Hinglish_Ads/10_PS_ek-sunscreen-two-smart-actions_ce52c347.mp4
+07:56:30 ok     ce52c347_hi  3.9s
+07:56:30 done: 1 ok, 0 failed; avg 3.9s/render
+07:56:30 1 render(s) queued, 3 in parallel
+07:56:30 start fb3fa838_hi (20.00s + outro) -> deliver/Hinglish_Ads/09_PS_morning-balcony-se-city-commute-tak-sun_fb3fa838.mp4
+07:56:34 ok     fb3fa838_hi  3.8s
+07:56:34 done: 1 ok, 0 failed; avg 3.8s/render
+07:56:44 5 render(s) queued, 3 in parallel
+07:56:44 start 00b304b4_bn (17.00s + outro) -> deliver/Bengali/10_uv-sunscreen_personification_skin-protection-department_00b304b4.mp4
+07:56:44 start 00b304b4_ta (17.00s + outro) -> deliver/Tamil/10_uv-sunscreen_personification_skin-protection-department_00b304b4.mp4
+07:56:44 start 00b304b4_te (17.00s + outro) -> deliver/Telugu/10_uv-sunscreen_personification_skin-protection-department_00b304b4.mp4
+07:56:50 ok     00b304b4_bn  5.6s
+07:56:50 start 00b304b4_ml (17.00s + outro) -> deliver/Malayalam/10_uv-sunscreen_personification_skin-protection-department_00b304b4.mp4
+07:56:52 ok     00b304b4_ta  6.7s
+07:56:52 start 00b304b4_or (17.00s + outro) -> deliver/Odia/10_uv-sunscreen_personification_skin-protection-department_00b304b4.mp4
+07:56:54 ok     00b304b4_te  7.2s
+07:56:56 ok     00b304b4_ml  5.7s
+07:56:58 ok     00b304b4_or  5.2s
+07:56:58 done: 5 ok, 0 failed; avg 6.1s/render
+07:56:58 5 render(s) queued, 3 in parallel
+07:56:58 start cd5a6fe8_bn (20.00s + outro) -> deliver/Bengali/29_kojic-night-cream_ugc_so-this-became-part-of-every-night_cd5a6fe8.mp4
+07:56:58 start cd5a6fe8_ta (20.00s + outro) -> deliver/Tamil/29_kojic-night-cream_ugc_so-this-became-part-of-every-night_cd5a6fe8.mp4
+07:56:58 start cd5a6fe8_te (20.00s + outro) -> deliver/Telugu/29_kojic-night-cream_ugc_so-this-became-part-of-every-night_cd5a6fe8.mp4
+07:57:08 ok     cd5a6fe8_ta  10.1s
+07:57:08 start cd5a6fe8_ml (20.00s + outro) -> deliver/Malayalam/29_kojic-night-cream_ugc_so-this-became-part-of-every-night_cd5a6fe8.mp4
+07:57:09 ok     cd5a6fe8_bn  10.2s
+07:57:09 start cd5a6fe8_or (20.00s + outro) -> deliver/Odia/29_kojic-night-cream_ugc_so-this-became-part-of-every-night_cd5a6fe8.mp4
+07:57:11 ok     cd5a6fe8_te  10.4s
+07:57:17 ok     cd5a6fe8_ml  8.8s
+07:57:18 ok     cd5a6fe8_or  8.1s
+07:57:18 done: 5 ok, 0 failed; avg 9.5s/render
+07:57:28 5 render(s) queued, 3 in parallel
+07:57:28 start 02bad3b3_bn (20.00s + outro) -> deliver/Bengali/26_kojic-night-cream_ugc_look-at-that-thick-rich-texture_02bad3b3.mp4
+07:57:28 start 02bad3b3_ta (20.00s + outro) -> deliver/Tamil/26_kojic-night-cream_ugc_look-at-that-thick-rich-texture_02bad3b3.mp4
+07:57:28 start 02bad3b3_te (20.00s + outro) -> deliver/Telugu/26_kojic-night-cream_ugc_look-at-that-thick-rich-texture_02bad3b3.mp4
+07:57:36 ok     02bad3b3_bn  7.9s
+07:57:36 start 02bad3b3_ml (20.00s + outro) -> deliver/Malayalam/26_kojic-night-cream_ugc_look-at-that-thick-rich-texture_02bad3b3.mp4
+07:57:38 ok     02bad3b3_ta  8.6s
+07:57:38 start 02bad3b3_or (20.00s + outro) -> deliver/Odia/26_kojic-night-cream_ugc_look-at-that-thick-rich-texture_02bad3b3.mp4
+07:57:39 ok     02bad3b3_te  9.1s
+07:57:44 ok     02bad3b3_ml  7.4s
+07:57:45 ok     02bad3b3_or  7.2s
+07:57:45 done: 5 ok, 0 failed; avg 8.0s/render
+07:57:45 1 render(s) queued, 3 in parallel
+07:57:45 start fe7174d4_hi (20.00s + outro) -> deliver/Hinglish_Ads/08_PS_white-cast-ko-light-mein-test-karo_fe7174d4.mp4
+07:57:53 ok     fe7174d4_hi  7.6s
+07:57:53 done: 1 ok, 0 failed; avg 7.6s/render
+07:58:04 5 render(s) queued, 3 in parallel
+07:58:04 start ce849d3f_bn (17.00s + outro) -> deliver/Bengali/08_uv-sunscreen_personification_purple-tint_ce849d3f.mp4
+07:58:04 start ce849d3f_ta (17.00s + outro) -> deliver/Tamil/08_uv-sunscreen_personification_purple-tint_ce849d3f.mp4
+07:58:04 start ce849d3f_te (17.00s + outro) -> deliver/Telugu/08_uv-sunscreen_personification_purple-tint_ce849d3f.mp4
+07:58:13 ok     ce849d3f_bn  9.0s
+07:58:13 start ce849d3f_ml (17.00s + outro) -> deliver/Malayalam/08_uv-sunscreen_personification_purple-tint_ce849d3f.mp4
+07:58:15 ok     ce849d3f_ta  9.6s
+07:58:15 start ce849d3f_or (17.00s + outro) -> deliver/Odia/08_uv-sunscreen_personification_purple-tint_ce849d3f.mp4
+07:58:15 ok     ce849d3f_te  9.4s
+07:58:21 ok     ce849d3f_ml  7.6s
+07:58:21 ok     ce849d3f_or  6.5s
+07:58:21 done: 5 ok, 0 failed; avg 8.4s/render
+07:58:31 1 render(s) queued, 3 in parallel
+07:58:31 start c01adcce_hi (20.00s + outro) -> deliver/Hinglish_Ads/07_PS_sunlight-dikhta-hai_c01adcce.mp4
+07:58:42 ok     c01adcce_hi  10.7s
+07:58:42 done: 1 ok, 0 failed; avg 10.7s/render
+07:58:53 5 render(s) queued, 3 in parallel
+07:58:53 start 595689d8_bn (20.00s + outro) -> deliver/Bengali/17_kojic-night-cream_product_avatar_3xpert-control-panel_595689d8.mp4
+07:58:53 start 595689d8_ta (20.00s + outro) -> deliver/Tamil/17_kojic-night-cream_product_avatar_3xpert-control-panel_595689d8.mp4
+07:58:53 start 595689d8_te (20.00s + outro) -> deliver/Telugu/17_kojic-night-cream_product_avatar_3xpert-control-panel_595689d8.mp4
+07:59:02 ok     595689d8_bn  9.7s
+07:59:02 start 595689d8_ml (20.00s + outro) -> deliver/Malayalam/17_kojic-night-cream_product_avatar_3xpert-control-panel_595689d8.mp4
+07:59:06 ok     595689d8_te  12.3s
+07:59:06 start 595689d8_or (20.00s + outro) -> deliver/Odia/17_kojic-night-cream_product_avatar_3xpert-control-panel_595689d8.mp4
+07:59:09 ok     595689d8_ta  14.4s
+07:59:14 ok     595689d8_ml  11.5s
+07:59:15 ok     595689d8_or  9.2s
+07:59:15 done: 5 ok, 0 failed; avg 11.4s/render
+07:59:16 5 render(s) queued, 3 in parallel
+07:59:16 start c51221b6_bn (17.00s + outro) -> deliver/Bengali/07_uv-sunscreen_personification_purple-tint_c51221b6.mp4
+07:59:16 start c51221b6_ta (17.00s + outro) -> deliver/Tamil/07_uv-sunscreen_personification_purple-tint_c51221b6.mp4
+07:59:16 start c51221b6_te (17.00s + outro) -> deliver/Telugu/07_uv-sunscreen_personification_purple-tint_c51221b6.mp4
+07:59:23 ok     c51221b6_bn  7.5s
+07:59:23 start c51221b6_ml (17.00s + outro) -> deliver/Malayalam/07_uv-sunscreen_personification_purple-tint_c51221b6.mp4

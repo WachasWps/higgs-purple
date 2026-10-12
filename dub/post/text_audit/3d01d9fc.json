@@ -1,0 +1,112 @@
+[
+ {
+  "n": 0,
+  "text": "4% NIACH",
+  "variants": [
+   "4% NIACH",
+   "4% NIACINE",
+   "4% Nº"
+  ],
+  "start": 6.33,
+  "end": 7.33,
+  "box": [
+   0.8083,
+   0.0549,
+   1.0122,
+   0.1499
+  ],
+  "height": 0.0949,
+  "suspect_words": [
+   "NIACH",
+   "NIACINE"
+  ],
+  "crop": "post/text_audit/3d01d9fc_0.png"
+ },
+ {
+  "n": 1,
+  "text": "WITH SPFERA",
+  "variants": [
+   "WITH SPF ERREH",
+   "WITH SPFERA",
+   "WITH SPI"
+  ],
+  "start": 6.33,
+  "end": 7.33,
+  "box": [
+   0.7895,
+   0.0722,
+   1.0096,
+   0.1715
+  ],
+  "height": 0.0993,
+  "suspect_words": [
+   "ERREH",
+   "SPFERA",
+   "SPI"
+  ],
+  "crop": "post/text_audit/3d01d9fc_1.png"
+ },
+ {
+  "n": 2,
+  "text": "BRIGHTENINO",
+  "variants": [
+   "BRIGHTENIND",
+   "BRIGHTENING",
+   "BRIGHTENINO"
+  ],
+  "start": 6.33,
+  "end": 7.67,
+  "box": [
+   0.6206,
+   0.1864,
+   0.9967,
+   0.3093
+  ],
+  "height": 0.1229,
+  "suspect_words": [
+   "BRIGHTENIND",
+   "BRIGHTENINO"
+  ],
+  "crop": "post/text_audit/3d01d9fc_2.png"
+ },
+ {
+  "n": 3,
+  "text": "SUNSCREEN",
+  "variants": [
+   "SUNSCREEN"
+  ],
+  "start": 6.33,
+  "end": 7.67,
+  "box": [
+   0.6085,
+   0.2042,
+   0.9641,
+   0.3218
+  ],
+  "height": 0.1175,
+  "suspect_words": []
+ },
+ {
+  "n": 8,
+  "text": "DERMOOC",
+  "variants": [
+   "DERMDOC",
+   "DERMOOC",
+   "DEUMOOC"
+  ],
+  "start": 18.33,
+  "end": 20.0,
+  "box": [
+   0.676,
+   0.3879,
+   0.8436,
+   0.4261
+  ],
+  "height": 0.0383,
+  "suspect_words": [
+   "DERMOOC",
+   "DEUMOOC"
+  ],
+  "crop": "post/text_audit/3d01d9fc_8.png"
+ }
+]

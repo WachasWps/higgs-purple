@@ -1,0 +1,56 @@
+[
+ {
+  "id": 1,
+  "speaker": "tube",
+  "cer": 0.38,
+  "heard": "তিম আচ হারা দিন ওনিকাজ্"
+ },
+ {
+  "id": 2,
+  "speaker": "uv_rays",
+  "cer": 0.2,
+  "heard": "চল আজ ওর ওফিশ্য়ে দিন টার ভারুট বাজাই।",
+  "redub": true
+ },
+ {
+  "id": 3,
+  "speaker": "tube",
+  "cer": 0.18,
+  "heard": "সমাইজানো কারকি ডুটি।"
+ },
+ {
+  "id": 4,
+  "speaker": "spf_shield",
+  "cer": 0.1,
+  "heard": "ইয়ো ভিরে আমি সমলাবো।",
+  "redub": true
+ },
+ {
+  "id": 5,
+  "speaker": "purple_tint",
+  "cer": 0.07,
+  "heard": "পারপল হল দেটে ডালোনে সারায়।",
+  "redub": true
+ },
+ {
+  "id": 6,
+  "speaker": "niacinamide",
+  "cer": 0.19,
+  "heard": "ওই ডালা এসামি ব্রাইট করে দে঵ু।",
+  "redub": true
+ },
+ {
+  "id": 7,
+  "speaker": "tube",
+  "cer": 0.23,
+  "heard": "একদম মিশে জাই নোরে সেডু।",
+  "redub": true
+ },
+ {
+  "id": 8,
+  "speaker": "tube",
+  "cer": 0.31,
+  "heard": "ইন্স্টা গ্লো চালো জাই।",
+  "redub": true
+ }
+]

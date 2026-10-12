@@ -1,0 +1,51 @@
+[
+ {
+  "id": 1,
+  "speaker": "creator",
+  "cer": 0.05,
+  "heard": "পরপোল সনসক্য়িন ভাবলি পর্পল দীশিবে।",
+  "redub": true
+ },
+ {
+  "id": 2,
+  "speaker": "creator",
+  "cer": 0.12,
+  "heard": "কলর হুইলে পরপল হলদ্যার উলটা ডালেনেস কমাইবারে হেল্প করে।",
+  "redub": true
+ },
+ {
+  "id": 3,
+  "speaker": "creator",
+  "cer": 0.44,
+  "heard": "এটিনটি ইনিন সকিন আপাই তিয়ে",
+  "redub": true
+ },
+ {
+  "id": 4,
+  "speaker": "creator",
+  "cer": 0.31,
+  "heard": "পুরা পুরি মিসি জায় নো হ঵াইট কাস্ট।",
+  "redub": true
+ },
+ {
+  "id": 5,
+  "speaker": "creator",
+  "cer": 0.16,
+  "heard": "মিসাই দিএ আউ চারি পরসেন্ট নিযাসিনামাইড এসা পিফিফটি পি টরিপল পলসো",
+  "redub": true
+ },
+ {
+  "id": 6,
+  "speaker": "creator",
+  "cer": 0.13,
+  "heard": "আগারু ডালা এবে স্মুথা ইবেন লুক ইন্স্টান্ট গ্লু।",
+  "redub": true
+ },
+ {
+  "id": 7,
+  "speaker": "creator",
+  "cer": 0.25,
+  "heard": "ইন্স্টান্টগ্লো নো হইটকাস্টা",
+  "redub": true
+ }
+]

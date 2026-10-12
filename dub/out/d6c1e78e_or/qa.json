@@ -1,0 +1,63 @@
+[
+ {
+  "id": 1,
+  "speaker": "creator",
+  "cer": 0.0,
+  "heard": "আজি মরনেং রুটিন্রে পর্পল সনো স্করিন।"
+ },
+ {
+  "id": 2,
+  "speaker": "creator",
+  "cer": 0.24,
+  "heard": "দর্মডাকন নিযসিনামাইড পর্পর টিন্ট গ্লো।"
+ },
+ {
+  "id": 3,
+  "speaker": "creator",
+  "cer": 0.21,
+  "heard": "কলর হিলেরে পর্পল হরদিয় ওলটা ডলনেস কাতে।"
+ },
+ {
+  "id": 4,
+  "speaker": "creator",
+  "cer": 0.23,
+  "heard": "চারিটা ডাটা তা পরে বান্ড দেখো পরপল গায়ো হয়াইট কাস্ট নহিন্য়।"
+ },
+ {
+  "id": 5,
+  "speaker": "creator",
+  "cer": 0.33,
+  "heard": "খরা পাই এস্য়ে ফিটি"
+ },
+ {
+  "id": 6,
+  "speaker": "creator",
+  "cer": 0.15,
+  "heard": "A glow instead filter nahi"
+ },
+ {
+  "id": 7,
+  "speaker": "creator",
+  "cer": 0.15,
+  "heard": "Haluqa, Indian Skin Pine"
+ },
+ {
+  "id": 8,
+  "speaker": "creator",
+  "cer": 0.33,
+  "heard": "আগরো ডাল এভে ইন্সটান্কলো।"
+ },
+ {
+  "id": 9,
+  "speaker": "creator",
+  "cer": 0.07,
+  "heard": "এটা মর রোজর সনো সকরিন"
+ },
+ {
+  "id": 10,
+  "speaker": "creator",
+  "cer": 0.17,
+  "heard": "পারপল ডাট কমরিকিন পরে থেন্ক্স।",
+  "redub": true
+ }
+]

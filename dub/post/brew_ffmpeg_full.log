@@ -1,0 +1,239 @@
+Warning: The following taps are not trusted:
+  dopplerhq/doppler
+  hudochenkov/sshpass
+  mongodb/brew
+
+Homebrew is currently ignoring formulae, casks and commands
+from these taps because tap trust is required.
+Prefer trusting only the specific formulae, casks or commands you need.
+Trust installed formulae from these taps with:
+  brew trust --formula hudochenkov/sshpass/sshpass
+  brew trust --formula mongodb/brew/mongodb-database-tools
+Trust other specific casks and commands with:
+  brew trust --cask <user>/<tap>/<cask>
+  brew trust --command <user>/<tap>/<command>
+Whole-tap trust is broader and includes all current and future formulae,
+casks and commands from the listed taps. Trust whole taps with:
+  brew trust dopplerhq/doppler hudochenkov/sshpass mongodb/brew
+Untap them with:
+  brew untap dopplerhq/doppler hudochenkov/sshpass mongodb/brew
+For more information, see:
+  https://docs.brew.sh/Tap-Trust
+==> Would install 1 formula:
+ffmpeg-full
+==> Would install 29 dependencies for ffmpeg-full:
+libssh
+libvidstab
+libogg
+libvorbis
+opencore-amr
+qrencode
+rav1e
+libsamplerate
+flac
+libsndfile
+rubberband
+sdl3
+snappy
+speex
+srt
+leptonica
+libb2
+libarchive
+libdatrie
+libthai
+pango
+tesseract
+theora
+llama.cpp
+whisper.cpp
+xvid
+libsodium
+zeromq
+zimg
+==> Would upgrade 9 dependencies for ffmpeg-full:
+xorgproto
+cairo
+harfbuzz
+fribidi
+libvpx
+openjpeg
+sdl2-compat
+svt-av1
+x265
+==> Fetching downloads for: ffmpeg-full
+✔︎ Bottle ffmpeg-full (9.0.2)
+✔︎ Bottle xorgproto (2026.1)
+✔︎ Bottle cairo (1.18.6)
+✔︎ Bottle harfbuzz (14.6.0)
+✔︎ Bottle fribidi (1.0.17)
+✔︎ Bottle libssh (0.12.2_1)
+✔︎ Bottle libvidstab (1.1.2)
+✔︎ Bottle libogg (1.3.6)
+✔︎ Bottle libvorbis (1.3.7)
+✔︎ Bottle libvpx (1.17.0)
+✔︎ Bottle opencore-amr (0.1.6)
+✔︎ Bottle openjpeg (2.5.4_1)
+✔︎ Bottle qrencode (4.1.1_1)
+✔︎ Bottle rav1e (0.8.1)
+✔︎ Bottle libsamplerate (0.2.2)
+✔︎ Bottle flac (1.5.0)
+✔︎ Bottle libsndfile (1.2.2_1)
+✔︎ Bottle rubberband (4.0.0)
+✔︎ Bottle sdl3 (3.4.18)
+✔︎ Bottle sdl2-compat (2.32.74)
+✔︎ Bottle snappy (1.3.1)
+✔︎ Bottle speex (1.2.1)
+✔︎ Bottle srt (1.5.7_1)
+✔︎ Bottle svt-av1 (4.2.0)
+✔︎ Bottle leptonica (1.87.0)
+✔︎ Bottle libb2 (0.98.1)
+✔︎ Bottle libarchive (3.8.9)
+✔︎ Bottle libdatrie (0.2.14)
+✔︎ Bottle libthai (0.1.30)
+✔︎ Bottle pango (1.58.2)
+✔︎ Bottle tesseract (5.5.3)
+✔︎ Bottle whisper.cpp (1.9.5)
+✔︎ Bottle xvid (1.3.7)
+✔︎ Bottle xvid (1.3.7)
+✔︎ Bottle llama.cpp (0.6.0_1)
+✔︎ Bottle theora (1.2.0)
+✔︎ Bottle zimg (3.0.6)
+✔︎ Bottle x265 (4.3)
+✔︎ Bottle libsodium (1.0.22)
+✔︎ Bottle zeromq (4.3.5_2)
+==> Installing dependencies for ffmpeg-full: libssh, libvidstab, libogg, libvorbis, libvpx, opencore-amr, qrencode, rav1e, libsamplerate, flac, libsndfile, rubberband, sdl3, sdl2-compat, snappy, speex, srt, svt-av1, leptonica, libb2, libarchive, libdatrie, libthai, pango, tesseract, theora, llama.cpp, whisper.cpp, x265, xvid, libsodium, zeromq and zimg
+==> Installing ffmpeg-full dependency: libssh
+==> Pouring libssh--0.12.2_1.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/libssh/0.12.2_1: 25 files, 1.7MB
+==> Installing ffmpeg-full dependency: libvidstab
+==> Pouring libvidstab--1.1.2.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/libvidstab/1.1.2: 29 files, 579.3KB
+==> Installing ffmpeg-full dependency: libogg
+==> Pouring libogg--1.3.6.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/libogg/1.3.6: 103 files, 531.9KB
+==> Installing ffmpeg-full dependency: libvorbis
+==> Pouring libvorbis--1.3.7.arm64_tahoe.bottle.1.tar.gz
+🍺  /opt/homebrew/Cellar/libvorbis/1.3.7: 158 files, 2.4MB
+==> Upgrading ffmpeg-full dependency: libvpx
+==> Pouring libvpx--1.17.0.arm64_tahoe.bottle.1.tar.gz
+🍺  /opt/homebrew/Cellar/libvpx/1.17.0: 22 files, 4.4MB
+==> Installing ffmpeg-full dependency: opencore-amr
+==> Pouring opencore-amr--0.1.6.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/opencore-amr/0.1.6: 18 files, 636.4KB
+==> Installing ffmpeg-full dependency: qrencode
+==> Pouring qrencode--4.1.1_1.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/qrencode/4.1.1_1: 15 files, 286KB
+==> Installing ffmpeg-full dependency: rav1e
+==> Pouring rav1e--0.8.1.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/rav1e/0.8.1: 15 files, 50.8MB
+==> Installing ffmpeg-full dependency: libsamplerate
+==> Pouring libsamplerate--0.2.2.arm64_tahoe.bottle.1.tar.gz
+🍺  /opt/homebrew/Cellar/libsamplerate/0.2.2: 33 files, 3.2MB
+==> Installing ffmpeg-full dependency: flac
+==> Pouring flac--1.5.0.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/flac/1.5.0: 40 files, 1.9MB
+==> Installing ffmpeg-full dependency: libsndfile
+==> Pouring libsndfile--1.2.2_1.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/libsndfile/1.2.2_1: 55 files, 1.8MB
+==> Installing ffmpeg-full dependency: rubberband
+==> Pouring rubberband--4.0.0.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/rubberband/4.0.0: 15 files, 2.0MB
+==> Installing ffmpeg-full dependency: sdl3
+==> Pouring sdl3--3.4.18.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/sdl3/3.4.18: 103 files, 6.3MB
+==> Upgrading ffmpeg-full dependency: sdl2-compat
+==> Pouring sdl2-compat--2.32.74.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/sdl2-compat/2.32.74: 117 files, 3.3MB
+==> Installing ffmpeg-full dependency: snappy
+==> Pouring snappy--1.3.1.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/snappy/1.3.1: 20 files, 172.4KB
+==> Installing ffmpeg-full dependency: speex
+==> Pouring speex--1.2.1.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/speex/1.2.1: 26 files, 823.6KB
+==> Installing ffmpeg-full dependency: srt
+==> Pouring srt--1.5.7_1.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/srt/1.5.7_1: 21 files, 4.9MB
+==> Upgrading ffmpeg-full dependency: svt-av1
+==> Pouring svt-av1--4.2.0.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/svt-av1/4.2.0: 23 files, 3.3MB
+==> Installing ffmpeg-full dependency: leptonica
+==> Pouring leptonica--1.87.0.arm64_tahoe.bottle.1.tar.gz
+🍺  /opt/homebrew/Cellar/leptonica/1.87.0: 55 files, 7MB
+==> Installing ffmpeg-full dependency: libb2
+==> Pouring libb2--0.98.1.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/libb2/0.98.1: 9 files, 112.7KB
+==> Installing ffmpeg-full dependency: libarchive
+==> Pouring libarchive--3.8.9.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/libarchive/3.8.9: 65 files, 4MB
+==> Installing ffmpeg-full dependency: libdatrie
+==> Pouring libdatrie--0.2.14.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/libdatrie/0.2.14: 20 files, 276KB
+==> Installing ffmpeg-full dependency: libthai
+==> Pouring libthai--0.1.30.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/libthai/0.1.30: 30 files, 954.9KB
+==> Installing ffmpeg-full dependency: pango
+==> Installing dependencies for pango: fribidi and harfbuzz
+==> Upgrading pango dependency: fribidi
+==> Pouring fribidi--1.0.17.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/fribidi/1.0.17: 69 files, 753.4KB
+==> Upgrading pango dependency: harfbuzz
+==> Installing dependencies for harfbuzz: xorgproto and cairo
+==> Upgrading harfbuzz dependency: xorgproto
+==> Pouring xorgproto--2026.1.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/xorgproto/2026.1: 268 files, 4.1MB
+==> Upgrading harfbuzz dependency: cairo
+==> Pouring cairo--1.18.6.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/cairo/1.18.6: 58 files, 4.6MB
+==> Installing harfbuzz
+==> Pouring harfbuzz--14.6.0.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/harfbuzz/14.6.0: 96 files, 14.3MB
+==> Installing pango
+==> Pouring pango--1.58.2.arm64_tahoe.bottle.1.tar.gz
+🍺  /opt/homebrew/Cellar/pango/1.58.2: 69 files, 3.7MB
+==> Installing ffmpeg-full dependency: tesseract
+==> Pouring tesseract--5.5.3.arm64_tahoe.bottle.1.tar.gz
+🍺  /opt/homebrew/Cellar/tesseract/5.5.3: 74 files, 26MB
+==> Installing ffmpeg-full dependency: theora
+==> Pouring theora--1.2.0.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/theora/1.2.0: 126 files, 2.6MB
+==> Installing ffmpeg-full dependency: llama.cpp
+==> Pouring llama.cpp--0.6.0_1.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/llama.cpp/0.6.0_1: 70 files, 19.5MB
+==> Installing ffmpeg-full dependency: whisper.cpp
+==> Pouring whisper.cpp--1.9.5.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/whisper.cpp/1.9.5: 33 files, 6.4MB
+==> Upgrading ffmpeg-full dependency: x265
+==> Pouring x265--4.3.arm64_tahoe.bottle.1.tar.gz
+🍺  /opt/homebrew/Cellar/x265/4.3: 12 files, 17.3MB
+==> Installing ffmpeg-full dependency: xvid
+==> Pouring xvid--1.3.7.arm64_tahoe.bottle.1.tar.gz
+🍺  /opt/homebrew/Cellar/xvid/1.3.7: 12 files, 1.2MB
+==> Installing ffmpeg-full dependency: libsodium
+==> Pouring libsodium--1.0.22.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/libsodium/1.0.22: 88 files, 1.1MB
+==> Installing ffmpeg-full dependency: zeromq
+==> Pouring zeromq--4.3.5_2.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/zeromq/4.3.5_2: 85 files, 6.6MB
+==> Installing ffmpeg-full dependency: zimg
+==> Pouring zimg--3.0.6.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/zimg/3.0.6: 28 files, 1.2MB
+==> Installing ffmpeg-full
+Warning: ffmpeg-full was installed but not linked because ffmpeg is already linked.
+To link this version, run:
+  brew link ffmpeg-full
+==> Pouring ffmpeg-full--9.0.2.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/ffmpeg-full/9.0.2: 291 files, 58.8MB
+==> Caveats
+==> ffmpeg-full
+ffmpeg-full includes additional tools and libraries that are not included in the regular ffmpeg formula.
+
+ffmpeg-full is keg-only, which means it was not symlinked into /opt/homebrew,
+because this is an alternate version of another formula.
+
+If you need to have ffmpeg-full first in your PATH, run:
+  echo 'export PATH="/opt/homebrew/opt/ffmpeg-full/bin:$PATH"' >> ~/.zshrc
+
+For compilers to find ffmpeg-full you may need to set:
+  export LDFLAGS="-L/opt/homebrew/opt/ffmpeg-full/lib"
+  export CPPFLAGS="-I/opt/homebrew/opt/ffmpeg-full/include"

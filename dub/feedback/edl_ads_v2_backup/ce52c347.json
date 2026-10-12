@@ -1,0 +1,315 @@
+{
+ "video_id": "ce52c347",
+ "product": "ps",
+ "category": "general_ad / product_ad (Hinglish VO) - 10_PS_ek-sunscreen-two-smart-actions",
+ "shots": [
+  {
+   "n": 1,
+   "start": 0.0,
+   "end": 2.27,
+   "content": "Exact PS tube standing on its cap between two glowing energy chambers (violet and blue); hook ONE SUNSCREEN / TWO ACTIONS.",
+   "issues": [
+    "sci-fi set, but on-message (two actions)"
+   ],
+   "action": "keep",
+   "replace_with": null,
+   "custom": null,
+   "note": "Packaging correct (on cap, label right). The two chambers illustrate 'two smart actions'. Keep to save credits."
+  },
+  {
+   "n": 2,
+   "start": 2.27,
+   "end": 6.13,
+   "content": "Macro of smooth pale-lavender cream swirling in a glass dish (no packaging).",
+   "issues": [],
+   "action": "keep",
+   "replace_with": null,
+   "custom": null,
+   "note": "A premium texture macro, the kind of shot the client asked for. Carries the SPF 50 PA+++ / UVA + UVB super under line 1."
+  },
+  {
+   "n": 3,
+   "start": 6.13,
+   "end": 8.27,
+   "content": "AI rainbow colour wheel above a dish of lavender cream; pill 4% NIACINAMIDE / EVEN-LOOKING SKIN.",
+   "issues": [
+    "AI colour wheel wrong/unexplained",
+    "wheel appears while VO talks about Niacinamide (mismatch)"
+   ],
+   "action": "replace",
+   "replace_with": "PS03_fingertips",
+   "custom": null,
+   "note": "The AI wheel is removed. The VO here is '...while 4% Niacinamide supports brighter, more even-looking skin', so PS03 is used: MEERA's fingertips rubbing the lavender cream, with the capped tube standing on its cap behind. Keep the 4% NIACINAMIDE pill. The correct GRAPHIC_COLOUR_WHEEL goes in shot 5, where the VO explains purple vs yellow."
+  },
+  {
+   "n": 4,
+   "start": 8.27,
+   "end": 9.6,
+   "content": "A lavender droplet splitting into two light paths inside a glass ring (abstract 'two actions').",
+   "issues": [],
+   "action": "keep",
+   "replace_with": null,
+   "custom": null,
+   "note": "Abstract visual with no product or skin problems; it bridges the two actions. 1.3 s, keep."
+  },
+  {
+   "n": 5,
+   "start": 9.6,
+   "end": 11.97,
+   "content": "Gold and blue UV rays hitting a skin cross-section with a blue shield layer.",
+   "issues": [
+    "skin cross-section 'terrain'",
+    "random fancy VFX"
+   ],
+   "action": "replace",
+   "replace_with": "GRAPHIC_COLOUR_WHEEL",
+   "custom": null,
+   "note": "Line 2 starts here: 'DERMDOC's purple tint sits opposite yellow, so it cancels yellow-looking dullness...'. Use the correct animated wheel (full-screen, or over PSA2_avatar_point): yellow highlighted, arrow across to purple, yellow dims."
+  },
+  {
+   "n": 6,
+   "start": 11.97,
+   "end": 14.97,
+   "content": "Skin-cell cross-section with bubbles; super PURPLE TINT INSTANT GLOW / COLOUR CORRECTION.",
+   "issues": [
+    "skin cross-section 'mountain'",
+    "instant glow claimed but never shown on a face"
+   ],
+   "action": "replace",
+   "replace_with": "PS05_blend_glow",
+   "custom": null,
+   "note": "VO: '...for an Instant Glow'. PS05 shows MEERA blending until the cream disappears with no cast and her skin turns visibly glowing. Keep the INSTANT GLOW super."
+  },
+  {
+   "n": 7,
+   "start": 14.97,
+   "end": 17.43,
+   "content": "Forearm on a balcony with a thick unblended lavender smear being spread; super NO WHITE CAST / LIGHTWEIGHT.",
+   "issues": [
+    "thick mask-like stripe",
+    "not blended (looks like residue)",
+    "unknown model (continuity)"
+   ],
+   "action": "replace",
+   "replace_with": "PS08_hand_swatch",
+   "custom": null,
+   "note": "VO: '...lightweight, no white cast'. PS08: thin stripe on MEERA's hand on a sunlit balcony table, rubbed until it vanishes with no cast. Same balcony feel. 2.5 s."
+  },
+  {
+   "n": 8,
+   "start": 17.43,
+   "end": 18.9,
+   "content": "Split-face B/A of a fair-ish model with a centre line; little difference.",
+   "issues": [
+    "model not dusky",
+    "no real dull vs glow difference",
+    "no INSTANT GLOW label"
+   ],
+   "action": "replace",
+   "replace_with": "GRAPHIC_BA_SPLIT",
+   "custom": null,
+   "note": "PS07_before_dull | PS06_glow_after, vertical half/half, face not cropped. BEFORE / AFTER with INSTANT GLOW under after. Hold it to 20.04 because shot 9 is removed."
+  },
+  {
+   "n": 9,
+   "start": 18.9,
+   "end": 20.04,
+   "content": "Tube inside interlocking glowing rings with a cream swipe.",
+   "issues": [
+    "random fancy shot before endslate"
+   ],
+   "action": "remove",
+   "replace_with": null,
+   "custom": null,
+   "note": "Remove it; the B/A holds 17.43-20.04 (2.6 s), then the outro."
+  }
+ ],
+ "script_changes": [
+  {
+   "line_id": 1,
+   "old_en": "Ek sunscreen, two smart actions.SPF 50 PA++ helps protect from UVA and UVB, while 4% Niacinamide supports brighter, more even-looking skin.",
+   "new_en": "One sunscreen, two smart actions. SPF 50 PA+++ helps protect from UVA and UVB, while 4% Niacinamide supports brighter, more even-looking skin.",
+   "reason": "English only (no Hindi 'Ek'); claim fix PA++ to PA+++."
+  },
+  {
+   "line_id": 2,
+   "old_en": "Demdoc ka purple tint yellow-looking dullness ko colour-correct karke gives instant radiant glow\u2014lightweight and without white cast.",
+   "new_en": "DERMDOC's purple tint sits opposite yellow, so it cancels yellow-looking dullness for an Instant Glow\u2014lightweight, no white cast.",
+   "reason": "Explains WHY purple over the correct colour wheel (shot 5); keeps the liked yellow-dullness concept; 'Instant Glow'; brand spelling fixed (was 'Demdoc')."
+  }
+ ],
+ "new_lines": [],
+ "supers": [
+  {
+   "action": "remove",
+   "match": "hud",
+   "text": null,
+   "start": 10.5,
+   "end": 11.9,
+   "why": "Would clutter the colour-wheel graphic."
+  },
+  {
+   "action": "add",
+   "match": null,
+   "text": "PURPLE SITS OPPOSITE YELLOW | sub: CANCELS YELLOW-LOOKING DULLNESS",
+   "start": 9.7,
+   "end": 11.9,
+   "why": "Explain the wheel on screen."
+  },
+  {
+   "action": "change",
+   "match": "PURPLE TINT INSTANT GLOW / COLOUR CORRECTION",
+   "text": "INSTANT GLOW | sub: FULLY BLENDED, NO CAST",
+   "start": 12.3,
+   "end": 14.6,
+   "why": "Now on the PS05 blend-to-glow shot; the colour-correction message is on the wheel."
+  },
+  {
+   "action": "change",
+   "match": "BEFORE",
+   "text": "BEFORE (left) / AFTER (right) + 'INSTANT GLOW' under after",
+   "start": 17.45,
+   "end": 20.0,
+   "why": "Client: label under after = INSTANT GLOW."
+  }
+ ],
+ "voice_changes": [
+  {
+   "speaker": "narrator",
+   "to": "female",
+   "why": "Client: female VO only."
+  }
+ ],
+ "summary": "Kept: the two-chamber hook, the cream-swirl macro and the split-droplet abstract. The AI rainbow wheel becomes PS03 fingertips (under the Niacinamide VO), and the correct, explained wheel goes where line 2 explains purple vs yellow. The cross-sections and forearm smear become PS05 blend-to-glow and the PS08 swatch, then a real B/A labelled INSTANT GLOW. The ring ending is removed.",
+ "rebuild": {
+  "concept": "ONE SUNSCREEN, TWO SMART ACTIONS: Action 1 protects (SPF 50 PA+++, shown in the sun); Action 2 corrects (purple tint + 4% Niacinamide, shown with a labelled macro and the colour wheel). Ends on a real Instant Glow B/A.",
+  "target_duration_s": 17.8,
+  "narrator": "narrator_female (crisp, premium; English source, dubbed to Bengali/Tamil/Telugu/Malayalam/Odia only)",
+  "custom_count": 1,
+  "shots": [
+   {
+    "n": 1,
+    "start": 0.0,
+    "end": 2.5,
+    "source": "PS10_texture_macro",
+    "content": "Clean studio: fingertip swipes a glossy lavender cream swirl, with the capped tube standing on its cap behind.",
+    "super": "ONE SUNSCREEN. TWO ACTIONS.",
+    "vo": 1
+   },
+   {
+    "n": 2,
+    "start": 2.5,
+    "end": 6.2,
+    "source": "PS01_hero_vanity",
+    "content": "Exact tube standing on its wide cap on a marble vanity in strong morning sun with leaf shadows, slow push-in: protection in the sun, with no glowing face shown before the dull \"before\".",
+    "super": "ACTION 1: SPF 50 PA+++ | UVA + UVB",
+    "vo": 2
+   },
+   {
+    "n": 3,
+    "start": 6.2,
+    "end": 9.6,
+    "source": "CUSTOM_PS_INGR_MACRO",
+    "content": "Studio macro: niacinamide droplet falls into the lavender swirl; labels pop.",
+    "super": "ACTION 2: 4% NIACINAMIDE + PURPLE TINT (separate labels)",
+    "vo": 3
+   },
+   {
+    "n": 4,
+    "start": 9.6,
+    "end": 11.0,
+    "source": "PS07_before_dull",
+    "content": "MEERA, dull and yellow-looking, before skincare (same window framing as the B/A).",
+    "super": "YELLOW-LOOKING DULLNESS",
+    "vo": 4
+   },
+   {
+    "n": 5,
+    "start": 11.0,
+    "end": 13.0,
+    "source": "GRAPHIC_COLOUR_WHEEL",
+    "content": "Full-screen premium animated wheel; yellow to purple across the centre.",
+    "super": "PURPLE CANCELS YELLOW",
+    "vo": 4
+   },
+   {
+    "n": 6,
+    "start": 13.0,
+    "end": 15.3,
+    "source": "PS05_blend_glow",
+    "content": "Blends in completely, no cast; the skin turns visibly glowing.",
+    "super": "NO WHITE CAST",
+    "vo": 5,
+    "clip_offset": 2.7
+   },
+   {
+    "n": 7,
+    "start": 15.3,
+    "end": 17.8,
+    "source": "GRAPHIC_BA_SPLIT",
+    "content": "PS07_before_dull | PS06_glow_after, vertical half/half. Then cut to the outro.",
+    "super": "BEFORE | AFTER + 'INSTANT GLOW' under after",
+    "vo": 5
+   }
+  ],
+  "vo": [
+   {
+    "id": 1,
+    "start": 0.2,
+    "end": 2.3,
+    "en": "One sunscreen. Two smart actions."
+   },
+   {
+    "id": 2,
+    "start": 2.6,
+    "end": 6.0,
+    "en": "One: SPF 50 PA+++ helps protect from UVA and UVB."
+   },
+   {
+    "id": 3,
+    "start": 6.3,
+    "end": 9.4,
+    "en": "Two: 4% Niacinamide with a purple tint."
+   },
+   {
+    "id": 4,
+    "start": 9.7,
+    "end": 12.9,
+    "en": "Purple sits opposite yellow, so it cancels yellow-looking dullness."
+   },
+   {
+    "id": 5,
+    "start": 13.2,
+    "end": 16.8,
+    "en": "It blends in with no white cast. Just Instant Glow."
+   }
+  ],
+  "custom_shots": {
+   "CUSTOM_PS_INGR_MACRO": {
+    "shared": "Same clip as in 4010f985: generate ONCE and reuse in all 5 PS general-ad rebuilds.",
+    "keyframe": "Vertical 9:16 premium skincare studio macro, clean L'Oreal-style lighting: soft white key light from top-left, gentle lavender rim light, seamless pale-lavender-to-white background, glossy white acrylic surface with a soft reflection. Centre-bottom: one smooth, glossy, opaque pale-lavender sunscreen cream swirl (light and creamy, not watery, not paste). Upper-left: a single crystal-clear water-light serum droplet (niacinamide) hanging just above the swirl, catching a bright specular highlight. Right side: a thin clear-glass disc standing upright, catching a crisp warm sunbeam that refracts into a soft prism flare (sun-protection cue). The three elements are clearly separated, with clean empty background above each for labels added in post. No product packaging, no hands, no people, no text, no letters, no logos.",
+    "motion": "The serum droplet falls in slow motion onto the lavender swirl and makes a soft silky ripple; the sunbeam glints across the glass disc; very slow macro push-in; nothing else changes.",
+    "post_labels": [
+     "PURPLE TINT (on swirl)",
+     "4% NIACINAMIDE (on droplet)",
+     "SPF 50 PA+++ (on sun disc; in this ad shown under ACTION 1 instead, so label only the droplet and swirl here)"
+    ]
+   }
+  },
+  "dropped_from_current": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9
+  ],
+  "reused_from_current": [],
+  "notes": "Optional: current shot 2 (cream-swirl macro) is premium and could replace PS10 as the opener. No chambers, rays, cross-sections or rings. MEERA is the only woman, and she first appears dull (PS07), so she is never glowing before the \"before\". New credits: one shared PS CUSTOM clip.",
+  "vo_budget_note": "English VO is about 239 characters over 16.6 s. The regional dubs (spoken at about 14 chars/s, with numbers spoken as words, e.g. 'SPF fifty PA triple plus') will run longer, so transcreate tightly. If a language overflows, trim connectives first, never the ingredient names, 'Instant Glow' or the full product name."
+ },
+ "use_rebuild": true
+}

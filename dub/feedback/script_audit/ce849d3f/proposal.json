@@ -1,0 +1,151 @@
+{
+ "video": "ce849d3f",
+ "shots": [
+  {
+   "n": 1,
+   "start": 0,
+   "end": 2.7,
+   "on_screen": "Golden oil-droplet villain skateboards across her shiny cheek."
+  },
+  {
+   "n": 2,
+   "start": 2.7,
+   "end": 4.6,
+   "on_screen": "Talking Ultra Violet tube with SPF shield and droplet heroes confronts the oil villain."
+  },
+  {
+   "n": 3,
+   "start": 4.6,
+   "end": 6.9,
+   "on_screen": "Colour wheel graphic, purple top joined to yellow bottom."
+  },
+  {
+   "n": 4,
+   "start": 6.9,
+   "end": 8.6,
+   "on_screen": "She smooths lavender cream on her cheek; oil villain panics."
+  },
+  {
+   "n": 5,
+   "start": 8.6,
+   "end": 9.6,
+   "on_screen": "Macro: sunscreen dot on skin blends away under sun rays."
+  },
+  {
+   "n": 6,
+   "start": 9.6,
+   "end": 11.8,
+   "on_screen": "SPF 50 shield hero throws a force field against angry UV stars."
+  },
+  {
+   "n": 7,
+   "start": 11.8,
+   "end": 13.9,
+   "on_screen": "Niacinamide hero clears grey haze off her cheek, '4% Niacinamide' text, skin glows."
+  },
+  {
+   "n": 8,
+   "start": 13.9,
+   "end": 17.0,
+   "on_screen": "She smiles outdoors; tube with shield and droplet heroes on a table, defeated oil villain."
+  }
+ ],
+ "lines": [
+  {
+   "id": 1,
+   "start": 0.0,
+   "slot_s": 2.47,
+   "speaker": "greasiness",
+   "current": "More shine! More stickiness!",
+   "on_screen_during": "S1 oil villain on cheek",
+   "verdict": "keep",
+   "new": "More shine! More stickiness!",
+   "words": 4,
+   "reason": "villain line over villain"
+  },
+  {
+   "id": 2,
+   "start": 2.62,
+   "slot_s": 1.81,
+   "speaker": "tube",
+   "current": "You're not part of my finish.",
+   "on_screen_during": "S1 end / S2 tube confronting villain",
+   "verdict": "keep",
+   "new": "You're not part of my finish.",
+   "words": 6,
+   "reason": "matches"
+  },
+  {
+   "id": 3,
+   "start": 4.58,
+   "slot_s": 2.21,
+   "speaker": "purple_tint",
+   "current": "I'm opposite yellow, so I cancel dullness.",
+   "on_screen_during": "S3 colour wheel",
+   "verdict": "keep",
+   "new": "I'm opposite yellow, so I cancel dullness.",
+   "words": 7,
+   "reason": "explains opposite-yellow; wheel is visible. Over budget (8 words / 2.2 s) but no tighter version keeps the wheel"
+  },
+  {
+   "id": 4,
+   "start": 6.94,
+   "slot_s": 1.65,
+   "speaker": "greasiness",
+   "current": "Wait, where's the sticky layer?",
+   "on_screen_during": "S4 cream applied, villain panicking",
+   "verdict": "keep",
+   "new": "Wait, where's the sticky layer?",
+   "words": 5,
+   "reason": "matches"
+  },
+  {
+   "id": 5,
+   "start": 8.74,
+   "slot_s": 0.71,
+   "speaker": "tube",
+   "current": "Fired.",
+   "on_screen_during": "S5 cream blending away",
+   "verdict": "keep",
+   "new": "Fired.",
+   "words": 1,
+   "reason": "vanishing cream = villain fired"
+  },
+  {
+   "id": 6,
+   "start": 9.6,
+   "slot_s": 2.19,
+   "speaker": "spf_shield",
+   "current": "Comfortable finish. Serious protection.",
+   "on_screen_during": "S6 SPF shield vs UV stars",
+   "verdict": "keep",
+   "new": "Comfortable finish. Serious protection.",
+   "words": 4,
+   "reason": "matches"
+  },
+  {
+   "id": 7,
+   "start": 11.94,
+   "slot_s": 2.23,
+   "speaker": "niacinamide",
+   "current": "And I help bring an instant glow.",
+   "on_screen_during": "S7 niacinamide clears dullness, glow",
+   "verdict": "keep",
+   "new": "And I help bring an instant glow.",
+   "words": 7,
+   "reason": "matches"
+  },
+  {
+   "id": 8,
+   "start": 14.32,
+   "slot_s": 2.74,
+   "speaker": "tube",
+   "current": "Protected, comfortable, made for Indian skin.",
+   "on_screen_during": "S8 outdoor hero shot with tube",
+   "verdict": "keep",
+   "new": "Protected, comfortable, made for Indian skin.",
+   "words": 6,
+   "reason": "matches"
+  }
+ ]
+}

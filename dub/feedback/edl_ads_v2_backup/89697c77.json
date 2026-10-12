@@ -1,0 +1,95 @@
+{
+  "video_id": "89697c77",
+  "product": "knc",
+  "category": "product_avatar",
+  "shots": [
+    {
+      "n": 1, "start": 0.0, "end": 2.83,
+      "content": "Tired woman in orange pyjamas at a night vanity with chicken-pox-like dots all over her cheek; the purple 'Snooze' villain floats by the mirror and a tiny jar mascot sits on the table.",
+      "issues": ["unrealistic_dark_spots", "model_not_dusky"],
+      "action": "replace", "replace_with": "KN03_before_night", "custom": null,
+      "note": "Client at 1.0: 'looks like chicken pox and not dark spots'. L1 Snooze 'Skip skincare. Go straight to sleep.' plus the hook 'TOO TIRED FOR SKINCARE?' over ANANYA at the mirror at night with realistic soft brown spots. The woman is replaced, so S1 and S6-S9 are all replaced."
+    },
+    {
+      "n": 2, "start": 2.83, "end": 4.63,
+      "content": "Caped jar mascot on the vanity, pointing; its face sits on the label and covers '2% KOJIC' (only 'ACID' visible).",
+      "issues": ["label_inexact_face_covers_name"],
+      "action": "replace", "replace_with": "KNA1_avatar_talk", "custom": null,
+      "note": "S2 and S3 become ONE 3.7 s KNA1 clip (2.83-6.53): the exact jar mascot with its face on the LID, so the '2% KOJIC ACID' label stays readable. It carries L2 'Sleep, yes. Skip me, no.' and L3 'I turn bedtime into brightening time.'"
+    },
+    {
+      "n": 3, "start": 4.63, "end": 6.53,
+      "content": "The same caped mascot lifts its hinged lid to show glowing cream; the face again covers '2% KOJIC'; baked 'OVERNIGHT BRIGHTENER'.",
+      "issues": ["label_inexact_face_covers_name"],
+      "action": "replace", "replace_with": "KNA1_avatar_talk", "custom": null,
+      "note": "Continuation of the KNA1 clip; OVERNIGHT BRIGHTENER becomes our super."
+    },
+    {
+      "n": 4, "start": 6.53, "end": 8.97,
+      "content": "Open jar mascot with a glowing crescent moon in the cream; baked callouts '2% KOJIC ACID' (left) and 'NIACINAMIDE & ALPHA ARBUTIN' (right, combined).",
+      "issues": ["third_ingredient_not_separate"],
+      "action": "keep", "replace_with": null, "custom": null,
+      "note": "Client at 7.67: 'keep the third ingredient written separately'. The jar label is readable and the shot matches L4 'My 3Xpert formula works while you rest.' Fix it in post: three same-style opaque pills over the baked callouts, 2% KOJIC ACID on the left, NIACINAMIDE and ALPHA ARBUTIN as two separate pills on the right."
+    },
+    {
+      "n": 5, "start": 8.97, "end": 10.6,
+      "content": "Macro of thick white cream in the jar; our 'RICH TEXTURE / FULLY ABSORBED' claim with corner HUD.",
+      "issues": [],
+      "action": "keep", "replace_with": null, "custom": null,
+      "note": "No skin, correct texture. Matches L5 Snooze 'That looks seriously rich.'"
+    },
+    {
+      "n": 6, "start": 10.6, "end": 12.27,
+      "content": "Woman with dotty spots dabbing white cream on her forehead and cheek at night.",
+      "issues": ["model_not_dusky", "unrealistic_dark_spots", "cream_not_blended"],
+      "action": "replace", "replace_with": "KN04_apply_night", "custom": null,
+      "note": "L6 'Smooth on my rich night-cream texture.' plays over ANANYA applying and massaging at night until fully absorbed (1.67 s; the end of KN04, where the cream has disappeared)."
+    },
+    {
+      "n": 7, "start": 12.27, "end": 14.4,
+      "content": "Woman with eyes closed, hands on her face, a cream dab still on her forehead and dark spots still visible.",
+      "issues": ["dark_spots_after_application", "cream_not_blended", "model_not_dusky"],
+      "action": "replace", "replace_with": "KN05_sleep", "custom": null,
+      "note": "Client at 14.0: 'dark spots still there post application'. S7 and S8 become ONE 3.23 s KN05 clip (12.27-15.5): L7 'Fully absorbed. Now get your beauty sleep.' plays over ANANYA asleep with the exact jar on the bedside, moonlight warming to dawn. No post-application spot close-up."
+    },
+    {
+      "n": 8, "start": 14.4, "end": 15.5,
+      "content": "Woman asleep in bed with the purple Snooze villain glowing over her.",
+      "issues": ["model_not_dusky"],
+      "action": "replace", "replace_with": "KN05_sleep", "custom": null,
+      "note": "Continuation of the KN05 clip (dawn part)."
+    },
+    {
+      "n": 9, "start": 15.5, "end": 17.37,
+      "content": "Woman still asleep on her pillow at night under baked 'AFTER 2 WEEKS' (twice).",
+      "issues": ["two_weeks_text_on_wake_frame", "night_result", "model_not_dusky"],
+      "action": "replace", "replace_with": "KN06_morning_wake", "custom": null,
+      "note": "L8 woman 'I slept. My glow showed up.' plays over ANANYA waking in morning daylight with spotless, glowing skin, smiling at camera without speaking (1.87 s), with the 'by morning' super instead of '2 weeks'."
+    },
+    {
+      "n": 10, "start": 17.37, "end": 20.04,
+      "content": "Caped jar mascot winking next to a sun icon; its face replaces the '2% KOJIC ACID' headline on the label entirely.",
+      "issues": ["label_inexact_name_missing", "no_ba_split"],
+      "action": "replace", "replace_with": "GRAPHIC_BA_SPLIT", "custom": null,
+      "note": "Vertical half/half KN08_before_day | KN07_after_day with AFTER 2 WEEKS under the after half (2.67 s), under the brand VO. The video had no B/A split, and this removes the wrong-label jar. The endslate that follows shows the product."
+    }
+  ],
+  "script_changes": [
+    {"line_id": 9, "old_en": "DERMDOC two percent Kojic Acid Night Cream. Sleep to glow.", "new_en": "DERMDOC 2% Kojic Acid Night Cream.", "reason": "The full product name must survive in every dub (the current dubs drop '2%' and 'Acid' to fit 2.1 s), so the tagline is dropped instead."}
+  ],
+  "new_lines": [],
+  "supers": [
+    {"action": "change", "match": "KOJIC NIGHT CREAM", "text": "2% KOJIC ACID NIGHT CREAM", "start": 2.95, "end": 4.55, "why": "Full product name on the jar hero tag."},
+    {"action": "add", "match": null, "text": "OVERNIGHT BRIGHTENER", "start": 4.72, "end": 6.4, "why": "Was baked into the replaced S3; matches L3."},
+    {"action": "add", "match": null, "text": "2% KOJIC ACID", "start": 6.6, "end": 8.95, "why": "Opaque pill over the baked left callout, same style as the other two."},
+    {"action": "add", "match": null, "text": "NIACINAMIDE", "start": 6.6, "end": 8.95, "why": "Opaque pill over the upper half of the baked 'NIACINAMIDE & ALPHA ARBUTIN' callout; ingredients written separately."},
+    {"action": "add", "match": null, "text": "ALPHA ARBUTIN", "start": 6.6, "end": 8.95, "why": "Separate pill under NIACINAMIDE, covering the rest of the combined baked callout (client: 'keep the third ingredient written separately')."},
+    {"action": "add", "match": null, "text": "BRIGHTER, CLEARER-LOOKING SKIN BY MORNING", "start": 15.5, "end": 17.37, "why": "Client: the morning wake-up text must be this style, not '2 weeks'."},
+    {"action": "add", "match": null, "text": "BEFORE", "start": 17.37, "end": 20.04, "why": "B/A split label under the left half."},
+    {"action": "add", "match": null, "text": "AFTER 2 WEEKS", "start": 17.37, "end": 20.04, "why": "Client: 'AFTER 2 WEEKS' under the after image."}
+  ],
+  "voice_changes": [
+    {"speaker": "snooze", "to": "female", "why": "Villain fx at -3 st makes it sound male and scary; female VO only."}
+  ],
+  "summary": "The chicken-pox spots, the post-application spots and the night '2 weeks' frames are gone: KN03, KN04, KN05, a KN06 morning wake with the 'by morning' super, and a closing B/A split. The mascots whose face covered '2% KOJIC ACID' become KNA1, and the three ingredients get separate pills on the kept moon-jar shot. The end line keeps the full product name and Snooze goes female."
+}

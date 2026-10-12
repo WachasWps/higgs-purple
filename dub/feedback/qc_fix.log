@@ -1,0 +1,18 @@
+390113f1: source_fixed.mp4 17.00s (source 17.02s), 2 shots replaced
+f7ce58d4: source_fixed.mp4 17.00s (source 17.02s), 2 shots replaced
+71e0977a: source_fixed.mp4 17.00s (source 17.02s), 3 shots replaced
+23850d94: source_fixed.mp4 17.00s (source 17.02s), 3 shots replaced
+74495eba: source_fixed.mp4 20.00s (source 20.04s), 1 shots replaced
+89697c77: source_fixed.mp4 20.10s (source 20.04s), 4 shots replaced
+e7e42eaf: source_fixed.mp4 17.07s (source 17.02s), 2 shots replaced
+01:45:13 done: 35 ok, 0 failed; avg 6.3s/render
+DONE 35 files -> /Users/wachas/Documents/higgs-purple/dub/deliver_music
+TOTAL 160 files -> /Users/wachas/Documents/higgs-purple/dub/Final_Deliverables
+01:45:28 loudness
+loudness normalised; failures: []
+checked 160 | 1080x1920: 160 | audio: 160
+loudness LUFS range -17.4 -14.1
+files with issues: 0
+videos: 160 | language sets with duration mismatch: 0 []
+per-video language counts: Counter({1: 160})
+01:49:39 QC FIX DONE

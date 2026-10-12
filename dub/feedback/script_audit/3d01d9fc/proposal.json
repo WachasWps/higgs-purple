@@ -1,0 +1,139 @@
+{
+ "video": "3d01d9fc",
+ "shots": [
+  {
+   "n": 1,
+   "start": 0,
+   "end": 2.7,
+   "on_screen": "Creator with curly hair in coral top talking by a sunny window."
+  },
+  {
+   "n": 2,
+   "start": 2.7,
+   "end": 6.27,
+   "on_screen": "Full-screen colour wheel, purple top linked to glowing yellow bottom."
+  },
+  {
+   "n": 3,
+   "start": 6.27,
+   "end": 7.6,
+   "on_screen": "Tube with lavender cream swirl; fingertip touches it."
+  },
+  {
+   "n": 4,
+   "start": 7.6,
+   "end": 10.27,
+   "on_screen": "Lavender swatch rubbed on hand in sunlight until it vanishes."
+  },
+  {
+   "n": 5,
+   "start": 10.27,
+   "end": 13.33,
+   "on_screen": "She dots lavender cream on face and blends it in."
+  },
+  {
+   "n": 6,
+   "start": 13.33,
+   "end": 15.3,
+   "on_screen": "Cheek close-up with glowing niacinamide molecule graphic."
+  },
+  {
+   "n": 7,
+   "start": 15.3,
+   "end": 17.3,
+   "on_screen": "Before/after split, same creator."
+  },
+  {
+   "n": 8,
+   "start": 17.3,
+   "end": 20.04,
+   "on_screen": "She sits at an outdoor cafe holding the tube under a sun-shield bubble."
+  }
+ ],
+ "lines": [
+  {
+   "id": 1,
+   "start": 0.0,
+   "slot_s": 2.57,
+   "speaker": "creator",
+   "current": "My skin looked dull, and my sunscreen did nothing about it.",
+   "on_screen_during": "Creator talking by window.",
+   "verdict": "rewrite",
+   "new": "My dull skin? Sunscreen didn't help.",
+   "words": 6,
+   "reason": "Fits but 11 words too long."
+  },
+  {
+   "id": 2,
+   "start": 2.72,
+   "slot_s": 3.35,
+   "speaker": "creator",
+   "current": "Purple sits opposite yellow, so the tint helps balance yellow-looking dullness.",
+   "on_screen_during": "Colour wheel.",
+   "verdict": "rewrite",
+   "new": "Purple sits opposite yellow, cancelling yellow-looking dullness.",
+   "words": 7,
+   "reason": "Explains wheel; trimmed from 12 words."
+  },
+  {
+   "id": 3,
+   "start": 6.22,
+   "slot_s": 1.45,
+   "speaker": "creator",
+   "current": "But the real test is how it blends.",
+   "on_screen_during": "Texture macro with finger.",
+   "verdict": "rewrite",
+   "new": "Blend test time.",
+   "words": 3,
+   "reason": "Fits; trimmed for 1.45 s."
+  },
+  {
+   "id": 4,
+   "start": 7.82,
+   "slot_s": 2.47,
+   "speaker": "creator",
+   "current": "No chalkiness, no purple residue, and no white cast.",
+   "on_screen_during": "Hand swatch blending.",
+   "verdict": "rewrite",
+   "new": "No residue, no white cast.",
+   "words": 5,
+   "reason": "Fits; trimmed."
+  },
+  {
+   "id": 5,
+   "start": 10.44,
+   "slot_s": 2.77,
+   "speaker": "creator",
+   "current": "It's made for Indian skin and feels lightweight once absorbed.",
+   "on_screen_during": "Dotting and blending on face.",
+   "verdict": "rewrite",
+   "new": "Blends right into Indian skin tones.",
+   "words": 6,
+   "reason": "Application on screen; talk blending."
+  },
+  {
+   "id": 6,
+   "start": 13.36,
+   "slot_s": 3.43,
+   "speaker": "creator",
+   "current": "Plus, 4% niacinamide gives me an even-looking, Instant Glow finish.",
+   "on_screen_during": "Niacinamide molecule on cheek, then before/after.",
+   "verdict": "rewrite",
+   "new": "Plus, 4% Niacinamide: instant, even-looking glow.",
+   "words": 6,
+   "reason": "Fits; trimmed, covers before/after."
+  },
+  {
+   "id": 7,
+   "start": 16.94,
+   "slot_s": 3.5,
+   "speaker": "creator",
+   "current": "And SPF 50 PA+++ handles the protection. That's my Instant Glow.",
+   "on_screen_during": "End of before/after, then cafe with shield bubble.",
+   "verdict": "keep",
+   "new": "And SPF 50 PA+++ handles the protection. That's my Instant Glow.",
+   "words": 11,
+   "reason": "Fits shield shot. Kept although 11 words exceeds the 8.4-word budget (pre-existing timing)."
+  }
+ ]
+}

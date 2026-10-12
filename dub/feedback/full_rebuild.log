@@ -1,0 +1,12 @@
+18:05:37 ASSEMBLED
+18:53:56 done: 150 ok, 0 failed; avg 36.5s/render
+18:57:31 done: 10 ok, 0 failed; avg 34.2s/render
+DONE 161 files -> /Users/wachas/Documents/higgs-purple/dub/deliver_music
+TOTAL 160 files -> /Users/wachas/Documents/higgs-purple/dub/Final_Deliverables
+loudness failures: []
+checked 160 | 1080x1920: 160 | audio: 160
+loudness LUFS range -17.4 -14.1
+files with issues: 0
+videos: 160 | language sets with duration mismatch: 0 []
+per-video language counts: Counter({1: 160})
+19:05:52 FULL REBUILD DONE

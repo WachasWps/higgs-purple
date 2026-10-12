@@ -1,0 +1,229 @@
+{
+ "video": "e7e42eaf",
+ "style": "personification",
+ "cast": [
+  {
+   "id": "uv_villain",
+   "name": "UV Villain",
+   "description": "gang of spiky golden UVA and red-orange UVB star villains streaking toward her face; gleeful, gravelly, menacing gremlin voice"
+  },
+  {
+   "id": "sunscreen_tube",
+   "name": "DERMDOC Sunscreen Tube",
+   "description": "the white DERMDOC Ultra Violet sunscreen tube with eyes, mouth and tiny limbs, team leader; firm, confident, protective cartoon voice"
+  },
+  {
+   "id": "spf_shield",
+   "name": "SPF 50 PA+++ Shield",
+   "description": "cobalt-blue shield hero that throws up a force field against the UV rays; deep, strong, calm bodyguard voice"
+  },
+  {
+   "id": "purple_tint",
+   "name": "Purple Tint",
+   "description": "smooth lavender droplet hero that pushes the White Cast villain away; bright, bubbly, sassy cartoon voice"
+  },
+  {
+   "id": "niacinamide",
+   "name": "4% Niacinamide",
+   "description": "silver-lavender molecule hero that clears the grey Dullness villain; perky, cocky, upbeat cartoon voice"
+  }
+ ],
+ "lines": [
+  {
+   "id": 1,
+   "start": 1.08,
+   "end": 3.14,
+   "speaker": "uv_villain",
+   "en": "Sun's out. Let's get her!"
+  },
+  {
+   "id": 2,
+   "start": 3.46,
+   "end": 4.8,
+   "speaker": "sunscreen_tube",
+   "en": "Not on my watch."
+  },
+  {
+   "id": 3,
+   "start": 5.54,
+   "end": 8.12,
+   "speaker": "spf_shield",
+   "en": "UVA and UVB? Blocked."
+  },
+  {
+   "id": 4,
+   "start": 9.04,
+   "end": 11.1,
+   "speaker": "purple_tint",
+   "en": "I'm opposite yellow, so I cancel dullness."
+  },
+  {
+   "id": 5,
+   "start": 11.46,
+   "end": 13.72,
+   "speaker": "niacinamide",
+   "en": "Made for Indian skin. Hello, instant glow!"
+  },
+  {
+   "id": 6,
+   "start": 14.24,
+   "end": 16.28,
+   "speaker": "sunscreen_tube",
+   "en": "Come out, sun. We're ready."
+  }
+ ],
+ "shots": [
+  {
+   "n": 1,
+   "start": 0,
+   "end": 3.3,
+   "what": "original footage",
+   "frames": [
+    "s01_0.jpg",
+    "s01_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 1,
+     "start": 1.08,
+     "end": 3.14,
+     "speaker": "uv_villain",
+     "en": "Sun's out. Let's get her!"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "start": 3.3,
+   "end": 4.4,
+   "what": "original footage",
+   "frames": [
+    "s02_0.jpg",
+    "s02_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 2,
+     "start": 3.46,
+     "end": 4.8,
+     "speaker": "sunscreen_tube",
+     "en": "Not on my watch."
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "start": 4.4,
+   "end": 5.3,
+   "what": "USR_PS_TUBE_SWIRL",
+   "frames": [
+    "s03_0.jpg",
+    "s03_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 2,
+     "start": 3.46,
+     "end": 4.8,
+     "speaker": "sunscreen_tube",
+     "en": "Not on my watch."
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "start": 5.3,
+   "end": 8.3,
+   "what": "original footage",
+   "frames": [
+    "s04_0.jpg",
+    "s04_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 3,
+     "start": 5.54,
+     "end": 8.12,
+     "speaker": "spf_shield",
+     "en": "UVA and UVB? Blocked."
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "start": 8.3,
+   "end": 9.2,
+   "what": "original footage",
+   "frames": [
+    "s05_0.jpg",
+    "s05_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 4,
+     "start": 9.04,
+     "end": 11.1,
+     "speaker": "purple_tint",
+     "en": "I'm opposite yellow, so I cancel dullness."
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "start": 9.2,
+   "end": 11.1,
+   "what": "GRAPHIC_COLOUR_WHEEL",
+   "frames": [
+    "s06_0.jpg",
+    "s06_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 4,
+     "start": 9.04,
+     "end": 11.1,
+     "speaker": "purple_tint",
+     "en": "I'm opposite yellow, so I cancel dullness."
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "start": 11.1,
+   "end": 14.0,
+   "what": "original footage",
+   "frames": [
+    "s07_0.jpg",
+    "s07_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 5,
+     "start": 11.46,
+     "end": 13.72,
+     "speaker": "niacinamide",
+     "en": "Made for Indian skin. Hello, instant glow!"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "start": 14.0,
+   "end": 17.0,
+   "what": "original footage",
+   "frames": [
+    "s08_0.jpg",
+    "s08_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 6,
+     "start": 14.24,
+     "end": 16.28,
+     "speaker": "sunscreen_tube",
+     "en": "Come out, sun. We're ready."
+    }
+   ]
+  }
+ ]
+}

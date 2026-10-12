@@ -1,0 +1,31 @@
+[
+  {
+    "created_at": "2026-10-09T17:33:19.235637Z",
+    "display_name": "Wan 3.0",
+    "id": "211edfe9-288a-4d58-8738-ea4ef4d54fe5",
+    "job_type": "wan3_0",
+    "min_result_url": null,
+    "params": {
+      "aspect_ratio": "9:16",
+      "duration": 5,
+      "generate_audio": false,
+      "height": 1344,
+      "medias": [
+        {
+          "data": {
+            "id": "118886cc-44f2-49c5-a852-d8eeceb39862",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3A6ZxB95Mnf55lwPBqzkePnTfzA/118886cc-44f2-49c5-a852-d8eeceb39862.png"
+          },
+          "role": "start_image"
+        }
+      ],
+      "prompt": "She gently touches her cheek and studies her skin, a little concerned, with small natural head movement; warm night light; jar unchanged. Photorealistic, natural motion, stable identity, the woman's face and skin tone stay exactly as in the first frame, product packaging stays exactly as in the first frame (cap on, no nozzle), no text appears.",
+      "resolution": "480p",
+      "width": 768
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3A6ZxB95Mnf55lwPBqzkePnTfzA/hf_20261009_173319_211edfe9-288a-4d58-8738-ea4ef4d54fe5.mp4",
+    "status": "completed",
+    "thumbnail_url": "https://cdn.higgsfield.ai/user_3A6ZxB95Mnf55lwPBqzkePnTfzA/hf_20261009_173319_211edfe9-288a-4d58-8738-ea4ef4d54fe5_thumbnail.webp"
+  }
+]

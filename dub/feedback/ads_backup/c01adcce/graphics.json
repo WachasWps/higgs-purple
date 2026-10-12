@@ -1,0 +1,98 @@
+{
+ "video_id": "c01adcce",
+ "product": "uv_sunscreen",
+ "caption_y": 0.9,
+ "caption_moves": [
+  {
+   "start": 3.3,
+   "end": 4.1,
+   "y": 0.8
+  }
+ ],
+ "elements": [
+  {
+   "type": "hook_mono",
+   "start": 0.15,
+   "end": 3.1,
+   "lines": [
+    "SUN IS VISIBLE",
+    "PROTECTION ISN'T"
+   ],
+   "position": "top",
+   "anim": "type"
+  },
+  {
+   "type": "claim_bold",
+   "start": 7.15,
+   "end": 8.85,
+   "lines": [
+    "SPF 50 PA+++"
+   ],
+   "sub": "WITH 4% NIACINAMIDE",
+   "position": "top",
+   "anim": "fade"
+  },
+  {
+   "type": "hud",
+   "variant": "scan",
+   "start": 9.3,
+   "end": 10.85
+  },
+  {
+   "type": "claim_bold",
+   "start": 11.3,
+   "end": 12.95,
+   "lines": [
+    "PURPLE TINT"
+   ],
+   "sub": "BLENDS INTO INDIAN SKIN",
+   "position": "top",
+   "anim": "fade"
+  },
+  {
+   "type": "claim_bold",
+   "start": 13.45,
+   "end": 15.0,
+   "lines": [
+    "NO WHITE CAST"
+   ],
+   "sub": "INSTANT RADIANT GLOW",
+   "position": "top",
+   "anim": "fade"
+  },
+  {
+   "type": "label",
+   "start": 17.3,
+   "end": 18.5,
+   "lines": [
+    "BEFORE"
+   ],
+   "x": 0.25,
+   "y": 0.13,
+   "anim": "pop"
+  },
+  {
+   "type": "label",
+   "start": 17.3,
+   "end": 18.5,
+   "lines": [
+    "AFTER"
+   ],
+   "x": 0.75,
+   "y": 0.13,
+   "anim": "pop"
+  },
+  {
+   "type": "claim_bold",
+   "start": 18.85,
+   "end": 20.05,
+   "lines": [
+    "INVISIBLE PROTECTION",
+    "VISIBLE GLOW"
+   ],
+   "position": "top",
+   "anim": "fade"
+  }
+ ],
+ "notes": "Invisible UV shield: typed hook above the sunlit tube ('sunlight dikhta hai, protection nahi'); SPF 50 PA+++ with 4% niacinamide above the shield dome as the sentence is said; scan hud on the ray-deflection macro; purple-tint blend claim in the sky above the molecule macro; no-white-cast / radiant-glow over the plain backdrop above the forearm spread; before/after tags above the split face; 'Invisible protection. Visible glow.' sign-off above the dome on the end tube. caption_moves lifts captions off the tube's bottom print during the cap-squeeze shot. Typo audit: tracks 3,7,8,9,12 (hero tube label), 14 ('DERMO'S!' printed on the tube body in the squeeze shot), 18,24 (end tube label) are packaging -> ignored, no covers. | AD pass: scan hud end pulled inside the 10.93 s cut."
+}

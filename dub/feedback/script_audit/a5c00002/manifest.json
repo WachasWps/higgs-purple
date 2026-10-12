@@ -1,0 +1,295 @@
+{
+ "video": "a5c00002",
+ "style": "ugc",
+ "cast": [
+  {
+   "id": "creator",
+   "name": "Creator",
+   "description": "young Indian woman, friendly casual UGC voice, talking to camera in bed at night"
+  }
+ ],
+ "lines": [
+  {
+   "id": 1,
+   "start": 0.0,
+   "end": 2.62,
+   "speaker": "creator",
+   "en": "Last night I was just going to sleep, then suddenly remembered,"
+  },
+  {
+   "id": 2,
+   "start": 2.72,
+   "end": 4.28,
+   "speaker": "creator",
+   "en": "Oh no, I haven't done my skincare,"
+  },
+  {
+   "id": 3,
+   "start": 4.34,
+   "end": 6.0,
+   "speaker": "creator",
+   "en": "and this one I never skip."
+  },
+  {
+   "id": 4,
+   "start": 6.06,
+   "end": 8.06,
+   "speaker": "creator",
+   "en": "I had quite stubborn spots on my cheeks,"
+  },
+  {
+   "id": 5,
+   "start": 8.16,
+   "end": 10.56,
+   "speaker": "creator",
+   "en": "and now they finally look like they're slowly fading,"
+  },
+  {
+   "id": 6,
+   "start": 10.7,
+   "end": 13.0,
+   "speaker": "creator",
+   "en": "So, DERMDOC 2% Kojic Acid Night Cream,"
+  },
+  {
+   "id": 7,
+   "start": 13.16,
+   "end": 15.66,
+   "speaker": "creator",
+   "en": "apply it, lights off, and go to sleep,"
+  },
+  {
+   "id": 8,
+   "start": 15.66,
+   "end": 17.22,
+   "speaker": "creator",
+   "en": "and let your skin do its work."
+  }
+ ],
+ "shots": [
+  {
+   "n": 1,
+   "start": 0,
+   "end": 3.33,
+   "what": "original footage",
+   "frames": [
+    "s01_0.jpg",
+    "s01_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 1,
+     "start": 0.0,
+     "end": 2.62,
+     "speaker": "creator",
+     "en": "Last night I was just going to sleep, then suddenly remembered,"
+    },
+    {
+     "id": 2,
+     "start": 2.72,
+     "end": 4.28,
+     "speaker": "creator",
+     "en": "Oh no, I haven't done my skincare,"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "start": 3.33,
+   "end": 4.4,
+   "what": "original footage",
+   "frames": [
+    "s02_0.jpg",
+    "s02_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 2,
+     "start": 2.72,
+     "end": 4.28,
+     "speaker": "creator",
+     "en": "Oh no, I haven't done my skincare,"
+    },
+    {
+     "id": 3,
+     "start": 4.34,
+     "end": 6.0,
+     "speaker": "creator",
+     "en": "and this one I never skip."
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "start": 4.4,
+   "end": 6.03,
+   "what": "original footage",
+   "frames": [
+    "s03_0.jpg",
+    "s03_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 3,
+     "start": 4.34,
+     "end": 6.0,
+     "speaker": "creator",
+     "en": "and this one I never skip."
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "start": 6.03,
+   "end": 8.0,
+   "what": "UGC_a5c00002_S4",
+   "frames": [
+    "s04_0.jpg",
+    "s04_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 4,
+     "start": 6.06,
+     "end": 8.06,
+     "speaker": "creator",
+     "en": "I had quite stubborn spots on my cheeks,"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "start": 8.0,
+   "end": 10.47,
+   "what": "GRAPHIC_BA_SPLIT",
+   "frames": [
+    "s05_0.jpg",
+    "s05_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 4,
+     "start": 6.06,
+     "end": 8.06,
+     "speaker": "creator",
+     "en": "I had quite stubborn spots on my cheeks,"
+    },
+    {
+     "id": 5,
+     "start": 8.16,
+     "end": 10.56,
+     "speaker": "creator",
+     "en": "and now they finally look like they're slowly fading,"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "start": 10.47,
+   "end": 11.43,
+   "what": "original footage",
+   "frames": [
+    "s06_0.jpg",
+    "s06_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 5,
+     "start": 8.16,
+     "end": 10.56,
+     "speaker": "creator",
+     "en": "and now they finally look like they're slowly fading,"
+    },
+    {
+     "id": 6,
+     "start": 10.7,
+     "end": 13.0,
+     "speaker": "creator",
+     "en": "So, DERMDOC 2% Kojic Acid Night Cream,"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "start": 11.43,
+   "end": 14.93,
+   "what": "original footage",
+   "frames": [
+    "s07_0.jpg",
+    "s07_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 6,
+     "start": 10.7,
+     "end": 13.0,
+     "speaker": "creator",
+     "en": "So, DERMDOC 2% Kojic Acid Night Cream,"
+    },
+    {
+     "id": 7,
+     "start": 13.16,
+     "end": 15.66,
+     "speaker": "creator",
+     "en": "apply it, lights off, and go to sleep,"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "start": 14.93,
+   "end": 15.93,
+   "what": "original footage",
+   "frames": [
+    "s08_0.jpg",
+    "s08_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 7,
+     "start": 13.16,
+     "end": 15.66,
+     "speaker": "creator",
+     "en": "apply it, lights off, and go to sleep,"
+    },
+    {
+     "id": 8,
+     "start": 15.66,
+     "end": 17.22,
+     "speaker": "creator",
+     "en": "and let your skin do its work."
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "start": 15.93,
+   "end": 18.03,
+   "what": "original footage",
+   "frames": [
+    "s09_0.jpg",
+    "s09_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 8,
+     "start": 15.66,
+     "end": 17.22,
+     "speaker": "creator",
+     "en": "and let your skin do its work."
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "start": 18.03,
+   "end": 23.03,
+   "what": "original footage",
+   "frames": [
+    "s10_0.jpg",
+    "s10_1.jpg"
+   ],
+   "lines": []
+  }
+ ]
+}

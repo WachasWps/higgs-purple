@@ -1,0 +1,38 @@
+[
+ {
+  "id": 1,
+  "speaker": "narrator",
+  "cer": 0.26,
+  "heard": "একটা একটি঵ ভালো তিন্টি আকশাথে হলে"
+ },
+ {
+  "id": 2,
+  "speaker": "narrator",
+  "cer": 0.15,
+  "heard": "A-Holo Dumbdock 2% Cozic Acid Night Cream"
+ },
+ {
+  "id": 3,
+  "speaker": "narrator",
+  "cer": 0.15,
+  "heard": "Khojic Acid, Niacinamide, R-α-arbutin, Millie Glow, Fusion Formula"
+ },
+ {
+  "id": 4,
+  "speaker": "narrator",
+  "cer": 0.33,
+  "heard": "रাতে লাগান নিমে শে মিশে জাই"
+ },
+ {
+  "id": 5,
+  "speaker": "narrator",
+  "cer": 0.31,
+  "heard": "গুভাংতে ব্রাইট্র লুকিংগ সকিন্"
+ },
+ {
+  "id": 6,
+  "speaker": "narrator",
+  "cer": 0.31,
+  "heard": "একটা জার দিন্টে আকটি঵।"
+ }
+]

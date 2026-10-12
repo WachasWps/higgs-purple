@@ -1,0 +1,31 @@
+[
+  {
+    "created_at": "2026-10-09T17:33:18.444062Z",
+    "display_name": "Wan 3.0",
+    "id": "3ae31d64-8107-4d17-8b20-ee96a7600601",
+    "job_type": "wan3_0",
+    "min_result_url": null,
+    "params": {
+      "aspect_ratio": "9:16",
+      "duration": 5,
+      "generate_audio": false,
+      "height": 1344,
+      "medias": [
+        {
+          "data": {
+            "id": "74489cbf-804e-4476-8789-069dec9c273d",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3A6ZxB95Mnf55lwPBqzkePnTfzA/74489cbf-804e-4476-8789-069dec9c273d.png"
+          },
+          "role": "start_image"
+        }
+      ],
+      "prompt": "Her fingertips blend the thin lavender cream on her cheek in small circles until it disappears completely, leaving evenly radiant skin with no white cast; tube unchanged. Photorealistic, natural motion, stable identity, the woman's face and skin tone stay exactly as in the first frame, product packaging stays exactly as in the first frame (cap on, no nozzle), no text appears.",
+      "resolution": "480p",
+      "width": 768
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3A6ZxB95Mnf55lwPBqzkePnTfzA/hf_20261009_173318_3ae31d64-8107-4d17-8b20-ee96a7600601.mp4",
+    "status": "completed",
+    "thumbnail_url": "https://cdn.higgsfield.ai/user_3A6ZxB95Mnf55lwPBqzkePnTfzA/hf_20261009_173318_3ae31d64-8107-4d17-8b20-ee96a7600601_thumbnail.webp"
+  }
+]

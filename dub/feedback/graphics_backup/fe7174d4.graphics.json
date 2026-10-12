@@ -1,0 +1,105 @@
+{
+ "video_id": "fe7174d4",
+ "product": "uv_sunscreen",
+ "caption_y": 0.9,
+ "elements": [
+  {
+   "type": "hook_mono",
+   "start": 0.2,
+   "end": 2.5,
+   "lines": [
+    "WHITE CAST?",
+    "LIGHT TEST."
+   ],
+   "anim": "slide_up",
+   "x": 0.45,
+   "y": 0.8
+  },
+  {
+   "type": "claim_bold",
+   "start": 2.8,
+   "end": 5.9,
+   "lines": [
+    "NO WHITE CAST.",
+    "NO RESIDUE."
+   ],
+   "x": 0.42,
+   "y": 0.14,
+   "anim": "fade"
+  },
+  {
+   "type": "label",
+   "start": 6.3,
+   "end": 9.35,
+   "lines": [
+    "4% NIACINAMIDE"
+   ],
+   "x": 0.3,
+   "y": 0.24,
+   "anim": "pop"
+  },
+  {
+   "type": "label",
+   "start": 7.3,
+   "end": 9.35,
+   "lines": [
+    "SPF 50 PA+++"
+   ],
+   "x": 0.7,
+   "y": 0.34,
+   "anim": "pop"
+  },
+  {
+   "type": "label",
+   "start": 8.2,
+   "end": 9.35,
+   "lines": [
+    "PURPLE TINT"
+   ],
+   "x": 0.5,
+   "y": 0.52,
+   "anim": "pop"
+  },
+  {
+   "type": "claim_bold",
+   "start": 12.9,
+   "end": 14.9,
+   "lines": [
+    "INSTANT GLOW"
+   ],
+   "sub": "NATURAL SKIN TONE STAYS",
+   "position": "lower",
+   "anim": "fade"
+  },
+  {
+   "type": "label",
+   "start": 15.0,
+   "end": 17.6,
+   "lines": [
+    "BEFORE"
+   ],
+   "x": 0.5,
+   "y": 0.455,
+   "anim": "pop"
+  },
+  {
+   "type": "label",
+   "start": 15.0,
+   "end": 17.6,
+   "lines": [
+    "INSTANT GLOW"
+   ],
+   "x": 0.5,
+   "y": 0.955,
+   "anim": "pop"
+  }
+ ],
+ "caption_moves": [
+  {
+   "start": 15.0,
+   "end": 17.6,
+   "y": 0.58
+  }
+ ],
+ "notes": "Hook low between the PS03 fingertip and tube (label clear); no-cast claim above the PS08 swatch; three separate labels on the macro in VO order; PS07 and the colour wheel carry no super; Instant Glow + natural-skin-tone claim low on PS05; B/A BEFORE / INSTANT GLOW."
+}

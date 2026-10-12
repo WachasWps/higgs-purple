@@ -1,0 +1,32 @@
+[
+ {
+  "id": 1,
+  "speaker": "narrator",
+  "cer": 0.0,
+  "heard": "White cast, put it to the light test."
+ },
+ {
+  "id": 2,
+  "speaker": "narrator",
+  "cer": 0.0,
+  "heard": "DERM DOC Ultraviolet melts in. No white cast, no residue."
+ },
+ {
+  "id": 3,
+  "speaker": "narrator",
+  "cer": 0.02,
+  "heard": "With 4% niacinamide and SPF50, BA triple plus."
+ },
+ {
+  "id": 4,
+  "speaker": "narrator",
+  "cer": 0.0,
+  "heard": "Its purple tint sits opposite yellow, helping cancel dullness."
+ },
+ {
+  "id": 5,
+  "speaker": "narrator",
+  "cer": 0.0,
+  "heard": "Your natural skin tone stays with an instant glow."
+ }
+]

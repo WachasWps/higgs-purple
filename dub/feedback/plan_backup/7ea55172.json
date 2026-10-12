@@ -1,0 +1,180 @@
+{
+ "video_id": "7ea55172",
+ "style": "product_avatar",
+ "duration": 20.039,
+ "cast": [
+  {
+   "id": "greasiness",
+   "name": "Greasiness",
+   "role": "villain",
+   "description": "small glossy green grease-blob villain skating on the woman's cheek, cheeky high squeaky villain voice",
+   "ref_ranges": [
+    [
+     0.0,
+     1.78
+    ]
+   ],
+   "fx": "villain",
+   "pitch_semitones": 0
+  },
+  {
+   "id": "dullness",
+   "name": "Dullness",
+   "role": "villain",
+   "description": "translucent grey-yellow haze villain, low lazy smug menacing voice",
+   "ref_ranges": [
+    [
+     2.08,
+     3.68
+    ]
+   ],
+   "fx": "villain",
+   "pitch_semitones": 0
+  },
+  {
+   "id": "sunscreen",
+   "name": "DERMDOC Ultra Violet Sunscreen Tube",
+   "role": "product_mascot",
+   "description": "talking DERMDOC Ultra Violet brightening sunscreen tube with cartoon face, tiny arms and lavender sneakers, sassy confident bright cartoon voice",
+   "ref_ranges": [
+    [
+     3.96,
+     4.9
+    ],
+    [
+     5.32,
+     8.1
+    ],
+    [
+     8.34,
+     10.28
+    ]
+   ],
+   "fx": "cartoon",
+   "pitch_semitones": 0
+  }
+ ],
+ "lines": [
+  {
+   "id": 1,
+   "speaker": "greasiness",
+   "start": 0.0,
+   "end": 1.78,
+   "max_end": 2.04,
+   "en": "Sticky shine reporting for duty!",
+   "tag": "happy",
+   "keep_original": false,
+   "bn": "স্টিকি শাইন ডিউটিতে হাজির!",
+   "ta": "ஸ்டிக்கி ஷைன் டியூட்டிக்கு ரெடி!",
+   "te": "స్టికీ షైన్ డ్యూటీకి రెడీ!",
+   "ml": "സ്റ്റിക്കി ഷൈൻ ഡ്യൂട്ടിക്ക് റെഡി!",
+   "or": "ଷ୍ଟିକି ସାଇନ ଡ୍ୟୁଟିରେ ହାଜିର!"
+  },
+  {
+   "id": 2,
+   "speaker": "dullness",
+   "start": 2.08,
+   "end": 3.68,
+   "max_end": 3.92,
+   "en": "And I brought the dullness.",
+   "tag": "disgust",
+   "keep_original": false,
+   "bn": "আর আমি আনলাম ম্যাড়মেড়ে ভাব!",
+   "ta": "நான் டல்னஸ் கொண்டு வந்தேன்!",
+   "te": "నేను డల్‌నెస్ తెచ్చా!",
+   "ml": "ഞാൻ ഡൾനെസ്സും കൊണ്ടുവന്നു!",
+   "or": "ଆଉ ମୁଁ ଆଣିଲି ଡଲନେସ!"
+  },
+  {
+   "id": 3,
+   "speaker": "sunscreen",
+   "start": 3.96,
+   "end": 4.9,
+   "max_end": 5.28,
+   "en": "You're both fired.",
+   "tag": "angry",
+   "keep_original": false,
+   "bn": "তোরা দুজনেই ফায়ার্ড!",
+   "ta": "ரெண்டு பேரும் ஃபயர்டு!",
+   "te": "మీ ఇద్దరూ ఫైర్డ్!",
+   "ml": "നിങ്ങൾ രണ്ടും ഫയേർഡ്!",
+   "or": "ତୁମେ ଦୁହେଁ ଫାୟାର୍ଡ!"
+  },
+  {
+   "id": 4,
+   "speaker": "sunscreen",
+   "start": 5.32,
+   "end": 8.1,
+   "max_end": 8.3,
+   "en": "First, purple balances yellow-looking dullness.",
+   "tag": null,
+   "keep_original": false,
+   "bn": "প্রথমে, পার্পল ব্যালান্স করে হলদেটে ডালনেস।",
+   "ta": "ஃபர்ஸ்ட், பர்பிள் மஞ்சள் டல்னஸ்ஸ பேலன்ஸ் பண்ணும்.",
+   "te": "ఫస్ట్, పర్పుల్ పసుపు డల్‌నెస్‌ని బ్యాలెన్స్ చేస్తుంది.",
+   "ml": "ആദ്യം, പർപ്പിൾ മഞ്ഞ ഡൾനെസ്സിനെ ബാലൻസ് ചെയ്യും.",
+   "or": "ପ୍ରଥମେ, ପର୍ପଲ ହଳଦିଆ ଡଲନେସକୁ ବାଲାନ୍ସ କରେ।"
+  },
+  {
+   "id": 5,
+   "speaker": "sunscreen",
+   "start": 8.34,
+   "end": 10.28,
+   "max_end": 10.94,
+   "en": "Purple tint, made for Indian skin.",
+   "tag": "happy",
+   "keep_original": false,
+   "bn": "পার্পল টিন্ট, ইন্ডিয়ান স্কিনের জন্যই তৈরি!",
+   "ta": "பர்பிள் டின்ட், இந்தியன் ஸ்கின்னுக்காகவே!",
+   "te": "పర్పుల్ టింట్, ఇండియన్ స్కిన్ కోసమే!",
+   "ml": "പർപ്പിൾ ടിന്റ്, ഇന്ത്യൻ സ്കിന്നിനായി!",
+   "or": "ପର୍ପଲ ଟିଣ୍ଟ, ଇଣ୍ଡିଆନ ସ୍କିନ ପାଇଁ ତିଆରି!"
+  },
+  {
+   "id": 6,
+   "speaker": "sunscreen",
+   "start": 10.98,
+   "end": 12.92,
+   "max_end": 13.44,
+   "en": "Four percent niacinamide helps brighten.",
+   "tag": null,
+   "keep_original": false,
+   "bn": "ফোর পারসেন্ট নায়াসিনামাইড, গ্লোতে হেল্প!",
+   "ta": "நாலு பர்சென்ட் நியாசினமைட், ப்ரைட்டா ஆக ஹெல்ப்!",
+   "te": "ఫోర్ పర్సెంట్ నియాసినమైడ్ బ్రైట్‌నెస్‌కి హెల్ప్!",
+   "ml": "ഫോർ പേഴ്സന്റ് നിയാസിനമൈഡ്, ബ്രൈറ്റ്നസ്സിന്!",
+   "or": "ଫୋର ପରସେଣ୍ଟ ନିଆସିନାମାଇଡ, ବ୍ରାଇଟନେସ ହେଲ୍ପ!"
+  },
+  {
+   "id": 7,
+   "speaker": "sunscreen",
+   "start": 13.48,
+   "end": 16.12,
+   "max_end": 16.58,
+   "en": "SPF 50 PA+++ handles the sun.",
+   "tag": null,
+   "keep_original": false,
+   "bn": "এসপিএফ ফিফটি পিএ ট্রিপল প্লাস, রোদ সামলাবে!",
+   "ta": "எஸ்பிஎஃப் ஃபிஃப்டி பிஏ ட்ரிபிள் ப்ளஸ், வெயிலுக்கு ரெடி!",
+   "te": "ఎస్‌పిఎఫ్ ఫిఫ్టీ పిఏ ట్రిపుల్ ప్లస్, ఎండని చూసుకుంటుంది!",
+   "ml": "എസ്പിഎഫ് ഫിഫ്റ്റി പിഎ ട്രിപ്പിൾ പ്ലസ്, വെയിൽ ഞാൻ നോക്കാം!",
+   "or": "ଏସପିଏଫ ଫିଫ୍ଟି ପିଏ ଟ୍ରିପଲ ପ୍ଲସ, ଖରାକୁ ସମ୍ଭାଳିବ!"
+  },
+  {
+   "id": 8,
+   "speaker": "sunscreen",
+   "start": 16.62,
+   "end": 18.98,
+   "max_end": 19.64,
+   "en": "Fresh, protected, and no morning drama.",
+   "tag": "happy",
+   "keep_original": false,
+   "bn": "ফ্রেশ, প্রোটেক্টেড, আর সকালে নো ড্রামা!",
+   "ta": "ஃப்ரெஷ், ப்ரொடெக்டட், காலையில நோ ட்ராமா!",
+   "te": "ఫ్రెష్, ప్రొటెక్టెడ్, మార్నింగ్ నో డ్రామా!",
+   "ml": "ഫ്രഷ്, പ്രൊട്ടക്റ്റഡ്, രാവിലെ നോ ഡ്രാമ!",
+   "or": "ଫ୍ରେସ, ପ୍ରୋଟେକ୍ଟେଡ, ସକାଳେ ନୋ ଡ୍ରାମା!"
+  }
+ ],
+ "notes": "Video runs 20.04 s (prompt says 15 s). The woman does not speak (prompt: no narrator; her mouth moves in the opening mirror shot but the audio there is the two villains). Greasiness is very high-pitched (f0 ~331 Hz) and Dullness very low (f0 ~105 Hz); both have only one clean ref range (1.78 s and 1.6 s). Everything from 3.96 s on is the sunscreen tube (f0 216-260 Hz). Whisper wrote 'PA++' at 14.22-15.00; the product and prompt say PA+++, dubbed as 'PA triple plus'."
+}

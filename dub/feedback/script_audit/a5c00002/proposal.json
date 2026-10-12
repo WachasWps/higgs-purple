@@ -1,0 +1,163 @@
+{
+ "video": "a5c00002",
+ "shots": [
+  {
+   "n": 1,
+   "start": 0,
+   "end": 3.33,
+   "on_screen": "Woman in bed at night, half-asleep, eyes opening."
+  },
+  {
+   "n": 2,
+   "start": 3.33,
+   "end": 4.4,
+   "on_screen": "She looks over at the jar on the lamp-lit nightstand."
+  },
+  {
+   "n": 3,
+   "start": 4.4,
+   "end": 6.03,
+   "on_screen": "She reaches and picks up the jar."
+  },
+  {
+   "n": 4,
+   "start": 6.03,
+   "end": 8.0,
+   "on_screen": "Close-up: she points at dark spots on her cheek."
+  },
+  {
+   "n": 5,
+   "start": 8.0,
+   "end": 10.47,
+   "on_screen": "Before/after split: spots on top, clearer glowing cheek below."
+  },
+  {
+   "n": 6,
+   "start": 10.47,
+   "end": 11.43,
+   "on_screen": "Filming herself, she dots cream on forehead and cheeks."
+  },
+  {
+   "n": 7,
+   "start": 11.43,
+   "end": 14.93,
+   "on_screen": "She rubs the cream into her cheek."
+  },
+  {
+   "n": 8,
+   "start": 14.93,
+   "end": 15.93,
+   "on_screen": "She puts the jar back on the lamp-lit nightstand."
+  },
+  {
+   "n": 9,
+   "start": 15.93,
+   "end": 18.03,
+   "on_screen": "Lights off, she is asleep."
+  },
+  {
+   "n": 10,
+   "start": 18.03,
+   "end": 23.03,
+   "on_screen": "End card: DERMDOC 2% Kojic Acid Night Cream, 'Available on Purplle', 'Shop Now' (no voice)."
+  }
+ ],
+ "lines": [
+  {
+   "id": 1,
+   "start": 0.0,
+   "slot_s": 2.57,
+   "speaker": "creator",
+   "current": "Last night I was just going to sleep, then suddenly remembered,",
+   "on_screen_during": "Woman in bed at night, waking",
+   "verdict": "rewrite",
+   "new": "Almost asleep, then I remembered,",
+   "words": 5,
+   "reason": "Old line 11 words in 2.57s slot"
+  },
+  {
+   "id": 2,
+   "start": 2.72,
+   "slot_s": 1.47,
+   "speaker": "creator",
+   "current": "Oh no, I haven't done my skincare,",
+   "on_screen_during": "She glances at the jar",
+   "verdict": "rewrite",
+   "new": "Wait, my skincare!",
+   "words": 3,
+   "reason": "Fit 1.47s slot"
+  },
+  {
+   "id": 3,
+   "start": 4.34,
+   "slot_s": 1.57,
+   "speaker": "creator",
+   "current": "and this one I never skip.",
+   "on_screen_during": "She picks up the jar",
+   "verdict": "rewrite",
+   "new": "Never skipping this.",
+   "words": 3,
+   "reason": "Fit 1.57s slot"
+  },
+  {
+   "id": 4,
+   "start": 6.06,
+   "slot_s": 1.95,
+   "speaker": "creator",
+   "current": "I had quite stubborn spots on my cheeks,",
+   "on_screen_during": "Pointing at spots on cheek",
+   "verdict": "rewrite",
+   "new": "See these stubborn spots?",
+   "words": 4,
+   "reason": "React to spots shown; fit budget"
+  },
+  {
+   "id": 5,
+   "start": 8.16,
+   "slot_s": 2.39,
+   "speaker": "creator",
+   "current": "and now they finally look like they're slowly fading,",
+   "on_screen_during": "Before/after split",
+   "verdict": "rewrite",
+   "new": "Two weeks later, looking clearer!",
+   "words": 5,
+   "reason": "B/A: two-week result, hedged; fit budget"
+  },
+  {
+   "id": 6,
+   "start": 10.7,
+   "slot_s": 2.31,
+   "speaker": "creator",
+   "current": "So, DERMDOC 2% Kojic Acid Night Cream,",
+   "on_screen_during": "Dotting cream on face",
+   "verdict": "rewrite",
+   "new": "DERMDOC 2% Kojic Acid Night Cream,",
+   "words": 6,
+   "reason": "Dropped 'So'; full product name kept, ~0.5 word over budget (unavoidable)"
+  },
+  {
+   "id": 7,
+   "start": 13.16,
+   "slot_s": 2.35,
+   "speaker": "creator",
+   "current": "apply it, lights off, and go to sleep,",
+   "on_screen_during": "Rubbing cream in, then jar back by the lamp",
+   "verdict": "rewrite",
+   "new": "Massage it in, lights off.",
+   "words": 5,
+   "reason": "Match massage action; fit budget"
+  },
+  {
+   "id": 8,
+   "start": 15.66,
+   "slot_s": 2.06,
+   "speaker": "creator",
+   "current": "and let your skin do its work.",
+   "on_screen_during": "Lights off, asleep",
+   "verdict": "rewrite",
+   "new": "Sleep. Let it work.",
+   "words": 4,
+   "reason": "Fit budget; matches sleeping shot"
+  }
+ ]
+}

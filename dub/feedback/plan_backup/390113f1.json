@@ -1,0 +1,145 @@
+{
+ "video_id": "390113f1",
+ "style": "personification",
+ "duration": 17.02,
+ "cast": [
+  {
+   "id": "dark_spot",
+   "name": "Dark Spot Villain",
+   "role": "villain",
+   "description": "tiny flat brown Dark Spot blob stamping dots on the sleeping woman's cheek, leader of the villain gang; sneaky, hissing, conspiratorial whisper",
+   "ref_ranges": [
+    [
+     1.56,
+     3.08
+    ]
+   ],
+   "fx": "villain",
+   "pitch_semitones": -2
+  },
+  {
+   "id": "knc_jar",
+   "name": "DERMDOC Kojic Night Cream Jar",
+   "role": "product_mascot",
+   "description": "the white-and-blue DERMDOC 2% Kojic Acid night cream jar on the bedside table, wakes up and lifts its lid; low, warm, sly hushed cartoon voice",
+   "ref_ranges": [
+    [
+     3.48,
+     4.86
+    ],
+    [
+     14.62,
+     16.56
+    ]
+   ],
+   "fx": "cartoon",
+   "pitch_semitones": -2
+  },
+  {
+   "id": "kojic_acid",
+   "name": "Kojic Acid",
+   "role": "hero",
+   "description": "golden spiky Kojic Acid ball hero leading the night team out of the jar; bossy, cute, hushed little foreman cartoon voice",
+   "ref_ranges": [
+    [
+     5.16,
+     6.92
+    ]
+   ],
+   "fx": "cartoon",
+   "pitch_semitones": 3
+  },
+  {
+   "id": "narrator",
+   "name": "Narrator",
+   "role": "narrator",
+   "description": "off-screen voiceover over the cream application; soft, warm, calm bedtime-story voice",
+   "ref_ranges": [
+    [
+     11.44,
+     14.4
+    ]
+   ],
+   "fx": "none",
+   "pitch_semitones": 0
+  }
+ ],
+ "lines": [
+  {
+   "id": 1,
+   "speaker": "dark_spot",
+   "start": 1.56,
+   "end": 3.08,
+   "max_end": 3.44,
+   "en": "Quick, she's asleep.",
+   "tag": null,
+   "keep_original": false,
+   "bn": "চটপট! মেয়েটা ঘুমোচ্ছে!",
+   "ta": "சீக்கிரம்! அவ தூங்கிட்டா!",
+   "te": "జల్దీ! పిల్ల పడుకుంది!",
+   "ml": "വേഗം! അവൾ ഉറങ്ങി!",
+   "or": "ଜଲଦି! ସେ ଶୋଇଗଲାଣି!"
+  },
+  {
+   "id": 2,
+   "speaker": "knc_jar",
+   "start": 3.48,
+   "end": 4.86,
+   "max_end": 5.12,
+   "en": "So is my night team.",
+   "tag": null,
+   "keep_original": false,
+   "bn": "আমার নাইট টিম কিন্তু জেগে!",
+   "ta": "என் நைட் டீம் முழிச்சிருக்கு!",
+   "te": "నా నైట్ టీమ్ మేలుకునే ఉంది!",
+   "ml": "എന്റെ നൈറ്റ് ടീം ഡ്യൂട്ടിയിലാ!",
+   "or": "ମୋ ନାଇଟ ଟିମ ଜାଗି ଅଛି!"
+  },
+  {
+   "id": 3,
+   "speaker": "kojic_acid",
+   "start": 5.16,
+   "end": 6.92,
+   "max_end": 11.4,
+   "en": "Keep it down. We're working.",
+   "tag": null,
+   "keep_original": false,
+   "bn": "আস্তে! আমরা কাজ করছি।",
+   "ta": "சத்தம் போடாதீங்க! நாங்க வேலை செய்யறோம்.",
+   "te": "గోల చేయకండి! మేం పనిలో ఉన్నాం.",
+   "ml": "ശബ്ദമുണ്ടാക്കല്ലേ! ഞങ്ങൾ പണിയിലാ.",
+   "or": "ଚୁପ! ଆମେ କାମ କରୁଛୁ।"
+  },
+  {
+   "id": 4,
+   "speaker": "narrator",
+   "start": 11.44,
+   "end": 14.4,
+   "max_end": 14.58,
+   "en": "Working through the night for brighter, even-looking skin.",
+   "tag": null,
+   "keep_original": false,
+   "bn": "সারা রাত ধরে কাজ, ব্রাইটার আর ইভেন লুকিং স্কিনের জন্য।",
+   "ta": "ராத்திரி முழுக்க வேலை, ப்ரைட்டர், ஈவன் லுக்கிங் ஸ்கின்னுக்காக.",
+   "te": "రాత్రంతా పని, బ్రైటర్, ఈవెన్ లుకింగ్ స్కిన్ కోసం.",
+   "ml": "രാത്രി മുഴുവൻ പണി, ബ്രൈറ്റർ, ഈവൻ ലുക്കിംഗ് സ്കിന്നിനായി.",
+   "or": "ରାତିସାରା କାମ, ବ୍ରାଇଟର ଆଉ ଇଭେନ ଲୁକିଂ ସ୍କିନ ପାଇଁ।"
+  },
+  {
+   "id": 5,
+   "speaker": "knc_jar",
+   "start": 14.62,
+   "end": 16.56,
+   "max_end": 16.62,
+   "en": "Dark spots don't get the night off.",
+   "tag": "happy",
+   "keep_original": false,
+   "bn": "ডার্ক স্পটের রাতেও ছুটি নেই!",
+   "ta": "டார்க் ஸ்பாட்ஸுக்கு நைட் லீவ் இல்ல!",
+   "te": "డార్క్ స్పాట్స్‌కి నైట్ లీవ్ లేదు!",
+   "ml": "ഡാർക്ക് സ്പോട്ടിന് രാത്രിയും ലീവില്ല!",
+   "or": "ଡାର୍କ ସ୍ପଟର ରାତିରେ ବି ଛୁଟି ନାହିଁ!"
+  }
+ ],
+ "notes": "Hushed bedtime scene: the villain, jar and Kojic lines are whispered in the original, so they are tagged neutral to keep them quiet. Line 2 is literally 'So is my night team.', a reply to 'she's asleep' that means the jar's night team is awake and on duty; it is transcreated to that meaning. Line 5 is labelled JAR DIALOGUE in the prompt and the jar is on screen, so it goes to the jar. Its pitch (~185 Hz) is close to the voiceover (~187 Hz), while line 2 is ~145 Hz. The jar gets -2 st so it stays lower and warmer than the narrator. If line 5 turns out to be the narrator's voice, the engineer can drop the second jar ref range. 'Keep it down. We're working.' is one Kojic line per the prompt (the pitch dip on 'We're working' is whisper noise). Kojic gets +3 st to separate it from the jar. Niacinamide, Alpha Arbutin, the Dullness and Uneven Tone villains and the sleeping woman never speak. The prompt's on-screen ingredient beats (about 7 to 11.4 s) have no dialogue. Whisper's voice_cluster_hint was ignored."
+}

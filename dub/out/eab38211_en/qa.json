@@ -1,0 +1,32 @@
+[
+ {
+  "id": 1,
+  "speaker": "narrator",
+  "cer": 0.0,
+  "heard": "While you sleep your night routine keeps working."
+ },
+ {
+  "id": 2,
+  "speaker": "narrator",
+  "cer": 0.0,
+  "heard": "DERM DOC 2% Kojic Acid Night Cream."
+ },
+ {
+  "id": 3,
+  "speaker": "narrator",
+  "cer": 0.07,
+  "heard": "Its glow fusion formula, coagic acid, niacinamide, and alpha-erbutin."
+ },
+ {
+  "id": 4,
+  "speaker": "narrator",
+  "cer": 0.0,
+  "heard": "It helps reduce the look of dark spots."
+ },
+ {
+  "id": 5,
+  "speaker": "narrator",
+  "cer": 0.0,
+  "heard": "Apply. Sleep. Wake up glowing."
+ }
+]

@@ -1,0 +1,270 @@
+{
+ "language": "en",
+ "segments": [
+  {
+   "seg": 0,
+   "start": 0.0,
+   "end": 1.82,
+   "text": "Dark spots having another meeting?",
+   "f0_median_hz": 250,
+   "words": [
+    [
+     "Dark",
+     0.0,
+     0.4
+    ],
+    [
+     "spots",
+     0.4,
+     0.74
+    ],
+    [
+     "having",
+     0.74,
+     1.08
+    ],
+    [
+     "another",
+     1.08,
+     1.4
+    ],
+    [
+     "meeting?",
+     1.4,
+     1.82
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 1,
+   "start": 2.32,
+   "end": 4.68,
+   "text": "Team KNC, meeting cancelled.",
+   "f0_median_hz": 263,
+   "words": [
+    [
+     "Team",
+     2.32,
+     2.96
+    ],
+    [
+     "KNC,",
+     2.96,
+     3.66
+    ],
+    [
+     "meeting",
+     3.8,
+     4.26
+    ],
+    [
+     "cancelled.",
+     4.26,
+     4.68
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 2,
+   "start": 5.04,
+   "end": 8.16,
+   "text": "I'll take the stubborn dark spots, and I'll clear the dullness.",
+   "f0_median_hz": 234,
+   "words": [
+    [
+     "I'll",
+     5.04,
+     5.38
+    ],
+    [
+     "take",
+     5.38,
+     5.56
+    ],
+    [
+     "the",
+     5.56,
+     5.7
+    ],
+    [
+     "stubborn",
+     5.7,
+     6.0
+    ],
+    [
+     "dark",
+     6.0,
+     6.22
+    ],
+    [
+     "spots,",
+     6.22,
+     6.66
+    ],
+    [
+     "and",
+     6.74,
+     7.0
+    ],
+    [
+     "I'll",
+     7.0,
+     7.26
+    ],
+    [
+     "clear",
+     7.26,
+     7.5
+    ],
+    [
+     "the",
+     7.5,
+     7.68
+    ],
+    [
+     "dullness.",
+     7.68,
+     8.16
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 3,
+   "start": 8.38,
+   "end": 9.78,
+   "text": "Unventone? Leave it to me.",
+   "f0_median_hz": 252,
+   "words": [
+    [
+     "Unventone?",
+     8.38,
+     8.96
+    ],
+    [
+     "Leave",
+     9.1,
+     9.34
+    ],
+    [
+     "it",
+     9.34,
+     9.48
+    ],
+    [
+     "to",
+     9.48,
+     9.6
+    ],
+    [
+     "me.",
+     9.6,
+     9.78
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 4,
+   "start": 10.24,
+   "end": 11.52,
+   "text": "Three targeted ingredients.",
+   "f0_median_hz": 220,
+   "words": [
+    [
+     "Three",
+     10.24,
+     10.46
+    ],
+    [
+     "targeted",
+     10.46,
+     10.9
+    ],
+    [
+     "ingredients.",
+     10.9,
+     11.52
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 5,
+   "start": 11.94,
+   "end": 13.36,
+   "text": "One powerful night cream.",
+   "f0_median_hz": 238,
+   "words": [
+    [
+     "One",
+     11.94,
+     12.22
+    ],
+    [
+     "powerful",
+     12.22,
+     12.68
+    ],
+    [
+     "night",
+     12.68,
+     12.98
+    ],
+    [
+     "cream.",
+     12.98,
+     13.36
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 6,
+   "start": 13.74,
+   "end": 16.28,
+   "text": "Dermdoc 2% Kojic Acid Night Cream.",
+   "f0_median_hz": 229,
+   "words": [
+    [
+     "Dermdoc",
+     13.74,
+     14.12
+    ],
+    [
+     "2",
+     14.12,
+     14.4
+    ],
+    [
+     "%",
+     14.4,
+     14.8
+    ],
+    [
+     "Kojic",
+     14.8,
+     15.24
+    ],
+    [
+     "Acid",
+     15.24,
+     15.68
+    ],
+    [
+     "Night",
+     15.68,
+     16.0
+    ],
+    [
+     "Cream.",
+     16.0,
+     16.28
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  }
+ ]
+}

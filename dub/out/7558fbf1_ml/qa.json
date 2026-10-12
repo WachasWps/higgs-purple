@@ -1,0 +1,52 @@
+[
+ {
+  "id": 1,
+  "speaker": "dark_spot_leader",
+  "cer": 0.15,
+  "heard": "Ini Da..."
+ },
+ {
+  "id": 2,
+  "speaker": "jar",
+  "cer": 0.15,
+  "heard": "Enter indirect notes or印印"
+ },
+ {
+  "id": 3,
+  "speaker": "jar",
+  "cer": 0.4,
+  "heard": "എന് പവര് ത�ു പ�േസന്ട കോജിക ആസിട് കൂഡ നിയാസിനാമയിട് ആല്പാര്പട്ടിന്."
+ },
+ {
+  "id": 4,
+  "speaker": "jar",
+  "cer": 0.15,
+  "heard": "Örüमίζ desarrollo gjēngēlanē glow fusion formally"
+ },
+ {
+  "id": 5,
+  "speaker": "jar",
+  "cer": 0.5,
+  "heard": "വ്രണങ്മബാ എനിമസാജ്യർി."
+ },
+ {
+  "id": 6,
+  "speaker": "dark_spot_leader",
+  "cer": 0.54,
+  "heard": "അയ൵ ഇപുറികർിയർരകർ?"
+ },
+ {
+  "id": 7,
+  "speaker": "woman",
+  "cer": 0.4,
+  "heard": "രന്ടായിച്ടില് അവസാനമഅവരു സതലംബിടു.",
+  "redub": true
+ },
+ {
+  "id": 8,
+  "speaker": "jar",
+  "cer": 0.15,
+  "heard": "Dormadoc 2% Kojic Acid Night Cream",
+  "redub": true
+ }
+]

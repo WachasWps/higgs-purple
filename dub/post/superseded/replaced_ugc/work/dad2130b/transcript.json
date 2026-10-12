@@ -1,0 +1,360 @@
+{
+ "language": "en",
+ "segments": [
+  {
+   "seg": 0,
+   "start": 0.0,
+   "end": 2.62,
+   "text": "Purple sunscreen? I thought it would make me look purple.",
+   "f0_median_hz": 292,
+   "words": [
+    [
+     "Purple",
+     0.0,
+     0.38
+    ],
+    [
+     "sunscreen?",
+     0.38,
+     0.8
+    ],
+    [
+     "I",
+     1.1,
+     1.36
+    ],
+    [
+     "thought",
+     1.36,
+     1.52
+    ],
+    [
+     "it",
+     1.52,
+     1.66
+    ],
+    [
+     "would",
+     1.66,
+     1.76
+    ],
+    [
+     "make",
+     1.76,
+     1.96
+    ],
+    [
+     "me",
+     1.96,
+     2.08
+    ],
+    [
+     "look",
+     2.08,
+     2.24
+    ],
+    [
+     "purple.",
+     2.24,
+     2.62
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 1,
+   "start": 2.8,
+   "end": 5.94,
+   "text": "But look at the colour wheel. Purple helps correct yellow looking dullness.",
+   "f0_median_hz": 213,
+   "words": [
+    [
+     "But",
+     2.8,
+     2.9
+    ],
+    [
+     "look",
+     2.9,
+     3.06
+    ],
+    [
+     "at",
+     3.06,
+     3.18
+    ],
+    [
+     "the",
+     3.18,
+     3.26
+    ],
+    [
+     "colour",
+     3.26,
+     3.48
+    ],
+    [
+     "wheel.",
+     3.48,
+     3.76
+    ],
+    [
+     "Purple",
+     3.9,
+     4.22
+    ],
+    [
+     "helps",
+     4.22,
+     4.48
+    ],
+    [
+     "correct",
+     4.48,
+     4.8
+    ],
+    [
+     "yellow",
+     4.8,
+     5.14
+    ],
+    [
+     "looking",
+     5.14,
+     5.44
+    ],
+    [
+     "dullness.",
+     5.44,
+     5.94
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 2,
+   "start": 6.22,
+   "end": 10.44,
+   "text": "The tint is made for Indian skin. It blends in completely, no white cast.",
+   "f0_median_hz": 234,
+   "words": [
+    [
+     "The",
+     6.22,
+     6.7
+    ],
+    [
+     "tint",
+     6.7,
+     6.9
+    ],
+    [
+     "is",
+     6.9,
+     7.08
+    ],
+    [
+     "made",
+     7.08,
+     7.28
+    ],
+    [
+     "for",
+     7.28,
+     7.46
+    ],
+    [
+     "Indian",
+     7.46,
+     7.72
+    ],
+    [
+     "skin.",
+     7.72,
+     8.06
+    ],
+    [
+     "It",
+     8.28,
+     8.42
+    ],
+    [
+     "blends",
+     8.42,
+     8.7
+    ],
+    [
+     "in",
+     8.7,
+     8.88
+    ],
+    [
+     "completely,",
+     8.88,
+     9.42
+    ],
+    [
+     "no",
+     9.58,
+     9.78
+    ],
+    [
+     "white",
+     9.78,
+     10.08
+    ],
+    [
+     "cast.",
+     10.08,
+     10.44
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 3,
+   "start": 10.62,
+   "end": 14.12,
+   "text": "Plus 4% niacinamide and SPF 50 PA platzka.",
+   "f0_median_hz": 237,
+   "words": [
+    [
+     "Plus",
+     10.62,
+     10.84
+    ],
+    [
+     "4",
+     10.84,
+     11.12
+    ],
+    [
+     "%",
+     11.12,
+     11.44
+    ],
+    [
+     "niacinamide",
+     11.44,
+     12.2
+    ],
+    [
+     "and",
+     12.2,
+     12.36
+    ],
+    [
+     "SPF",
+     12.36,
+     12.88
+    ],
+    [
+     "50",
+     12.88,
+     13.2
+    ],
+    [
+     "PA",
+     13.2,
+     13.66
+    ],
+    [
+     "platzka.",
+     13.66,
+     14.12
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 4,
+   "start": 14.32,
+   "end": 17.22,
+   "text": "Before dull, after even looking, protected glow.",
+   "f0_median_hz": 238,
+   "words": [
+    [
+     "Before",
+     14.32,
+     14.66
+    ],
+    [
+     "dull,",
+     14.66,
+     15.0
+    ],
+    [
+     "after",
+     15.26,
+     15.54
+    ],
+    [
+     "even",
+     15.54,
+     15.98
+    ],
+    [
+     "looking,",
+     15.98,
+     16.32
+    ],
+    [
+     "protected",
+     16.52,
+     16.86
+    ],
+    [
+     "glow.",
+     16.86,
+     17.22
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 5,
+   "start": 17.5,
+   "end": 19.84,
+   "text": "Okay, purple tint makes perfect sense now.",
+   "f0_median_hz": 260,
+   "words": [
+    [
+     "Okay,",
+     17.5,
+     17.74
+    ],
+    [
+     "purple",
+     17.98,
+     18.28
+    ],
+    [
+     "tint",
+     18.28,
+     18.52
+    ],
+    [
+     "makes",
+     18.52,
+     18.84
+    ],
+    [
+     "perfect",
+     18.84,
+     19.28
+    ],
+    [
+     "sense",
+     19.28,
+     19.62
+    ],
+    [
+     "now.",
+     19.62,
+     19.84
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  }
+ ]
+}

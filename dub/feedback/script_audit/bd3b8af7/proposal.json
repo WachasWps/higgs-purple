@@ -1,0 +1,115 @@
+{
+ "video": "bd3b8af7",
+ "shots": [
+  {
+   "n": 1,
+   "start": 0,
+   "end": 2.3,
+   "on_screen": "Night: woman, eyes closing, cuddling the smiling talking jar."
+  },
+  {
+   "n": 2,
+   "start": 2.3,
+   "end": 4.0,
+   "on_screen": "Jar lid lifts, three cute ingredient heroes (gold, silver, pink) pop out of the cream."
+  },
+  {
+   "n": 3,
+   "start": 4.0,
+   "end": 6.3,
+   "on_screen": "Golden Kojic Acid hero with magnifier scanning spots on her cheek."
+  },
+  {
+   "n": 4,
+   "start": 6.3,
+   "end": 8.5,
+   "on_screen": "Silver Niacinamide hero glowing on cheek, brightening the area."
+  },
+  {
+   "n": 5,
+   "start": 8.5,
+   "end": 10.0,
+   "on_screen": "Pink Alpha Arbutin droplet with magnifier on spotty cheek."
+  },
+  {
+   "n": 6,
+   "start": 10.0,
+   "end": 12.0,
+   "on_screen": "Fingertip scooping cream from the jar at night."
+  },
+  {
+   "n": 7,
+   "start": 12.0,
+   "end": 13.6,
+   "on_screen": "Before/after split: spots on top, clearer skin below."
+  },
+  {
+   "n": 8,
+   "start": 13.6,
+   "end": 15.0,
+   "on_screen": "End shot: jar with the three heroes on a bright cream-swirl set."
+  }
+ ],
+ "lines": [
+  {
+   "id": 1,
+   "start": 0.0,
+   "slot_s": 2.21,
+   "speaker": "kojic_jar",
+   "current": "You go to sleep. My night team is clocking in.",
+   "on_screen_during": "Woman drifting off holding jar, then heroes pop out",
+   "verdict": "rewrite",
+   "new": "You sleep. Team, clock in!",
+   "words": 5,
+   "reason": "Fit 2.2s slot; still cues the team popping out"
+  },
+  {
+   "id": 2,
+   "start": 2.36,
+   "slot_s": 3.79,
+   "speaker": "kojic_acid",
+   "current": "I'm two percent Kojic Acid. I work on the look of dark spots and pigmentation.",
+   "on_screen_during": "Heroes pop out, then Kojic hero scanning spots",
+   "verdict": "rewrite",
+   "new": "Kojic Acid here, scanning the look of dark spots.",
+   "words": 9,
+   "reason": "Match magnifier action; old line 14 words"
+  },
+  {
+   "id": 3,
+   "start": 6.3,
+   "slot_s": 2.01,
+   "speaker": "niacinamide",
+   "current": "I help make dull-looking skin look brighter.",
+   "on_screen_during": "Niacinamide hero glowing on cheek",
+   "verdict": "rewrite",
+   "new": "Niacinamide! Brightening dull-looking skin.",
+   "words": 4,
+   "reason": "Fit 2.0s slot"
+  },
+  {
+   "id": 4,
+   "start": 8.46,
+   "slot_s": 1.37,
+   "speaker": "alpha_arbutin",
+   "current": "And I help even out uneven-looking tone.",
+   "on_screen_during": "Alpha Arbutin hero on cheek",
+   "verdict": "rewrite",
+   "new": "Even-looking tone, mine!",
+   "words": 3,
+   "reason": "Fit 1.37s slot"
+  },
+  {
+   "id": 5,
+   "start": 9.98,
+   "slot_s": 5.44,
+   "speaker": "kojic_jar",
+   "current": "Rich night cream. Apply, let it absorb, and stay consistent. DERMDOC two percent Kojic Acid Night Cream.",
+   "on_screen_during": "Scoop, before/after split, end card",
+   "verdict": "rewrite",
+   "new": "Rich cream. Two weeks, spots look reduced. DERMDOC 2% Kojic Acid Night Cream.",
+   "words": 13,
+   "reason": "Add B/A result over split; keep name for end card"
+  }
+ ]
+}

@@ -1,0 +1,34 @@
+[
+ {
+  "id": 1,
+  "speaker": "kojic_jar",
+  "cer": 0.13,
+  "heard": "నుబు పడుక నైట్టిము వచ్చి సింది."
+ },
+ {
+  "id": 2,
+  "speaker": "kojic_acid",
+  "cer": 0.15,
+  "heard": "9.2% kojic acid, dark spot pigmentation na pani.",
+  "redub": true
+ },
+ {
+  "id": 3,
+  "speaker": "niacinamide",
+  "cer": 0.21,
+  "heard": "డిల్ స్కిన కి బ్రయేట లోకస్దా."
+ },
+ {
+  "id": 4,
+  "speaker": "alpha_arbutin",
+  "cer": 0.15,
+  "heard": "అన్యవన్టోన్ ఇవన్ చేస్తా."
+ },
+ {
+  "id": 5,
+  "speaker": "kojic_jar",
+  "cer": 0.15,
+  "heard": "Rich Cream, Rinduara Low Spots Thugna 2, Derm Dog 2% Kojic Acid Night Cream.",
+  "redub": true
+ }
+]

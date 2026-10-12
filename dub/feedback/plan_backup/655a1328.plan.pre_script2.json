@@ -1,0 +1,161 @@
+{
+ "video_id": "655a1328",
+ "style": "product_avatar",
+ "duration": 20.04,
+ "cast": [
+  {
+   "id": "dullness",
+   "name": "Dullness Villain",
+   "role": "villain",
+   "description": "small translucent grey-yellow Dullness blob floating over the woman's cheek; deep, sly, menacing low voice (f0 ~98 Hz)",
+   "ref_ranges": [
+    [
+     0.0,
+     2.46
+    ],
+    [
+     2.68,
+     4.5
+    ],
+    [
+     13.44,
+     17.56
+    ]
+   ],
+   "fx": "villain_f",
+   "pitch_semitones": -1,
+   "ref_file": "work/46d965c9/stems/vocals.wav",
+   "recast": "female villain (was f0≈98 Hz)"
+  },
+  {
+   "id": "sunscreen",
+   "name": "DERMDOC Ultra Violet Sunscreen",
+   "role": "product_mascot",
+   "description": "talking white DERMDOC Ultra Violet sunscreen tube with lavender cap, cartoon eyes, tiny arms and lavender shoes; bright, bouncy, confident cartoon hero voice (f0 ~195-290 Hz)",
+   "ref_ranges": [
+    [
+     8.12,
+     10.58
+    ],
+    [
+     11.12,
+     13.22
+    ],
+    [
+     14.02,
+     16.16
+    ]
+   ],
+   "fx": "cartoon",
+   "pitch_semitones": 0
+  }
+ ],
+ "lines": [
+  {
+   "id": 1,
+   "speaker": "dullness",
+   "start": 0.0,
+   "end": 1.98,
+   "max_end": 2.36,
+   "en": "Let's make her skin look dull!",
+   "tag": "angry",
+   "keep_original": false,
+   "bn": "চল, ওর স্কিনটা ডাল করে দিই!",
+   "ta": "வா, இவ ஸ்கின்ன டல்லாக்கிடலாம்!",
+   "te": "పదా, దీని స్కిన్‌ని డల్ చేసేద్దాం!",
+   "ml": "വാ, ഇവളുടെ സ്കിൻ ഡൾ ആക്കാം!",
+   "or": "ଚାଲ, ତା ସ୍କିନକୁ ଡଲ କରିଦେବା!"
+  },
+  {
+   "id": 2,
+   "speaker": "sunscreen",
+   "start": 2.4,
+   "end": 3.64,
+   "max_end": 4.42,
+   "en": "Not while I'm here.",
+   "tag": "angry",
+   "keep_original": false,
+   "bn": "আমি থাকতে সেটা হবে না!",
+   "ta": "நான் இருக்கும்போது நடக்காது!",
+   "te": "నేనుండగా అది జరగదు!",
+   "ml": "ഞാൻ ഉള്ളപ്പോൾ അത് നടക്കില്ല!",
+   "or": "ମୁଁ ଥାଉଥାଉ ତାହା ହେବନି!"
+  },
+  {
+   "id": 3,
+   "speaker": "sunscreen",
+   "start": 4.46,
+   "end": 7.0,
+   "max_end": 8.08,
+   "en": "Yellow-looking dullness? Purple sits opposite, cancels it.",
+   "tag": "surprise",
+   "keep_original": false,
+   "bn": "হলদেটে ডালনেস? পার্পল ঠিক তার উল্টো দিকে, ক্যানসেল করে দেয়!",
+   "ta": "மஞ்சளா டல்லா தெரியுதா? பர்பிள் அதுக்கு நேர் எதிர், கேன்சல் பண்ணிடும்!",
+   "te": "పసుపు డల్‌నెస్సా? పర్పుల్ దానికి ఆపోజిట్, క్యాన్సిల్ చేస్తుంది!",
+   "ml": "മഞ്ഞച്ച ഡൾനെസ്സ് ആണോ? പർപ്പിൾ അതിന്റെ നേരെ എതിരാ, ക്യാൻസൽ ചെയ്യും!",
+   "or": "ହଳଦିଆ ଡଲନେସ? ପର୍ପଲ ଠିକ୍ ତା ବିପରୀତ, କ୍ୟାନସଲ କରିଦିଏ!"
+  },
+  {
+   "id": 4,
+   "speaker": "sunscreen",
+   "start": 8.12,
+   "end": 10.58,
+   "max_end": 11.08,
+   "en": "My purple tint is made for Indian skin.",
+   "tag": "happy",
+   "keep_original": false,
+   "bn": "আমার পার্পল টিন্ট ইন্ডিয়ান স্কিনের জন্যই তৈরি!",
+   "ta": "என் பர்பிள் டின்ட் இந்தியன் ஸ்கின்னுக்காகவே செஞ்சது!",
+   "te": "నా పర్పుల్ టింట్ ఇండియన్ స్కిన్ కోసమే తయారైంది!",
+   "ml": "എന്റെ പർപ്പിൾ ടിന്റ് ഇന്ത്യൻ സ്കിന്നിനായി ഉണ്ടാക്കിയതാ!",
+   "or": "ମୋ ପର୍ପଲ ଟିଣ୍ଟ ଇଣ୍ଡିଆନ ସ୍କିନ ପାଇଁ ହିଁ ତିଆରି!"
+  },
+  {
+   "id": 5,
+   "speaker": "sunscreen",
+   "start": 11.12,
+   "end": 13.22,
+   "max_end": 13.98,
+   "en": "Four percent niacinamide helps brighten.",
+   "tag": null,
+   "keep_original": false,
+   "bn": "চার পারসেন্ট নায়াসিনামাইড ব্রাইট হতে হেল্প করে।",
+   "ta": "நாலு பர்சென்ட் நியாசினமைட் ப்ரைட்டனாக்க உதவும்!",
+   "te": "నాలుగు శాతం నియాసినమైడ్ బ్రైటెన్ చేయడంలో సాయపడుతుంది!",
+   "ml": "നാല് പെർസെന്റ് നിയാസിനമൈഡ് ബ്രൈറ്റാക്കാൻ സഹായിക്കും!",
+   "or": "ଫୋର ପରସେଣ୍ଟ ନିଆସିନାମାଇଡ ବ୍ରାଇଟନେସରେ ହେଲ୍ପ କରେ!"
+  },
+  {
+   "id": 6,
+   "speaker": "sunscreen",
+   "start": 14.02,
+   "end": 16.16,
+   "max_end": 16.56,
+   "en": "SPF 50 PA+++ protects.",
+   "tag": null,
+   "keep_original": false,
+   "bn": "এসপিএফ ফিফটি পিএ ট্রিপল প্লাস প্রোটেক্ট করে!",
+   "ta": "எஸ்பிஎஃப் ஃபிப்டி பிஏ ட்ரிபிள் ப்ளஸ் ப்ரொடெக்ஷன்!",
+   "te": "ఎస్పీఎఫ్ ఫిఫ్టీ పీఏ ట్రిపుల్ ప్లస్ ప్రొటెక్షన్!",
+   "ml": "എസ്പിഎഫ് ഫിഫ്റ്റി പിഎ ട്രിപ്പിൾ പ്ലസ് സംരക്ഷണം!",
+   "or": "ଏସପିଏଫ ଫିଫ୍ଟି ପିଏ ଟ୍ରିପଲ ପ୍ଲସ ପ୍ରୋଟେକ୍ଟ କରେ!"
+  },
+  {
+   "id": 7,
+   "speaker": "sunscreen",
+   "start": 16.6,
+   "end": 18.9,
+   "max_end": 19.64,
+   "en": "Same skin tone, with an instant glow.",
+   "tag": "happy",
+   "keep_original": false,
+   "bn": "একই স্কিন টোন, সাথে ইনস্ট্যান্ট গ্লো!",
+   "ta": "அதே ஸ்கின் டோன், கூடவே இன்ஸ்டன்ட் க்ளோ!",
+   "te": "అదే స్కిన్ టోన్, ఇంకా ఇన్‌స్టంట్ గ్లో!",
+   "ml": "അതേ സ്കിൻ ടോൺ, കൂടെ ഇൻസ്റ്റന്റ് ഗ്ലോ!",
+   "or": "ସମାନ ସ୍କିନ ଟୋନ, ସାଥିରେ ଇନଷ୍ଟାଣ୍ଟ ଗ୍ଲୋ!"
+  }
+ ],
+ "notes": "Two speakers only: Dullness villain (line 1, deep ~98 Hz) and the sunscreen tube mascot (lines 2-7, ~195-290 Hz). The woman never speaks; no narrator. Transcript segments 2 and 3 ('Yellow looking dullness?' + 'Violet sits opposite.') merged into line 3 (same speaker, 0.2 s gap). Line 4 starts at word timing 8.12 (segment header said 8.36). Audio says 'SPF 50 PA plus'; product label and prompt are SPF 50 PA+++, so translations say 'PA triple plus'. Villain has only ~2 s of clean speech for cloning (0.0-1.98). DERMDOC three-note sting expected near the end, after the last line."
+}

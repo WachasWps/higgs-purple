@@ -1,0 +1,238 @@
+{
+ "video": "bd3b8af7",
+ "style": "personification",
+ "cast": [
+  {
+   "id": "kojic_jar",
+   "name": "KNC Jar",
+   "description": "The talking DERMDOC 2% Kojic Acid Night Cream jar (cobalt-blue base, white lid, small cartoon eyes, mouth, tiny arms and legs). Warm, caring, playful team-boss voice that tucks the woman in and introduces its night team; bright mid-high pitch (~265 Hz)."
+  },
+  {
+   "id": "kojic_acid",
+   "name": "Kojic Acid",
+   "description": "Golden molecular Kojic Acid hero with a tiny precision scanner/magnifier, targets individual dark spots. Male-coded (Hindi 'karta hoon'): confident, smart, slightly cocky action-hero voice; should sound deeper than the two female ingredients."
+  },
+  {
+   "id": "niacinamide",
+   "name": "Niacinamide",
+   "description": "Pearly silver-white molecular Niacinamide heroine with a glow-diffusion wand, works on dullness. Female-coded ('karti hoon'): calm, polished, elegant and cheerful, premium not childish (~255 Hz)."
+  },
+  {
+   "id": "alpha_arbutin",
+   "name": "Alpha Arbutin",
+   "description": "Polished soft-pink droplet Alpha Arbutin heroine with a tiny tone-balancing tool, evens out uneven tone. Female-coded: sweet, gentle, a little sing-song, the lightest and brightest voice of the team."
+  }
+ ],
+ "lines": [
+  {
+   "id": 1,
+   "start": 0.0,
+   "end": 2.36,
+   "speaker": "kojic_jar",
+   "en": "You go to sleep. My night team is clocking in."
+  },
+  {
+   "id": 2,
+   "start": 2.36,
+   "end": 6.3,
+   "speaker": "kojic_acid",
+   "en": "I'm two percent Kojic Acid. I work on the look of dark spots and pigmentation."
+  },
+  {
+   "id": 3,
+   "start": 6.3,
+   "end": 8.46,
+   "speaker": "niacinamide",
+   "en": "I help make dull-looking skin look brighter."
+  },
+  {
+   "id": 4,
+   "start": 8.46,
+   "end": 9.98,
+   "speaker": "alpha_arbutin",
+   "en": "And I help even out uneven-looking tone."
+  },
+  {
+   "id": 5,
+   "start": 9.98,
+   "end": 14.92,
+   "speaker": "kojic_jar",
+   "en": "Rich night cream. Apply, let it absorb, and stay consistent. DERMDOC two percent Kojic Acid Night Cream."
+  }
+ ],
+ "shots": [
+  {
+   "n": 1,
+   "start": 0,
+   "end": 2.3,
+   "what": "original footage",
+   "frames": [
+    "s01_0.jpg",
+    "s01_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 1,
+     "start": 0.0,
+     "end": 2.36,
+     "speaker": "kojic_jar",
+     "en": "You go to sleep. My night team is clocking in."
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "start": 2.3,
+   "end": 4.0,
+   "what": "original footage",
+   "frames": [
+    "s02_0.jpg",
+    "s02_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 1,
+     "start": 0.0,
+     "end": 2.36,
+     "speaker": "kojic_jar",
+     "en": "You go to sleep. My night team is clocking in."
+    },
+    {
+     "id": 2,
+     "start": 2.36,
+     "end": 6.3,
+     "speaker": "kojic_acid",
+     "en": "I'm two percent Kojic Acid. I work on the look of dark spots and pigmentation."
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "start": 4.0,
+   "end": 6.3,
+   "what": "original footage",
+   "frames": [
+    "s03_0.jpg",
+    "s03_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 2,
+     "start": 2.36,
+     "end": 6.3,
+     "speaker": "kojic_acid",
+     "en": "I'm two percent Kojic Acid. I work on the look of dark spots and pigmentation."
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "start": 6.3,
+   "end": 8.5,
+   "what": "original footage",
+   "frames": [
+    "s04_0.jpg",
+    "s04_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 3,
+     "start": 6.3,
+     "end": 8.46,
+     "speaker": "niacinamide",
+     "en": "I help make dull-looking skin look brighter."
+    },
+    {
+     "id": 4,
+     "start": 8.46,
+     "end": 9.98,
+     "speaker": "alpha_arbutin",
+     "en": "And I help even out uneven-looking tone."
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "start": 8.5,
+   "end": 10.0,
+   "what": "original footage",
+   "frames": [
+    "s05_0.jpg",
+    "s05_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 4,
+     "start": 8.46,
+     "end": 9.98,
+     "speaker": "alpha_arbutin",
+     "en": "And I help even out uneven-looking tone."
+    },
+    {
+     "id": 5,
+     "start": 9.98,
+     "end": 14.92,
+     "speaker": "kojic_jar",
+     "en": "Rich night cream. Apply, let it absorb, and stay consistent. DERMDOC two percent Kojic Acid Night Cream."
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "start": 10.0,
+   "end": 12.0,
+   "what": "KN02_scoop",
+   "frames": [
+    "s06_0.jpg",
+    "s06_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 5,
+     "start": 9.98,
+     "end": 14.92,
+     "speaker": "kojic_jar",
+     "en": "Rich night cream. Apply, let it absorb, and stay consistent. DERMDOC two percent Kojic Acid Night Cream."
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "start": 12.0,
+   "end": 13.6,
+   "what": "GRAPHIC_BA_SPLIT",
+   "frames": [
+    "s07_0.jpg",
+    "s07_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 5,
+     "start": 9.98,
+     "end": 14.92,
+     "speaker": "kojic_jar",
+     "en": "Rich night cream. Apply, let it absorb, and stay consistent. DERMDOC two percent Kojic Acid Night Cream."
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "start": 13.6,
+   "end": 15.0,
+   "what": "original footage",
+   "frames": [
+    "s08_0.jpg",
+    "s08_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 5,
+     "start": 9.98,
+     "end": 14.92,
+     "speaker": "kojic_jar",
+     "en": "Rich night cream. Apply, let it absorb, and stay consistent. DERMDOC two percent Kojic Acid Night Cream."
+    }
+   ]
+  }
+ ]
+}

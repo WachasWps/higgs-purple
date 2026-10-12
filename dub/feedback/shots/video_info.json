@@ -1,0 +1,6227 @@
+{
+ "00b304b4": {
+  "sheet": "feedback/shots/00b304b4.jpg",
+  "source_for_sheet": "deliver_music/Bengali/10_uv-sunscreen_personification_skin-protection-department_00b304b4.mp4",
+  "shots": [
+   [
+    0.0,
+    2.6
+   ],
+   [
+    2.6,
+    5.1
+   ],
+   [
+    5.1,
+    7.6
+   ],
+   [
+    7.6,
+    14.73
+   ],
+   [
+    14.73,
+    17.02
+   ]
+  ],
+  "lines": [
+   {
+    "id": 1,
+    "speaker": "tube",
+    "start": 0.0,
+    "end": 2.46,
+    "en": "Team, we've got a full day ahead."
+   },
+   {
+    "id": 2,
+    "speaker": "uv_rays",
+    "start": 2.58,
+    "end": 4.42,
+    "en": "Let's ruin her work day!"
+   },
+   {
+    "id": 3,
+    "speaker": "tube",
+    "start": 5.6,
+    "end": 7.2,
+    "en": "Everyone knows their assignment."
+   },
+   {
+    "id": 4,
+    "speaker": "spf_shield",
+    "start": 7.54,
+    "end": 9.26,
+    "en": "I've got the UV rays."
+   },
+   {
+    "id": 5,
+    "speaker": "purple_tint",
+    "start": 9.44,
+    "end": 10.82,
+    "en": "I've got the ashy cast."
+   },
+   {
+    "id": 6,
+    "speaker": "niacinamide",
+    "start": 11.0,
+    "end": 12.66,
+    "en": "And I've got the dullness."
+   },
+   {
+    "id": 7,
+    "speaker": "tube",
+    "start": 13.06,
+    "end": 14.66,
+    "en": "Team, protection complete."
+   },
+   {
+    "id": 8,
+    "speaker": "tube",
+    "start": 14.96,
+    "end": 15.9,
+    "en": "Ready for the day."
+   }
+  ],
+  "cast": [
+   {
+    "id": "tube",
+    "name": "DERMDOC Sunscreen Tube",
+    "role": "product_mascot",
+    "fx": "cartoon",
+    "pitch_semitones": 0
+   },
+   {
+    "id": "uv_rays",
+    "name": "UV Rays",
+    "role": "villain",
+    "fx": "villain",
+    "pitch_semitones": -3
+   },
+   {
+    "id": "spf_shield",
+    "name": "SPF Shield",
+    "role": "hero",
+    "fx": "cartoon",
+    "pitch_semitones": 0
+   },
+   {
+    "id": "purple_tint",
+    "name": "Purple Tint",
+    "role": "hero",
+    "fx": "cartoon",
+    "pitch_semitones": 2
+   },
+   {
+    "id": "niacinamide",
+    "name": "Niacinamide",
+    "role": "hero",
+    "fx": "cartoon",
+    "pitch_semitones": 0
+   }
+  ],
+  "our_supers": [
+   {
+    "type": "hook_mono",
+    "start": 0.2,
+    "end": 2.4,
+    "lines": [
+     "SKIN PROTECTION",
+     "DEPARTMENT"
+    ],
+    "sub": null
+   },
+   {
+    "type": "label",
+    "start": 2.75,
+    "end": 4.45,
+    "lines": [
+     "UV VILLAIN"
+    ],
+    "sub": null
+   },
+   {
+    "type": "hud",
+    "start": 7.75,
+    "end": 9.3,
+    "lines": null,
+    "sub": null
+   },
+   {
+    "type": "pill",
+    "start": 9.5,
+    "end": 10.85,
+    "lines": [
+     "PURPLE TINT",
+     "NO WHITE CAST"
+    ],
+    "sub": null
+   },
+   {
+    "type": "pill",
+    "start": 11.0,
+    "end": 12.6,
+    "lines": [
+     "4% NIACINAMIDE",
+     "RADIANT GLOW"
+    ],
+    "sub": null
+   }
+  ]
+ },
+ "02bad3b3": {
+  "sheet": "feedback/shots/02bad3b3.jpg",
+  "source_for_sheet": "deliver_music/Bengali/26_kojic-night-cream_ugc_look-at-that-thick-rich-texture_02bad3b3.mp4",
+  "shots": [
+   [
+    0.0,
+    2.77
+   ],
+   [
+    2.77,
+    5.93
+   ],
+   [
+    5.93,
+    8.63
+   ],
+   [
+    8.63,
+    9.97
+   ],
+   [
+    9.97,
+    11.6
+   ],
+   [
+    11.6,
+    13.57
+   ],
+   [
+    13.57,
+    15.63
+   ],
+   [
+    15.63,
+    18.23
+   ],
+   [
+    18.23,
+    20.04
+   ]
+  ],
+  "lines": [
+   {
+    "id": 1,
+    "speaker": "creator",
+    "start": 0.0,
+    "end": 2.54,
+    "en": "Lately, my dark spots were making my whole complexion look uneven."
+   },
+   {
+    "id": 2,
+    "speaker": "creator",
+    "start": 2.72,
+    "end": 5.78,
+    "en": "So I added DERMDOC 2% Kojic Acid Night Cream to my bedtime routine."
+   },
+   {
+    "id": 3,
+    "speaker": "creator",
+    "start": 5.96,
+    "end": 8.66,
+    "en": "It combines 2% Kojic Acid, Niacinamide and Alpha Arbutin."
+   },
+   {
+    "id": 4,
+    "speaker": "creator",
+    "start": 8.74,
+    "end": 10.04,
+    "en": "Look at that thick, rich texture."
+   },
+   {
+    "id": 5,
+    "speaker": "creator",
+    "start": 10.24,
+    "end": 13.4,
+    "en": "I use a small amount at night and massage it in until it disappears completely."
+   },
+   {
+    "id": 6,
+    "speaker": "creator",
+    "start": 13.58,
+    "end": 15.4,
+    "en": "Then I let the Glow Fusion Formula work overnight."
+   },
+   {
+    "id": 7,
+    "speaker": "creator",
+    "start": 15.64,
+    "end": 18.18,
+    "en": "After two weeks, my dark spots look reduced and my skin looks more even."
+   },
+   {
+    "id": 8,
+    "speaker": "creator",
+    "start": 18.34,
+    "end": 19.8,
+    "en": "Now this is my sleep-to-glow essential."
+   }
+  ],
+  "cast": [
+   {
+    "id": "creator",
+    "name": "Creator",
+    "role": "creator",
+    "fx": "none",
+    "pitch_semitones": 0
+   }
+  ],
+  "our_supers": [
+   {
+    "type": "hook_mono",
+    "start": 0.15,
+    "end": 2.5,
+    "lines": [
+     "DARK SPOTS",
+     "MAKING SKIN UNEVEN?"
+    ],
+    "sub": null
+   },
+   {
+    "type": "claim_bold",
+    "start": 6.05,
+    "end": 8.6,
+    "lines": [
+     "2% KOJIC ACID"
+    ],
+    "sub": "+ NIACINAMIDE + ALPHA ARBUTIN"
+   },
+   {
+    "type": "hud",
+    "start": 8.75,
+    "end": 9.95,
+    "lines": null,
+    "sub": null
+   },
+   {
+    "type": "claim_bold",
+    "start": 14.0,
+    "end": 15.5,
+    "lines": [
+     "GLOW FUSION FORMULA"
+    ],
+    "sub": "WORKS OVERNIGHT"
+   },
+   {
+    "type": "hud",
+    "start": 16.0,
+    "end": 17.9,
+    "lines": null,
+    "sub": null
+   }
+  ]
+ },
+ "23850d94": {
+  "sheet": "feedback/shots/23850d94.jpg",
+  "source_for_sheet": "deliver_music/Bengali/03_kojic-night-cream_personification_three-step-night-class_23850d94.mp4",
+  "shots": [
+   [
+    0.0,
+    3.63
+   ],
+   [
+    3.63,
+    5.6
+   ],
+   [
+    5.6,
+    8.1
+   ],
+   [
+    8.1,
+    9.1
+   ],
+   [
+    9.1,
+    10.67
+   ],
+   [
+    10.67,
+    13.6
+   ],
+   [
+    13.6,
+    15.17
+   ],
+   [
+    15.17,
+    17.02
+   ]
+  ],
+  "lines": [
+   {
+    "id": 1,
+    "speaker": "professor_jar",
+    "start": 0.0,
+    "end": 3.44,
+    "en": "Class is in session. Tonight's lesson: brighter, even-looking skin."
+   },
+   {
+    "id": 2,
+    "speaker": "professor_jar",
+    "start": 3.78,
+    "end": 5.4,
+    "en": "Three concerns. Three specialists."
+   },
+   {
+    "id": 3,
+    "speaker": "kojic_acid",
+    "start": 5.82,
+    "end": 8.1,
+    "en": "Lesson one: target stubborn dark spots."
+   },
+   {
+    "id": 4,
+    "speaker": "niacinamide",
+    "start": 8.34,
+    "end": 10.5,
+    "en": "Lesson two: brighten dull-looking skin."
+   },
+   {
+    "id": 5,
+    "speaker": "professor_jar",
+    "start": 10.84,
+    "end": 13.34,
+    "en": "Now apply at night, and let the team get to work."
+   },
+   {
+    "id": 6,
+    "speaker": "narrator",
+    "start": 13.66,
+    "end": 16.5,
+    "en": "DERMDOC KNC Night Cream. Night class dismissed."
+   }
+  ],
+  "cast": [
+   {
+    "id": "professor_jar",
+    "name": "Professor Jar",
+    "role": "product_mascot",
+    "fx": "cartoon",
+    "pitch_semitones": -1
+   },
+   {
+    "id": "kojic_acid",
+    "name": "Kojic Acid",
+    "role": "hero",
+    "fx": "cartoon",
+    "pitch_semitones": 1
+   },
+   {
+    "id": "niacinamide",
+    "name": "Niacinamide",
+    "role": "hero",
+    "fx": "cartoon",
+    "pitch_semitones": 3
+   },
+   {
+    "id": "narrator",
+    "name": "Narrator",
+    "role": "narrator",
+    "fx": "none",
+    "pitch_semitones": 0
+   }
+  ],
+  "our_supers": [
+   {
+    "type": "label",
+    "start": 0.3,
+    "end": 2.0,
+    "lines": [
+     "PROFESSOR JAR"
+    ],
+    "sub": null
+   },
+   {
+    "type": "pill",
+    "start": 5.98,
+    "end": 8.06,
+    "lines": [
+     "2% KOJIC ACID",
+     "TARGETS DARK SPOTS"
+    ],
+    "sub": null
+   },
+   {
+    "type": "pill",
+    "start": 8.06,
+    "end": 9.06,
+    "lines": [
+     "NIACINAMIDE",
+     "BRIGHTENS DULL-LOOKING SKIN"
+    ],
+    "sub": null
+   },
+   {
+    "type": "pill",
+    "start": 9.06,
+    "end": 10.66,
+    "lines": [
+     "ALPHA ARBUTIN",
+     "HELPS EVEN SKIN TONE"
+    ],
+    "sub": null
+   },
+   {
+    "type": "blur",
+    "start": 5.98,
+    "end": 10.8,
+    "lines": null,
+    "sub": null
+   },
+   {
+    "type": "label",
+    "start": 13.6,
+    "end": 15.12,
+    "lines": [
+     "BEFORE"
+    ],
+    "sub": null
+   },
+   {
+    "type": "label",
+    "start": 13.6,
+    "end": 15.12,
+    "lines": [
+     "AFTER"
+    ],
+    "sub": null
+   },
+   {
+    "type": "hud",
+    "start": 13.6,
+    "end": 15.12,
+    "lines": null,
+    "sub": null
+   },
+   {
+    "type": "blur",
+    "start": 14.85,
+    "end": 15.25,
+    "lines": null,
+    "sub": null
+   }
+  ]
+ },
+ "291827ba": {
+  "sheet": "feedback/shots/291827ba.jpg",
+  "source_for_sheet": "deliver_music/Bengali/09_uv-sunscreen_personification_the-sunscreen-courtroom_291827ba.mp4",
+  "shots": [
+   [
+    0.0,
+    2.17
+   ],
+   [
+    2.17,
+    4.93
+   ],
+   [
+    4.93,
+    7.6
+   ],
+   [
+    7.6,
+    10.3
+   ],
+   [
+    10.3,
+    12.57
+   ],
+   [
+    12.57,
+    15.5
+   ],
+   [
+    15.5,
+    17.02
+   ]
+  ],
+  "lines": [
+   {
+    "id": 1,
+    "speaker": "uv_rays",
+    "start": 0.0,
+    "end": 1.94,
+    "en": "Her skin doesn't stand a chance!"
+   },
+   {
+    "id": 2,
+    "speaker": "judge",
+    "start": 3.18,
+    "end": 4.78,
+    "en": "Court is now in session."
+   },
+   {
+    "id": 3,
+    "speaker": "spf_shield",
+    "start": 5.02,
+    "end": 7.4,
+    "en": "Evidence number one: UVA and UVB protection."
+   },
+   {
+    "id": 4,
+    "speaker": "purple_tint",
+    "start": 7.62,
+    "end": 10.08,
+    "en": "Evidence number two: no ashy-looking finish."
+   },
+   {
+    "id": 5,
+    "speaker": "niacinamide",
+    "start": 10.42,
+    "end": 12.32,
+    "en": "And I help brighten dull-looking skin."
+   },
+   {
+    "id": 6,
+    "speaker": "judge",
+    "start": 12.64,
+    "end": 15.34,
+    "en": "The verdict: protected, fresh-looking skin."
+   },
+   {
+    "id": 7,
+    "speaker": "judge",
+    "start": 15.64,
+    "end": 16.52,
+    "en": "Case closed."
+   }
+  ],
+  "cast": [
+   {
+    "id": "uv_rays",
+    "name": "UV Rays",
+    "role": "villain",
+    "fx": "villain",
+    "pitch_semitones": -3
+   },
+   {
+    "id": "judge",
+    "name": "Judge DERMDOC Tube",
+    "role": "product_mascot",
+    "fx": "none",
+    "pitch_semitones": 0
+   },
+   {
+    "id": "spf_shield",
+    "name": "SPF Shield",
+    "role": "hero",
+    "fx": "cartoon",
+    "pitch_semitones": 0
+   },
+   {
+    "id": "purple_tint",
+    "name": "Purple Tint",
+    "role": "hero",
+    "fx": "cartoon",
+    "pitch_semitones": 2
+   },
+   {
+    "id": "niacinamide",
+    "name": "Niacinamide",
+    "role": "hero",
+    "fx": "cartoon",
+    "pitch_semitones": 1
+   }
+  ],
+  "our_supers": [
+   {
+    "type": "hook_mono",
+    "start": 0.15,
+    "end": 1.85,
+    "lines": [
+     "SKIN UNDER",
+     "ATTACK?"
+    ],
+    "sub": null
+   },
+   {
+    "type": "pill",
+    "start": 8.1,
+    "end": 9.9,
+    "lines": [
+     "NO WHITE CAST",
+     "FOR INDIAN SKIN"
+    ],
+    "sub": null
+   },
+   {
+    "type": "pill",
+    "start": 10.5,
+    "end": 12.4,
+    "lines": [
+     "BRIGHTENS",
+     "DULL-LOOKING SKIN"
+    ],
+    "sub": null
+   },
+   {
+    "type": "claim_bold",
+    "start": 13.5,
+    "end": 15.35,
+    "lines": [
+     "THE VERDICT:",
+     "PROTECTED SKIN"
+    ],
+    "sub": null
+   }
+  ]
+ },
+ "33c29291": {
+  "sheet": "feedback/shots/33c29291.jpg",
+  "source_for_sheet": "deliver_music/Bengali/13_uv-sunscreen_product_avatar_purple-tint_33c29291.mp4",
+  "shots": [
+   [
+    0.0,
+    4.6
+   ],
+   [
+    4.6,
+    7.63
+   ],
+   [
+    7.63,
+    10.8
+   ],
+   [
+    10.8,
+    15.9
+   ],
+   [
+    15.9,
+    20.04
+   ]
+  ],
+  "lines": [
+   {
+    "id": 1,
+    "speaker": "white_cast",
+    "start": 0.0,
+    "end": 2.22,
+    "en": "I'll make this sunscreen impossible to miss!"
+   },
+   {
+    "id": 2,
+    "speaker": "sunscreen",
+    "start": 2.36,
+    "end": 4.22,
+    "en": "Wrong shade. Wrong sunscreen."
+   },
+   {
+    "id": 3,
+    "speaker": "sunscreen",
+    "start": 4.58,
+    "end": 7.38,
+    "en": "Purple visually balances yellow-looking dullness."
+   },
+   {
+    "id": 4,
+    "speaker": "sunscreen",
+    "start": 7.54,
+    "end": 9.64,
+    "en": "Purple Tint, made for Indian skin."
+   },
+   {
+    "id": 5,
+    "speaker": "sunscreen",
+    "start": 10.26,
+    "end": 12.7,
+    "en": "Four percent niacinamide helps brighten."
+   },
+   {
+    "id": 6,
+    "speaker": "sunscreen",
+    "start": 12.98,
+    "end": 15.66,
+    "en": "And SPF 50 PA+++ protects."
+   },
+   {
+    "id": 7,
+    "speaker": "sunscreen",
+    "start": 15.9,
+    "end": 19.48,
+    "en": "No ashiness. Just protected, brighter-looking skin."
+   }
+  ],
+  "cast": [
+   {
+    "id": "white_cast",
+    "name": "White Cast",
+    "role": "villain",
+    "fx": "villain",
+    "pitch_semitones": -2
+   },
+   {
+    "id": "sunscreen",
+    "name": "DERMDOC Ultra Violet Sunscreen",
+    "role": "product_mascot",
+    "fx": "cartoon",
+    "pitch_semitones": 0
+   }
+  ],
+  "our_supers": [
+   {
+    "type": "label",
+    "start": 0.3,
+    "end": 2.2,
+    "lines": [
+     "WHITE CAST"
+    ],
+    "sub": null
+   },
+   {
+    "type": "claim_bold",
+    "start": 5.1,
+    "end": 7.4,
+    "lines": [
+     "COLOUR CORRECTION"
+    ],
+    "sub": "PURPLE BALANCES YELLOW-LOOKING DULLNESS"
+   },
+   {
+    "type": "claim_bold",
+    "start": 14.0,
+    "end": 15.8,
+    "lines": [
+     "SPF 50 PA+++"
+    ],
+    "sub": "UVA + UVB PROTECTION"
+   },
+   {
+    "type": "pill",
+    "start": 18.0,
+    "end": 19.6,
+    "lines": [
+     "NO WHITE CAST",
+     "FOR INDIAN SKIN"
+    ],
+    "sub": null
+   }
+  ]
+ },
+ "390113f1": {
+  "sheet": "feedback/shots/390113f1.jpg",
+  "source_for_sheet": "deliver_music/Bengali/05_kojic-night-cream_personification_shhh-she-s-sleeping_390113f1.mp4",
+  "shots": [
+   [
+    0.0,
+    3.6
+   ],
+   [
+    3.6,
+    6.93
+   ],
+   [
+    6.93,
+    14.57
+   ],
+   [
+    14.57,
+    17.02
+   ]
+  ],
+  "lines": [
+   {
+    "id": 1,
+    "speaker": "dark_spot",
+    "start": 1.56,
+    "end": 3.08,
+    "en": "Quick, she's asleep."
+   },
+   {
+    "id": 2,
+    "speaker": "knc_jar",
+    "start": 3.48,
+    "end": 4.86,
+    "en": "So is my night team."
+   },
+   {
+    "id": 3,
+    "speaker": "kojic_acid",
+    "start": 5.16,
+    "end": 6.92,
+    "en": "Keep it down. We're working."
+   },
+   {
+    "id": 4,
+    "speaker": "narrator",
+    "start": 11.44,
+    "end": 14.4,
+    "en": "Working through the night for brighter, even-looking skin."
+   },
+   {
+    "id": 5,
+    "speaker": "knc_jar",
+    "start": 14.62,
+    "end": 16.56,
+    "en": "Dark spots don't get the night off."
+   }
+  ],
+  "cast": [
+   {
+    "id": "dark_spot",
+    "name": "Dark Spot Villain",
+    "role": "villain",
+    "fx": "villain",
+    "pitch_semitones": -2
+   },
+   {
+    "id": "knc_jar",
+    "name": "DERMDOC Kojic Night Cream Jar",
+    "role": "product_mascot",
+    "fx": "cartoon",
+    "pitch_semitones": -2
+   },
+   {
+    "id": "kojic_acid",
+    "name": "Kojic Acid",
+    "role": "hero",
+    "fx": "cartoon",
+    "pitch_semitones": 3
+   },
+   {
+    "id": "narrator",
+    "name": "Narrator",
+    "role": "narrator",
+    "fx": "none",
+    "pitch_semitones": 0
+   }
+  ],
+  "our_supers": [
+   {
+    "type": "hook_mono",
+    "start": 0.15,
+    "end": 1.6,
+    "lines": [
+     "WHAT HAPPENS",
+     "WHILE YOU SLEEP?"
+    ],
+    "sub": null
+   },
+   {
+    "type": "label",
+    "start": 1.65,
+    "end": 3.3,
+    "lines": [
+     "DARK SPOT GANG"
+    ],
+    "sub": null
+   },
+   {
+    "type": "label",
+    "start": 5.2,
+    "end": 6.9,
+    "lines": [
+     "THE NIGHT TEAM"
+    ],
+    "sub": null
+   },
+   {
+    "type": "hud",
+    "start": 7.1,
+    "end": 10.6,
+    "lines": null,
+    "sub": null
+   },
+   {
+    "type": "pill",
+    "start": 11.32,
+    "end": 15.02,
+    "lines": [
+     "AFTER 2 WEEKS",
+     "HELPS EVEN SKIN TONE"
+    ],
+    "sub": null
+   }
+  ]
+ },
+ "3d01d9fc": {
+  "sheet": "feedback/shots/3d01d9fc.jpg",
+  "source_for_sheet": "deliver_music/Bengali/23_uv-sunscreen_ugc_but-the-real-test-is-how-it-blends_3d01d9fc.mp4",
+  "shots": [
+   [
+    0.0,
+    2.7
+   ],
+   [
+    2.7,
+    6.27
+   ],
+   [
+    6.27,
+    7.6
+   ],
+   [
+    7.6,
+    10.27
+   ],
+   [
+    10.27,
+    13.33
+   ],
+   [
+    13.33,
+    15.77
+   ],
+   [
+    15.77,
+    16.9
+   ],
+   [
+    16.9,
+    20.04
+   ]
+  ],
+  "lines": [
+   {
+    "id": 1,
+    "speaker": "creator",
+    "start": 0.0,
+    "end": 2.48,
+    "en": "Window light showed me exactly what my sunscreen was missing."
+   },
+   {
+    "id": 2,
+    "speaker": "creator",
+    "start": 2.72,
+    "end": 6.16,
+    "en": "Purple sits opposite yellow, so the tint helps balance yellow-looking dullness."
+   },
+   {
+    "id": 3,
+    "speaker": "creator",
+    "start": 6.22,
+    "end": 7.66,
+    "en": "But the real test is how it blends."
+   },
+   {
+    "id": 4,
+    "speaker": "creator",
+    "start": 7.82,
+    "end": 10.28,
+    "en": "No chalkiness, no purple residue, and no white cast."
+   },
+   {
+    "id": 5,
+    "speaker": "creator",
+    "start": 10.44,
+    "end": 13.12,
+    "en": "It's made for Indian skin and feels lightweight once absorbed."
+   },
+   {
+    "id": 6,
+    "speaker": "creator",
+    "start": 13.36,
+    "end": 16.66,
+    "en": "Plus, 4% niacinamide gives me a brighter, more even-looking finish."
+   },
+   {
+    "id": 7,
+    "speaker": "creator",
+    "start": 16.94,
+    "end": 19.94,
+    "en": "And SPF 50 PA+++ handles the protection. That's my kind of glow."
+   }
+  ],
+  "cast": [
+   {
+    "id": "creator",
+    "name": "Creator",
+    "role": "creator",
+    "fx": "none",
+    "pitch_semitones": 0
+   }
+  ],
+  "our_supers": [
+   {
+    "type": "hook_mono",
+    "start": 0.2,
+    "end": 2.45,
+    "lines": [
+     "WINDOW LIGHT",
+     "DOESN'T LIE"
+    ],
+    "sub": null
+   },
+   {
+    "type": "claim_bold",
+    "start": 2.85,
+    "end": 5.75,
+    "lines": [
+     "PURPLE TINT",
+     "COLOUR CORRECTION"
+    ],
+    "sub": "BALANCES YELLOW-LOOKING DULLNESS"
+   },
+   {
+    "type": "pill",
+    "start": 8.0,
+    "end": 9.75,
+    "lines": [
+     "NO WHITE CAST",
+     "NO PURPLE RESIDUE"
+    ],
+    "sub": null
+   },
+   {
+    "type": "hud",
+    "start": 13.5,
+    "end": 15.8,
+    "lines": null,
+    "sub": null
+   },
+   {
+    "type": "pill",
+    "start": 13.5,
+    "end": 15.8,
+    "lines": [
+     "4% NIACINAMIDE"
+    ],
+    "sub": null
+   },
+   {
+    "type": "claim_bold",
+    "start": 17.15,
+    "end": 19.9,
+    "lines": [
+     "SPF 50 PA+++"
+    ],
+    "sub": "MADE FOR INDIAN SKIN"
+   }
+  ]
+ },
+ "4010f985": {
+  "sheet": "feedback/shots/4010f985.jpg",
+  "source_for_sheet": "deliver_music/Hinglish_Ads/06_PS_yellow-looking-dullness-ko-balance-karne_4010f985.mp4",
+  "shots": [
+   [
+    0.0,
+    3.43
+   ],
+   [
+    3.43,
+    6.3
+   ],
+   [
+    6.3,
+    9.27
+   ],
+   [
+    9.27,
+    13.07
+   ],
+   [
+    13.07,
+    17.07
+   ],
+   [
+    17.07,
+    18.4
+   ],
+   [
+    18.4,
+    20.04
+   ]
+  ],
+  "lines": [
+   {
+    "id": 1,
+    "speaker": "narrator",
+    "start": 0.0,
+    "end": 3.42,
+    "en": "Yellow-looking dullness ko balance karne ka colour secret? Purple."
+   },
+   {
+    "id": 2,
+    "speaker": "narrator",
+    "start": 3.68,
+    "end": 10.7,
+    "en": "DermDoc Ultra Violet Brightening Sunscreen ka purple tint dullness ko colour-correct karke instant radiant glow deta hai."
+   },
+   {
+    "id": 3,
+    "speaker": "narrator",
+    "start": 10.96,
+    "end": 18.32,
+    "en": "With 4% Niacinamide and SPF 50 PA++ protection—lightweight and without white cast. Indian skin ke liye."
+   }
+  ],
+  "cast": [
+   {
+    "id": "narrator",
+    "name": "Voiceover",
+    "role": "narrator",
+    "fx": null,
+    "pitch_semitones": null
+   }
+  ],
+  "our_supers": [
+   {
+    "type": "hook_mono",
+    "start": 0.8,
+    "end": 2.45,
+    "lines": [
+     "YELLOW-LOOKING",
+     "DULLNESS?"
+    ],
+    "sub": null
+   },
+   {
+    "type": "claim_bold",
+    "start": 3.5,
+    "end": 4.95,
+    "lines": [
+     "PURPLE"
+    ],
+    "sub": "THE COLOUR SECRET"
+   },
+   {
+    "type": "hud",
+    "start": 3.5,
+    "end": 6.2,
+    "lines": null,
+    "sub": null
+   },
+   {
+    "type": "claim_bold",
+    "start": 9.45,
+    "end": 10.9,
+    "lines": [
+     "COLOUR CORRECTION"
+    ],
+    "sub": "INSTANT RADIANT GLOW"
+   },
+   {
+    "type": "pill",
+    "start": 11.45,
+    "end": 12.85,
+    "lines": [
+     "4% NIACINAMIDE"
+    ],
+    "sub": null
+   },
+   {
+    "type": "claim_bold",
+    "start": 13.45,
+    "end": 14.95,
+    "lines": [
+     "SPF 50 PA+++"
+    ],
+    "sub": "LIGHTWEIGHT PROTECTION"
+   },
+   {
+    "type": "pill",
+    "start": 18.6,
+    "end": 20.0,
+    "lines": [
+     "NO WHITE CAST",
+     "FOR INDIAN SKIN"
+    ],
+    "sub": null
+   }
+  ]
+ },
+ "426b77bb": {
+  "sheet": "feedback/shots/426b77bb.jpg",
+  "source_for_sheet": "deliver_music/Hinglish_Ads/02_KNC_ek-active-achha-hai_426b77bb.mp4",
+  "shots": [
+   [
+    0.0,
+    3.33
+   ],
+   [
+    3.33,
+    4.17
+   ],
+   [
+    4.17,
+    8.3
+   ],
+   [
+    8.3,
+    9.93
+   ],
+   [
+    9.93,
+    11.27
+   ],
+   [
+    11.27,
+    12.63
+   ],
+   [
+    12.63,
+    15.23
+   ],
+   [
+    15.23,
+    16.27
+   ],
+   [
+    16.27,
+    17.93
+   ],
+   [
+    17.93,
+    20.04
+   ]
+  ],
+  "lines": [
+   {
+    "id": 1,
+    "speaker": "narrator",
+    "start": 0.0,
+    "end": 3.16,
+    "en": "Ek active achha hai. Lekin three actives together?"
+   },
+   {
+    "id": 2,
+    "speaker": "narrator",
+    "start": 3.86,
+    "end": 10.54,
+    "en": "DermDoc 2% Kojic Acid Night Cream combines Kojic Acid, Niacinamide aur Alpha Arbutin in one Glow Fusion Formula."
+   },
+   {
+    "id": 3,
+    "speaker": "narrator",
+    "start": 10.96,
+    "end": 15.12,
+    "en": "Together, they help reduce the appearance of dark spots and improve uneven-looking skin."
+   },
+   {
+    "id": 4,
+    "speaker": "narrator",
+    "start": 15.5,
+    "end": 17.82,
+    "en": "One jar. Three actives. Overnight glow."
+   }
+  ],
+  "cast": [
+   {
+    "id": "narrator",
+    "name": "Voiceover",
+    "role": "narrator",
+    "fx": null,
+    "pitch_semitones": null
+   }
+  ],
+  "our_supers": [
+   {
+    "type": "hook_mono",
+    "start": 0.2,
+    "end": 3.1,
+    "lines": [
+     "ONE ACTIVE: GOOD",
+     "THREE TOGETHER?"
+    ],
+    "sub": null
+   },
+   {
+    "type": "pill",
+    "start": 6.4,
+    "end": 7.95,
+    "lines": [
+     "KOJIC + NIACINAMIDE",
+     "+ ALPHA ARBUTIN"
+    ],
+    "sub": null
+   },
+   {
+    "type": "pill",
+    "start": 8.55,
+    "end": 9.85,
+    "lines": [
+     "GLOW FUSION",
+     "FORMULA"
+    ],
+    "sub": null
+   },
+   {
+    "type": "claim_bold",
+    "start": 13.05,
+    "end": 14.85,
+    "lines": [
+     "LESS VISIBLE",
+     "DARK SPOTS"
+    ],
+    "sub": "FOR MORE EVEN-LOOKING SKIN"
+   },
+   {
+    "type": "label",
+    "start": 16.45,
+    "end": 17.65,
+    "lines": [
+     "BEFORE"
+    ],
+    "sub": null
+   },
+   {
+    "type": "label",
+    "start": 16.45,
+    "end": 17.65,
+    "lines": [
+     "AFTER"
+    ],
+    "sub": null
+   },
+   {
+    "type": "hud",
+    "start": 16.45,
+    "end": 17.65,
+    "lines": null,
+    "sub": null
+   }
+  ]
+ },
+ "46d965c9": {
+  "sheet": "feedback/shots/46d965c9.jpg",
+  "source_for_sheet": "deliver_music/Bengali/27_kojic-night-cream_ugc_so-my-nighttime-reset-starts-with-this_46d965c9.mp4",
+  "shots": [
+   [
+    0.0,
+    2.67
+   ],
+   [
+    2.67,
+    4.6
+   ],
+   [
+    4.6,
+    6.93
+   ],
+   [
+    6.93,
+    8.97
+   ],
+   [
+    8.97,
+    10.93
+   ],
+   [
+    10.93,
+    13.17
+   ],
+   [
+    13.17,
+    13.9
+   ],
+   [
+    13.9,
+    15.77
+   ],
+   [
+    15.77,
+    17.73
+   ],
+   [
+    17.73,
+    20.04
+   ]
+  ],
+  "lines": [
+   {
+    "id": 1,
+    "speaker": "creator",
+    "start": 0.0,
+    "end": 2.46,
+    "en": "By the end of the day, my skin always looked tired and uneven."
+   },
+   {
+    "id": 2,
+    "speaker": "creator",
+    "start": 2.68,
+    "end": 4.5,
+    "en": "So my nighttime reset starts with this night cream."
+   },
+   {
+    "id": 3,
+    "speaker": "creator",
+    "start": 4.72,
+    "end": 6.7,
+    "en": "DERMDOC 2% Kojic Acid Night Cream."
+   },
+   {
+    "id": 4,
+    "speaker": "creator",
+    "start": 6.86,
+    "end": 8.82,
+    "en": "It has a rich, non-watery night cream texture."
+   },
+   {
+    "id": 5,
+    "speaker": "creator",
+    "start": 9.04,
+    "end": 10.58,
+    "en": "I apply a small amount before sleeping."
+   },
+   {
+    "id": 6,
+    "speaker": "creator",
+    "start": 10.82,
+    "end": 13.28,
+    "en": "The Glow Fusion Formula combines three brightening actives."
+   },
+   {
+    "id": 7,
+    "speaker": "creator",
+    "start": 13.44,
+    "end": 17.56,
+    "en": "Together, they help reduce the appearance of dark spots and support a more even-looking complexion."
+   },
+   {
+    "id": 8,
+    "speaker": "creator",
+    "start": 17.7,
+    "end": 19.84,
+    "en": "After two weeks, my skin looks brighter and more even."
+   }
+  ],
+  "cast": [
+   {
+    "id": "creator",
+    "name": "Creator",
+    "role": "creator",
+    "fx": "none",
+    "pitch_semitones": 0
+   }
+  ],
+  "our_supers": [
+   {
+    "type": "hook_mono",
+    "start": 0.15,
+    "end": 2.4,
+    "lines": [
+     "TIRED, UNEVEN SKIN",
+     "BY DAY'S END?"
+    ],
+    "sub": null
+   },
+   {
+    "type": "pill",
+    "start": 4.8,
+    "end": 6.65,
+    "lines": [
+     "2% KOJIC ACID",
+     "FOR DARK SPOTS"
+    ],
+    "sub": null
+   },
+   {
+    "type": "hud",
+    "start": 6.9,
+    "end": 8.8,
+    "lines": null,
+    "sub": null
+   },
+   {
+    "type": "claim_bold",
+    "start": 11.0,
+    "end": 12.5,
+    "lines": [
+     "GLOW FUSION FORMULA"
+    ],
+    "sub": "3 BRIGHTENING ACTIVES"
+   },
+   {
+    "type": "pill",
+    "start": 14.05,
+    "end": 15.85,
+    "lines": [
+     "KOJIC + NIACINAMIDE",
+     "+ ALPHA ARBUTIN"
+    ],
+    "sub": null
+   },
+   {
+    "type": "hud",
+    "start": 14.05,
+    "end": 15.85,
+    "lines": null,
+    "sub": null
+   },
+   {
+    "type": "claim_bold",
+    "start": 16.1,
+    "end": 17.6,
+    "lines": [
+     "DARK SPOTS",
+     "LOOK REDUCED"
+    ],
+    "sub": "MORE EVEN-LOOKING SKIN"
+   }
+  ]
+ },
+ "51440b1f": {
+  "sheet": "feedback/shots/51440b1f.jpg",
+  "source_for_sheet": "deliver_music/Bengali/25_uv-sunscreen_ugc_now-watch-both-hands_51440b1f.mp4",
+  "shots": [
+   [
+    0.0,
+    2.17
+   ],
+   [
+    2.17,
+    5.6
+   ],
+   [
+    5.6,
+    6.93
+   ],
+   [
+    6.93,
+    8.8
+   ],
+   [
+    8.8,
+    10.6
+   ],
+   [
+    10.6,
+    14.3
+   ],
+   [
+    14.3,
+    19.07
+   ],
+   [
+    19.07,
+    20.04
+   ]
+  ],
+  "lines": [
+   {
+    "id": 1,
+    "speaker": "creator",
+    "start": 0.0,
+    "end": 1.94,
+    "en": "My morning glow was definitely not glowing."
+   },
+   {
+    "id": 2,
+    "speaker": "creator",
+    "start": 2.18,
+    "end": 5.44,
+    "en": "The purple tint is color correction. Violet helps balance yellow-looking dullness."
+   },
+   {
+    "id": 3,
+    "speaker": "creator",
+    "start": 5.62,
+    "end": 6.48,
+    "en": "Now watch both hands."
+   },
+   {
+    "id": 4,
+    "speaker": "creator",
+    "start": 6.64,
+    "end": 8.64,
+    "en": "It starts lavender, then blends completely clear."
+   },
+   {
+    "id": 5,
+    "speaker": "creator",
+    "start": 8.8,
+    "end": 10.5,
+    "en": "Zero white cast, zero purple residue."
+   },
+   {
+    "id": 6,
+    "speaker": "creator",
+    "start": 10.72,
+    "end": 14.1,
+    "en": "It's made for Indian skin, with 4% niacinamide for a brighter-looking finish."
+   },
+   {
+    "id": 7,
+    "speaker": "creator",
+    "start": 14.34,
+    "end": 17.92,
+    "en": "And SPF 50 PA+++ gives me the daily protection I actually need."
+   }
+  ],
+  "cast": [
+   {
+    "id": "creator",
+    "name": "Creator",
+    "role": "creator",
+    "fx": "none",
+    "pitch_semitones": 0
+   }
+  ],
+  "our_supers": [
+   {
+    "type": "hook_mono",
+    "start": 0.2,
+    "end": 1.95,
+    "lines": [
+     "WHERE'S MY",
+     "MORNING GLOW?"
+    ],
+    "sub": null
+   },
+   {
+    "type": "claim_bold",
+    "start": 2.4,
+    "end": 5.4,
+    "lines": [
+     "PURPLE TINT",
+     "COLOUR CORRECTION"
+    ],
+    "sub": "BALANCES YELLOW-LOOKING DULLNESS"
+   },
+   {
+    "type": "hud",
+    "start": 6.75,
+    "end": 8.7,
+    "lines": null,
+    "sub": null
+   },
+   {
+    "type": "pill",
+    "start": 8.9,
+    "end": 10.45,
+    "lines": [
+     "ZERO WHITE CAST",
+     "ZERO PURPLE RESIDUE"
+    ],
+    "sub": null
+   },
+   {
+    "type": "pill",
+    "start": 10.85,
+    "end": 12.6,
+    "lines": [
+     "4% NIACINAMIDE",
+     "FOR INDIAN SKIN"
+    ],
+    "sub": null
+   },
+   {
+    "type": "label",
+    "start": 12.8,
+    "end": 13.95,
+    "lines": [
+     "BEFORE"
+    ],
+    "sub": null
+   },
+   {
+    "type": "label",
+    "start": 12.8,
+    "end": 13.95,
+    "lines": [
+     "AFTER"
+    ],
+    "sub": null
+   },
+   {
+    "type": "claim_bold",
+    "start": 15.9,
+    "end": 17.75,
+    "lines": [
+     "SPF 50 PA+++"
+    ],
+    "sub": "DAILY PROTECTION"
+   }
+  ]
+ },
+ "595689d8": {
+  "sheet": "feedback/shots/595689d8.jpg",
+  "source_for_sheet": "deliver_music/Bengali/17_kojic-night-cream_product_avatar_3xpert-control-panel_595689d8.mp4",
+  "shots": [
+   [
+    0.0,
+    2.53
+   ],
+   [
+    2.53,
+    4.27
+   ],
+   [
+    4.27,
+    6.1
+   ],
+   [
+    6.1,
+    9.93
+   ],
+   [
+    9.93,
+    11.6
+   ],
+   [
+    11.6,
+    14.3
+   ],
+   [
+    14.3,
+    17.43
+   ],
+   [
+    17.43,
+    20.04
+   ]
+  ],
+  "lines": [
+   {
+    "id": 1,
+    "speaker": "dullness",
+    "start": 0.0,
+    "end": 2.44,
+    "en": "I control tonight's complexion."
+   },
+   {
+    "id": 2,
+    "speaker": "jar",
+    "start": 2.6,
+    "end": 4.0,
+    "en": "Step away from the controls."
+   },
+   {
+    "id": 3,
+    "speaker": "jar",
+    "start": 4.36,
+    "end": 5.94,
+    "en": "Activating my 3Xpert formula."
+   },
+   {
+    "id": 4,
+    "speaker": "jar",
+    "start": 6.18,
+    "end": 8.42,
+    "en": "Kojic acid targets the appearance of dark spots."
+   },
+   {
+    "id": 5,
+    "speaker": "jar",
+    "start": 8.68,
+    "end": 9.78,
+    "en": "Niacinamide, for more even-looking skin."
+   },
+   {
+    "id": 6,
+    "speaker": "jar",
+    "start": 9.96,
+    "end": 11.96,
+    "en": "And alpha arbutin joins the brightening action."
+   },
+   {
+    "id": 7,
+    "speaker": "jar",
+    "start": 12.26,
+    "end": 13.98,
+    "en": "Now let the night shift begin."
+   },
+   {
+    "id": 8,
+    "speaker": "woman",
+    "start": 14.24,
+    "end": 17.34,
+    "en": "Dark spots look reduced. My glow looks switched on."
+   },
+   {
+    "id": 9,
+    "speaker": "jar",
+    "start": 17.8,
+    "end": 19.8,
+    "en": "Three experts. One overnight brightener."
+   }
+  ],
+  "cast": [
+   {
+    "id": "dullness",
+    "name": "Dullness",
+    "role": "villain",
+    "fx": "villain",
+    "pitch_semitones": 0
+   },
+   {
+    "id": "jar",
+    "name": "DERMDOC Kojic Night Cream Jar",
+    "role": "product_mascot",
+    "fx": "cartoon",
+    "pitch_semitones": 0
+   },
+   {
+    "id": "woman",
+    "name": "Woman",
+    "role": "creator",
+    "fx": "none",
+    "pitch_semitones": 0
+   }
+  ],
+  "our_supers": [
+   {
+    "type": "label",
+    "start": 0.6,
+    "end": 2.4,
+    "lines": [
+     "DULLNESS"
+    ],
+    "sub": null
+   },
+   {
+    "type": "claim_bold",
+    "start": 10.25,
+    "end": 11.55,
+    "lines": [
+     "GLOW FUSION",
+     "FORMULA"
+    ],
+    "sub": "WITH NIACINAMIDE & ALPHA ARBUTIN"
+   },
+   {
+    "type": "claim_bold",
+    "start": 14.35,
+    "end": 15.45,
+    "lines": [
+     "OVERNIGHT",
+     "BRIGHTENING"
+    ],
+    "sub": null
+   },
+   {
+    "type": "hud",
+    "start": 17.45,
+    "end": 20.0,
+    "lines": null,
+    "sub": null
+   }
+  ]
+ },
+ "5fd50ab8": {
+  "sheet": "feedback/shots/5fd50ab8.jpg",
+  "source_for_sheet": "deliver_music/Bengali/11_uv-sunscreen_product_avatar_morning-skin-drama-again_5fd50ab8.mp4",
+  "shots": [
+   [
+    0.0,
+    3.6
+   ],
+   [
+    3.6,
+    8.97
+   ],
+   [
+    8.97,
+    12.9
+   ],
+   [
+    12.9,
+    15.83
+   ],
+   [
+    15.83,
+    20.04
+   ]
+  ],
+  "lines": [
+   {
+    "id": 1,
+    "speaker": "sunscreen",
+    "start": 0.78,
+    "end": 2.68,
+    "en": "Morning skin drama again?"
+   },
+   {
+    "id": 2,
+    "speaker": "sunscreen",
+    "start": 3.38,
+    "end": 8.98,
+    "en": "Relax. Purple tint, SPF 50 PA+++ and 4% niacinamide."
+   },
+   {
+    "id": 3,
+    "speaker": "sunscreen",
+    "start": 9.16,
+    "end": 12.32,
+    "en": "Blend me in. No ashy-looking finish."
+   },
+   {
+    "id": 4,
+    "speaker": "sunscreen",
+    "start": 12.84,
+    "end": 15.4,
+    "en": "Protected. Bright-looking. Ready."
+   },
+   {
+    "id": 5,
+    "speaker": "sunscreen",
+    "start": 17.9,
+    "end": 19.44,
+    "en": "Glow, then go."
+   }
+  ],
+  "cast": [
+   {
+    "id": "sunscreen",
+    "name": "DERMDOC Ultra Violet Sunscreen",
+    "role": "product_mascot",
+    "fx": "cartoon",
+    "pitch_semitones": 0
+   }
+  ],
+  "our_supers": [
+   {
+    "type": "label",
+    "start": 0.9,
+    "end": 2.8,
+    "lines": [
+     "DULLNESS"
+    ],
+    "sub": null
+   },
+   {
+    "type": "hud",
+    "start": 4.0,
+    "end": 8.8,
+    "lines": null,
+    "sub": null
+   },
+   {
+    "type": "claim_bold",
+    "start": 4.1,
+    "end": 5.6,
+    "lines": [
+     "PURPLE TINT"
+    ],
+    "sub": null
+   },
+   {
+    "type": "pill",
+    "start": 10.4,
+    "end": 12.35,
+    "lines": [
+     "NO WHITE CAST"
+    ],
+    "sub": null
+   },
+   {
+    "type": "pill",
+    "start": 13.05,
+    "end": 15.35,
+    "lines": [
+     "SPF 50 PA+++",
+     "4% NIACINAMIDE"
+    ],
+    "sub": null
+   },
+   {
+    "type": "claim_bold",
+    "start": 18.1,
+    "end": 19.95,
+    "lines": [
+     "INSTANT GLOW"
+    ],
+    "sub": "FOR INDIAN SKIN TONE"
+   }
+  ]
+ },
+ "655a1328": {
+  "sheet": "feedback/shots/655a1328.jpg",
+  "source_for_sheet": "deliver_music/Bengali/12_uv-sunscreen_product_avatar_purple-tint_655a1328.mp4",
+  "shots": [
+   [
+    0.0,
+    4.0
+   ],
+   [
+    4.0,
+    7.43
+   ],
+   [
+    7.43,
+    10.93
+   ],
+   [
+    10.93,
+    16.57
+   ],
+   [
+    16.57,
+    20.04
+   ]
+  ],
+  "lines": [
+   {
+    "id": 1,
+    "speaker": "dullness",
+    "start": 0.0,
+    "end": 1.98,
+    "en": "Let's steal that morning glow."
+   },
+   {
+    "id": 2,
+    "speaker": "sunscreen",
+    "start": 2.4,
+    "end": 3.64,
+    "en": "Not while I'm here."
+   },
+   {
+    "id": 3,
+    "speaker": "sunscreen",
+    "start": 4.46,
+    "end": 7.0,
+    "en": "Yellow-looking dullness? Violet sits opposite."
+   },
+   {
+    "id": 4,
+    "speaker": "sunscreen",
+    "start": 8.12,
+    "end": 10.58,
+    "en": "My purple tint is made for Indian skin."
+   },
+   {
+    "id": 5,
+    "speaker": "sunscreen",
+    "start": 11.12,
+    "end": 13.22,
+    "en": "Four percent niacinamide helps brighten."
+   },
+   {
+    "id": 6,
+    "speaker": "sunscreen",
+    "start": 14.02,
+    "end": 16.16,
+    "en": "SPF 50 PA+++ protects."
+   },
+   {
+    "id": 7,
+    "speaker": "sunscreen",
+    "start": 16.6,
+    "end": 18.9,
+    "en": "Same skin tone, fresher-looking glow."
+   }
+  ],
+  "cast": [
+   {
+    "id": "dullness",
+    "name": "Dullness Villain",
+    "role": "villain",
+    "fx": "villain",
+    "pitch_semitones": 0
+   },
+   {
+    "id": "sunscreen",
+    "name": "DERMDOC Ultra Violet Sunscreen",
+    "role": "product_mascot",
+    "fx": "cartoon",
+    "pitch_semitones": 0
+   }
+  ],
+  "our_supers": [
+   {
+    "type": "label",
+    "start": 0.3,
+    "end": 1.9,
+    "lines": [
+     "DULLNESS VILLAIN"
+    ],
+    "sub": null
+   },
+   {
+    "type": "label",
+    "start": 11.2,
+    "end": 13.5,
+    "lines": [
+     "BEFORE"
+    ],
+    "sub": null
+   },
+   {
+    "type": "label",
+    "start": 11.2,
+    "end": 13.5,
+    "lines": [
+     "AFTER"
+    ],
+    "sub": null
+   },
+   {
+    "type": "hud",
+    "start": 11.1,
+    "end": 13.5,
+    "lines": null,
+    "sub": null
+   }
+  ]
+ },
+ "65a0c520": {
+  "sheet": "feedback/shots/65a0c520.jpg",
+  "source_for_sheet": "deliver_music/Bengali/24_uv-sunscreen_ugc_let-s-test-it-on-one-side_65a0c520.mp4",
+  "shots": [
+   [
+    0.0,
+    2.27
+   ],
+   [
+    2.27,
+    4.73
+   ],
+   [
+    4.73,
+    6.93
+   ],
+   [
+    6.93,
+    8.27
+   ],
+   [
+    8.27,
+    10.6
+   ],
+   [
+    10.6,
+    13.23
+   ],
+   [
+    13.23,
+    17.4
+   ],
+   [
+    17.4,
+    20.04
+   ]
+  ],
+  "lines": [
+   {
+    "id": 1,
+    "speaker": "creator",
+    "start": 0.0,
+    "end": 2.08,
+    "en": "My skin looked dull before my day had even started."
+   },
+   {
+    "id": 2,
+    "speaker": "creator",
+    "start": 2.3,
+    "end": 4.52,
+    "en": "Then I understood why the sunscreen has a purple tint."
+   },
+   {
+    "id": 3,
+    "speaker": "creator",
+    "start": 4.72,
+    "end": 6.84,
+    "en": "Purple helps colour-correct yellow-looking dullness."
+   },
+   {
+    "id": 4,
+    "speaker": "creator",
+    "start": 6.98,
+    "end": 8.12,
+    "en": "Let's test it on one side."
+   },
+   {
+    "id": 5,
+    "speaker": "creator",
+    "start": 8.28,
+    "end": 10.4,
+    "en": "Brighter-looking, but still completely my skin tone."
+   },
+   {
+    "id": 6,
+    "speaker": "creator",
+    "start": 10.6,
+    "end": 13.0,
+    "en": "It blends clear with no white cast and no sticky layer."
+   },
+   {
+    "id": 7,
+    "speaker": "creator",
+    "start": 13.28,
+    "end": 14.9,
+    "en": "Inside, 4% niacinamide."
+   },
+   {
+    "id": 8,
+    "speaker": "creator",
+    "start": 15.02,
+    "end": 17.24,
+    "en": "Outside, SPF 50 PA+++ protection."
+   },
+   {
+    "id": 9,
+    "speaker": "creator",
+    "start": 17.5,
+    "end": 19.88,
+    "en": "Dullness corrected, glow controlled, day protected."
+   }
+  ],
+  "cast": [
+   {
+    "id": "creator",
+    "name": "Creator",
+    "role": "creator",
+    "fx": "none",
+    "pitch_semitones": 0
+   }
+  ],
+  "our_supers": [
+   {
+    "type": "hook_mono",
+    "start": 0.15,
+    "end": 2.0,
+    "lines": [
+     "DULL BEFORE",
+     "THE DAY STARTS?"
+    ],
+    "sub": null
+   },
+   {
+    "type": "claim_bold",
+    "start": 3.0,
+    "end": 4.6,
+    "lines": [
+     "PURPLE TINT",
+     "COLOUR CORRECTION"
+    ],
+    "sub": null
+   },
+   {
+    "type": "hud",
+    "start": 8.3,
+    "end": 10.45,
+    "lines": null,
+    "sub": null
+   },
+   {
+    "type": "claim_bold",
+    "start": 10.75,
+    "end": 12.95,
+    "lines": [
+     "NO WHITE CAST"
+    ],
+    "sub": "BLENDS CLEAR"
+   },
+   {
+    "type": "pill",
+    "start": 13.3,
+    "end": 14.95,
+    "lines": [
+     "4% NIACINAMIDE"
+    ],
+    "sub": null
+   },
+   {
+    "type": "claim_bold",
+    "start": 17.55,
+    "end": 19.9,
+    "lines": [
+     "DULLNESS CORRECTED",
+     "DAY PROTECTED"
+    ],
+    "sub": null
+   }
+  ]
+ },
+ "715b1b5c": {
+  "sheet": "feedback/shots/715b1b5c.jpg",
+  "source_for_sheet": "deliver_music/Bengali/20_kojic-night-cream_product_avatar_glow-fusion-night-patrol_715b1b5c.mp4",
+  "shots": [
+   [
+    0.0,
+    2.27
+   ],
+   [
+    2.6,
+    4.47
+   ],
+   [
+    4.47,
+    6.27
+   ],
+   [
+    6.27,
+    8.83
+   ],
+   [
+    8.83,
+    11.27
+   ],
+   [
+    11.27,
+    12.47
+   ],
+   [
+    12.47,
+    13.8
+   ],
+   [
+    13.8,
+    14.97
+   ],
+   [
+    14.97,
+    17.17
+   ],
+   [
+    17.17,
+    20.04
+   ]
+  ],
+  "lines": [
+   {
+    "id": 1,
+    "speaker": "villain",
+    "start": 0.0,
+    "end": 1.88,
+    "en": "Tonight, we take over."
+   },
+   {
+    "id": 2,
+    "speaker": "jar",
+    "start": 2.36,
+    "end": 4.26,
+    "en": "Glow Fusion Night Patrol, reporting for duty."
+   },
+   {
+    "id": 3,
+    "speaker": "jar",
+    "start": 4.5,
+    "end": 6.18,
+    "en": "Kojic acid, target dark spots."
+   },
+   {
+    "id": 4,
+    "speaker": "jar",
+    "start": 6.42,
+    "end": 8.66,
+    "en": "Niacinamide, support a brighter, even-looking tone."
+   },
+   {
+    "id": 5,
+    "speaker": "jar",
+    "start": 9.0,
+    "end": 10.94,
+    "en": "Alpha arbutin, join the brightening patrol."
+   },
+   {
+    "id": 6,
+    "speaker": "jar",
+    "start": 11.36,
+    "end": 13.68,
+    "en": "Three actives. One powerful night formula."
+   },
+   {
+    "id": 7,
+    "speaker": "villain",
+    "start": 14.02,
+    "end": 14.58,
+    "en": "Retreat!"
+   },
+   {
+    "id": 8,
+    "speaker": "woman",
+    "start": 15.12,
+    "end": 17.02,
+    "en": "Brighter, more even, ready to glow."
+   },
+   {
+    "id": 9,
+    "speaker": "jar",
+    "start": 17.26,
+    "end": 19.86,
+    "en": "DERMDOC Glow Fusion Formula, the overnight brightener."
+   }
+  ],
+  "cast": [
+   {
+    "id": "villain",
+    "name": "Dark Spot & Uneven Tone",
+    "role": "villain",
+    "fx": "villain",
+    "pitch_semitones": -2
+   },
+   {
+    "id": "jar",
+    "name": "DERMDOC Kojic Night Cream Jar",
+    "role": "product_mascot",
+    "fx": "cartoon",
+    "pitch_semitones": 0
+   },
+   {
+    "id": "woman",
+    "name": "Woman",
+    "role": "creator",
+    "fx": "none",
+    "pitch_semitones": 0
+   }
+  ],
+  "our_supers": [
+   {
+    "type": "hook_mono",
+    "start": 0.15,
+    "end": 1.85,
+    "lines": [
+     "DARK SPOTS",
+     "TAKING OVER?"
+    ],
+    "sub": null
+   },
+   {
+    "type": "label",
+    "start": 2.6,
+    "end": 3.95,
+    "lines": [
+     "NIGHT PATROL CAPTAIN"
+    ],
+    "sub": null
+   },
+   {
+    "type": "pill",
+    "start": 4.75,
+    "end": 6.0,
+    "lines": [
+     "FOR DARK SPOTS"
+    ],
+    "sub": null
+   },
+   {
+    "type": "pill",
+    "start": 6.5,
+    "end": 8.6,
+    "lines": [
+     "EVEN-LOOKING TONE"
+    ],
+    "sub": null
+   },
+   {
+    "type": "claim_bold",
+    "start": 12.15,
+    "end": 13.75,
+    "lines": [
+     "3 ACTIVES"
+    ],
+    "sub": "ONE POWERFUL NIGHT FORMULA"
+   }
+  ]
+ },
+ "71e0977a": {
+  "sheet": "feedback/shots/71e0977a.jpg",
+  "source_for_sheet": "deliver_music/Bengali/04_kojic-night-cream_personification_the-two-week-face-off_71e0977a.mp4",
+  "shots": [
+   [
+    0.0,
+    3.0
+   ],
+   [
+    3.0,
+    5.87
+   ],
+   [
+    5.87,
+    9.6
+   ],
+   [
+    9.6,
+    12.57
+   ],
+   [
+    12.57,
+    13.57
+   ],
+   [
+    13.57,
+    17.02
+   ]
+  ],
+  "lines": [
+   {
+    "id": 1,
+    "speaker": "dark_spot",
+    "start": 0.0,
+    "end": 1.5,
+    "en": "You can't fade us!"
+   },
+   {
+    "id": 2,
+    "speaker": "jar",
+    "start": 1.7,
+    "end": 2.76,
+    "en": "Want to test that theory?"
+   },
+   {
+    "id": 3,
+    "speaker": "kojic_acid",
+    "start": 4.4,
+    "end": 5.6,
+    "en": "Challenge accepted."
+   },
+   {
+    "id": 4,
+    "speaker": "narrator",
+    "start": 9.32,
+    "end": 12.54,
+    "en": "Powered by three targeted ingredients in one night cream."
+   },
+   {
+    "id": 5,
+    "speaker": "narrator",
+    "start": 13.68,
+    "end": 16.56,
+    "en": "DERMDOC KNC Night Cream. Make every night count."
+   }
+  ],
+  "cast": [
+   {
+    "id": "dark_spot",
+    "name": "Dark Spot Villain",
+    "role": "villain",
+    "fx": "villain",
+    "pitch_semitones": -3
+   },
+   {
+    "id": "jar",
+    "name": "KNC Jar",
+    "role": "product_mascot",
+    "fx": "cartoon",
+    "pitch_semitones": 2
+   },
+   {
+    "id": "kojic_acid",
+    "name": "Kojic Acid",
+    "role": "hero",
+    "fx": "cartoon",
+    "pitch_semitones": 0
+   },
+   {
+    "id": "narrator",
+    "name": "Narrator",
+    "role": "narrator",
+    "fx": "none",
+    "pitch_semitones": 0
+   }
+  ],
+  "our_supers": [
+   {
+    "type": "label",
+    "start": 0.15,
+    "end": 1.65,
+    "lines": [
+     "DARK SPOT GANG"
+    ],
+    "sub": null
+   },
+   {
+    "type": "hook_mono",
+    "start": 2.95,
+    "end": 4.15,
+    "lines": [
+     "THE 2-WEEK",
+     "FACE-OFF"
+    ],
+    "sub": null
+   },
+   {
+    "type": "hud",
+    "start": 6.1,
+    "end": 9.3,
+    "lines": null,
+    "sub": null
+   },
+   {
+    "type": "claim_bold",
+    "start": 9.7,
+    "end": 12.45,
+    "lines": [
+     "3 BRIGHTENING",
+     "ACTIVES"
+    ],
+    "sub": null
+   }
+  ]
+ },
+ "74495eba": {
+  "sheet": "feedback/shots/74495eba.jpg",
+  "source_for_sheet": "deliver_music/Bengali/14_uv-sunscreen_product_avatar_purple-tint_74495eba.mp4",
+  "shots": [
+   [
+    0.0,
+    4.57
+   ],
+   [
+    4.57,
+    9.43
+   ],
+   [
+    9.43,
+    12.2
+   ],
+   [
+    12.2,
+    20.04
+   ]
+  ],
+  "lines": [
+   {
+    "id": 1,
+    "speaker": "uv_boss",
+    "start": 0.0,
+    "end": 2.8,
+    "en": "Indian sun! Let's turn up the pressure!"
+   },
+   {
+    "id": 2,
+    "speaker": "sunscreen",
+    "start": 3.08,
+    "end": 4.0,
+    "en": "Pressure denied."
+   },
+   {
+    "id": 3,
+    "speaker": "sunscreen",
+    "start": 4.74,
+    "end": 9.04,
+    "en": "SPF 50 PA+++ protects against UVA and UVB."
+   },
+   {
+    "id": 4,
+    "speaker": "sunscreen",
+    "start": 9.26,
+    "end": 12.1,
+    "en": "Purple tint helps balance yellow-looking dullness."
+   },
+   {
+    "id": 5,
+    "speaker": "sunscreen",
+    "start": 12.86,
+    "end": 15.96,
+    "en": "Made for Indian skin, with four percent niacinamide."
+   },
+   {
+    "id": 6,
+    "speaker": "sunscreen",
+    "start": 16.16,
+    "end": 18.64,
+    "en": "Bright-looking skin, protected and ready."
+   }
+  ],
+  "cast": [
+   {
+    "id": "uv_boss",
+    "name": "UV Boss",
+    "role": "villain",
+    "fx": "villain",
+    "pitch_semitones": -2
+   },
+   {
+    "id": "sunscreen",
+    "name": "DERMDOC Ultra Violet Sunscreen",
+    "role": "product_mascot",
+    "fx": "cartoon",
+    "pitch_semitones": 0
+   }
+  ],
+  "our_supers": [
+   {
+    "type": "label",
+    "start": 1.0,
+    "end": 2.75,
+    "lines": [
+     "UV BOSS"
+    ],
+    "sub": null
+   },
+   {
+    "type": "pill",
+    "start": 7.0,
+    "end": 8.85,
+    "lines": [
+     "UVA + UVB",
+     "PROTECTION"
+    ],
+    "sub": null
+   },
+   {
+    "type": "label",
+    "start": 14.7,
+    "end": 15.9,
+    "lines": [
+     "BEFORE"
+    ],
+    "sub": null
+   },
+   {
+    "type": "label",
+    "start": 14.7,
+    "end": 15.9,
+    "lines": [
+     "AFTER"
+    ],
+    "sub": null
+   },
+   {
+    "type": "hud",
+    "start": 14.7,
+    "end": 15.9,
+    "lines": null,
+    "sub": null
+   },
+   {
+    "type": "claim_bold",
+    "start": 16.4,
+    "end": 18.8,
+    "lines": [
+     "FOR INDIAN SKIN"
+    ],
+    "sub": "BRIGHT-LOOKING & PROTECTED"
+   }
+  ]
+ },
+ "7558fbf1": {
+  "sheet": "feedback/shots/7558fbf1.jpg",
+  "source_for_sheet": "deliver_music/Bengali/18_kojic-night-cream_product_avatar_we-re-moving-in-permanently_7558fbf1.mp4",
+  "shots": [
+   [
+    0.0,
+    2.03
+   ],
+   [
+    2.03,
+    4.27
+   ],
+   [
+    4.27,
+    6.37
+   ],
+   [
+    6.37,
+    8.3
+   ],
+   [
+    8.3,
+    10.67
+   ],
+   [
+    10.67,
+    11.27
+   ],
+   [
+    11.27,
+    13.13
+   ],
+   [
+    13.13,
+    14.9
+   ],
+   [
+    14.9,
+    16.93
+   ],
+   [
+    16.93,
+    20.04
+   ]
+  ],
+  "lines": [
+   {
+    "id": 1,
+    "speaker": "dark_spot_leader",
+    "start": 0.0,
+    "end": 1.58,
+    "en": "We're moving in permanently."
+   },
+   {
+    "id": 2,
+    "speaker": "jar",
+    "start": 2.0,
+    "end": 3.9,
+    "en": "Your two-week notice starts tonight."
+   },
+   {
+    "id": 3,
+    "speaker": "jar",
+    "start": 4.38,
+    "end": 8.2,
+    "en": "I'm powered by two percent kojic acid, with niacinamide and alpha arbutin."
+   },
+   {
+    "id": 4,
+    "speaker": "jar",
+    "start": 8.4,
+    "end": 10.46,
+    "en": "Together, we're the Glow Fusion Formula."
+   },
+   {
+    "id": 5,
+    "speaker": "jar",
+    "start": 11.38,
+    "end": 13.14,
+    "en": "Massage me in before you sleep."
+   },
+   {
+    "id": 6,
+    "speaker": "dark_spot_leader",
+    "start": 13.3,
+    "end": 14.38,
+    "en": "Eviction already?"
+   },
+   {
+    "id": 7,
+    "speaker": "woman",
+    "start": 14.82,
+    "end": 16.78,
+    "en": "Looks like they finally moved out."
+   },
+   {
+    "id": 8,
+    "speaker": "jar",
+    "start": 17.14,
+    "end": 19.48,
+    "en": "DERMDOC Night Cream, the overnight brightener."
+   }
+  ],
+  "cast": [
+   {
+    "id": "dark_spot_leader",
+    "name": "Dark-Spot Leader",
+    "role": "villain",
+    "fx": "villain",
+    "pitch_semitones": 0
+   },
+   {
+    "id": "jar",
+    "name": "DERMDOC Kojic Night Cream Jar",
+    "role": "product_mascot",
+    "fx": "cartoon",
+    "pitch_semitones": 0
+   },
+   {
+    "id": "woman",
+    "name": "Woman",
+    "role": "creator",
+    "fx": "none",
+    "pitch_semitones": 0
+   }
+  ],
+  "our_supers": [
+   {
+    "type": "hook_mono",
+    "start": 0.1,
+    "end": 1.75,
+    "lines": [
+     "DARK SPOTS",
+     "MOVING IN?"
+    ],
+    "sub": null
+   },
+   {
+    "type": "label",
+    "start": 2.15,
+    "end": 3.8,
+    "lines": [
+     "DARK-SPOT LEADER"
+    ],
+    "sub": null
+   },
+   {
+    "type": "claim_bold",
+    "start": 11.4,
+    "end": 12.9,
+    "lines": [
+     "OVERNIGHT",
+     "BRIGHTENER"
+    ],
+    "sub": null
+   },
+   {
+    "type": "hud",
+    "start": 13.25,
+    "end": 14.65,
+    "lines": null,
+    "sub": null
+   }
+  ]
+ },
+ "784c77c5": {
+  "sheet": "feedback/shots/784c77c5.jpg",
+  "source_for_sheet": "deliver_music/Bengali/28_kojic-night-cream_ugc_dermdoc-2-kojic-acid-night-cream_784c77c5.mp4",
+  "shots": [
+   [
+    0.0,
+    2.6
+   ],
+   [
+    2.6,
+    4.77
+   ],
+   [
+    4.77,
+    6.8
+   ],
+   [
+    6.8,
+    8.43
+   ],
+   [
+    8.43,
+    9.43
+   ],
+   [
+    9.43,
+    11.27
+   ],
+   [
+    11.27,
+    15.17
+   ],
+   [
+    15.17,
+    16.9
+   ],
+   [
+    16.9,
+    20.04
+   ]
+  ],
+  "lines": [
+   {
+    "id": 1,
+    "speaker": "creator",
+    "start": 0.0,
+    "end": 4.66,
+    "en": "I started tracking the dark spots that made my skin look uneven, and this became the most important part of my night routine."
+   },
+   {
+    "id": 2,
+    "speaker": "creator",
+    "start": 4.8,
+    "end": 6.64,
+    "en": "DERMDOC 2% Kojic Acid Night Cream."
+   },
+   {
+    "id": 3,
+    "speaker": "creator",
+    "start": 6.78,
+    "end": 9.28,
+    "en": "The texture is rich and creamy, not watery or stringy."
+   },
+   {
+    "id": 4,
+    "speaker": "creator",
+    "start": 9.4,
+    "end": 11.36,
+    "en": "I massage it in until my skin absorbs everything."
+   },
+   {
+    "id": 5,
+    "speaker": "creator",
+    "start": 11.5,
+    "end": 15.06,
+    "en": "Kojic Acid, Niacinamide and Alpha Arbutin help reduce the appearance of dark spots."
+   },
+   {
+    "id": 6,
+    "speaker": "creator",
+    "start": 15.22,
+    "end": 16.72,
+    "en": "I use it consistently every night."
+   },
+   {
+    "id": 7,
+    "speaker": "creator",
+    "start": 16.9,
+    "end": 19.82,
+    "en": "Two weeks later, my spots look reduced and my skin looks naturally brighter."
+   }
+  ],
+  "cast": [
+   {
+    "id": "creator",
+    "name": "Creator",
+    "role": "creator",
+    "fx": "none",
+    "pitch_semitones": 0
+   }
+  ],
+  "our_supers": [
+   {
+    "type": "hook_mono",
+    "start": 0.15,
+    "end": 2.5,
+    "lines": [
+     "SPOTS MAKING",
+     "SKIN UNEVEN?"
+    ],
+    "sub": null
+   },
+   {
+    "type": "hud",
+    "start": 4.85,
+    "end": 6.6,
+    "lines": null,
+    "sub": null
+   },
+   {
+    "type": "pill",
+    "start": 13.05,
+    "end": 14.85,
+    "lines": [
+     "KOJIC + NIACINAMIDE",
+     "+ ALPHA ARBUTIN"
+    ],
+    "sub": null
+   },
+   {
+    "type": "hud",
+    "start": 13.05,
+    "end": 14.85,
+    "lines": null,
+    "sub": null
+   },
+   {
+    "type": "claim_bold",
+    "start": 15.25,
+    "end": 16.75,
+    "lines": [
+     "GLOW FUSION FORMULA"
+    ],
+    "sub": "OVERNIGHT BRIGHTENING"
+   }
+  ]
+ },
+ "7ea55172": {
+  "sheet": "feedback/shots/7ea55172.jpg",
+  "source_for_sheet": "deliver_music/Bengali/15_uv-sunscreen_product_avatar_purple-tint_7ea55172.mp4",
+  "shots": [
+   [
+    0.0,
+    5.27
+   ],
+   [
+    5.27,
+    8.27
+   ],
+   [
+    8.27,
+    11.27
+   ],
+   [
+    11.27,
+    16.23
+   ],
+   [
+    16.23,
+    20.04
+   ]
+  ],
+  "lines": [
+   {
+    "id": 1,
+    "speaker": "greasiness",
+    "start": 0.0,
+    "end": 1.78,
+    "en": "Sticky shine reporting for duty!"
+   },
+   {
+    "id": 2,
+    "speaker": "dullness",
+    "start": 2.08,
+    "end": 3.68,
+    "en": "And I brought the dullness."
+   },
+   {
+    "id": 3,
+    "speaker": "sunscreen",
+    "start": 3.96,
+    "end": 4.9,
+    "en": "You're both fired."
+   },
+   {
+    "id": 4,
+    "speaker": "sunscreen",
+    "start": 5.32,
+    "end": 8.1,
+    "en": "First, purple balances yellow-looking dullness."
+   },
+   {
+    "id": 5,
+    "speaker": "sunscreen",
+    "start": 8.34,
+    "end": 10.28,
+    "en": "Purple tint, made for Indian skin."
+   },
+   {
+    "id": 6,
+    "speaker": "sunscreen",
+    "start": 10.98,
+    "end": 12.92,
+    "en": "Four percent niacinamide helps brighten."
+   },
+   {
+    "id": 7,
+    "speaker": "sunscreen",
+    "start": 13.48,
+    "end": 16.12,
+    "en": "SPF 50 PA+++ handles the sun."
+   },
+   {
+    "id": 8,
+    "speaker": "sunscreen",
+    "start": 16.62,
+    "end": 18.98,
+    "en": "Fresh, protected, and no morning drama."
+   }
+  ],
+  "cast": [
+   {
+    "id": "greasiness",
+    "name": "Greasiness",
+    "role": "villain",
+    "fx": "villain",
+    "pitch_semitones": 0
+   },
+   {
+    "id": "dullness",
+    "name": "Dullness",
+    "role": "villain",
+    "fx": "villain",
+    "pitch_semitones": 0
+   },
+   {
+    "id": "sunscreen",
+    "name": "DERMDOC Ultra Violet Sunscreen Tube",
+    "role": "product_mascot",
+    "fx": "cartoon",
+    "pitch_semitones": 0
+   }
+  ],
+  "our_supers": [
+   {
+    "type": "label",
+    "start": 0.15,
+    "end": 1.85,
+    "lines": [
+     "GREASINESS"
+    ],
+    "sub": null
+   },
+   {
+    "type": "label",
+    "start": 2.1,
+    "end": 3.7,
+    "lines": [
+     "DULLNESS"
+    ],
+    "sub": null
+   },
+   {
+    "type": "pill",
+    "start": 5.5,
+    "end": 7.7,
+    "lines": [
+     "COLOUR CORRECTION"
+    ],
+    "sub": null
+   },
+   {
+    "type": "label",
+    "start": 11.1,
+    "end": 13.0,
+    "lines": [
+     "BEFORE"
+    ],
+    "sub": null
+   },
+   {
+    "type": "label",
+    "start": 11.1,
+    "end": 13.0,
+    "lines": [
+     "AFTER"
+    ],
+    "sub": null
+   },
+   {
+    "type": "hud",
+    "start": 11.1,
+    "end": 13.0,
+    "lines": null,
+    "sub": null
+   },
+   {
+    "type": "claim_bold",
+    "start": 18.05,
+    "end": 19.95,
+    "lines": [
+     "FOR INDIAN SKIN"
+    ],
+    "sub": "FRESH & PROTECTED"
+   }
+  ]
+ },
+ "89697c77": {
+  "sheet": "feedback/shots/89697c77.jpg",
+  "source_for_sheet": "deliver_music/Bengali/19_kojic-night-cream_product_avatar_sleep-to-glow_89697c77.mp4",
+  "shots": [
+   [
+    0.0,
+    2.83
+   ],
+   [
+    2.83,
+    4.63
+   ],
+   [
+    4.63,
+    6.53
+   ],
+   [
+    6.53,
+    8.97
+   ],
+   [
+    8.97,
+    10.6
+   ],
+   [
+    10.6,
+    12.27
+   ],
+   [
+    12.27,
+    14.4
+   ],
+   [
+    14.4,
+    15.5
+   ],
+   [
+    15.5,
+    17.37
+   ],
+   [
+    17.37,
+    20.04
+   ]
+  ],
+  "lines": [
+   {
+    "id": 1,
+    "speaker": "snooze",
+    "start": 0.0,
+    "end": 2.62,
+    "en": "Skip skincare. Go straight to sleep."
+   },
+   {
+    "id": 2,
+    "speaker": "jar",
+    "start": 2.82,
+    "end": 4.52,
+    "en": "Sleep, yes. Skip me, no."
+   },
+   {
+    "id": 3,
+    "speaker": "jar",
+    "start": 4.72,
+    "end": 6.4,
+    "en": "I turn bedtime into brightening time."
+   },
+   {
+    "id": 4,
+    "speaker": "jar",
+    "start": 6.66,
+    "end": 8.78,
+    "en": "My 3Xpert formula works while you rest."
+   },
+   {
+    "id": 5,
+    "speaker": "snooze",
+    "start": 8.92,
+    "end": 10.46,
+    "en": "That looks seriously rich."
+   },
+   {
+    "id": 6,
+    "speaker": "jar",
+    "start": 10.7,
+    "end": 12.32,
+    "en": "Smooth on my rich night-cream texture."
+   },
+   {
+    "id": 7,
+    "speaker": "jar",
+    "start": 12.54,
+    "end": 14.38,
+    "en": "Fully absorbed. Now get your beauty sleep."
+   },
+   {
+    "id": 8,
+    "speaker": "woman",
+    "start": 15.2,
+    "end": 17.38,
+    "en": "I slept. My glow showed up."
+   },
+   {
+    "id": 9,
+    "speaker": "jar",
+    "start": 17.52,
+    "end": 19.92,
+    "en": "DERMDOC two percent Kojic Acid Night Cream. Sleep to glow."
+   }
+  ],
+  "cast": [
+   {
+    "id": "snooze",
+    "name": "Snooze",
+    "role": "villain",
+    "fx": "villain",
+    "pitch_semitones": -3
+   },
+   {
+    "id": "jar",
+    "name": "DERMDOC Kojic Night Cream Jar",
+    "role": "product_mascot",
+    "fx": "cartoon",
+    "pitch_semitones": 2
+   },
+   {
+    "id": "woman",
+    "name": "Woman",
+    "role": "creator",
+    "fx": "none",
+    "pitch_semitones": 0
+   }
+  ],
+  "our_supers": [
+   {
+    "type": "hook_mono",
+    "start": 0.15,
+    "end": 1.75,
+    "lines": [
+     "TOO TIRED FOR",
+     "SKINCARE?"
+    ],
+    "sub": null
+   },
+   {
+    "type": "label",
+    "start": 2.95,
+    "end": 4.55,
+    "lines": [
+     "KOJIC NIGHT CREAM"
+    ],
+    "sub": null
+   },
+   {
+    "type": "claim_bold",
+    "start": 9.1,
+    "end": 10.6,
+    "lines": [
+     "RICH TEXTURE"
+    ],
+    "sub": "FULLY ABSORBED"
+   },
+   {
+    "type": "hud",
+    "start": 9.0,
+    "end": 10.65,
+    "lines": null,
+    "sub": null
+   }
+  ]
+ },
+ "906fbf3c": {
+  "sheet": "feedback/shots/906fbf3c.jpg",
+  "source_for_sheet": "deliver_music/Bengali/16_kojic-night-cream_product_avatar_night-time-my-time_906fbf3c.mp4",
+  "shots": [
+   [
+    0.0,
+    2.27
+   ],
+   [
+    2.33,
+    4.0
+   ],
+   [
+    4.0,
+    5.47
+   ],
+   [
+    5.47,
+    8.27
+   ],
+   [
+    8.27,
+    9.6
+   ],
+   [
+    9.6,
+    11.27
+   ],
+   [
+    11.27,
+    13.3
+   ],
+   [
+    13.3,
+    16.6
+   ],
+   [
+    16.6,
+    20.04
+   ]
+  ],
+  "lines": [
+   {
+    "id": 1,
+    "speaker": "dark_spot",
+    "start": 0.0,
+    "end": 2.0,
+    "en": "Night time. My time."
+   },
+   {
+    "id": 2,
+    "speaker": "jar",
+    "start": 2.32,
+    "end": 5.22,
+    "en": "Actually, this is my shift. I'm the overnight brightener."
+   },
+   {
+    "id": 3,
+    "speaker": "jar",
+    "start": 5.58,
+    "end": 8.14,
+    "en": "My 3Xpert formula brings three brightening actives together."
+   },
+   {
+    "id": 4,
+    "speaker": "dark_spot",
+    "start": 8.4,
+    "end": 9.32,
+    "en": "Three against one?"
+   },
+   {
+    "id": 5,
+    "speaker": "jar",
+    "start": 9.5,
+    "end": 11.22,
+    "en": "And I'm rich, creamy and made for the night."
+   },
+   {
+    "id": 6,
+    "speaker": "jar",
+    "start": 11.36,
+    "end": 13.24,
+    "en": "Apply, massage and let me get to work."
+   },
+   {
+    "id": 7,
+    "speaker": "woman",
+    "start": 14.46,
+    "end": 16.5,
+    "en": "Now that's a glow worth waking up to."
+   },
+   {
+    "id": 8,
+    "speaker": "jar",
+    "start": 16.76,
+    "end": 19.44,
+    "en": "DERMDOC 2% Kojic Acid Night Cream. Sleep to glow."
+   }
+  ],
+  "cast": [
+   {
+    "id": "dark_spot",
+    "name": "Dark Spot",
+    "role": "villain",
+    "fx": "villain",
+    "pitch_semitones": 0
+   },
+   {
+    "id": "jar",
+    "name": "DERMDOC Kojic Night Cream Jar",
+    "role": "product_mascot",
+    "fx": "cartoon",
+    "pitch_semitones": 0
+   },
+   {
+    "id": "woman",
+    "name": "Woman",
+    "role": "creator",
+    "fx": "none",
+    "pitch_semitones": 0
+   }
+  ],
+  "our_supers": [
+   {
+    "type": "label",
+    "start": 0.3,
+    "end": 1.75,
+    "lines": [
+     "DARK SPOT"
+    ],
+    "sub": null
+   },
+   {
+    "type": "pill",
+    "start": 5.65,
+    "end": 8.28,
+    "lines": [
+     "NIACINAMIDE"
+    ],
+    "sub": null
+   },
+   {
+    "type": "pill",
+    "start": 8.32,
+    "end": 9.5,
+    "lines": [
+     "KOJIC ACID",
+     "FOR DARK SPOTS"
+    ],
+    "sub": null
+   },
+   {
+    "type": "claim_bold",
+    "start": 9.6,
+    "end": 10.85,
+    "lines": [
+     "RICH & CREAMY"
+    ],
+    "sub": "OVERNIGHT BRIGHTENER"
+   },
+   {
+    "type": "hud",
+    "start": 11.32,
+    "end": 12.9,
+    "lines": null,
+    "sub": null
+   },
+   {
+    "type": "claim_bold",
+    "start": 16.9,
+    "end": 18.15,
+    "lines": [
+     "3XPERT",
+     "FORMULA"
+    ],
+    "sub": "KOJIC, NIACINAMIDE, ALPHA ARBUTIN"
+   }
+  ]
+ },
+ "a5c00002": {
+  "sheet": "feedback/shots/a5c00002.jpg",
+  "source_for_sheet": "deliver_music/Bengali/40_dermdoc_ugc_ugc_a5c00002.mp4",
+  "shots": [
+   [
+    0.0,
+    3.33
+   ],
+   [
+    3.33,
+    4.4
+   ],
+   [
+    4.4,
+    6.03
+   ],
+   [
+    6.03,
+    7.93
+   ],
+   [
+    7.93,
+    8.93
+   ],
+   [
+    8.93,
+    10.47
+   ],
+   [
+    10.47,
+    11.43
+   ],
+   [
+    11.43,
+    14.93
+   ],
+   [
+    14.93,
+    15.93
+   ],
+   [
+    15.93,
+    18.03
+   ],
+   [
+    18.03,
+    23.03
+   ]
+  ],
+  "lines": [
+   {
+    "id": 1,
+    "speaker": "creator",
+    "start": 0.0,
+    "end": 2.62,
+    "en": "Last night I was just going to sleep, then suddenly remembered,"
+   },
+   {
+    "id": 2,
+    "speaker": "creator",
+    "start": 2.72,
+    "end": 4.28,
+    "en": "Oh no, I haven't done my skincare,"
+   },
+   {
+    "id": 3,
+    "speaker": "creator",
+    "start": 4.34,
+    "end": 6.0,
+    "en": "and this one I never skip."
+   },
+   {
+    "id": 4,
+    "speaker": "creator",
+    "start": 6.06,
+    "end": 8.06,
+    "en": "I had quite stubborn spots on my cheeks,"
+   },
+   {
+    "id": 5,
+    "speaker": "creator",
+    "start": 8.16,
+    "end": 10.56,
+    "en": "and now they finally look like they're slowly fading,"
+   },
+   {
+    "id": 6,
+    "speaker": "creator",
+    "start": 10.7,
+    "end": 13.0,
+    "en": "So, DERMDOC 2% Kojic Acid Night Cream,"
+   },
+   {
+    "id": 7,
+    "speaker": "creator",
+    "start": 13.16,
+    "end": 15.66,
+    "en": "apply it, lights off, and go to sleep,"
+   },
+   {
+    "id": 8,
+    "speaker": "creator",
+    "start": 15.66,
+    "end": 17.22,
+    "en": "and let your skin do its work."
+   }
+  ],
+  "cast": [
+   {
+    "id": "creator",
+    "name": "Creator",
+    "role": "creator",
+    "fx": "none",
+    "pitch_semitones": 0
+   }
+  ],
+  "our_supers": [
+   {
+    "type": "hook_mono",
+    "start": 0.2,
+    "end": 2.2,
+    "lines": [
+     "FORGOT YOUR",
+     "NIGHT SKINCARE?"
+    ],
+    "sub": null
+   },
+   {
+    "type": "claim_bold",
+    "start": 9.0,
+    "end": 10.6,
+    "lines": [
+     "DARK SPOTS",
+     "LOOK REDUCED"
+    ],
+    "sub": null
+   },
+   {
+    "type": "pill",
+    "start": 10.9,
+    "end": 13.4,
+    "lines": [
+     "2% KOJIC ACID",
+     "NIGHT CREAM"
+    ],
+    "sub": null
+   },
+   {
+    "type": "claim_bold",
+    "start": 16.2,
+    "end": 18.0,
+    "lines": [
+     "LIGHTS OFF"
+    ],
+    "sub": "LET SKIN DO ITS WORK"
+   }
+  ]
+ },
+ "a9be56d9": {
+  "sheet": "feedback/shots/a9be56d9.jpg",
+  "source_for_sheet": "deliver_music/Hinglish_Ads/01_KNC_dark-spots-sirf-cover-karna-solution_a9be56d9.mp4",
+  "shots": [
+   [
+    0.0,
+    2.83
+   ],
+   [
+    2.83,
+    5.23
+   ],
+   [
+    5.23,
+    6.8
+   ],
+   [
+    6.8,
+    7.13
+   ],
+   [
+    7.13,
+    11.43
+   ],
+   [
+    11.43,
+    15.03
+   ],
+   [
+    15.03,
+    18.77
+   ],
+   [
+    18.77,
+    20.04
+   ]
+  ],
+  "lines": [
+   {
+    "id": 1,
+    "speaker": "narrator",
+    "start": 0.0,
+    "end": 5.1,
+    "en": "Dark spots sirf cover karna solution nahi hai. You meet DERMDOC 2% Kojic Acid Night Cream."
+   },
+   {
+    "id": 2,
+    "speaker": "narrator",
+    "start": 6.48,
+    "end": 16.6,
+    "en": "Iski Glow Fusion Formula mein Kojic Acid, Niacinamide aur Alpha Arbutin dark spots ki appearance reduce karke skin ko brighter aur more even-looking banane mein help karte hain."
+   },
+   {
+    "id": 3,
+    "speaker": "narrator",
+    "start": 17.14,
+    "end": 18.78,
+    "en": "Raat ko lagao. Sleep to glow."
+   }
+  ],
+  "cast": [
+   {
+    "id": "narrator",
+    "name": "Voiceover",
+    "role": "narrator",
+    "fx": null,
+    "pitch_semitones": null
+   }
+  ],
+  "our_supers": [
+   {
+    "type": "hook_mono",
+    "start": 0.2,
+    "end": 2.4,
+    "lines": [
+     "JUST COVERING",
+     "DARK SPOTS?"
+    ],
+    "sub": null
+   },
+   {
+    "type": "hud",
+    "start": 3.05,
+    "end": 4.6,
+    "lines": null,
+    "sub": null
+   },
+   {
+    "type": "pill",
+    "start": 9.05,
+    "end": 11.1,
+    "lines": [
+     "KOJIC + NIACINAMIDE",
+     "+ ALPHA ARBUTIN"
+    ],
+    "sub": null
+   },
+   {
+    "type": "claim_bold",
+    "start": 11.3,
+    "end": 13.8,
+    "lines": [
+     "GLOW FUSION",
+     "FORMULA"
+    ],
+    "sub": "REDUCES LOOK OF DARK SPOTS"
+   },
+   {
+    "type": "label",
+    "start": 17.45,
+    "end": 18.6,
+    "lines": [
+     "BEFORE"
+    ],
+    "sub": null
+   },
+   {
+    "type": "label",
+    "start": 17.45,
+    "end": 18.6,
+    "lines": [
+     "AFTER"
+    ],
+    "sub": null
+   }
+  ]
+ },
+ "b4c787e1": {
+  "sheet": "feedback/shots/b4c787e1.jpg",
+  "source_for_sheet": "deliver_music/Hinglish_Ads/05_KNC_dark-spots-scattered-hain_b4c787e1.mp4",
+  "shots": [
+   [
+    0.0,
+    1.6
+   ],
+   [
+    1.6,
+    8.5
+   ],
+   [
+    8.5,
+    13.57
+   ],
+   [
+    13.57,
+    15.93
+   ],
+   [
+    15.93,
+    16.73
+   ],
+   [
+    16.73,
+    17.57
+   ],
+   [
+    17.57,
+    18.5
+   ],
+   [
+    18.5,
+    20.04
+   ]
+  ],
+  "lines": [
+   {
+    "id": 1,
+    "speaker": "narrator",
+    "start": 0.0,
+    "end": 2.8,
+    "en": "Dark spots scattered hain? Night routine ko smarter banao."
+   },
+   {
+    "id": 2,
+    "speaker": "narrator",
+    "start": 3.0,
+    "end": 8.34,
+    "en": "DermDoc 2% Kojic Acid Night Cream brings Kojic Acid, Niacinamide aur Alpha Arbutin together."
+   },
+   {
+    "id": 3,
+    "speaker": "narrator",
+    "start": 8.6,
+    "end": 13.98,
+    "en": "Its Glow Fusion Formula helps reduce the appearance of dark spots and supports brighter, more even-looking skin."
+   },
+   {
+    "id": 4,
+    "speaker": "narrator",
+    "start": 14.22,
+    "end": 16.06,
+    "en": "Every night, one step closer to glow."
+   }
+  ],
+  "cast": [
+   {
+    "id": "narrator",
+    "name": "Voiceover",
+    "role": "narrator",
+    "fx": null,
+    "pitch_semitones": null
+   }
+  ],
+  "our_supers": [
+   {
+    "type": "hook_mono",
+    "start": 0.15,
+    "end": 1.5,
+    "lines": [
+     "DARK SPOTS",
+     "SCATTERED?"
+    ],
+    "sub": null
+   },
+   {
+    "type": "pill",
+    "start": 6.0,
+    "end": 8.4,
+    "lines": [
+     "KOJIC + NIACINAMIDE",
+     "+ ALPHA ARBUTIN"
+    ],
+    "sub": null
+   },
+   {
+    "type": "claim_bold",
+    "start": 8.8,
+    "end": 11.45,
+    "lines": [
+     "GLOW FUSION",
+     "FORMULA"
+    ],
+    "sub": "REDUCES LOOK OF DARK SPOTS"
+   },
+   {
+    "type": "pill",
+    "start": 11.75,
+    "end": 13.45,
+    "lines": [
+     "BRIGHTER, MORE",
+     "EVEN-LOOKING SKIN"
+    ],
+    "sub": null
+   },
+   {
+    "type": "blur",
+    "start": 17.5,
+    "end": 18.6,
+    "lines": null,
+    "sub": null
+   },
+   {
+    "type": "hud",
+    "start": 17.75,
+    "end": 18.45,
+    "lines": null,
+    "sub": null
+   }
+  ]
+ },
+ "bd3b8af7": {
+  "sheet": "feedback/shots/bd3b8af7.jpg",
+  "source_for_sheet": "deliver_music/Bengali/01_kojic-night-cream_personification_the-night-team-clocks-in_bd3b8af7.mp4",
+  "shots": [
+   [
+    0.0,
+    2.33
+   ],
+   [
+    2.33,
+    3.97
+   ],
+   [
+    3.97,
+    6.3
+   ],
+   [
+    6.3,
+    8.47
+   ],
+   [
+    8.47,
+    9.97
+   ],
+   [
+    9.97,
+    13.0
+   ],
+   [
+    13.0,
+    15.02
+   ]
+  ],
+  "lines": [
+   {
+    "id": 1,
+    "speaker": "kojic_jar",
+    "start": 0.0,
+    "end": 2.36,
+    "en": "You go to sleep. My night team is clocking in."
+   },
+   {
+    "id": 2,
+    "speaker": "kojic_acid",
+    "start": 2.36,
+    "end": 6.3,
+    "en": "I'm two percent Kojic Acid. I work on the look of dark spots and pigmentation."
+   },
+   {
+    "id": 3,
+    "speaker": "niacinamide",
+    "start": 6.3,
+    "end": 8.46,
+    "en": "I help make dull-looking skin look brighter."
+   },
+   {
+    "id": 4,
+    "speaker": "alpha_arbutin",
+    "start": 8.46,
+    "end": 9.98,
+    "en": "And I help even out uneven-looking tone."
+   },
+   {
+    "id": 5,
+    "speaker": "kojic_jar",
+    "start": 9.98,
+    "end": 14.92,
+    "en": "Rich night cream. Apply, let it absorb, and stay consistent. DERMDOC two percent Kojic Acid Night Cream."
+   }
+  ],
+  "cast": [
+   {
+    "id": "kojic_jar",
+    "name": "KNC Jar",
+    "role": "product_mascot",
+    "fx": "cartoon",
+    "pitch_semitones": 1
+   },
+   {
+    "id": "kojic_acid",
+    "name": "Kojic Acid",
+    "role": "hero",
+    "fx": "cartoon",
+    "pitch_semitones": -2
+   },
+   {
+    "id": "niacinamide",
+    "name": "Niacinamide",
+    "role": "hero",
+    "fx": "cartoon",
+    "pitch_semitones": 0
+   },
+   {
+    "id": "alpha_arbutin",
+    "name": "Alpha Arbutin",
+    "role": "hero",
+    "fx": "cartoon",
+    "pitch_semitones": 3
+   }
+  ],
+  "our_supers": [
+   {
+    "type": "hook_mono",
+    "start": 0.2,
+    "end": 2.2,
+    "lines": [
+     "THE NIGHT TEAM",
+     "CLOCKS IN"
+    ],
+    "sub": null
+   },
+   {
+    "type": "label",
+    "start": 4.0,
+    "end": 5.6,
+    "lines": [
+     "2% KOJIC ACID"
+    ],
+    "sub": null
+   },
+   {
+    "type": "label",
+    "start": 6.1,
+    "end": 7.6,
+    "lines": [
+     "NIACINAMIDE"
+    ],
+    "sub": null
+   },
+   {
+    "type": "label",
+    "start": 8.1,
+    "end": 9.8,
+    "lines": [
+     "ALPHA ARBUTIN"
+    ],
+    "sub": null
+   },
+   {
+    "type": "claim_bold",
+    "start": 13.1,
+    "end": 14.9,
+    "lines": [
+     "GLOW FUSION",
+     "FORMULA"
+    ],
+    "sub": "KOJIC + NIACINAMIDE + ARBUTIN"
+   }
+  ]
+ },
+ "c01adcce": {
+  "sheet": "feedback/shots/c01adcce.jpg",
+  "source_for_sheet": "deliver_music/Hinglish_Ads/07_PS_sunlight-dikhta-hai_c01adcce.mp4",
+  "shots": [
+   [
+    0.0,
+    3.33
+   ],
+   [
+    3.33,
+    3.93
+   ],
+   [
+    3.93,
+    8.97
+   ],
+   [
+    8.97,
+    10.93
+   ],
+   [
+    10.93,
+    13.3
+   ],
+   [
+    13.3,
+    15.53
+   ],
+   [
+    15.53,
+    16.87
+   ],
+   [
+    16.87,
+    18.63
+   ],
+   [
+    18.63,
+    20.04
+   ]
+  ],
+  "lines": [
+   {
+    "id": 1,
+    "speaker": "narrator",
+    "start": 0.0,
+    "end": 3.2,
+    "en": "Sunlight dikhta hai. Protection nahi—but it should be there."
+   },
+   {
+    "id": 2,
+    "speaker": "narrator",
+    "start": 3.84,
+    "end": 10.34,
+    "en": "DermDoc Ultra Violet Brightening Sunscreen gives SPF 50 PA++ protection with 4% Niacinamide."
+   },
+   {
+    "id": 3,
+    "speaker": "narrator",
+    "start": 10.56,
+    "end": 15.38,
+    "en": "Its purple tint blends into Indian skin for an instant radiant glow, without white cast."
+   },
+   {
+    "id": 4,
+    "speaker": "narrator",
+    "start": 15.58,
+    "end": 17.76,
+    "en": "Invisible protection. Visible glow."
+   }
+  ],
+  "cast": [
+   {
+    "id": "narrator",
+    "name": "Voiceover",
+    "role": "narrator",
+    "fx": null,
+    "pitch_semitones": null
+   }
+  ],
+  "our_supers": [
+   {
+    "type": "hook_mono",
+    "start": 0.15,
+    "end": 3.1,
+    "lines": [
+     "SUN IS VISIBLE",
+     "PROTECTION ISN'T"
+    ],
+    "sub": null
+   },
+   {
+    "type": "claim_bold",
+    "start": 7.15,
+    "end": 8.85,
+    "lines": [
+     "SPF 50 PA+++"
+    ],
+    "sub": "WITH 4% NIACINAMIDE"
+   },
+   {
+    "type": "hud",
+    "start": 9.3,
+    "end": 10.85,
+    "lines": null,
+    "sub": null
+   },
+   {
+    "type": "claim_bold",
+    "start": 11.3,
+    "end": 12.95,
+    "lines": [
+     "PURPLE TINT"
+    ],
+    "sub": "BLENDS INTO INDIAN SKIN"
+   },
+   {
+    "type": "claim_bold",
+    "start": 13.45,
+    "end": 15.0,
+    "lines": [
+     "NO WHITE CAST"
+    ],
+    "sub": "INSTANT RADIANT GLOW"
+   },
+   {
+    "type": "label",
+    "start": 17.3,
+    "end": 18.5,
+    "lines": [
+     "BEFORE"
+    ],
+    "sub": null
+   },
+   {
+    "type": "label",
+    "start": 17.3,
+    "end": 18.5,
+    "lines": [
+     "AFTER"
+    ],
+    "sub": null
+   },
+   {
+    "type": "claim_bold",
+    "start": 18.85,
+    "end": 20.05,
+    "lines": [
+     "INVISIBLE PROTECTION",
+     "VISIBLE GLOW"
+    ],
+    "sub": null
+   }
+  ]
+ },
+ "c51221b6": {
+  "sheet": "feedback/shots/c51221b6.jpg",
+  "source_for_sheet": "deliver_music/Bengali/07_uv-sunscreen_personification_purple-tint_c51221b6.mp4",
+  "shots": [
+   [
+    0.0,
+    2.93
+   ],
+   [
+    2.93,
+    5.13
+   ],
+   [
+    5.13,
+    8.3
+   ],
+   [
+    8.3,
+    10.9
+   ],
+   [
+    10.9,
+    13.23
+   ],
+   [
+    13.23,
+    15.4
+   ],
+   [
+    15.4,
+    17.02
+   ]
+  ],
+  "lines": [
+   {
+    "id": 1,
+    "speaker": "white_cast",
+    "start": 0.0,
+    "end": 0.48,
+    "en": "Haha!"
+   },
+   {
+    "id": 2,
+    "speaker": "white_cast",
+    "start": 1.08,
+    "end": 2.66,
+    "en": "Now everyone can see your sunscreen!"
+   },
+   {
+    "id": 3,
+    "speaker": "sunscreen_tube",
+    "start": 3.04,
+    "end": 4.7,
+    "en": "Wrong sunscreen, buddy!"
+   },
+   {
+    "id": 4,
+    "speaker": "purple_tint",
+    "start": 5.06,
+    "end": 8.1,
+    "en": "I blend with her skin. You just make it ashy."
+   },
+   {
+    "id": 5,
+    "speaker": "spf_shield",
+    "start": 8.74,
+    "end": 10.68,
+    "en": "And I handle the sun."
+   },
+   {
+    "id": 6,
+    "speaker": "niacinamide",
+    "start": 11.06,
+    "end": 13.14,
+    "en": "Dullness? Not on this team."
+   },
+   {
+    "id": 7,
+    "speaker": "sunscreen_tube",
+    "start": 13.4,
+    "end": 15.16,
+    "en": "See the glow, not the sunscreen."
+   }
+  ],
+  "cast": [
+   {
+    "id": "white_cast",
+    "name": "White Cast",
+    "role": "villain",
+    "fx": "villain",
+    "pitch_semitones": 0
+   },
+   {
+    "id": "sunscreen_tube",
+    "name": "DERMDOC Sunscreen Tube",
+    "role": "product_mascot",
+    "fx": "cartoon",
+    "pitch_semitones": 0
+   },
+   {
+    "id": "purple_tint",
+    "name": "Purple Tint",
+    "role": "hero",
+    "fx": "cartoon",
+    "pitch_semitones": 0
+   },
+   {
+    "id": "spf_shield",
+    "name": "SPF 50 PA+++ Shield",
+    "role": "hero",
+    "fx": "cartoon",
+    "pitch_semitones": 0
+   },
+   {
+    "id": "niacinamide",
+    "name": "4% Niacinamide",
+    "role": "hero",
+    "fx": "cartoon",
+    "pitch_semitones": 2
+   }
+  ],
+  "our_supers": [
+   {
+    "type": "hook_mono",
+    "start": 0.2,
+    "end": 2.6,
+    "lines": [
+     "TIRED OF",
+     "WHITE CAST?"
+    ],
+    "sub": null
+   },
+   {
+    "type": "pill",
+    "start": 5.3,
+    "end": 7.6,
+    "lines": [
+     "PURPLE TINT",
+     "NO WHITE CAST"
+    ],
+    "sub": null
+   },
+   {
+    "type": "claim_bold",
+    "start": 9.2,
+    "end": 10.7,
+    "lines": [
+     "SPF 50 PA+++"
+    ],
+    "sub": "UVA + UVB PROTECTION"
+   },
+   {
+    "type": "pill",
+    "start": 11.15,
+    "end": 12.8,
+    "lines": [
+     "4% NIACINAMIDE",
+     "BRIGHTENS DULL-LOOKING SKIN"
+    ],
+    "sub": null
+   },
+   {
+    "type": "hud",
+    "start": 13.1,
+    "end": 14.9,
+    "lines": null,
+    "sub": null
+   },
+   {
+    "type": "blur",
+    "start": 9.6,
+    "end": 10.95,
+    "lines": null,
+    "sub": null
+   },
+   {
+    "type": "blur",
+    "start": 9.6,
+    "end": 10.95,
+    "lines": null,
+    "sub": null
+   },
+   {
+    "type": "blur",
+    "start": 9.6,
+    "end": 10.95,
+    "lines": null,
+    "sub": null
+   },
+   {
+    "type": "blur",
+    "start": 9.6,
+    "end": 10.95,
+    "lines": null,
+    "sub": null
+   },
+   {
+    "type": "blur",
+    "start": 9.6,
+    "end": 10.95,
+    "lines": null,
+    "sub": null
+   }
+  ]
+ },
+ "caf29456": {
+  "sheet": "feedback/shots/caf29456.jpg",
+  "source_for_sheet": "deliver_music/Bengali/22_uv-sunscreen_ugc_and-no-it-doesn-t-stay-purple_caf29456.mp4",
+  "shots": [
+   [
+    0.0,
+    2.67
+   ],
+   [
+    2.67,
+    6.6
+   ],
+   [
+    6.6,
+    8.1
+   ],
+   [
+    8.1,
+    8.73
+   ],
+   [
+    8.73,
+    10.6
+   ],
+   [
+    10.6,
+    14.57
+   ],
+   [
+    14.57,
+    16.23
+   ],
+   [
+    16.23,
+    20.04
+   ]
+  ],
+  "lines": [
+   {
+    "id": 1,
+    "speaker": "creator",
+    "start": 0.0,
+    "end": 2.44,
+    "en": "Why does sunlight expose every bit of dullness?"
+   },
+   {
+    "id": 2,
+    "speaker": "creator",
+    "start": 2.62,
+    "end": 4.36,
+    "en": "That's where this purple tint makes sense."
+   },
+   {
+    "id": 3,
+    "speaker": "creator",
+    "start": 4.56,
+    "end": 6.52,
+    "en": "Violet helps correct yellow-looking dullness."
+   },
+   {
+    "id": 4,
+    "speaker": "creator",
+    "start": 6.66,
+    "end": 8.02,
+    "en": "And no, it doesn't stay purple."
+   },
+   {
+    "id": 5,
+    "speaker": "creator",
+    "start": 8.16,
+    "end": 10.46,
+    "en": "It blends clear on Indian skin, no white cast."
+   },
+   {
+    "id": 6,
+    "speaker": "creator",
+    "start": 10.7,
+    "end": 16.22,
+    "en": "You also get 4% Niacinamide for brighter, more even-looking skin, without changing your natural skin tone."
+   },
+   {
+    "id": 7,
+    "speaker": "creator",
+    "start": 16.42,
+    "end": 19.86,
+    "en": "And SPF 50 PA+++ keeps my daytime protection covered."
+   }
+  ],
+  "cast": [
+   {
+    "id": "creator",
+    "name": "Creator",
+    "role": "creator",
+    "fx": "none",
+    "pitch_semitones": 0
+   }
+  ],
+  "our_supers": [
+   {
+    "type": "hook_mono",
+    "start": 0.2,
+    "end": 2.4,
+    "lines": [
+     "DULL IN",
+     "SUNLIGHT?"
+    ],
+    "sub": null
+   },
+   {
+    "type": "claim_bold",
+    "start": 2.9,
+    "end": 6.3,
+    "lines": [
+     "PURPLE TINT",
+     "COLOUR CORRECTION"
+    ],
+    "sub": "HELPS CORRECT YELLOW-LOOKING DULLNESS"
+   },
+   {
+    "type": "hud",
+    "start": 9.0,
+    "end": 10.5,
+    "lines": null,
+    "sub": null
+   },
+   {
+    "type": "pill",
+    "start": 9.0,
+    "end": 10.5,
+    "lines": [
+     "BLENDS CLEAR",
+     "NO WHITE CAST"
+    ],
+    "sub": null
+   },
+   {
+    "type": "pill",
+    "start": 11.0,
+    "end": 13.6,
+    "lines": [
+     "4% NIACINAMIDE",
+     "EVEN-LOOKING SKIN"
+    ],
+    "sub": null
+   },
+   {
+    "type": "label",
+    "start": 14.75,
+    "end": 15.95,
+    "lines": [
+     "BEFORE"
+    ],
+    "sub": null
+   },
+   {
+    "type": "label",
+    "start": 14.75,
+    "end": 15.95,
+    "lines": [
+     "AFTER"
+    ],
+    "sub": null
+   },
+   {
+    "type": "claim_bold",
+    "start": 16.6,
+    "end": 19.5,
+    "lines": [
+     "SPF 50 PA+++"
+    ],
+    "sub": "DAYTIME PROTECTION"
+   }
+  ]
+ },
+ "cd5a6fe8": {
+  "sheet": "feedback/shots/cd5a6fe8.jpg",
+  "source_for_sheet": "deliver_music/Bengali/29_kojic-night-cream_ugc_so-this-became-part-of-every-night_cd5a6fe8.mp4",
+  "shots": [
+   [
+    0.0,
+    3.27
+   ],
+   [
+    3.27,
+    4.9
+   ],
+   [
+    4.9,
+    7.97
+   ],
+   [
+    7.97,
+    9.97
+   ],
+   [
+    9.97,
+    10.97
+   ],
+   [
+    10.97,
+    11.83
+   ],
+   [
+    11.83,
+    13.23
+   ],
+   [
+    13.23,
+    14.9
+   ],
+   [
+    14.9,
+    17.73
+   ],
+   [
+    17.73,
+    20.04
+   ]
+  ],
+  "lines": [
+   {
+    "id": 1,
+    "speaker": "creator",
+    "start": 0.0,
+    "end": 3.12,
+    "en": "My skin looked dull, and these dark spots were impossible to ignore."
+   },
+   {
+    "id": 2,
+    "speaker": "creator",
+    "start": 3.28,
+    "end": 4.74,
+    "en": "So this became part of every night."
+   },
+   {
+    "id": 3,
+    "speaker": "creator",
+    "start": 4.88,
+    "end": 8.02,
+    "en": "Its Glow Fusion Formula combines Kojic Acid, Niacinamide and Alpha Arbutin."
+   },
+   {
+    "id": 4,
+    "speaker": "creator",
+    "start": 8.04,
+    "end": 9.78,
+    "en": "And the night cream texture is properly rich."
+   },
+   {
+    "id": 5,
+    "speaker": "creator",
+    "start": 9.96,
+    "end": 10.96,
+    "en": "A small amount is enough."
+   },
+   {
+    "id": 6,
+    "speaker": "creator",
+    "start": 11.14,
+    "end": 13.08,
+    "en": "I blend it completely into my face and neck."
+   },
+   {
+    "id": 7,
+    "speaker": "creator",
+    "start": 13.24,
+    "end": 14.8,
+    "en": "Then I let my sleep-to-glow routine begin."
+   },
+   {
+    "id": 8,
+    "speaker": "creator",
+    "start": 14.98,
+    "end": 17.66,
+    "en": "My dark spots look reduced without changing my natural skin tone."
+   },
+   {
+    "id": 9,
+    "speaker": "creator",
+    "start": 17.82,
+    "end": 19.92,
+    "en": "DERMDOC Night Cream, my overnight brightening step."
+   }
+  ],
+  "cast": [
+   {
+    "id": "creator",
+    "name": "Creator",
+    "role": "creator",
+    "fx": "none",
+    "pitch_semitones": 0
+   }
+  ],
+  "our_supers": [
+   {
+    "type": "hook_mono",
+    "start": 0.2,
+    "end": 2.8,
+    "lines": [
+     "DULL SKIN?",
+     "DARK SPOTS?"
+    ],
+    "sub": null
+   },
+   {
+    "type": "claim_bold",
+    "start": 5.1,
+    "end": 7.8,
+    "lines": [
+     "GLOW FUSION",
+     "FORMULA"
+    ],
+    "sub": "KOJIC + NIACINAMIDE + ARBUTIN"
+   },
+   {
+    "type": "hud",
+    "start": 5.0,
+    "end": 7.9,
+    "lines": null,
+    "sub": null
+   },
+   {
+    "type": "pill",
+    "start": 13.3,
+    "end": 14.8,
+    "lines": [
+     "SLEEP-TO-GLOW",
+     "ROUTINE"
+    ],
+    "sub": null
+   }
+  ]
+ },
+ "ce52c347": {
+  "sheet": "feedback/shots/ce52c347.jpg",
+  "source_for_sheet": "deliver_music/Hinglish_Ads/10_PS_ek-sunscreen-two-smart-actions_ce52c347.mp4",
+  "shots": [
+   [
+    0.0,
+    2.27
+   ],
+   [
+    2.27,
+    6.13
+   ],
+   [
+    6.13,
+    8.27
+   ],
+   [
+    8.27,
+    9.6
+   ],
+   [
+    9.6,
+    11.97
+   ],
+   [
+    11.97,
+    14.97
+   ],
+   [
+    14.97,
+    17.43
+   ],
+   [
+    17.43,
+    18.9
+   ],
+   [
+    18.9,
+    20.04
+   ]
+  ],
+  "lines": [
+   {
+    "id": 1,
+    "speaker": "narrator",
+    "start": 0.0,
+    "end": 9.32,
+    "en": "Ek sunscreen, two smart actions.SPF 50 PA++ helps protect from UVA and UVB, while 4% Niacinamide supports brighter, more even-looking skin."
+   },
+   {
+    "id": 2,
+    "speaker": "narrator",
+    "start": 9.66,
+    "end": 16.98,
+    "en": "Demdoc ka purple tint yellow-looking dullness ko colour-correct karke gives instant radiant glow—lightweight and without white cast."
+   }
+  ],
+  "cast": [
+   {
+    "id": "narrator",
+    "name": "Voiceover",
+    "role": "narrator",
+    "fx": null,
+    "pitch_semitones": null
+   }
+  ],
+  "our_supers": [
+   {
+    "type": "hook_mono",
+    "start": 0.15,
+    "end": 2.15,
+    "lines": [
+     "ONE SUNSCREEN",
+     "TWO ACTIONS"
+    ],
+    "sub": null
+   },
+   {
+    "type": "claim_bold",
+    "start": 4.5,
+    "end": 6.0,
+    "lines": [
+     "SPF 50 PA+++"
+    ],
+    "sub": "UVA + UVB PROTECTION"
+   },
+   {
+    "type": "pill",
+    "start": 6.5,
+    "end": 8.15,
+    "lines": [
+     "4% NIACINAMIDE",
+     "EVEN-LOOKING SKIN"
+    ],
+    "sub": null
+   },
+   {
+    "type": "hud",
+    "start": 10.5,
+    "end": 11.9,
+    "lines": null,
+    "sub": null
+   },
+   {
+    "type": "claim_bold",
+    "start": 12.5,
+    "end": 14.4,
+    "lines": [
+     "PURPLE TINT",
+     "INSTANT GLOW"
+    ],
+    "sub": "COLOUR CORRECTION"
+   },
+   {
+    "type": "claim_bold",
+    "start": 15.3,
+    "end": 16.6,
+    "lines": [
+     "NO WHITE CAST"
+    ],
+    "sub": "LIGHTWEIGHT"
+   },
+   {
+    "type": "label",
+    "start": 17.45,
+    "end": 18.75,
+    "lines": [
+     "BEFORE"
+    ],
+    "sub": null
+   },
+   {
+    "type": "label",
+    "start": 17.45,
+    "end": 18.75,
+    "lines": [
+     "AFTER"
+    ],
+    "sub": null
+   }
+  ]
+ },
+ "ce849d3f": {
+  "sheet": "feedback/shots/ce849d3f.jpg",
+  "source_for_sheet": "deliver_music/Bengali/08_uv-sunscreen_personification_purple-tint_ce849d3f.mp4",
+  "shots": [
+   [
+    0.0,
+    2.67
+   ],
+   [
+    2.67,
+    4.6
+   ],
+   [
+    4.6,
+    6.93
+   ],
+   [
+    6.93,
+    9.6
+   ],
+   [
+    9.6,
+    11.8
+   ],
+   [
+    11.8,
+    13.9
+   ],
+   [
+    13.9,
+    17.02
+   ]
+  ],
+  "lines": [
+   {
+    "id": 1,
+    "speaker": "greasiness",
+    "start": 0.0,
+    "end": 2.24,
+    "en": "More shine! More stickiness!"
+   },
+   {
+    "id": 2,
+    "speaker": "tube",
+    "start": 2.62,
+    "end": 4.06,
+    "en": "You're not part of my finish."
+   },
+   {
+    "id": 3,
+    "speaker": "purple_tint",
+    "start": 4.58,
+    "end": 6.64,
+    "en": "Smooth, lightweight and easy to blend."
+   },
+   {
+    "id": 4,
+    "speaker": "greasiness",
+    "start": 6.94,
+    "end": 8.5,
+    "en": "Wait, where's the sticky layer?"
+   },
+   {
+    "id": 5,
+    "speaker": "tube",
+    "start": 8.74,
+    "end": 9.34,
+    "en": "Fired."
+   },
+   {
+    "id": 6,
+    "speaker": "spf_shield",
+    "start": 9.6,
+    "end": 11.66,
+    "en": "Comfortable finish. Serious protection."
+   },
+   {
+    "id": 7,
+    "speaker": "niacinamide",
+    "start": 11.94,
+    "end": 13.64,
+    "en": "And I help bring back the brightness."
+   },
+   {
+    "id": 8,
+    "speaker": "tube",
+    "start": 14.32,
+    "end": 16.56,
+    "en": "Protected, bright-looking and comfortable."
+   }
+  ],
+  "cast": [
+   {
+    "id": "greasiness",
+    "name": "Greasiness",
+    "role": "villain",
+    "fx": "villain",
+    "pitch_semitones": -3
+   },
+   {
+    "id": "tube",
+    "name": "DERMDOC Sunscreen Tube",
+    "role": "product_mascot",
+    "fx": "cartoon",
+    "pitch_semitones": 0
+   },
+   {
+    "id": "purple_tint",
+    "name": "Purple Tint",
+    "role": "hero",
+    "fx": "cartoon",
+    "pitch_semitones": 2
+   },
+   {
+    "id": "spf_shield",
+    "name": "SPF Shield",
+    "role": "hero",
+    "fx": "cartoon",
+    "pitch_semitones": 0
+   },
+   {
+    "id": "niacinamide",
+    "name": "Niacinamide",
+    "role": "hero",
+    "fx": "cartoon",
+    "pitch_semitones": 1
+   }
+  ],
+  "our_supers": [
+   {
+    "type": "hook_mono",
+    "start": 0.15,
+    "end": 2.3,
+    "lines": [
+     "GREASY, STICKY",
+     "SUNSCREEN?"
+    ],
+    "sub": null
+   },
+   {
+    "type": "hud",
+    "start": 4.8,
+    "end": 6.7,
+    "lines": null,
+    "sub": null
+   },
+   {
+    "type": "pill",
+    "start": 4.9,
+    "end": 6.6,
+    "lines": [
+     "LIGHTWEIGHT",
+     "EASY TO BLEND"
+    ],
+    "sub": null
+   },
+   {
+    "type": "claim_bold",
+    "start": 15.1,
+    "end": 16.9,
+    "lines": [
+     "PROTECTED &",
+     "BRIGHT-LOOKING"
+    ],
+    "sub": null
+   }
+  ]
+ },
+ "dad2130b": {
+  "sheet": "feedback/shots/dad2130b.jpg",
+  "source_for_sheet": "deliver_music/Bengali/21_uv-sunscreen_ugc_the-tint-is-made-for-indian-skin_dad2130b.mp4",
+  "shots": [
+   [
+    0.0,
+    2.77
+   ],
+   [
+    2.77,
+    5.6
+   ],
+   [
+    5.6,
+    6.6
+   ],
+   [
+    6.6,
+    8.3
+   ],
+   [
+    8.3,
+    9.63
+   ],
+   [
+    9.63,
+    10.6
+   ],
+   [
+    10.6,
+    14.23
+   ],
+   [
+    14.23,
+    17.43
+   ],
+   [
+    17.43,
+    20.04
+   ]
+  ],
+  "lines": [
+   {
+    "id": 1,
+    "speaker": "creator",
+    "start": 0.0,
+    "end": 2.62,
+    "en": "Purple sunscreen? I thought it would make me look purple."
+   },
+   {
+    "id": 2,
+    "speaker": "creator",
+    "start": 2.8,
+    "end": 5.94,
+    "en": "But look at the colour wheel. Purple helps correct yellow-looking dullness."
+   },
+   {
+    "id": 3,
+    "speaker": "creator",
+    "start": 6.22,
+    "end": 8.06,
+    "en": "The tint is made for Indian skin."
+   },
+   {
+    "id": 4,
+    "speaker": "creator",
+    "start": 8.28,
+    "end": 10.44,
+    "en": "It blends in completely, no white cast."
+   },
+   {
+    "id": 5,
+    "speaker": "creator",
+    "start": 10.62,
+    "end": 14.12,
+    "en": "Plus 4% Niacinamide and SPF 50 PA+++."
+   },
+   {
+    "id": 6,
+    "speaker": "creator",
+    "start": 14.32,
+    "end": 17.22,
+    "en": "Before: dull. After: even-looking, protected glow."
+   },
+   {
+    "id": 7,
+    "speaker": "creator",
+    "start": 17.5,
+    "end": 19.84,
+    "en": "Okay, purple tint makes perfect sense now."
+   }
+  ],
+  "cast": [
+   {
+    "id": "creator",
+    "name": "Creator",
+    "role": "creator",
+    "fx": "none",
+    "pitch_semitones": 0
+   }
+  ],
+  "our_supers": [
+   {
+    "type": "hook_mono",
+    "start": 0.2,
+    "end": 2.55,
+    "lines": [
+     "PURPLE",
+     "SUNSCREEN?"
+    ],
+    "sub": null
+   },
+   {
+    "type": "claim_bold",
+    "start": 3.3,
+    "end": 5.55,
+    "lines": [
+     "COLOUR CORRECTION"
+    ],
+    "sub": "PURPLE VS YELLOW-LOOKING DULLNESS"
+   },
+   {
+    "type": "pill",
+    "start": 8.35,
+    "end": 9.6,
+    "lines": [
+     "FOR INDIAN SKIN",
+     "NO WHITE CAST"
+    ],
+    "sub": null
+   },
+   {
+    "type": "pill",
+    "start": 10.8,
+    "end": 13.45,
+    "lines": [
+     "4% NIACINAMIDE",
+     "SPF 50 PA+++"
+    ],
+    "sub": null
+   },
+   {
+    "type": "hud",
+    "start": 14.35,
+    "end": 16.8,
+    "lines": null,
+    "sub": null
+   },
+   {
+    "type": "label",
+    "start": 14.35,
+    "end": 16.8,
+    "lines": [
+     "BEFORE"
+    ],
+    "sub": null
+   },
+   {
+    "type": "label",
+    "start": 14.35,
+    "end": 16.8,
+    "lines": [
+     "AFTER"
+    ],
+    "sub": null
+   },
+   {
+    "type": "claim_bold",
+    "start": 17.6,
+    "end": 19.8,
+    "lines": [
+     "PURPLE TINT",
+     "PROTECTED GLOW"
+    ],
+    "sub": null
+   }
+  ]
+ },
+ "e7e42eaf": {
+  "sheet": "feedback/shots/e7e42eaf.jpg",
+  "source_for_sheet": "deliver_music/Bengali/06_uv-sunscreen_personification_uv-villain-attack_e7e42eaf.mp4",
+  "shots": [
+   [
+    0.0,
+    3.27
+   ],
+   [
+    3.27,
+    5.27
+   ],
+   [
+    5.27,
+    8.27
+   ],
+   [
+    8.27,
+    11.13
+   ],
+   [
+    11.13,
+    14.0
+   ],
+   [
+    14.0,
+    17.02
+   ]
+  ],
+  "lines": [
+   {
+    "id": 1,
+    "speaker": "uv_villain",
+    "start": 1.08,
+    "end": 3.14,
+    "en": "Sun's out. Let's get her!"
+   },
+   {
+    "id": 2,
+    "speaker": "sunscreen_tube",
+    "start": 3.46,
+    "end": 4.8,
+    "en": "Not on my watch."
+   },
+   {
+    "id": 3,
+    "speaker": "spf_shield",
+    "start": 5.54,
+    "end": 8.12,
+    "en": "UVA and UVB? Blocked."
+   },
+   {
+    "id": 4,
+    "speaker": "purple_tint",
+    "start": 9.04,
+    "end": 11.1,
+    "en": "No white, ashy finish here."
+   },
+   {
+    "id": 5,
+    "speaker": "niacinamide",
+    "start": 11.46,
+    "end": 13.72,
+    "en": "And dullness? You're done too."
+   },
+   {
+    "id": 6,
+    "speaker": "sunscreen_tube",
+    "start": 14.24,
+    "end": 16.28,
+    "en": "Come out, sun. We're ready."
+   }
+  ],
+  "cast": [
+   {
+    "id": "uv_villain",
+    "name": "UV Villain",
+    "role": "villain",
+    "fx": "villain",
+    "pitch_semitones": -3
+   },
+   {
+    "id": "sunscreen_tube",
+    "name": "DERMDOC Sunscreen Tube",
+    "role": "product_mascot",
+    "fx": "cartoon",
+    "pitch_semitones": 0
+   },
+   {
+    "id": "spf_shield",
+    "name": "SPF 50 PA+++ Shield",
+    "role": "hero",
+    "fx": "cartoon",
+    "pitch_semitones": 0
+   },
+   {
+    "id": "purple_tint",
+    "name": "Purple Tint",
+    "role": "hero",
+    "fx": "cartoon",
+    "pitch_semitones": 3
+   },
+   {
+    "id": "niacinamide",
+    "name": "4% Niacinamide",
+    "role": "hero",
+    "fx": "cartoon",
+    "pitch_semitones": 2
+   }
+  ],
+  "our_supers": [
+   {
+    "type": "hud",
+    "start": 0.0,
+    "end": 2.9,
+    "lines": null,
+    "sub": null
+   },
+   {
+    "type": "hook_mono",
+    "start": 0.2,
+    "end": 2.9,
+    "lines": [
+     "STEPPING OUT",
+     "UNPROTECTED?"
+    ],
+    "sub": null
+   }
+  ]
+ },
+ "e9528636": {
+  "sheet": "feedback/shots/e9528636.jpg",
+  "source_for_sheet": "deliver_music/Hinglish_Ads/04_KNC_rich-night-cream-but-heavy-bilkul-nahi_e9528636.mp4",
+  "shots": [
+   [
+    0.0,
+    2.6
+   ],
+   [
+    2.6,
+    8.93
+   ],
+   [
+    8.93,
+    11.6
+   ],
+   [
+    11.6,
+    13.23
+   ],
+   [
+    13.23,
+    15.57
+   ],
+   [
+    15.57,
+    18.57
+   ],
+   [
+    18.57,
+    20.04
+   ]
+  ],
+  "lines": [
+   {
+    "id": 1,
+    "speaker": "narrator",
+    "start": 0.0,
+    "end": 2.4,
+    "en": "Rich night cream—but heavy, bilkul nahi."
+   },
+   {
+    "id": 2,
+    "speaker": "narrator",
+    "start": 2.58,
+    "end": 6.9,
+    "en": "DermDoc 2% Kojic Acid Night Cream smoothly blends into your night routine."
+   },
+   {
+    "id": 3,
+    "speaker": "narrator",
+    "start": 7.06,
+    "end": 16.08,
+    "en": "Kojic Acid, Niacinamide aur Alpha Arbutin ka Glow Fusion Formula dark spots ki appearance reduce karke skin ko brighter aur more even-looking banane mein help kare."
+   },
+   {
+    "id": 4,
+    "speaker": "narrator",
+    "start": 16.3,
+    "end": 17.34,
+    "en": "Wake up to glow."
+   }
+  ],
+  "cast": [
+   {
+    "id": "narrator",
+    "name": "Voiceover",
+    "role": "narrator",
+    "fx": null,
+    "pitch_semitones": null
+   }
+  ],
+  "our_supers": [
+   {
+    "type": "hook_mono",
+    "start": 0.15,
+    "end": 2.45,
+    "lines": [
+     "RICH NIGHT CREAM",
+     "NOT HEAVY"
+    ],
+    "sub": null
+   },
+   {
+    "type": "pill",
+    "start": 4.3,
+    "end": 6.3,
+    "lines": [
+     "BLENDS SMOOTHLY"
+    ],
+    "sub": null
+   },
+   {
+    "type": "pill",
+    "start": 6.5,
+    "end": 7.85,
+    "lines": [
+     "KOJIC + NIACINAMIDE",
+     "+ ALPHA ARBUTIN"
+    ],
+    "sub": null
+   },
+   {
+    "type": "claim_bold",
+    "start": 13.3,
+    "end": 15.4,
+    "lines": [
+     "GLOW FUSION",
+     "FORMULA"
+    ],
+    "sub": "REDUCES LOOK OF DARK SPOTS"
+   },
+   {
+    "type": "hud",
+    "start": 13.3,
+    "end": 15.4,
+    "lines": null,
+    "sub": null
+   },
+   {
+    "type": "label",
+    "start": 17.55,
+    "end": 18.55,
+    "lines": [
+     "BEFORE"
+    ],
+    "sub": null
+   },
+   {
+    "type": "label",
+    "start": 17.55,
+    "end": 18.55,
+    "lines": [
+     "AFTER"
+    ],
+    "sub": null
+   }
+  ]
+ },
+ "eab38211": {
+  "sheet": "feedback/shots/eab38211.jpg",
+  "source_for_sheet": "deliver_music/Hinglish_Ads/03_KNC_jab-aap-soti-hain-aapki-night-routine_eab38211.mp4",
+  "shots": [
+   [
+    0.0,
+    3.27
+   ],
+   [
+    3.27,
+    7.13
+   ],
+   [
+    7.13,
+    9.4
+   ],
+   [
+    9.4,
+    10.8
+   ],
+   [
+    10.8,
+    12.27
+   ],
+   [
+    12.27,
+    13.9
+   ],
+   [
+    13.9,
+    15.9
+   ],
+   [
+    15.9,
+    17.23
+   ],
+   [
+    17.23,
+    18.33
+   ],
+   [
+    18.33,
+    20.04
+   ]
+  ],
+  "lines": [
+   {
+    "id": 1,
+    "speaker": "narrator",
+    "start": 0.0,
+    "end": 3.04,
+    "en": "Jab aap soti hain, aapki night routine kaam karti rehti hai."
+   },
+   {
+    "id": 2,
+    "speaker": "narrator",
+    "start": 3.34,
+    "end": 9.34,
+    "en": "DermDoc 2% Kojic Acid Night Cream ki Glow Fusion Formula mein hain Kojic Acid, Niacinamide aur Alpha Arbutin."
+   },
+   {
+    "id": 3,
+    "speaker": "narrator",
+    "start": 9.62,
+    "end": 13.82,
+    "en": "Dark spots ki appearance reduce karne aur skin ko more even-looking banane mein help kare."
+   },
+   {
+    "id": 4,
+    "speaker": "narrator",
+    "start": 14.04,
+    "end": 16.5,
+    "en": "Apply. Sleep. Glow."
+   }
+  ],
+  "cast": [
+   {
+    "id": "narrator",
+    "name": "Voiceover",
+    "role": "narrator",
+    "fx": null,
+    "pitch_semitones": null
+   }
+  ],
+  "our_supers": [
+   {
+    "type": "hook_mono",
+    "start": 0.2,
+    "end": 2.9,
+    "lines": [
+     "YOU SLEEP,",
+     "IT KEEPS WORKING"
+    ],
+    "sub": null
+   },
+   {
+    "type": "claim_bold",
+    "start": 4.6,
+    "end": 6.8,
+    "lines": [
+     "GLOW FUSION",
+     "FORMULA"
+    ],
+    "sub": null
+   },
+   {
+    "type": "pill",
+    "start": 7.2,
+    "end": 9.2,
+    "lines": [
+     "KOJIC + NIACINAMIDE",
+     "+ ALPHA ARBUTIN"
+    ],
+    "sub": null
+   },
+   {
+    "type": "pill",
+    "start": 14.1,
+    "end": 15.6,
+    "lines": [
+     "REDUCES LOOK OF",
+     "DARK SPOTS"
+    ],
+    "sub": null
+   },
+   {
+    "type": "label",
+    "start": 17.3,
+    "end": 18.3,
+    "lines": [
+     "BEFORE"
+    ],
+    "sub": null
+   },
+   {
+    "type": "label",
+    "start": 17.3,
+    "end": 18.3,
+    "lines": [
+     "AFTER"
+    ],
+    "sub": null
+   },
+   {
+    "type": "hud",
+    "start": 17.3,
+    "end": 18.3,
+    "lines": null,
+    "sub": null
+   }
+  ]
+ },
+ "f7ce58d4": {
+  "sheet": "feedback/shots/f7ce58d4.jpg",
+  "source_for_sheet": "deliver_music/Bengali/02_kojic-night-cream_personification_spot-meeting-cancelled_f7ce58d4.mp4",
+  "shots": [
+   [
+    0.0,
+    2.27
+   ],
+   [
+    2.27,
+    5.07
+   ],
+   [
+    5.07,
+    9.93
+   ],
+   [
+    9.93,
+    13.77
+   ],
+   [
+    13.77,
+    17.02
+   ]
+  ],
+  "lines": [
+   {
+    "id": 1,
+    "speaker": "kojic_jar",
+    "start": 0.0,
+    "end": 1.82,
+    "en": "Dark spots, having another meeting?"
+   },
+   {
+    "id": 2,
+    "speaker": "kojic_jar",
+    "start": 2.32,
+    "end": 4.68,
+    "en": "Team KNC, meeting cancelled!"
+   },
+   {
+    "id": 3,
+    "speaker": "kojic_acid",
+    "start": 5.04,
+    "end": 6.66,
+    "en": "I'll take the stubborn dark spots."
+   },
+   {
+    "id": 4,
+    "speaker": "niacinamide",
+    "start": 6.74,
+    "end": 8.16,
+    "en": "And I'll clear the dullness."
+   },
+   {
+    "id": 5,
+    "speaker": "alpha_arbutin",
+    "start": 8.38,
+    "end": 9.78,
+    "en": "Uneven tone? Leave it to me."
+   },
+   {
+    "id": 6,
+    "speaker": "narrator",
+    "start": 10.24,
+    "end": 13.36,
+    "en": "Three targeted ingredients. One powerful night cream."
+   },
+   {
+    "id": 7,
+    "speaker": "narrator",
+    "start": 13.74,
+    "end": 16.28,
+    "en": "DERMDOC two percent Kojic Acid Night Cream."
+   }
+  ],
+  "cast": [
+   {
+    "id": "kojic_jar",
+    "name": "KNC Jar",
+    "role": "product_mascot",
+    "fx": "cartoon",
+    "pitch_semitones": 1
+   },
+   {
+    "id": "kojic_acid",
+    "name": "Kojic Acid",
+    "role": "hero",
+    "fx": "cartoon",
+    "pitch_semitones": 0
+   },
+   {
+    "id": "niacinamide",
+    "name": "Niacinamide",
+    "role": "hero",
+    "fx": "cartoon",
+    "pitch_semitones": 2
+   },
+   {
+    "id": "alpha_arbutin",
+    "name": "Alpha Arbutin",
+    "role": "hero",
+    "fx": "cartoon",
+    "pitch_semitones": 4
+   },
+   {
+    "id": "narrator",
+    "name": "Narrator",
+    "role": "narrator",
+    "fx": "none",
+    "pitch_semitones": 0
+   }
+  ],
+  "our_supers": [
+   {
+    "type": "pill",
+    "start": 5.06,
+    "end": 6.9,
+    "lines": [
+     "2% KOJIC ACID",
+     "TARGETS DARK SPOTS"
+    ],
+    "sub": null
+   },
+   {
+    "type": "pill",
+    "start": 6.65,
+    "end": 8.33,
+    "lines": [
+     "NIACINAMIDE",
+     "BRIGHTENS DULL-LOOKING SKIN"
+    ],
+    "sub": null
+   },
+   {
+    "type": "pill",
+    "start": 7.98,
+    "end": 10.03,
+    "lines": [
+     "ALPHA ARBUTIN",
+     "HELPS EVEN SKIN TONE"
+    ],
+    "sub": null
+   },
+   {
+    "type": "hud",
+    "start": 12.1,
+    "end": 13.6,
+    "lines": null,
+    "sub": null
+   },
+   {
+    "type": "blur",
+    "start": 15.55,
+    "end": 17.02,
+    "lines": null,
+    "sub": null
+   }
+  ]
+ },
+ "fb3fa838": {
+  "sheet": "feedback/shots/fb3fa838.jpg",
+  "source_for_sheet": "deliver_music/Hinglish_Ads/09_PS_morning-balcony-se-city-commute-tak-sun_fb3fa838.mp4",
+  "shots": [
+   [
+    0.0,
+    3.33
+   ],
+   [
+    3.33,
+    4.3
+   ],
+   [
+    4.3,
+    5.27
+   ],
+   [
+    5.27,
+    7.5
+   ],
+   [
+    7.5,
+    10.27
+   ],
+   [
+    10.27,
+    11.93
+   ],
+   [
+    11.93,
+    13.23
+   ],
+   [
+    13.23,
+    15.23
+   ],
+   [
+    15.23,
+    17.9
+   ],
+   [
+    17.9,
+    20.04
+   ]
+  ],
+  "lines": [
+   {
+    "id": 1,
+    "speaker": "narrator",
+    "start": 0.0,
+    "end": 19.54,
+    "en": "Morning balcony se city commute tak—sun exposure follows everywhere.دمdoc Ultra Violet Brightening Sunscreen brings SPF 50 PA++ protection with 4% Niacinamide. Purple tint yellow-looking dullness ko balance karke natural radiant glow deta hai—without white cast. Made for everyday Indian sun."
+   }
+  ],
+  "cast": [
+   {
+    "id": "narrator",
+    "name": "Voiceover",
+    "role": "narrator",
+    "fx": null,
+    "pitch_semitones": null
+   }
+  ],
+  "our_supers": [
+   {
+    "type": "hook_mono",
+    "start": 0.3,
+    "end": 3.1,
+    "lines": [
+     "SUN FOLLOWS",
+     "EVERYWHERE"
+    ],
+    "sub": null
+   },
+   {
+    "type": "claim_bold",
+    "start": 8.4,
+    "end": 9.9,
+    "lines": [
+     "SPF 50 PA+++"
+    ],
+    "sub": "DAILY SUN PROTECTION"
+   },
+   {
+    "type": "pill",
+    "start": 10.45,
+    "end": 11.85,
+    "lines": [
+     "4% NIACINAMIDE"
+    ],
+    "sub": null
+   },
+   {
+    "type": "hud",
+    "start": 10.45,
+    "end": 11.85,
+    "lines": null,
+    "sub": null
+   },
+   {
+    "type": "claim_bold",
+    "start": 13.45,
+    "end": 14.95,
+    "lines": [
+     "PURPLE TINT"
+    ],
+    "sub": "BALANCES YELLOW-LOOKING DULLNESS"
+   },
+   {
+    "type": "label",
+    "start": 16.1,
+    "end": 17.75,
+    "lines": [
+     "BEFORE"
+    ],
+    "sub": null
+   },
+   {
+    "type": "label",
+    "start": 16.1,
+    "end": 17.75,
+    "lines": [
+     "AFTER"
+    ],
+    "sub": null
+   },
+   {
+    "type": "pill",
+    "start": 18.2,
+    "end": 19.95,
+    "lines": [
+     "NO WHITE CAST",
+     "FOR INDIAN SKIN"
+    ],
+    "sub": null
+   }
+  ]
+ },
+ "fe7174d4": {
+  "sheet": "feedback/shots/fe7174d4.jpg",
+  "source_for_sheet": "deliver_music/Hinglish_Ads/08_PS_white-cast-ko-light-mein-test-karo_fe7174d4.mp4",
+  "shots": [
+   [
+    0.0,
+    2.27
+   ],
+   [
+    2.27,
+    3.6
+   ],
+   [
+    3.6,
+    4.23
+   ],
+   [
+    4.23,
+    5.6
+   ],
+   [
+    5.6,
+    8.3
+   ],
+   [
+    8.3,
+    10.27
+   ],
+   [
+    10.27,
+    11.6
+   ],
+   [
+    11.6,
+    17.57
+   ],
+   [
+    17.57,
+    20.04
+   ]
+  ],
+  "lines": [
+   {
+    "id": 1,
+    "speaker": "narrator",
+    "start": 0.0,
+    "end": 2.0,
+    "en": "White cast ko light mein test karo."
+   },
+   {
+    "id": 2,
+    "speaker": "narrator",
+    "start": 5.4,
+    "end": 10.26,
+    "en": "DermDoc Ultra Violet Brightening Sunscreen ka purple tint Indian skin mein smoothly blend hota hai."
+   },
+   {
+    "id": 3,
+    "speaker": "narrator",
+    "start": 11.56,
+    "end": 20.0,
+    "en": "4% Niacinamide ke saath SPF 50 PA++ protection—lightweight, non-greasy and no chalky residue. Natural skin tone stays. Bas radiant glow dikhe."
+   }
+  ],
+  "cast": [
+   {
+    "id": "narrator",
+    "name": "Voiceover",
+    "role": "narrator",
+    "fx": null,
+    "pitch_semitones": null
+   }
+  ],
+  "our_supers": [
+   {
+    "type": "hook_mono",
+    "start": 0.15,
+    "end": 2.15,
+    "lines": [
+     "WHITE CAST?",
+     "LIGHT TEST"
+    ],
+    "sub": null
+   },
+   {
+    "type": "hud",
+    "start": 4.45,
+    "end": 5.5,
+    "lines": null,
+    "sub": null
+   },
+   {
+    "type": "claim_bold",
+    "start": 8.45,
+    "end": 10.0,
+    "lines": [
+     "PURPLE TINT"
+    ],
+    "sub": "BLENDS INTO INDIAN SKIN"
+   },
+   {
+    "type": "hud",
+    "start": 10.45,
+    "end": 11.5,
+    "lines": null,
+    "sub": null
+   },
+   {
+    "type": "pill",
+    "start": 12.45,
+    "end": 14.5,
+    "lines": [
+     "4% NIACINAMIDE",
+     "SPF 50 PA+++"
+    ],
+    "sub": null
+   },
+   {
+    "type": "label",
+    "start": 14.6,
+    "end": 17.4,
+    "lines": [
+     "WHITE CAST"
+    ],
+    "sub": null
+   },
+   {
+    "type": "label",
+    "start": 14.6,
+    "end": 17.4,
+    "lines": [
+     "NO WHITE CAST"
+    ],
+    "sub": null
+   },
+   {
+    "type": "claim_bold",
+    "start": 17.85,
+    "end": 19.95,
+    "lines": [
+     "RADIANT GLOW"
+    ],
+    "sub": "NATURAL SKIN TONE STAYS"
+   }
+  ]
+ }
+}

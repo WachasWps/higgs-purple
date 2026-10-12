@@ -1,0 +1,237 @@
+{
+ "video": "51440b1f",
+ "style": "ugc",
+ "cast": [
+  {
+   "id": "creator",
+   "name": "Creator",
+   "description": "young Indian woman, upbeat UGC creator"
+  }
+ ],
+ "lines": [
+  {
+   "id": 1,
+   "start": 0.0,
+   "end": 1.94,
+   "speaker": "creator",
+   "en": "My skin looked dull every single morning."
+  },
+  {
+   "id": 2,
+   "start": 2.18,
+   "end": 5.44,
+   "speaker": "creator",
+   "en": "Purple sits opposite yellow on the colour wheel, so it helps cancel yellow-looking dullness."
+  },
+  {
+   "id": 3,
+   "start": 5.62,
+   "end": 6.48,
+   "speaker": "creator",
+   "en": "Now watch it blend."
+  },
+  {
+   "id": 4,
+   "start": 6.64,
+   "end": 8.64,
+   "speaker": "creator",
+   "en": "It starts lavender, then blends completely clear."
+  },
+  {
+   "id": 5,
+   "start": 8.8,
+   "end": 10.5,
+   "speaker": "creator",
+   "en": "Zero white cast, zero purple residue."
+  },
+  {
+   "id": 6,
+   "start": 10.72,
+   "end": 14.1,
+   "speaker": "creator",
+   "en": "It's made for Indian skin, with 4% niacinamide for a brighter-looking finish."
+  },
+  {
+   "id": 7,
+   "start": 14.34,
+   "end": 17.92,
+   "speaker": "creator",
+   "en": "And SPF 50 PA+++ gives me the daily protection I actually need."
+  },
+  {
+   "id": 8,
+   "start": 18.0,
+   "end": 19.6,
+   "speaker": "creator",
+   "en": "Before: dull. After: Instant Glow!"
+  }
+ ],
+ "shots": [
+  {
+   "n": 1,
+   "start": 0.0,
+   "end": 2.17,
+   "what": "original footage",
+   "frames": [
+    "s01_0.jpg",
+    "s01_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 1,
+     "start": 0.0,
+     "end": 1.94,
+     "speaker": "creator",
+     "en": "My skin looked dull every single morning."
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "start": 2.17,
+   "end": 5.6,
+   "what": "GRAPHIC_COLOUR_WHEEL",
+   "frames": [
+    "s02_0.jpg",
+    "s02_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 2,
+     "start": 2.18,
+     "end": 5.44,
+     "speaker": "creator",
+     "en": "Purple sits opposite yellow on the colour wheel, so it helps cancel yellow-looking dullness."
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "start": 5.6,
+   "end": 6.93,
+   "what": "PS10_texture_macro",
+   "frames": [
+    "s03_0.jpg",
+    "s03_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 3,
+     "start": 5.62,
+     "end": 6.48,
+     "speaker": "creator",
+     "en": "Now watch it blend."
+    },
+    {
+     "id": 4,
+     "start": 6.64,
+     "end": 8.64,
+     "speaker": "creator",
+     "en": "It starts lavender, then blends completely clear."
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "start": 6.93,
+   "end": 8.8,
+   "what": "PS08_hand_swatch",
+   "frames": [
+    "s04_0.jpg",
+    "s04_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 4,
+     "start": 6.64,
+     "end": 8.64,
+     "speaker": "creator",
+     "en": "It starts lavender, then blends completely clear."
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "start": 8.8,
+   "end": 10.6,
+   "what": "PS08_hand_swatch",
+   "frames": [
+    "s05_0.jpg",
+    "s05_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 5,
+     "start": 8.8,
+     "end": 10.5,
+     "speaker": "creator",
+     "en": "Zero white cast, zero purple residue."
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "start": 10.6,
+   "end": 12.87,
+   "what": "original footage",
+   "frames": [
+    "s06_0.jpg",
+    "s06_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 6,
+     "start": 10.72,
+     "end": 14.1,
+     "speaker": "creator",
+     "en": "It's made for Indian skin, with 4% niacinamide for a brighter-looking finish."
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "start": 12.87,
+   "end": 14.3,
+   "what": "GRAPHIC_BA_SPLIT",
+   "frames": [
+    "s07_0.jpg",
+    "s07_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 6,
+     "start": 10.72,
+     "end": 14.1,
+     "speaker": "creator",
+     "en": "It's made for Indian skin, with 4% niacinamide for a brighter-looking finish."
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "start": 14.3,
+   "end": 20.04,
+   "what": "original footage",
+   "frames": [
+    "s08_0.jpg",
+    "s08_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 7,
+     "start": 14.34,
+     "end": 17.92,
+     "speaker": "creator",
+     "en": "And SPF 50 PA+++ gives me the daily protection I actually need."
+    },
+    {
+     "id": 8,
+     "start": 18.0,
+     "end": 19.6,
+     "speaker": "creator",
+     "en": "Before: dull. After: Instant Glow!"
+    }
+   ]
+  }
+ ]
+}

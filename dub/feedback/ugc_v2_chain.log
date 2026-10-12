@@ -1,0 +1,26 @@
+20:58:41 PS assembled
+21:01:05 KNC assembled
+21:01:12 ok     dad2130b_bn  6.1s
+21:01:14 ok     51440b1f_bn  7.5s
+21:01:19 ok     caf29456_bn  7.5s
+21:01:22 ok     3d01d9fc_bn  7.6s
+21:01:27 ok     65a0c520_bn  7.0s
+21:01:29 ok     02bad3b3_bn  7.1s
+21:01:33 ok     cd5a6fe8_bn  6.4s
+21:01:37 ok     784c77c5_bn  8.0s
+21:01:42 ok     46d965c9_bn  9.0s
+21:01:43 ok     a5c00002_bn  5.1s
+21:01:43 done: 10 ok, 0 failed; avg 7.1s/render
+ok   Bengali/21_uv-sunscreen_ugc_the-tint-is-made-for-indian-skin_dad2130b.mp4 
+ok   Bengali/22_uv-sunscreen_ugc_and-no-it-doesn-t-stay-purple_caf29456.mp4 
+ok   Bengali/23_uv-sunscreen_ugc_but-the-real-test-is-how-it-blends_3d01d9fc.mp4 
+ok   Bengali/24_uv-sunscreen_ugc_let-s-test-it-on-one-side_65a0c520.mp4 
+ok   Bengali/25_uv-sunscreen_ugc_now-watch-both-hands_51440b1f.mp4 
+ok   Bengali/26_kojic-night-cream_ugc_look-at-that-thick-rich-texture_02bad3b3.mp4 
+ok   Bengali/27_kojic-night-cream_ugc_so-my-nighttime-reset-starts-with-this_46d965c9.mp4 
+ok   Bengali/28_kojic-night-cream_ugc_dermdoc-2-kojic-acid-night-cream_784c77c5.mp4 
+ok   Bengali/29_kojic-night-cream_ugc_so-this-became-part-of-every-night_cd5a6fe8.mp4 
+ok   Bengali/40_dermdoc_ugc_ugc_a5c00002.mp4 
+DONE 22 files -> /Users/wachas/Documents/higgs-purple/dub/deliver_music
+ls: feedback/review/UGC/*51440b1f_ORIGINAL-not-fixed-yet.mp4: No such file or directory
+21:01:52 UGC V2 CHAIN DONE

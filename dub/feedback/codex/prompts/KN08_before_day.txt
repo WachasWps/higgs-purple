@@ -1,0 +1,6 @@
+Read CODEX_BRIEF.md in this folder first and follow it strictly.
+Attached reference images: out/KN07_after_day.png, out/knc_model_ref.png. Product photos are the ground truth for packaging; the out/*_model_ref.png image is the identity reference for the woman — keep the SAME face, hair and skin tone.
+TASK: generate ONE photorealistic vertical 9:16 keyframe image:
+EDIT the attached image out/KN07_after_day.png into its BEFORE version: keep EXACTLY the same woman, pose, framing, hair, clothes, background and light, but add REALISTIC hyperpigmentation: several soft-edged FLAT brown sun spots and uneven darker patches (melasma-like) across both cheekbones, upper cheeks and a little on the forehead, a few faint post-acne marks, dull uneven tone, no glow, neutral expression. SAME skin tone depth. NOT raised dots, NOT round uniform dots, NOT chicken-pox — it must look like common real dark spots.
+
+Use your image generation tool (pass the reference images to it), then copy the generated file to out/KN08_before_day.png. Reply only with the saved path.

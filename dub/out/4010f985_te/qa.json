@@ -1,0 +1,32 @@
+[
+ {
+  "id": 1,
+  "speaker": "narrator",
+  "cer": 0.15,
+  "heard": "Delga. Pasar pegangkan pinci skin."
+ },
+ {
+  "id": 2,
+  "speaker": "narrator",
+  "cer": 0.07,
+  "heard": "పర్పుల్ పస్పుకి ఎదిరు అందికే పసుపో డల్లేస్ని తగ్గించగళదు."
+ },
+ {
+  "id": 3,
+  "speaker": "narrator",
+  "cer": 0.15,
+  "heard": "Dendoc Ultra Violet 4% Niacinamide SPF50"
+ },
+ {
+  "id": 4,
+  "speaker": "narrator",
+  "cer": 0.15,
+  "heard": "పూర్తిగా బ్లెండ్యోదుంది.నో వైట్ కాస్ట్, జెస్ట్ ఇన్స్ట్ట్ గ్లోవ్."
+ },
+ {
+  "id": 5,
+  "speaker": "narrator",
+  "cer": 0.12,
+  "heard": "ఇదియన్ స్కిన్ తోన్ స్కోసమే తాయా రింది."
+ }
+]

@@ -1,0 +1,104 @@
+{
+ "video_id": "4010f985",
+ "product": "uv_sunscreen",
+ "caption_y": 0.9,
+ "elements": [
+  {
+   "type": "hook_mono",
+   "start": 0.2,
+   "end": 2.4,
+   "lines": [
+    "YELLOW-LOOKING",
+    "DULLNESS?"
+   ],
+   "anim": "slide_up",
+   "position": "lower"
+  },
+  {
+   "type": "label",
+   "start": 5.8,
+   "end": 9.5,
+   "lines": [
+    "PURPLE TINT"
+   ],
+   "x": 0.5,
+   "y": 0.52,
+   "anim": "pop"
+  },
+  {
+   "type": "label",
+   "start": 6.8,
+   "end": 9.5,
+   "lines": [
+    "4% NIACINAMIDE"
+   ],
+   "x": 0.3,
+   "y": 0.24,
+   "anim": "pop"
+  },
+  {
+   "type": "label",
+   "start": 7.9,
+   "end": 9.5,
+   "lines": [
+    "SPF 50 PA+++"
+   ],
+   "x": 0.7,
+   "y": 0.34,
+   "anim": "pop"
+  },
+  {
+   "type": "claim_bold",
+   "start": 11.1,
+   "end": 13.1,
+   "lines": [
+    "INSTANT GLOW"
+   ],
+   "sub": "NO WHITE CAST, NO RESIDUE",
+   "position": "lower",
+   "anim": "fade"
+  },
+  {
+   "type": "label",
+   "start": 13.2,
+   "end": 15.8,
+   "lines": [
+    "BEFORE"
+   ],
+   "x": 0.5,
+   "y": 0.455,
+   "anim": "pop"
+  },
+  {
+   "type": "label",
+   "start": 13.2,
+   "end": 15.8,
+   "lines": [
+    "INSTANT GLOW"
+   ],
+   "x": 0.5,
+   "y": 0.955,
+   "anim": "pop"
+  },
+  {
+   "type": "pill",
+   "start": 15.9,
+   "end": 17.7,
+   "lines": [
+    "MADE FOR",
+    "INDIAN SKIN TONES"
+   ],
+   "x": 0.62,
+   "y": 0.78,
+   "anim": "pop"
+  }
+ ],
+ "caption_moves": [
+  {
+   "start": 13.2,
+   "end": 15.8,
+   "y": 0.58
+  }
+ ],
+ "notes": "Hook low on the dull PS07 face; colour wheel 2.5-5.6 left clean; three separate labels on the shared PS ingredient macro (tint on the swirl, Niacinamide on the droplet, SPF on the sun disc); Instant Glow claim low on PS05; B/A split BEFORE / INSTANT GLOW with captions at the divider; skin-tone pill right of the tube on PS02 (label kept clear)."
+}

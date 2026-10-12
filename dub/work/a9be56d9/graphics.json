@@ -1,0 +1,80 @@
+{
+ "video_id": "a9be56d9",
+ "product": "kojic_night_cream",
+ "caption_y": 0.9,
+ "no_outro": true,
+ "own_music": false,
+ "caption_moves": [],
+ "elements": [
+  {
+   "type": "hook_mono",
+   "start": 0.2,
+   "end": 1.4,
+   "lines": [
+    "DARK SPOTS?"
+   ],
+   "position": "lower",
+   "anim": "slide_up"
+  },
+  {
+   "type": "pill",
+   "start": 4.0,
+   "end": 6.0,
+   "lines": [
+    "ONE SCOOP",
+    "EVERY NIGHT"
+   ],
+   "x": 0.5,
+   "y": 0.12,
+   "anim": "pop"
+  },
+  {
+   "type": "label",
+   "start": 6.5,
+   "end": 8.5,
+   "lines": [
+    "MELTS RIGHT IN"
+   ],
+   "x": 0.5,
+   "y": 0.8,
+   "anim": "pop"
+  },
+  {
+   "type": "claim_bold",
+   "start": 12.0,
+   "end": 14.0,
+   "lines": [
+    "GLOW FUSION",
+    "FORMULA"
+   ],
+   "sub": "KOJIC · NIACINAMIDE · ARBUTIN",
+   "x": 0.5,
+   "y": 0.3,
+   "anim": "fade"
+  },
+  {
+   "type": "pill",
+   "start": 14.5,
+   "end": 16.5,
+   "lines": [
+    "ALL SKIN TYPES"
+   ],
+   "x": 0.5,
+   "y": 0.12,
+   "anim": "pop"
+  },
+  {
+   "type": "pill",
+   "start": 16.6,
+   "end": 17.9,
+   "lines": [
+    "YOU SLEEP.",
+    "IT WORKS."
+   ],
+   "x": 0.5,
+   "y": 0.3,
+   "anim": "pop"
+  }
+ ],
+ "notes": "user's General Ad: text only where the footage has none baked in; own end card + music"
+}

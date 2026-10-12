@@ -1,0 +1,102 @@
+{
+ "video_id": "74495eba",
+ "product": "uv_sunscreen",
+ "caption_y": 0.9,
+ "elements": [
+  {
+   "type": "label",
+   "start": 1.0,
+   "end": 2.75,
+   "lines": [
+    "UV BOSS"
+   ],
+   "x": 0.17,
+   "y": 0.13,
+   "anim": "pop"
+  },
+  {
+   "type": "claim_bold",
+   "start": 5.0,
+   "end": 7.55,
+   "lines": [
+    "SPF 50 PA+++"
+   ],
+   "sub": "UVA + UVB PROTECTION",
+   "x": 0.5,
+   "y": 0.1,
+   "anim": "fade"
+  },
+  {
+   "type": "claim_bold",
+   "start": 12.9,
+   "end": 14.5,
+   "lines": [
+    "MADE FOR",
+    "INDIAN SKIN TONES"
+   ],
+   "x": 0.5,
+   "y": 0.76,
+   "anim": "fade"
+  },
+  {
+   "type": "label",
+   "start": 14.65,
+   "end": 16.0,
+   "lines": [
+    "BEFORE"
+   ],
+   "x": 0.5,
+   "y": 0.455,
+   "anim": "pop"
+  },
+  {
+   "type": "label",
+   "start": 14.65,
+   "end": 16.0,
+   "lines": [
+    "AFTER"
+   ],
+   "x": 0.5,
+   "y": 0.895,
+   "anim": "pop"
+  },
+  {
+   "type": "label",
+   "start": 14.65,
+   "end": 16.0,
+   "lines": [
+    "INSTANT GLOW"
+   ],
+   "x": 0.5,
+   "y": 0.955,
+   "anim": "pop"
+  },
+  {
+   "type": "hud",
+   "variant": "scan",
+   "start": 15.96,
+   "end": 19.95
+  },
+  {
+   "type": "pill",
+   "start": 16.2,
+   "end": 19.95,
+   "lines": [
+    "NO WHITE CAST",
+    "SPF 50 PA+++"
+   ],
+   "x": 0.6,
+   "y": 0.075,
+   "anim": "pop"
+  }
+ ],
+ "notes": "Text pass (EDL, shot 2 = PSA1 4.57-7.6, wheel 7.6-12.2): UV BOSS tag above the sun villain of the shared villain-hook clip; SPF 50 PA+++ / UVA + UVB PROTECTION above the PSA1 tube, ending before the wheel; no supers in the colour-wheel window 7.6-12.2; MADE FOR INDIAN SKIN TONES / 4% NIACINAMIDE below the chin on PS05; top/bottom B/A split 15.9-20.04 with BEFORE / INSTANT GLOW labels, captions at 0.58 under the divider, scan HUD, NO WHITE CAST / SPF pill on the hair above the split (the EDL's top claim, shortened to fit; Indian skin tones was just shown).",
+ "caption_moves": [
+  {
+   "start": 14.0,
+   "end": 16.05,
+   "y": 0.497,
+   "ext": 1
+  }
+ ]
+}

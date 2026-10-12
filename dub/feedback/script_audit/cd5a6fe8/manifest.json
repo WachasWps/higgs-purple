@@ -1,0 +1,289 @@
+{
+ "video": "cd5a6fe8",
+ "style": "ugc",
+ "cast": [
+  {
+   "id": "creator",
+   "name": "Creator",
+   "description": "Indian woman in her early thirties, short curly hair, teal night dress; calm, warm, honest creator voice, mid-pitch female"
+  }
+ ],
+ "lines": [
+  {
+   "id": 1,
+   "start": 0.0,
+   "end": 3.12,
+   "speaker": "creator",
+   "en": "My skin looked dull, and these dark spots were impossible to ignore."
+  },
+  {
+   "id": 2,
+   "start": 3.28,
+   "end": 4.74,
+   "speaker": "creator",
+   "en": "So this became part of every night."
+  },
+  {
+   "id": 3,
+   "start": 4.88,
+   "end": 8.02,
+   "speaker": "creator",
+   "en": "Its Glow Fusion Formula combines Kojic Acid, Niacinamide and Alpha Arbutin."
+  },
+  {
+   "id": 4,
+   "start": 8.04,
+   "end": 9.78,
+   "speaker": "creator",
+   "en": "And the night cream texture is properly rich."
+  },
+  {
+   "id": 5,
+   "start": 9.96,
+   "end": 10.96,
+   "speaker": "creator",
+   "en": "A small amount is enough."
+  },
+  {
+   "id": 6,
+   "start": 11.14,
+   "end": 13.08,
+   "speaker": "creator",
+   "en": "I blend it completely into my face and neck."
+  },
+  {
+   "id": 7,
+   "start": 13.24,
+   "end": 14.8,
+   "speaker": "creator",
+   "en": "Then I let my sleep-to-glow routine begin."
+  },
+  {
+   "id": 8,
+   "start": 14.98,
+   "end": 17.66,
+   "speaker": "creator",
+   "en": "My dark spots look reduced without changing my natural skin tone."
+  },
+  {
+   "id": 9,
+   "start": 17.82,
+   "end": 19.92,
+   "speaker": "creator",
+   "en": "DERMDOC 2% Kojic Acid Night Cream, my overnight step."
+  }
+ ],
+ "shots": [
+  {
+   "n": 1,
+   "start": 0,
+   "end": 3.27,
+   "what": "original footage",
+   "frames": [
+    "s01_0.jpg",
+    "s01_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 1,
+     "start": 0.0,
+     "end": 3.12,
+     "speaker": "creator",
+     "en": "My skin looked dull, and these dark spots were impossible to ignore."
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "start": 3.27,
+   "end": 4.9,
+   "what": "original footage",
+   "frames": [
+    "s02_0.jpg",
+    "s02_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 2,
+     "start": 3.28,
+     "end": 4.74,
+     "speaker": "creator",
+     "en": "So this became part of every night."
+    },
+    {
+     "id": 3,
+     "start": 4.88,
+     "end": 8.02,
+     "speaker": "creator",
+     "en": "Its Glow Fusion Formula combines Kojic Acid, Niacinamide and Alpha Arbutin."
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "start": 4.9,
+   "end": 7.97,
+   "what": "KNA2_avatar_ingredients",
+   "frames": [
+    "s03_0.jpg",
+    "s03_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 3,
+     "start": 4.88,
+     "end": 8.02,
+     "speaker": "creator",
+     "en": "Its Glow Fusion Formula combines Kojic Acid, Niacinamide and Alpha Arbutin."
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "start": 7.97,
+   "end": 9.97,
+   "what": "original footage",
+   "frames": [
+    "s04_0.jpg",
+    "s04_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 3,
+     "start": 4.88,
+     "end": 8.02,
+     "speaker": "creator",
+     "en": "Its Glow Fusion Formula combines Kojic Acid, Niacinamide and Alpha Arbutin."
+    },
+    {
+     "id": 4,
+     "start": 8.04,
+     "end": 9.78,
+     "speaker": "creator",
+     "en": "And the night cream texture is properly rich."
+    },
+    {
+     "id": 5,
+     "start": 9.96,
+     "end": 10.96,
+     "speaker": "creator",
+     "en": "A small amount is enough."
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "start": 9.97,
+   "end": 10.97,
+   "what": "original footage",
+   "frames": [
+    "s05_0.jpg",
+    "s05_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 5,
+     "start": 9.96,
+     "end": 10.96,
+     "speaker": "creator",
+     "en": "A small amount is enough."
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "start": 10.97,
+   "end": 11.83,
+   "what": "original footage",
+   "frames": [
+    "s06_0.jpg",
+    "s06_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 6,
+     "start": 11.14,
+     "end": 13.08,
+     "speaker": "creator",
+     "en": "I blend it completely into my face and neck."
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "start": 11.83,
+   "end": 13.23,
+   "what": "original footage",
+   "frames": [
+    "s07_0.jpg",
+    "s07_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 6,
+     "start": 11.14,
+     "end": 13.08,
+     "speaker": "creator",
+     "en": "I blend it completely into my face and neck."
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "start": 13.23,
+   "end": 14.9,
+   "what": "original footage",
+   "frames": [
+    "s08_0.jpg",
+    "s08_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 7,
+     "start": 13.24,
+     "end": 14.8,
+     "speaker": "creator",
+     "en": "Then I let my sleep-to-glow routine begin."
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "start": 14.9,
+   "end": 17.73,
+   "what": "GRAPHIC_BA_SPLIT",
+   "frames": [
+    "s09_0.jpg",
+    "s09_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 8,
+     "start": 14.98,
+     "end": 17.66,
+     "speaker": "creator",
+     "en": "My dark spots look reduced without changing my natural skin tone."
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "start": 17.73,
+   "end": 20.04,
+   "what": "original footage",
+   "frames": [
+    "s10_0.jpg",
+    "s10_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 9,
+     "start": 17.82,
+     "end": 19.92,
+     "speaker": "creator",
+     "en": "DERMDOC 2% Kojic Acid Night Cream, my overnight step."
+    }
+   ]
+  }
+ ]
+}

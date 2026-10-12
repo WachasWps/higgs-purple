@@ -1,0 +1,240 @@
+{
+ "video": "fb3fa838",
+ "style": "product_ad",
+ "cast": [
+  {
+   "id": "narrator",
+   "name": "Narrator",
+   "description": "calm, premium female ad narrator"
+  }
+ ],
+ "lines": [
+  {
+   "id": 1,
+   "start": 0.2,
+   "end": 2.6,
+   "speaker": "narrator",
+   "en": "Balcony to commute, the sun follows you."
+  },
+  {
+   "id": 2,
+   "start": 2.9,
+   "end": 6.1,
+   "speaker": "narrator",
+   "en": "SPF 50 PA+++, with 4% Niacinamide."
+  },
+  {
+   "id": 3,
+   "start": 6.4,
+   "end": 10.0,
+   "speaker": "narrator",
+   "en": "Purple sits opposite yellow, so its tint helps cancel dullness."
+  },
+  {
+   "id": 4,
+   "start": 10.3,
+   "end": 13.3,
+   "speaker": "narrator",
+   "en": "It blends in with no white cast, for an Instant Glow."
+  },
+  {
+   "id": 5,
+   "start": 13.7,
+   "end": 16.6,
+   "speaker": "narrator",
+   "en": "DERMDOC Ultra Violet. Made for everyday Indian sun."
+  }
+ ],
+ "shots": [
+  {
+   "n": 1,
+   "start": 0,
+   "end": 1.4,
+   "what": "USR_PS_DULL",
+   "frames": [
+    "s01_0.jpg",
+    "s01_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 1,
+     "start": 0.2,
+     "end": 2.6,
+     "speaker": "narrator",
+     "en": "Balcony to commute, the sun follows you."
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "start": 1.4,
+   "end": 2.8,
+   "what": "USR_PS_HERO_SKY",
+   "frames": [
+    "s02_0.jpg",
+    "s02_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 1,
+     "start": 0.2,
+     "end": 2.6,
+     "speaker": "narrator",
+     "en": "Balcony to commute, the sun follows you."
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "start": 2.8,
+   "end": 4.6,
+   "what": "USR_PS_SHIELD_A",
+   "frames": [
+    "s03_0.jpg",
+    "s03_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 2,
+     "start": 2.9,
+     "end": 6.1,
+     "speaker": "narrator",
+     "en": "SPF 50 PA+++, with 4% Niacinamide."
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "start": 4.6,
+   "end": 6.3,
+   "what": "USR_PS_SHIELD_C",
+   "frames": [
+    "s04_0.jpg",
+    "s04_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 2,
+     "start": 2.9,
+     "end": 6.1,
+     "speaker": "narrator",
+     "en": "SPF 50 PA+++, with 4% Niacinamide."
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "start": 6.3,
+   "end": 7.8,
+   "what": "PS07_before_dull",
+   "frames": [
+    "s05_0.jpg",
+    "s05_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 3,
+     "start": 6.4,
+     "end": 10.0,
+     "speaker": "narrator",
+     "en": "Purple sits opposite yellow, so its tint helps cancel dullness."
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "start": 7.8,
+   "end": 10.2,
+   "what": "GRAPHIC_COLOUR_WHEEL",
+   "frames": [
+    "s06_0.jpg",
+    "s06_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 3,
+     "start": 6.4,
+     "end": 10.0,
+     "speaker": "narrator",
+     "en": "Purple sits opposite yellow, so its tint helps cancel dullness."
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "start": 10.2,
+   "end": 11.8,
+   "what": "USR_PS_BLEND",
+   "frames": [
+    "s07_0.jpg",
+    "s07_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 4,
+     "start": 10.3,
+     "end": 13.3,
+     "speaker": "narrator",
+     "en": "It blends in with no white cast, for an Instant Glow."
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "start": 11.8,
+   "end": 13.4,
+   "what": "PS05_blend_glow",
+   "frames": [
+    "s08_0.jpg",
+    "s08_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 4,
+     "start": 10.3,
+     "end": 13.3,
+     "speaker": "narrator",
+     "en": "It blends in with no white cast, for an Instant Glow."
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "start": 13.4,
+   "end": 15.6,
+   "what": "GRAPHIC_BA_SPLIT",
+   "frames": [
+    "s09_0.jpg",
+    "s09_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 5,
+     "start": 13.7,
+     "end": 16.6,
+     "speaker": "narrator",
+     "en": "DERMDOC Ultra Violet. Made for everyday Indian sun."
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "start": 15.6,
+   "end": 17.8,
+   "what": "PS09_outdoor_glow",
+   "frames": [
+    "s10_0.jpg",
+    "s10_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 5,
+     "start": 13.7,
+     "end": 16.6,
+     "speaker": "narrator",
+     "en": "DERMDOC Ultra Violet. Made for everyday Indian sun."
+    }
+   ]
+  }
+ ]
+}

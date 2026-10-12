@@ -1,0 +1,50 @@
+[
+ {
+  "id": 1,
+  "speaker": "uv_rays",
+  "cer": 0.26,
+  "heard": "ഇവളുടസകിന് ഇന് അരു ചാന് സമില് പ്ലാ.",
+  "redub": true
+ },
+ {
+  "id": 2,
+  "speaker": "judge",
+  "cer": 0.64,
+  "heard": "ക്റൡതിപോല ആരംബിച്ച്നു."
+ },
+ {
+  "id": 3,
+  "speaker": "spf_shield",
+  "cer": 0.15,
+  "heard": "Televah number 1, UVA UVB protection.",
+  "repaired": true
+ },
+ {
+  "id": 4,
+  "speaker": "purple_tint",
+  "cer": 0.46,
+  "heard": "തേലിവിട് പര്പിലമന്യവിട് എദ്ര് ഡലന് സകാന്സ്.",
+  "redub": true
+ },
+ {
+  "id": 5,
+  "speaker": "niacinamide",
+  "cer": 0.15,
+  "heard": "Daleskin beraicaikan yan sahai kim?",
+  "redub": true
+ },
+ {
+  "id": 6,
+  "speaker": "judge",
+  "cer": 0.59,
+  "heard": "വീറററനായാലിയോച്യോ ഇന്സ്ട്ന്ഗോ.",
+  "redub": true
+ },
+ {
+  "id": 7,
+  "speaker": "judge",
+  "cer": 0.15,
+  "heard": "Gays Closed",
+  "repaired": true
+ }
+]

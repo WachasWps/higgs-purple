@@ -1,0 +1,151 @@
+{
+ "video": "00b304b4",
+ "shots": [
+  {
+   "n": 1,
+   "start": 0,
+   "end": 2.6,
+   "on_screen": "Woman in beige blazer at vanity mirror in the morning; DERMDOC Ultra Violet box and tube on the desk."
+  },
+  {
+   "n": 2,
+   "start": 2.6,
+   "end": 5.1,
+   "on_screen": "Angry sun villain at the window with White Cast, Greasiness and Dullness cloud firing rays."
+  },
+  {
+   "n": 3,
+   "start": 5.1,
+   "end": 7.6,
+   "on_screen": "Talking DERMDOC Ultra Violet tube held up, with SPF shield, purple droplet and niacinamide molecule team in purple swirl."
+  },
+  {
+   "n": 4,
+   "start": 7.6,
+   "end": 9.3,
+   "on_screen": "SPF 50 PA+++ shield on her cheek blocking golden UV rays with a bubble."
+  },
+  {
+   "n": 5,
+   "start": 9.3,
+   "end": 11.0,
+   "on_screen": "Full-screen colour wheel, 'Purple Tint Instant Glow for Indian Skin Tone', marker linking purple top to yellow bottom."
+  },
+  {
+   "n": 6,
+   "start": 11.0,
+   "end": 12.8,
+   "on_screen": "Close-up cheek: gold Greasiness blob and grey Dullness cloud; purple droplet flies in and the cloud fades (niacinamide character not visible)."
+  },
+  {
+   "n": 7,
+   "start": 12.8,
+   "end": 14.7,
+   "on_screen": "Macro of a sunscreen drop on brown skin shrinking as it blends in under sunlight."
+  },
+  {
+   "n": 8,
+   "start": 14.7,
+   "end": 17.0,
+   "on_screen": "Woman outdoors in daylight city, smiling with the tube and hero team in front, villains defeated behind."
+  }
+ ],
+ "lines": [
+  {
+   "id": 1,
+   "start": 0.0,
+   "slot_s": 2.43,
+   "speaker": "tube",
+   "current": "Team, we've got a full day ahead.",
+   "on_screen_during": "Woman at vanity getting ready, tube on desk.",
+   "verdict": "keep",
+   "new": "Team, we've got a full day ahead.",
+   "words": 7,
+   "reason": "Fits the morning setup. Kept although 7 words exceeds the 5.8-word budget (pre-existing timing)."
+  },
+  {
+   "id": 2,
+   "start": 2.58,
+   "slot_s": 2.87,
+   "speaker": "uv_rays",
+   "current": "Let's ruin her work day!",
+   "on_screen_during": "Sun villain gang at the window.",
+   "verdict": "keep",
+   "new": "Let's ruin her work day!",
+   "words": 5,
+   "reason": "Villain on screen, fits."
+  },
+  {
+   "id": 3,
+   "start": 5.6,
+   "slot_s": 1.79,
+   "speaker": "tube",
+   "current": "Everyone knows their assignment.",
+   "on_screen_during": "Talking tube with its hero team.",
+   "verdict": "keep",
+   "new": "Everyone knows their assignment.",
+   "words": 4,
+   "reason": "Fits the team line-up."
+  },
+  {
+   "id": 4,
+   "start": 7.54,
+   "slot_s": 1.75,
+   "speaker": "spf_shield",
+   "current": "I've got the UV rays.",
+   "on_screen_during": "SPF shield blocking UV rays on her cheek.",
+   "verdict": "keep",
+   "new": "I've got the UV rays.",
+   "words": 5,
+   "reason": "Fits. Kept although 5 words exceeds the 4.2-word budget (pre-existing timing)."
+  },
+  {
+   "id": 5,
+   "start": 9.44,
+   "slot_s": 1.41,
+   "speaker": "purple_tint",
+   "current": "I cancel yellow-looking dullness.",
+   "on_screen_during": "Colour wheel, purple opposite yellow.",
+   "verdict": "rewrite",
+   "new": "Purple cancels yellow!",
+   "words": 3,
+   "reason": "Must explain the wheel; 1.4 s slot only fits 3 words, so state purple-vs-yellow directly."
+  },
+  {
+   "id": 6,
+   "start": 11.0,
+   "slot_s": 1.91,
+   "speaker": "niacinamide",
+   "current": "And I've got the instant glow.",
+   "on_screen_during": "Greasiness blob and Dullness cloud on cheek being cleared.",
+   "verdict": "rewrite",
+   "new": "I'll brighten that dullness!",
+   "words": 4,
+   "reason": "Instant-glow claim didn't match; dullness cloud is what's visible."
+  },
+  {
+   "id": 7,
+   "start": 13.06,
+   "slot_s": 1.75,
+   "speaker": "tube",
+   "current": "Team, protection complete.",
+   "on_screen_during": "Sunscreen drop blending into skin.",
+   "verdict": "rewrite",
+   "new": "Fully blended. No residue.",
+   "words": 4,
+   "reason": "Blend clip on screen; talk texture, not 'protection complete'."
+  },
+  {
+   "id": 8,
+   "start": 14.96,
+   "slot_s": 1.44,
+   "speaker": "tube",
+   "current": "Instant glow. Ready for the day.",
+   "on_screen_during": "Woman outdoors in daylight with tube and team.",
+   "verdict": "rewrite",
+   "new": "Glowing. Let's go!",
+   "words": 3,
+   "reason": "Matches but 6 words was ~1.7x over the 1.44 s slot; tightened."
+  }
+ ]
+}

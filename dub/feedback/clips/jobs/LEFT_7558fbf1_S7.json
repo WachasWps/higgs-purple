@@ -1,0 +1,31 @@
+[
+  {
+    "created_at": "2026-10-09T19:03:19.436375Z",
+    "display_name": "Wan 3.0",
+    "id": "df14feee-2934-4b10-bcf7-5cad434b3b71",
+    "job_type": "wan3_0",
+    "min_result_url": null,
+    "params": {
+      "aspect_ratio": "9:16",
+      "duration": 5,
+      "generate_audio": false,
+      "height": 1344,
+      "medias": [
+        {
+          "data": {
+            "id": "16678609-cd39-4b20-a758-acd6641d8a53",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3A6ZxB95Mnf55lwPBqzkePnTfzA/16678609-cd39-4b20-a758-acd6641d8a53_resize.jpg"
+          },
+          "role": "start_image"
+        }
+      ],
+      "prompt": "She massages the night cream in with gentle strokes until it disappears completely, no white residue; warm night light. Keep the exact look of the first frame: same real woman and skin tone, same cartoon characters, product label and cap exactly as in the first frame; smooth natural motion; no text appears.",
+      "resolution": "480p",
+      "width": 768
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3A6ZxB95Mnf55lwPBqzkePnTfzA/hf_20261009_190319_df14feee-2934-4b10-bcf7-5cad434b3b71.mp4",
+    "status": "completed",
+    "thumbnail_url": "https://cdn.higgsfield.ai/user_3A6ZxB95Mnf55lwPBqzkePnTfzA/hf_20261009_190319_df14feee-2934-4b10-bcf7-5cad434b3b71_thumbnail.webp"
+  }
+]

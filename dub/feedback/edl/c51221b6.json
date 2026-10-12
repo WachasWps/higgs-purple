@@ -1,0 +1,82 @@
+{
+  "video_id": "c51221b6",
+  "product": "ps",
+  "category": "ingredient_personified",
+  "shots": [
+    {
+      "n": 1, "start": 0.0, "end": 2.93,
+      "content": "Light-skinned woman touching her cheek while the White Cast villain rolls an ashy streak onto it. Hook 'TIRED OF WHITE CAST?'.",
+      "issues": ["model_not_dusky", "ashy_streak_on_skin"],
+      "action": "replace", "replace_with": "CUSTOM",
+      "custom": {
+        "shared_id": "PS_CUSTOM_VILLAIN_HOOK",
+        "generate": false,
+        "reuse_from": "291827ba shot 1",
+        "keyframe": "Same as PS_CUSTOM_VILLAIN_HOOK in 291827ba.json: dusky MEERA close-up, dull matte before-skin with no residue, hair in a bun, four small cartoon villains (UV sun, White Cast blob with dry roller, oil-droplet on skateboard, grey-yellow dullness cloud) beside her cheek, no product, no text.",
+        "motion": "Same as in 291827ba.json.",
+        "base_frame_time": null
+      },
+      "note": "Reuse the shared villain-hook clip; no new generation. L1 'Haha!' and L2 'Now everyone can see your sunscreen!' play with the White Cast blob and its roller prominent, and the hook text kept. Use 0-2.93 s."
+    },
+    {
+      "n": 2, "start": 2.93, "end": 5.13,
+      "content": "Tube in the foreground with its flip-top cap OPEN, showing a nozzle. Woman smiling behind and a White Cast villain on the counter.",
+      "issues": ["nozzle_open_flip_cap", "model_not_dusky"],
+      "action": "replace", "replace_with": "PSA1_avatar_talk", "custom": null,
+      "note": "L3 'Wrong sunscreen, buddy!' (the tube) plays over the exact talking tube mascot, wide cap closed. Use 0-2.2 s."
+    },
+    {
+      "n": 3, "start": 5.13, "end": 8.3,
+      "content": "Woman's face. The White Cast villain and the purple-tint droplet hero, holding a white disc, sit on her cheek beside a white patch.",
+      "issues": ["white_residue_on_skin", "model_not_dusky", "purple_why_not_explained"],
+      "action": "replace", "replace_with": "GRAPHIC_COLOUR_WHEEL", "custom": null,
+      "note": "New L4 'I'm opposite yellow, so I cancel dullness.' (purple tint) plays over PSA2_avatar_point with a CORRECT animated wheel on the right (purple directly opposite yellow; arrow; yellow dims). Use 0-3.17 s."
+    },
+    {
+      "n": 4, "start": 8.3, "end": 10.9,
+      "content": "SPF shield in a bubble blocks sun villains by a woman's bare shoulder. The tube in the bottom-left corner has a NOZZLE.",
+      "issues": ["nozzle", "non_library_model_in_frame", "blur_boxes_needed_over_artifacts"],
+      "action": "replace", "replace_with": "PS04_dot_face", "custom": null,
+      "note": "L5 'And I handle the sun.' (SPF shield) plays as Meera's face shows five lavender sunscreen dots and she starts blending: the sunscreen goes on. Application step 1, with the SPF super on top. Use 0-2.6 s."
+    },
+    {
+      "n": 5, "start": 10.9, "end": 13.23,
+      "content": "Woman's face with niacinamide characters clearing a grey haze off her cheek.",
+      "issues": ["model_not_dusky"],
+      "action": "replace", "replace_with": "PS05_blend_glow", "custom": null,
+      "note": "L6 'Dullness? Not on this team.' plays as the lavender blends invisibly and her dull look turns even and luminous. Use 2.6-5.0 s of the clip (fully blended)."
+    },
+    {
+      "n": 6, "start": 13.23, "end": 15.4,
+      "content": "Close-up of a hand on a white table. The tube with a NOZZLE dots cream on the back of the hand, and the carton is visible behind.",
+      "issues": ["nozzle (client 00003229)", "tube_plus_carton_two_products", "hand_not_dusky"],
+      "action": "replace", "replace_with": "PS06_glow_after", "custom": null,
+      "note": "New L7 'See the instant glow, not the sunscreen.' plays over Meera's visibly dewy, even, glowing skin with no cast. This is the result shot. Use 0-2.17 s."
+    },
+    {
+      "n": 7, "start": 15.4, "end": 17.02,
+      "content": "Correct tube (wide translucent cap) on a lavender podium with the purple droplet, SPF shield and niacinamide heroes. The White Cast villain is kicked off in a puff of powder.",
+      "issues": [],
+      "action": "keep", "replace_with": null, "custom": null,
+      "note": "Correct packaging and cartoon characters only. Closing beat."
+    }
+  ],
+  "script_changes": [
+    {"line_id": 4, "old_en": "I blend with her skin. You just make it ashy.", "new_en": "I'm opposite yellow, so I cancel dullness.", "reason": "Explain WHY purple (colour wheel). Same syllable count. The no-cast message moves to supers and L7."},
+    {"line_id": 7, "old_en": "See the glow, not the sunscreen.", "new_en": "See the instant glow, not the sunscreen.", "reason": "'Glow' becomes 'Instant Glow'."}
+  ],
+  "new_lines": [],
+  "supers": [
+    {"action": "change", "match": "PURPLE TINT / NO WHITE CAST", "text": "PURPLE SITS OPPOSITE YELLOW / CANCELS YELLOW-LOOKING DULLNESS", "start": 5.2, "end": 7.0, "why": "Colour-wheel explanation."},
+    {"action": "add", "match": null, "text": "MADE FOR INDIAN SKIN TONES / NO WHITE CAST", "start": 7.0, "end": 8.3, "why": "Completes the purple > yellow > Indian skin > no cast chain."},
+    {"action": "change", "match": "SPF 50 PA+++ / UVA + UVB PROTECTION", "text": "SPF 50 PA+++ / UVA + UVB PROTECTION", "start": 8.6, "end": 10.8, "why": "Same text. Place at the top, clear of her face (PS04)."},
+    {"action": "remove", "match": "blur x5 9.6-10.95", "text": "", "start": 9.6, "end": 10.95, "why": "The five blur boxes masked artefacts in the replaced SPF shot and are no longer needed."},
+    {"action": "change", "match": "4% NIACINAMIDE / BRIGHTENS DULL-LOOKING SKIN", "text": "4% NIACINAMIDE / BRIGHTENS DULL-LOOKING SKIN", "start": 11.15, "end": 12.8, "why": "Keep. Reposition below the chin for PS05."},
+    {"action": "remove", "match": "hud 13.1-14.9", "text": "", "start": 13.1, "end": 14.9, "why": "It was framing the replaced hand shot."},
+    {"action": "add", "match": null, "text": "INSTANT GLOW / NO WHITE CAST", "start": 13.3, "end": 15.35, "why": "Label the glow result on the after shot."}
+  ],
+  "voice_changes": [
+    {"speaker": "spf_shield", "to": "female", "why": "Written as a 'deep, calm, heroic bodyguard voice', which is male."}
+  ],
+  "summary": "Keep the correct-tube team ending. Replace the non-dusky woman, the open-cap and nozzle tubes x3, and the tube+carton shot. Sequence: shared villain-hook CUSTOM, PSA1, colour-wheel graphic, PS04 dots, PS05 blend, PS06 instant glow. L4 explains purple vs yellow and L7 says instant glow."
+}

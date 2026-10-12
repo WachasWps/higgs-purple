@@ -1,0 +1,152 @@
+{
+  "video_id": "46d965c9",
+  "style": "ugc",
+  "duration": 20.04,
+  "cast": [
+    {
+      "id": "creator",
+      "name": "Creator",
+      "role": "creator",
+      "description": "Indian woman, early thirties, long natural curls, navy office blouse then cream robe; relaxed, after-work, honest creator voice, mid-pitch female",
+      "ref_ranges": [
+        [
+          0.0,
+          2.46
+        ],
+        [
+          2.68,
+          4.5
+        ],
+        [
+          13.44,
+          17.56
+        ]
+      ],
+      "fx": "none",
+      "pitch_semitones": 0
+    }
+  ],
+  "lines": [
+    {
+      "id": 1,
+      "speaker": "creator",
+      "start": 0.0,
+      "end": 2.46,
+      "max_end": 2.64,
+      "en": "By the end of the day, my skin always looked tired and uneven.",
+      "tag": "sad",
+      "keep_original": false,
+      "bn": "দিনশেষে স্কিন রোজ টায়ার্ড, আনইভেন লাগত।",
+      "ta": "ஈவ்னிங் ஆனா ஸ்கின் டயர்டா, அன்ஈவனா தெரியும்.",
+      "te": "ఈవెనింగ్‌కి స్కిన్ టైర్డ్‌గా, అన్‌ఈవెన్‌గా ఉండేది.",
+      "ml": "ദിവസം തീരുമ്പോ സ്കിൻ എന്നും ടയേർഡ്, അൺഈവൻ.",
+      "or": "ସଞ୍ଜକୁ ସ୍କିନ୍ ଥକା, ଅନଇଭେନ୍ ଲାଗୁଥିଲା।"
+    },
+    {
+      "id": 2,
+      "speaker": "creator",
+      "start": 2.68,
+      "end": 4.5,
+      "max_end": 4.68,
+      "en": "So my nighttime reset starts with this night cream.",
+      "tag": null,
+      "keep_original": false,
+      "bn": "তাই নাইট রিসেট শুরু এই নাইট ক্রিমে।",
+      "ta": "நைட் ரீசெட் இந்த நைட் க்ரீம்ல ஸ்டார்ட்!",
+      "te": "నైట్ రీసెట్ ఈ నైట్ క్రీమ్‌తో మొదలు.",
+      "ml": "നൈറ്റ് റീസെറ്റ് ഈ നൈറ്റ് ക്രീമിൽ!",
+      "or": "ମୋ ନାଇଟ ରିସେଟ୍ ଏହି ନାଇଟ କ୍ରିମ୍ ସହ।"
+    },
+    {
+      "id": 3,
+      "speaker": "creator",
+      "start": 4.72,
+      "end": 6.7,
+      "max_end": 6.82,
+      "en": "DERMDOC 2% Kojic Acid Night Cream.",
+      "tag": "happy",
+      "keep_original": false,
+      "bn": "ডার্মডক টু পার্সেন্ট কোজিক অ্যাসিড!",
+      "ta": "டெர்ம்டாக் டூ பர்சன்ட் கோஜிக் ஆசிட்!",
+      "te": "డెర్మ్‌డాక్ టూ పర్సెంట్ కోజిక్ ఆసిడ్!",
+      "ml": "ഡെർമ്ഡോക് ടു പെർസെന്റ് കോജിക് ആസിഡ്!",
+      "or": "ଡର୍ମଡକ ଟୁ ପର୍ସେଣ୍ଟ କୋଜିକ ଏସିଡ୍!"
+    },
+    {
+      "id": 4,
+      "speaker": "creator",
+      "start": 6.86,
+      "end": 8.82,
+      "max_end": 9.0,
+      "en": "It has a rich, non-watery night cream texture.",
+      "tag": "happy",
+      "keep_original": false,
+      "bn": "টেক্সচারটা রিচ, একটুও জলজলে না।",
+      "ta": "ரிச்சான டெக்ஸ்சர், தண்ணி மாதிரி இல்ல.",
+      "te": "రిచ్ టెక్స్చర్, నీళ్లలా ఉండదు.",
+      "ml": "റിച്ച് ടെക്സ്ചർ, വെള്ളം പോലെ അല്ല.",
+      "or": "ରିଚ୍ ଟେକ୍ସଚର, ଆଦୌ ପାଣିଆ ନୁହେଁ।"
+    },
+    {
+      "id": 5,
+      "speaker": "creator",
+      "start": 9.04,
+      "end": 10.58,
+      "max_end": 10.78,
+      "en": "I apply a small amount before sleeping.",
+      "tag": null,
+      "keep_original": false,
+      "bn": "ঘুমের আগে একটুখানি লাগাই।",
+      "ta": "தூங்கும் முன் கொஞ்சம் போடுவேன்.",
+      "te": "పడుకునే ముందు కొంచెం రాసుకుంటా.",
+      "ml": "ഉറങ്ങും മുമ്പ് ഇത്തിരി പുരട്ടും.",
+      "or": "ଶୋଇବା ଆଗରୁ ଅଳ୍ପ ଲଗାଏ।"
+    },
+    {
+      "id": 6,
+      "speaker": "creator",
+      "start": 10.82,
+      "end": 13.28,
+      "max_end": 13.4,
+      "en": "The Glow Fusion Formula combines three brightening actives.",
+      "tag": null,
+      "keep_original": false,
+      "bn": "গ্লো ফিউশনে তিনটে ব্রাইটনিং অ্যাক্টিভ।",
+      "ta": "க்ளோ ஃப்யூஷன்ல மூணு ப்ரைட்னிங் ஆக்டிவ்ஸ்.",
+      "te": "గ్లో ఫ్యూజన్‌లో మూడు బ్రైటెనింగ్ యాక్టివ్స్.",
+      "ml": "ഗ്ലോ ഫ്യൂഷനിൽ മൂന്ന് ബ്രൈറ്റനിങ് ആക്ടീവ്സ്.",
+      "or": "ଗ୍ଲୋ ଫ୍ୟୁଜନରେ ତିନି ବ୍ରାଇଟେନିଂ ଆକ୍ଟିଭ୍।"
+    },
+    {
+      "id": 7,
+      "speaker": "creator",
+      "start": 13.44,
+      "end": 17.56,
+      "max_end": 17.66,
+      "en": "Together, they help reduce the appearance of dark spots and support a more even-looking complexion.",
+      "tag": null,
+      "keep_original": false,
+      "bn": "একসাথে ডার্ক স্পট কম আর টোন ইভেন দেখাতে হেল্প করে।",
+      "ta": "சேர்ந்து டார்க் ஸ்பாட்ஸ் குறைவா தெரிய, ஸ்கின் டோன் ஈவனா தெரிய உதவும்.",
+      "te": "ఇవి డార్క్ స్పాట్స్ లుక్ తగ్గించి, టోన్ ఈవెన్‌గా కనిపించేలా చేస్తాయి.",
+      "ml": "ഇവ ഡാർക്ക് സ്പോട്സ് കുറഞ്ഞു തോന്നിക്കാനും ടോൺ ഈവനായി കാണാനും സഹായിക്കും.",
+      "or": "ଏକାଠି ଡାର୍କ ସ୍ପଟ୍ କମ୍, ଟୋନ୍ ଇଭେନ୍ ଦେଖାଇବାରେ ହେଲ୍ପ କରନ୍ତି।"
+    },
+    {
+      "id": 8,
+      "speaker": "creator",
+      "start": 17.7,
+      "end": 19.84,
+      "max_end": 19.64,
+      "en": "After two weeks, my skin looks brighter and more even.",
+      "tag": "happy",
+      "keep_original": false,
+      "bn": "দু সপ্তাহে স্কিন ব্রাইট, ইভেন লাগছে!",
+      "ta": "ரெண்டு வீக்ல ஸ்கின் ப்ரைட், ஈவன்!",
+      "te": "రెండు వారాల్లో స్కిన్ బ్రైట్, ఈవెన్!",
+      "ml": "രണ്ടാഴ്ചയിൽ സ്കിൻ ബ്രൈറ്റ്, ഈവൻ!",
+      "or": "ଦୁଇ ହପ୍ତାରେ ମୁହଁ ବ୍ରାଇଟ୍, ଇଭେନ୍!"
+    }
+  ],
+  "notes": "Single speaker (creator). Whisper wrote 'always look'; meaning is past tense 'looked'. Line 3 slot is only 2.1s, so the dub says 'DERMDOC two percent kojic acid' and 'night cream' is said in line 2 ('my night reset starts with this night cream'); the jar on screen also reads NIGHT CREAM. Last line ends at 19.84s, slightly past max_end 19.64 (within tolerance)."
+}

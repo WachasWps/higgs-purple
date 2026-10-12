@@ -1,0 +1,83 @@
+{
+ "video_id": "4010f985",
+ "product": "uv_sunscreen",
+ "caption_y": 0.9,
+ "elements": [
+  {
+   "type": "hook_mono",
+   "start": 0.8,
+   "end": 2.45,
+   "lines": [
+    "YELLOW-LOOKING",
+    "DULLNESS?"
+   ],
+   "x": 0.5,
+   "y": 0.12,
+   "anim": "slide_up"
+  },
+  {
+   "type": "claim_bold",
+   "start": 3.5,
+   "end": 4.95,
+   "lines": [
+    "PURPLE"
+   ],
+   "sub": "THE COLOUR SECRET",
+   "x": 0.5,
+   "y": 0.1,
+   "anim": "fade"
+  },
+  {
+   "type": "hud",
+   "variant": "corners",
+   "start": 3.5,
+   "end": 6.2
+  },
+  {
+   "type": "claim_bold",
+   "start": 9.45,
+   "end": 10.9,
+   "lines": [
+    "COLOUR CORRECTION"
+   ],
+   "sub": "INSTANT RADIANT GLOW",
+   "position": "top",
+   "anim": "fade"
+  },
+  {
+   "type": "pill",
+   "start": 11.45,
+   "end": 12.85,
+   "lines": [
+    "4% NIACINAMIDE"
+   ],
+   "position": "top",
+   "anim": "pop"
+  },
+  {
+   "type": "claim_bold",
+   "start": 13.45,
+   "end": 14.95,
+   "lines": [
+    "SPF 50 PA+++"
+   ],
+   "sub": "LIGHTWEIGHT PROTECTION",
+   "x": 0.5,
+   "y": 0.13,
+   "anim": "fade"
+  },
+  {
+   "type": "pill",
+   "start": 18.6,
+   "end": 20.0,
+   "lines": [
+    "NO WHITE CAST",
+    "FOR INDIAN SKIN"
+   ],
+   "x": 0.5,
+   "y": 0.115,
+   "anim": "pop"
+  }
+ ],
+ "notes": "Purple vs yellow: problem hook in the glow band above the silhouetted tube (clear of its printed label) as 'yellow-looking dullness' is asked; 'PURPLE - the colour secret' reveal + corners hud over the halo above the pedestal hero; colour-correction / radiant-glow claim above the colour wheel as it is said; 4% niacinamide pill above the droplet burst; SPF 50 PA+++ lightweight claim in the backdrop above the forearm application; no-white-cast / Indian-skin sign-off above the end tube. Squeeze shot (tube label fills the top) and split face left clean. Typo audit: all 15 flagged tracks (2,3,5,6,15,24,30,39,44,48,49,52,56,59,74) are the tube's printed label in the silhouette, pedestal and squeeze shots -> ignored, no covers. | AD pass: PURPLE reveal + corners hud now start after the 3.43 s cut (no longer straddle the golden silhouette shot)."
+}

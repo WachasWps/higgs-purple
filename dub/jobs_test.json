@@ -1,0 +1,4 @@
+[
+ {"script": "script_te.json", "video": "source/morning-glow.mp4", "stems": "analysis/stems/htdemucs/audio_orig", "out": "out/morning-glow_te.mp4"},
+ {"script": "script_or.json", "video": "source/morning-glow.mp4", "stems": "analysis/stems/htdemucs/audio_orig", "out": "out/morning-glow_or.mp4"}
+]

@@ -1,0 +1,56 @@
+[
+ {
+  "id": 1,
+  "speaker": "tube",
+  "cer": 0.0,
+  "heard": "টিম আজি পুরা দিনো কামা অছি।"
+ },
+ {
+  "id": 2,
+  "speaker": "uv_rays",
+  "cer": 0.0,
+  "heard": "চাল তা অফিস দিনোটাকু বরো বাদ করিদেবা।",
+  "redub": true
+ },
+ {
+  "id": 3,
+  "speaker": "tube",
+  "cer": 0.14,
+  "heard": "সমস্তে নিজনে জা ডুটি জানি ছা।"
+ },
+ {
+  "id": 4,
+  "speaker": "spf_shield",
+  "cer": 0.33,
+  "heard": "য়ে রেজ্মো সম�ালে ভি",
+  "redub": true
+ },
+ {
+  "id": 5,
+  "speaker": "purple_tint",
+  "cer": 0.2,
+  "heard": "পারপলা হালা দিয়া ডালা নিসকো হরায়।",
+  "redub": true
+ },
+ {
+  "id": 6,
+  "speaker": "niacinamide",
+  "cer": 0.12,
+  "heard": "সিডালনেসকো মুব্রাইট করিদে ভি",
+  "redub": true
+ },
+ {
+  "id": 7,
+  "speaker": "tube",
+  "cer": 0.38,
+  "heard": "একটা মিশি জাই নো রসিডু।",
+  "redub": true
+ },
+ {
+  "id": 8,
+  "speaker": "tube",
+  "cer": 0.33,
+  "heard": "ইন্সটট গ্লো চালে জিভা।",
+  "redub": true
+ }
+]

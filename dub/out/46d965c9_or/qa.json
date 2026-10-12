@@ -1,0 +1,58 @@
+[
+ {
+  "id": 1,
+  "speaker": "creator",
+  "cer": 0.17,
+  "heard": "সন্জকো সকিন থকা অনেবন লাগো থিলা।",
+  "redub": true
+ },
+ {
+  "id": 2,
+  "speaker": "creator",
+  "cer": 0.12,
+  "heard": "মোনাইটো বিশট এহিনাইট করিম সহা।",
+  "redub": true
+ },
+ {
+  "id": 3,
+  "speaker": "creator",
+  "cer": 0.06,
+  "heard": "ডারমাডা কটু পারসন্ট কজিকা এসেড।",
+  "redub": true
+ },
+ {
+  "id": 4,
+  "speaker": "creator",
+  "cer": 0.14,
+  "heard": "রিচ টেক্চ্চ্র আদো পাণিযানো হে",
+  "redub": true
+ },
+ {
+  "id": 5,
+  "speaker": "creator",
+  "cer": 0.27,
+  "heard": "সোইবা আগরো অল্পলগে",
+  "redub": true
+ },
+ {
+  "id": 6,
+  "speaker": "creator",
+  "cer": 0.25,
+  "heard": "দুরা আভো জর্বো হেবজায় মসাজকরে।",
+  "redub": true
+ },
+ {
+  "id": 7,
+  "speaker": "creator",
+  "cer": 0.07,
+  "heard": "একটি ডারক সবটকম টোন ইভেন দেখাই বারে হেল্প করন্তে।",
+  "redub": true
+ },
+ {
+  "id": 8,
+  "speaker": "creator",
+  "cer": 0.13,
+  "heard": "দুই হপতরে মহবরাইটি ভিন্ত",
+  "redub": true
+ }
+]

@@ -1,0 +1,83 @@
+{
+  "video_id": "ce849d3f",
+  "product": "ps",
+  "category": "ingredient_personified",
+  "shots": [
+    {
+      "n": 1, "start": 0.0, "end": 2.67,
+      "content": "Light-to-medium-skinned woman's face. A golden oil-droplet Greasiness villain skateboards across her cheek, leaving a shiny trail. Hook 'GREASY, STICKY SUNSCREEN?'.",
+      "issues": ["model_not_dusky", "oily_residue_on_skin"],
+      "action": "replace", "replace_with": "CUSTOM",
+      "custom": {
+        "shared_id": "PS_CUSTOM_VILLAIN_HOOK",
+        "generate": false,
+        "reuse_from": "291827ba shot 1",
+        "keyframe": "Same as PS_CUSTOM_VILLAIN_HOOK in 291827ba.json: dusky MEERA close-up, dull matte before-skin with no residue, hair in a bun, four small cartoon villains (UV sun, White Cast blob with dry roller, oil-droplet on skateboard, grey-yellow dullness cloud) beside her cheek, no product, no text.",
+        "motion": "Same as in 291827ba.json.",
+        "base_frame_time": null
+      },
+      "note": "Reuse the shared villain-hook clip; no new generation. L1 'More shine! More stickiness!' plays with the skateboarding oil-droplet villain in frame (optionally add a small 'GREASINESS' label on it). Use 0-2.67 s."
+    },
+    {
+      "n": 2, "start": 2.67, "end": 4.6,
+      "content": "Woman with the Greasiness villain on her cheek. The tube mascot has a lavender cap on TOP (heroes perched on it) as well as at the bottom.",
+      "issues": ["double_cap_wrong_packaging", "model_not_dusky"],
+      "action": "replace", "replace_with": "PS10_texture_macro", "custom": null,
+      "note": "L2 'You're not part of my finish.' (the tube) plays as a fingertip swipes through the smooth lavender cream swirl, showing a light, non-greasy finish. The exact capped tube stands behind. Use 0-1.93 s."
+    },
+    {
+      "n": 3, "start": 4.6, "end": 6.93,
+      "content": "Macro of lavender cream gushing out of the tube's open wide cap end. 'LIGHTWEIGHT / EASY TO BLEND' pill.",
+      "issues": ["cream_dispensed_from_cap (nozzle-like)", "purple_why_not_explained"],
+      "action": "replace", "replace_with": "GRAPHIC_COLOUR_WHEEL", "custom": null,
+      "note": "New L3 'I'm opposite yellow, so I cancel dullness.' (purple tint) plays over PSA2_avatar_point with a CORRECT animated wheel on the right (purple directly opposite yellow; arrow; yellow dims). Use 0-2.33 s. The texture message moves to S4 as a super."
+    },
+    {
+      "n": 4, "start": 6.93, "end": 9.6,
+      "content": "Woman with a thick UNBLENDED lavender smear on her cheek. The Greasiness villain looks shocked.",
+      "issues": ["not_blended_residue", "model_not_dusky"],
+      "action": "replace", "replace_with": "PS05_blend_glow", "custom": null,
+      "note": "L4 'Wait, where's the sticky layer?' and L5 'Fired.' play as the thin lavender layer blends in completely, with no sticky layer and no cast, and the skin turns smooth and dewy. Use 0-2.67 s."
+    },
+    {
+      "n": 5, "start": 9.6, "end": 11.8,
+      "content": "Woman's face in profile with the SPF shield in a bubble deflecting sun villains.",
+      "issues": ["model_not_dusky"],
+      "action": "replace", "replace_with": "PS09_outdoor_glow", "custom": null,
+      "note": "L6 'Comfortable finish. Serious protection.' plays as Meera steps into bright midday sun, relaxed and protected. Use 0-2.2 s."
+    },
+    {
+      "n": 6, "start": 11.8, "end": 13.9,
+      "content": "Woman's face with the niacinamide droplet clearing a grey haze from her cheek.",
+      "issues": ["model_not_dusky", "no_instant_glow_shown"],
+      "action": "replace", "replace_with": "PS06_glow_after", "custom": null,
+      "note": "New L7 'And I help bring an instant glow.' plays over Meera's visibly dewy, even, glowing skin, which ends the skin story on a face. Use 0-2.1 s."
+    },
+    {
+      "n": 7, "start": 13.9, "end": 17.02,
+      "content": "Correct tube (wide translucent cap) on a sunny terrace counter with the purple droplet and SPF heroes. The Greasiness villain slips in its own puddle.",
+      "issues": [],
+      "action": "keep", "replace_with": null, "custom": null,
+      "note": "Correct packaging and cartoon characters only. Matches L8."
+    }
+  ],
+  "script_changes": [
+    {"line_id": 3, "old_en": "Smooth, lightweight and easy to blend.", "new_en": "I'm opposite yellow, so I cancel dullness.", "reason": "Explain WHY purple (colour wheel). The texture claim moves to a super over the blend shot. Same length."},
+    {"line_id": 7, "old_en": "And I help bring back the brightness.", "new_en": "And I help bring an instant glow.", "reason": "Say 'Instant Glow' on the after shot. Hedged."},
+    {"line_id": 8, "old_en": "Protected, bright-looking and comfortable.", "new_en": "Protected, comfortable, made for Indian skin.", "reason": "Adds 'made for Indian skin' to the VO chain. Same length."}
+  ],
+  "new_lines": [],
+  "supers": [
+    {"action": "remove", "match": "hud 4.8-6.7", "text": "", "start": 4.8, "end": 6.7, "why": "Shot is now the full-screen colour-wheel graphic."},
+    {"action": "add", "match": null, "text": "COLOUR CORRECTION / PURPLE SITS OPPOSITE YELLOW > CANCELS YELLOW-LOOKING DULLNESS", "start": 4.7, "end": 6.9, "why": "Text explanation for the wheel."},
+    {"action": "change", "match": "LIGHTWEIGHT / EASY TO BLEND", "text": "LIGHTWEIGHT / BLENDS IN, NOT STICKY", "start": 7.0, "end": 9.5, "why": "Texture claim moved onto the blend shot, where it is shown."},
+    {"action": "add", "match": null, "text": "SPF 50 PA+++ / UVA + UVB", "start": 9.7, "end": 11.7, "why": "Matches L6."},
+    {"action": "add", "match": null, "text": "4% NIACINAMIDE / INSTANT GLOW", "start": 11.9, "end": 13.85, "why": "Ingredient label + Instant Glow on the after shot."},
+    {"action": "change", "match": "PROTECTED & / BRIGHT-LOOKING", "text": "INSTANT GLOW / NO WHITE CAST | FOR INDIAN SKIN TONES", "start": 15.1, "end": 16.9, "why": "End claim with Instant Glow and no cast."}
+  ],
+  "voice_changes": [
+    {"speaker": "greasiness", "to": "female", "why": "Villain pitched -3 st. Sounds male/scary. Use a female voice and keep it squeaky-cheeky."},
+    {"speaker": "spf_shield", "to": "female", "why": "Written as a 'deep, firm, no-nonsense bodyguard voice', which is male."}
+  ],
+  "summary": "Keep the correct-tube team ending. Replace the non-dusky woman, the double-cap mascot and the cream-gushing cap. Sequence: shared villain-hook CUSTOM, PS10 texture, colour-wheel graphic, PS05 blend, PS09 sun, PS06 instant glow. L3 explains purple vs yellow, L7 says instant glow, and L8 says made for Indian skin."
+}

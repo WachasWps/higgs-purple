@@ -1,0 +1,48 @@
+[
+ {
+  "id": 1,
+  "speaker": "dullness",
+  "cer": 0.07,
+  "heard": "চল ওর সকিন টা ডাল করে দি।",
+  "redub": true
+ },
+ {
+  "id": 2,
+  "speaker": "sunscreen",
+  "cer": 0.4,
+  "heard": "আমি ঠাক্তে ইশেদা হাবেনা,"
+ },
+ {
+  "id": 3,
+  "speaker": "sunscreen",
+  "cer": 0.03,
+  "heard": "হুইল্টে দেখছ পার পল হলোদের উল্টো তাই ডালনেস কেন্সিল করে।",
+  "redub": true
+ },
+ {
+  "id": 4,
+  "speaker": "sunscreen",
+  "cer": 0.2,
+  "heard": "আমার পারপুল টিন্ ইন্যন্ সকিনে জনোই তুইরি"
+ },
+ {
+  "id": 5,
+  "speaker": "sunscreen",
+  "cer": 0.47,
+  "heard": "এখনই সইন লোকইকলো",
+  "redub": true
+ },
+ {
+  "id": 6,
+  "speaker": "sunscreen",
+  "cer": 0.15,
+  "heard": "SPF50 PA++++ PROTECT करএ"
+ },
+ {
+  "id": 7,
+  "speaker": "sunscreen",
+  "cer": 0.16,
+  "heard": "একি সকিন টুন সাথে ইন্সটান গ্লা।",
+  "redub": true
+ }
+]

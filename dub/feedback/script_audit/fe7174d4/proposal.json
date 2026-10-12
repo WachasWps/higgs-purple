@@ -1,0 +1,121 @@
+{
+ "video": "fe7174d4",
+ "shots": [
+  {
+   "n": 1,
+   "start": 0,
+   "end": 1.3,
+   "on_screen": "Purple sunscreen texture ribbon."
+  },
+  {
+   "n": 2,
+   "start": 1.3,
+   "end": 2.6,
+   "on_screen": "Woman shows a purple dot on fingertip and the tube."
+  },
+  {
+   "n": 3,
+   "start": 2.6,
+   "end": 6.2,
+   "on_screen": "Purple swatch on the hand blends to sheer."
+  },
+  {
+   "n": 4,
+   "start": 6.2,
+   "end": 7.6,
+   "on_screen": "Tube lying in swirled purple cream."
+  },
+  {
+   "n": 5,
+   "start": 7.6,
+   "end": 9.4,
+   "on_screen": "Sun rays bounce off a purple protective skin layer."
+  },
+  {
+   "n": 6,
+   "start": 9.4,
+   "end": 10.8,
+   "on_screen": "Woman in white top, dull-looking skin."
+  },
+  {
+   "n": 7,
+   "start": 10.8,
+   "end": 12.8,
+   "on_screen": "Colour wheel graphic: purple top joined to yellow bottom."
+  },
+  {
+   "n": 8,
+   "start": 12.8,
+   "end": 15.0,
+   "on_screen": "Same woman, glowing skin, smiling."
+  },
+  {
+   "n": 9,
+   "start": 15.0,
+   "end": 17.6,
+   "on_screen": "Before/after split: dull top, glowing bottom."
+  }
+ ],
+ "lines": [
+  {
+   "id": 1,
+   "start": 0.2,
+   "slot_s": 2.35,
+   "speaker": "narrator",
+   "current": "White cast? Put it to the light test.",
+   "on_screen_during": "S1 texture, S2 fingertip dot",
+   "verdict": "keep",
+   "new": "White cast? Put it to the light test.",
+   "words": 8,
+   "reason": "sets up the test"
+  },
+  {
+   "id": 2,
+   "start": 2.7,
+   "slot_s": 3.45,
+   "speaker": "narrator",
+   "current": "DERMDOC Ultra Violet melts in. No white cast, no residue.",
+   "on_screen_during": "S3 hand swatch blending in",
+   "verdict": "keep",
+   "new": "DERMDOC Ultra Violet melts in. No white cast, no residue.",
+   "words": 10,
+   "reason": "matches"
+  },
+  {
+   "id": 3,
+   "start": 6.3,
+   "slot_s": 3.05,
+   "speaker": "narrator",
+   "current": "With 4% Niacinamide and SPF 50 PA+++.",
+   "on_screen_during": "S4 tube, S5 shield",
+   "verdict": "keep",
+   "new": "With 4% Niacinamide and SPF 50 PA+++.",
+   "words": 7,
+   "reason": "matches"
+  },
+  {
+   "id": 4,
+   "start": 9.5,
+   "slot_s": 3.25,
+   "speaker": "narrator",
+   "current": "Its purple tint sits opposite yellow, helping cancel dullness.",
+   "on_screen_during": "S6 dull face, S7 colour wheel",
+   "verdict": "rewrite",
+   "new": "On the wheel, purple cancels yellow dullness.",
+   "words": 7,
+   "reason": "adds colour-wheel reference, fits budget"
+  },
+  {
+   "id": 5,
+   "start": 12.9,
+   "slot_s": 4.2,
+   "speaker": "narrator",
+   "current": "Your natural skin tone stays, with an Instant Glow.",
+   "on_screen_during": "S8 glow, S9 before/after",
+   "verdict": "keep",
+   "new": "Your natural skin tone stays, with an Instant Glow.",
+   "words": 9,
+   "reason": "result line over result"
+  }
+ ]
+}

@@ -1,0 +1,87 @@
+{
+ "video_id": "595689d8",
+ "product": "kojic_night_cream",
+ "caption_y": 0.9,
+ "caption_moves": [
+  {
+   "start": 4.2,
+   "end": 6.1,
+   "y": 0.72
+  },
+  {
+   "start": 15.7,
+   "end": 17.43,
+   "y": 0.58
+  },
+  {
+   "start": 17.43,
+   "end": 20.0,
+   "y": 0.93
+  }
+ ],
+ "elements": [
+  {
+   "type": "label",
+   "start": 0.6,
+   "end": 2.4,
+   "lines": [
+    "DULLNESS"
+   ],
+   "x": 0.84,
+   "y": 0.62,
+   "anim": "pop"
+  },
+  {
+   "type": "claim_bold",
+   "start": 10.25,
+   "end": 11.55,
+   "lines": [
+    "GLOW FUSION",
+    "FORMULA"
+   ],
+   "sub": "WITH NIACINAMIDE & ALPHA ARBUTIN",
+   "position": "top",
+   "anim": "fade"
+  },
+  {
+   "type": "claim_bold",
+   "start": 14.35,
+   "end": 15.7,
+   "lines": [
+    "BRIGHTER, CLEARER-LOOKING",
+    "SKIN BY MORNING"
+   ],
+   "position": "top",
+   "anim": "fade"
+  },
+  {
+   "type": "label",
+   "start": 15.7,
+   "end": 17.43,
+   "lines": [
+    "BEFORE"
+   ],
+   "x": 0.5,
+   "y": 0.455,
+   "anim": "pop"
+  },
+  {
+   "type": "label",
+   "start": 15.7,
+   "end": 17.43,
+   "lines": [
+    "AFTER 2 WEEKS"
+   ],
+   "x": 0.5,
+   "y": 0.955,
+   "anim": "pop"
+  },
+  {
+   "type": "hud",
+   "variant": "corners",
+   "start": 17.45,
+   "end": 20.0
+  }
+ ],
+ "notes": "Text pass (client EDL): DULLNESS tag beside her dull cheek on KN03 (the mirror ghost is gone); GLOW FUSION FORMULA kept on the kept beam shot; OVERNIGHT BRIGHTENING replaced by the 'by morning' claim on the KN06 wake; B/A split labels with captions lifted to 0.58; captions stay at 0.93 under the baked end slate."
+}

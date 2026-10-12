@@ -1,0 +1,115 @@
+{
+ "video_id": "ce52c347",
+ "product": "uv_sunscreen",
+ "caption_y": 0.9,
+ "elements": [
+  {
+   "type": "hook_mono",
+   "start": 0.2,
+   "end": 2.4,
+   "lines": [
+    "ONE SUNSCREEN.",
+    "TWO ACTIONS."
+   ],
+   "anim": "slide_up",
+   "x": 0.5,
+   "y": 0.79
+  },
+  {
+   "type": "pill",
+   "start": 2.7,
+   "end": 5.9,
+   "lines": [
+    "ACTION 1:",
+    "SPF 50 PA+++"
+   ],
+   "x": 0.5,
+   "y": 0.115,
+   "anim": "pop"
+  },
+  {
+   "type": "label",
+   "start": 6.3,
+   "end": 9.5,
+   "lines": [
+    "ACTION 2"
+   ],
+   "x": 0.5,
+   "y": 0.15,
+   "anim": "pop"
+  },
+  {
+   "type": "label",
+   "start": 6.9,
+   "end": 9.5,
+   "lines": [
+    "4% NIACINAMIDE"
+   ],
+   "x": 0.3,
+   "y": 0.24,
+   "anim": "pop"
+  },
+  {
+   "type": "label",
+   "start": 7.8,
+   "end": 9.5,
+   "lines": [
+    "PURPLE TINT"
+   ],
+   "x": 0.5,
+   "y": 0.52,
+   "anim": "pop"
+  },
+  {
+   "type": "claim_bold",
+   "start": 14.25,
+   "end": 15.3,
+   "lines": [
+    "NO WHITE CAST"
+   ],
+   "position": "lower",
+   "anim": "fade"
+  },
+  {
+   "type": "label",
+   "start": 15.35,
+   "end": 17.75,
+   "lines": [
+    "BEFORE"
+   ],
+   "x": 0.5,
+   "y": 0.455,
+   "anim": "pop"
+  },
+  {
+   "type": "label",
+   "start": 15.35,
+   "end": 17.75,
+   "lines": [
+    "AFTER"
+   ],
+   "x": 0.5,
+   "y": 0.895,
+   "anim": "pop"
+  },
+  {
+   "type": "label",
+   "start": 15.35,
+   "end": 17.75,
+   "lines": [
+    "INSTANT GLOW"
+   ],
+   "x": 0.5,
+   "y": 0.955,
+   "anim": "pop"
+  }
+ ],
+ "caption_moves": [
+  {
+   "start": 15.3,
+   "end": 17.8,
+   "y": 0.58
+  }
+ ],
+ "notes": "Hook low-right of the PS10 tube; ACTION 1 pill above the PS01 tube (label clear); ACTION 2 + Niacinamide + purple-tint labels on the macro; PS07 and the colour wheel carry no super; no-white-cast claim low on PS05; B/A BEFORE / INSTANT GLOW."
+}

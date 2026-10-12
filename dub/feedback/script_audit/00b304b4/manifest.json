@@ -1,0 +1,257 @@
+{
+ "video": "00b304b4",
+ "style": "personification",
+ "cast": [
+  {
+   "id": "tube",
+   "name": "DERMDOC Sunscreen Tube",
+   "description": "the white DERMDOC Ultra Violet sunscreen tube with lavender cap, tiny arms and legs; confident team-manager boss, warm upbeat bright cartoon voice, in charge and encouraging"
+  },
+  {
+   "id": "uv_rays",
+   "name": "UV Rays",
+   "description": "angry golden-orange sun-ray villain at the window (leader of the villain gang: White Cast, Greasiness, Dullness); scheming, gleeful, theatrical cartoon-villain voice, should sound sneaky and menacing but playful"
+  },
+  {
+   "id": "spf_shield",
+   "name": "SPF Shield",
+   "description": "cobalt-blue SPF 50 PA+++ shield bodyguard character; deep, gruff, steady tough-guy bodyguard voice"
+  },
+  {
+   "id": "purple_tint",
+   "name": "Purple Tint",
+   "description": "little lavender droplet character; sweet, perky, bouncy squeaky cartoon voice"
+  },
+  {
+   "id": "niacinamide",
+   "name": "Niacinamide",
+   "description": "silver-lavender 4% niacinamide molecule character; smart, cheeky, confident bright cartoon voice"
+  }
+ ],
+ "lines": [
+  {
+   "id": 1,
+   "start": 0.0,
+   "end": 2.46,
+   "speaker": "tube",
+   "en": "Team, we've got a full day ahead."
+  },
+  {
+   "id": 2,
+   "start": 2.58,
+   "end": 4.42,
+   "speaker": "uv_rays",
+   "en": "Let's ruin her work day!"
+  },
+  {
+   "id": 3,
+   "start": 5.6,
+   "end": 7.2,
+   "speaker": "tube",
+   "en": "Everyone knows their assignment."
+  },
+  {
+   "id": 4,
+   "start": 7.54,
+   "end": 9.26,
+   "speaker": "spf_shield",
+   "en": "I've got the UV rays."
+  },
+  {
+   "id": 5,
+   "start": 9.44,
+   "end": 10.82,
+   "speaker": "purple_tint",
+   "en": "I cancel yellow-looking dullness."
+  },
+  {
+   "id": 6,
+   "start": 11.0,
+   "end": 12.66,
+   "speaker": "niacinamide",
+   "en": "And I've got the instant glow."
+  },
+  {
+   "id": 7,
+   "start": 13.06,
+   "end": 14.66,
+   "speaker": "tube",
+   "en": "Team, protection complete."
+  },
+  {
+   "id": 8,
+   "start": 14.96,
+   "end": 15.9,
+   "speaker": "tube",
+   "en": "Instant glow. Ready for the day."
+  }
+ ],
+ "shots": [
+  {
+   "n": 1,
+   "start": 0,
+   "end": 2.6,
+   "what": "original footage",
+   "frames": [
+    "s01_0.jpg",
+    "s01_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 1,
+     "start": 0.0,
+     "end": 2.46,
+     "speaker": "tube",
+     "en": "Team, we've got a full day ahead."
+    },
+    {
+     "id": 2,
+     "start": 2.58,
+     "end": 4.42,
+     "speaker": "uv_rays",
+     "en": "Let's ruin her work day!"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "start": 2.6,
+   "end": 5.1,
+   "what": "original footage",
+   "frames": [
+    "s02_0.jpg",
+    "s02_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 2,
+     "start": 2.58,
+     "end": 4.42,
+     "speaker": "uv_rays",
+     "en": "Let's ruin her work day!"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "start": 5.1,
+   "end": 7.6,
+   "what": "STORY_00b304b4_S3",
+   "frames": [
+    "s03_0.jpg",
+    "s03_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 3,
+     "start": 5.6,
+     "end": 7.2,
+     "speaker": "tube",
+     "en": "Everyone knows their assignment."
+    },
+    {
+     "id": 4,
+     "start": 7.54,
+     "end": 9.26,
+     "speaker": "spf_shield",
+     "en": "I've got the UV rays."
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "start": 7.6,
+   "end": 9.3,
+   "what": "original footage",
+   "frames": [
+    "s04_0.jpg",
+    "s04_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 4,
+     "start": 7.54,
+     "end": 9.26,
+     "speaker": "spf_shield",
+     "en": "I've got the UV rays."
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "start": 9.3,
+   "end": 11.0,
+   "what": "GRAPHIC_COLOUR_WHEEL",
+   "frames": [
+    "s05_0.jpg",
+    "s05_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 5,
+     "start": 9.44,
+     "end": 10.82,
+     "speaker": "purple_tint",
+     "en": "I cancel yellow-looking dullness."
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "start": 11.0,
+   "end": 12.8,
+   "what": "original footage",
+   "frames": [
+    "s06_0.jpg",
+    "s06_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 6,
+     "start": 11.0,
+     "end": 12.66,
+     "speaker": "niacinamide",
+     "en": "And I've got the instant glow."
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "start": 12.8,
+   "end": 14.7,
+   "what": "USR_PS_BLEND",
+   "frames": [
+    "s07_0.jpg",
+    "s07_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 7,
+     "start": 13.06,
+     "end": 14.66,
+     "speaker": "tube",
+     "en": "Team, protection complete."
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "start": 14.7,
+   "end": 17.0,
+   "what": "original footage",
+   "frames": [
+    "s08_0.jpg",
+    "s08_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 8,
+     "start": 14.96,
+     "end": 15.9,
+     "speaker": "tube",
+     "en": "Instant glow. Ready for the day."
+    }
+   ]
+  }
+ ]
+}

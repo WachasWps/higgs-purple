@@ -1,0 +1,65 @@
+[
+ {
+  "id": 1,
+  "speaker": "creator",
+  "cer": 0.11,
+  "heard": "দিন শুরুর আগেস কেন্টা ডাল লাক ছেলু।",
+  "redub": true
+ },
+ {
+  "id": 2,
+  "speaker": "creator",
+  "cer": 0.1,
+  "heard": "জানলা কালার হোইলে পারপল হোলোদের উল্তো।",
+  "redub": true
+ },
+ {
+  "id": 3,
+  "speaker": "creator",
+  "cer": 0.06,
+  "heard": "তিন্ট হল্দে ডালনেস কটাতে হেল্প করে।",
+  "redub": true
+ },
+ {
+  "id": 4,
+  "speaker": "creator",
+  "cer": 0.0,
+  "heard": "চলো টেস্ট করি",
+  "redub": true
+ },
+ {
+  "id": 5,
+  "speaker": "creator",
+  "cer": 0.18,
+  "heard": "ইন্ডিযন সকিনের জন্নো ব্রাইট লুখ রংগ একি",
+  "redub": true
+ },
+ {
+  "id": 6,
+  "speaker": "creator",
+  "cer": 0.19,
+  "heard": "মিশে জায় নোহাইট কাস্ট ইন্সটান গ্লো।",
+  "redub": true
+ },
+ {
+  "id": 7,
+  "speaker": "creator",
+  "cer": 0.15,
+  "heard": "4% niacinamide",
+  "redub": true
+ },
+ {
+  "id": 8,
+  "speaker": "creator",
+  "cer": 0.15,
+  "heard": "SPF 50 PA triple plus",
+  "redub": true
+ },
+ {
+  "id": 9,
+  "speaker": "creator",
+  "cer": 0.47,
+  "heard": "দালন ইস্তিক ইন্টা ইন্য়ে দেন্য়ে সেফ",
+  "redub": true
+ }
+]

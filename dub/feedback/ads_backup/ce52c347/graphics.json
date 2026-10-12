@@ -1,0 +1,92 @@
+{
+ "video_id": "ce52c347",
+ "product": "uv_sunscreen",
+ "caption_y": 0.9,
+ "elements": [
+  {
+   "type": "hook_mono",
+   "start": 0.15,
+   "end": 2.15,
+   "lines": [
+    "ONE SUNSCREEN",
+    "TWO ACTIONS"
+   ],
+   "position": "top",
+   "anim": "slide_up"
+  },
+  {
+   "type": "claim_bold",
+   "start": 4.5,
+   "end": 6.0,
+   "lines": [
+    "SPF 50 PA+++"
+   ],
+   "sub": "UVA + UVB PROTECTION",
+   "position": "top",
+   "anim": "fade"
+  },
+  {
+   "type": "pill",
+   "start": 6.5,
+   "end": 8.15,
+   "lines": [
+    "4% NIACINAMIDE",
+    "EVEN-LOOKING SKIN"
+   ],
+   "position": "top",
+   "anim": "pop"
+  },
+  {
+   "type": "hud",
+   "variant": "scan",
+   "start": 10.5,
+   "end": 11.9
+  },
+  {
+   "type": "claim_bold",
+   "start": 12.5,
+   "end": 14.4,
+   "lines": [
+    "PURPLE TINT",
+    "INSTANT GLOW"
+   ],
+   "sub": "COLOUR CORRECTION",
+   "position": "top",
+   "anim": "fade"
+  },
+  {
+   "type": "claim_bold",
+   "start": 15.3,
+   "end": 16.6,
+   "lines": [
+    "NO WHITE CAST"
+   ],
+   "sub": "LIGHTWEIGHT",
+   "position": "top",
+   "anim": "fade"
+  },
+  {
+   "type": "label",
+   "start": 17.45,
+   "end": 18.75,
+   "lines": [
+    "BEFORE"
+   ],
+   "x": 0.25,
+   "y": 0.14,
+   "anim": "pop"
+  },
+  {
+   "type": "label",
+   "start": 17.45,
+   "end": 18.75,
+   "lines": [
+    "AFTER"
+   ],
+   "x": 0.75,
+   "y": 0.14,
+   "anim": "pop"
+  }
+ ],
+ "notes": "Dual-action reactor: hook above the tube hero (label untouched); SPF 50 PA+++ over the dish as UVA/UVB is said; 4% niacinamide pill above the colour wheel as it is said; scan hud on the ray-shield macro; purple-tint colour correction over the molecule macro as 'colour-correct...radiant glow' is said; no white cast over the sky during the forearm blend; before/after tags above the split face. Typo audit: all 5 flagged tracks (4,5,11,14,20) are the tube's printed label -> ignored, no covers. | AD pass: claim/hud ends pulled inside shot cuts (6.13, 11.97); purple-tint claim shortened to PURPLE TINT / INSTANT GLOW + sub COLOUR CORRECTION (was edge-to-edge)."
+}

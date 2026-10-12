@@ -1,0 +1,35 @@
+[
+ {
+  "id": 1,
+  "speaker": "dark_spot",
+  "cer": 0.13,
+  "heard": "আমাদের ফেড করাতুর কোম্মুন ওই ?",
+  "redub": true
+ },
+ {
+  "id": 2,
+  "speaker": "jar",
+  "cer": 0.19,
+  "heard": "তাই নকি একবট তেস্কর দেখবি।"
+ },
+ {
+  "id": 3,
+  "speaker": "kojic_acid",
+  "cer": 0.15,
+  "heard": "Challenge accepted, team, dark spot গুলো টারগেট করো।",
+  "redub": true
+ },
+ {
+  "id": 4,
+  "speaker": "narrator",
+  "cer": 0.19,
+  "heard": "দিন তে টারগেটিড ইন্গেডিয়েন্টির পাওার একটাই নইটক্য়ে"
+ },
+ {
+  "id": 5,
+  "speaker": "narrator",
+  "cer": 0.15,
+  "heard": "ডারম ডাক কোজিক এসিড নাইট করিম পৃতিটা রাতি দামি।",
+  "redub": true
+ }
+]

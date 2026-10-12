@@ -1,0 +1,49 @@
+[
+ {
+  "id": 1,
+  "speaker": "uv_rays",
+  "cer": 0.24,
+  "heard": "இவச்கினுக்கு இனுமே சான்சாயில்லு.",
+  "redub": true
+ },
+ {
+  "id": 2,
+  "speaker": "judge",
+  "cer": 0.23,
+  "heard": "கோட்டிப்பா அரம்ப மக்து"
+ },
+ {
+  "id": 3,
+  "speaker": "spf_shield",
+  "cer": 0.15,
+  "heard": "ஆதாரம் வண்ணும் UV UV protection."
+ },
+ {
+  "id": 4,
+  "speaker": "purple_tint",
+  "cer": 0.28,
+  "heard": "ஆதாரம் இரண்டு பெர்பல் மன்சிலுக்கு இதறு டலஸ் கான்சல.",
+  "redub": true
+ },
+ {
+  "id": 5,
+  "speaker": "niacinamide",
+  "cer": 0.26,
+  "heard": "நான் டல்ஸ் கினை பிரைடாக்கோதவுரே.",
+  "redub": true
+ },
+ {
+  "id": 6,
+  "speaker": "judge",
+  "cer": 0.52,
+  "heard": "தீர்பு மொல்லுசாக்கலந்துடார் இந்துந்து கலா",
+  "redub": true
+ },
+ {
+  "id": 7,
+  "speaker": "judge",
+  "cer": 0.29,
+  "heard": "கேச முடின்சது",
+  "repaired": true
+ }
+]

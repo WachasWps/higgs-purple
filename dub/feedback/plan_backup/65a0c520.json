@@ -1,0 +1,167 @@
+{
+ "video_id": "65a0c520",
+ "style": "ugc",
+ "duration": 20.039,
+ "cast": [
+  {
+   "id": "creator",
+   "name": "Creator",
+   "role": "creator",
+   "description": "young Indian college student with a bob haircut in a white shirt, filming herself on a sunny campus terrace, bright friendly conversational female voice",
+   "ref_ranges": [
+    [
+     0.0,
+     2.08
+    ],
+    [
+     2.3,
+     4.52
+    ],
+    [
+     4.72,
+     6.84
+    ]
+   ],
+   "fx": "none",
+   "pitch_semitones": 0
+  }
+ ],
+ "lines": [
+  {
+   "id": 1,
+   "speaker": "creator",
+   "start": 0.0,
+   "end": 2.08,
+   "max_end": 2.26,
+   "en": "My skin looked dull before my day had even started.",
+   "tag": "sad",
+   "keep_original": false,
+   "bn": "দিন শুরুর আগেই স্কিনটা ডাল লাগছিল।",
+   "ta": "காலையிலேயே ஸ்கின் டல்லா இருக்கு.",
+   "te": "పొద్దున్నే స్కిన్ డల్‌గా ఉంది.",
+   "ml": "രാവിലെ തന്നെ സ്കിൻ ഡൾ ആയി.",
+   "or": "ସକାଳୁ ସକାଳୁ ସ୍କିନ ଡଲ ଲାଗୁଥିଲା।"
+  },
+  {
+   "id": 2,
+   "speaker": "creator",
+   "start": 2.3,
+   "end": 4.52,
+   "max_end": 4.68,
+   "en": "Then I understood why the sunscreen has a purple tint.",
+   "tag": "surprise",
+   "keep_original": false,
+   "bn": "তারপর বুঝলাম কেন পার্পল টিন্ট।",
+   "ta": "அப்போ புரிஞ்சுது, ஏன் பர்ப்பிள்னு!",
+   "te": "అప్పుడే అర్థమైంది, ఎందుకు పర్పుల్ అని.",
+   "ml": "അപ്പോഴാ കത്തിയത്, എന്തിനാ പർപ്പിൾ!",
+   "or": "ତାପରେ ବୁଝିଲି, କାହିଁକି ପର୍ପଲ।"
+  },
+  {
+   "id": 3,
+   "speaker": "creator",
+   "start": 4.72,
+   "end": 6.84,
+   "max_end": 6.94,
+   "en": "Purple helps colour-correct yellow-looking dullness.",
+   "tag": null,
+   "keep_original": false,
+   "bn": "পার্পল হলদে ডালনেস কালার কারেক্ট করে।",
+   "ta": "பர்ப்பிள், மஞ்சள் டல்னஸ்ஸ கரெக்ட் பண்ணும்.",
+   "te": "పర్పుల్, పసుపు డల్‌నెస్‌ని కరెక్ట్ చేస్తది.",
+   "ml": "പർപ്പിൾ, മഞ്ഞ ഡൾനെസ്സ് കറക്റ്റ് ചെയ്യും.",
+   "or": "ପର୍ପଲ, ହଳଦିଆ ଡଲନେସକୁ କଲର କରେକ୍ଟ କରେ।"
+  },
+  {
+   "id": 4,
+   "speaker": "creator",
+   "start": 6.98,
+   "end": 8.12,
+   "max_end": 8.24,
+   "en": "Let's test it on one side.",
+   "tag": "happy",
+   "keep_original": false,
+   "bn": "চলো, এক সাইডে টেস্ট করি!",
+   "ta": "வா, ஒரு சைட் டெஸ்ட்!",
+   "te": "ఒక సైడ్ టెస్ట్ చేద్దాం!",
+   "ml": "വാ, ഒരു സൈഡ് ടെസ്റ്റ്!",
+   "or": "ଗୋଟେ ସାଇଡ ଟେଷ୍ଟ କରିବା!"
+  },
+  {
+   "id": 5,
+   "speaker": "creator",
+   "start": 8.28,
+   "end": 10.4,
+   "max_end": 10.56,
+   "en": "Brighter-looking, but still completely my skin tone.",
+   "tag": "surprise",
+   "keep_original": false,
+   "bn": "ব্রাইট লাগছে, তবু স্কিন টোন আমারই।",
+   "ta": "ப்ரைட்டா இருக்கு, ஆனா அதே ஸ்கின் டோன்!",
+   "te": "బ్రైట్‌గా ఉంది, కానీ అచ్చం నా స్కిన్ టోనే.",
+   "ml": "ബ്രൈറ്റ്, പക്ഷേ എന്റെ സ്കിൻ ടോൺ തന്നെ!",
+   "or": "ବ୍ରାଇଟ ଲାଗୁଛି, ହେଲେ ମୋରି ସ୍କିନ ଟୋନ।"
+  },
+  {
+   "id": 6,
+   "speaker": "creator",
+   "start": 10.6,
+   "end": 13.0,
+   "max_end": 13.24,
+   "en": "It blends clear with no white cast and no sticky layer.",
+   "tag": "happy",
+   "keep_original": false,
+   "bn": "মিশে যায়, নো হোয়াইট কাস্ট, নো স্টিকি।",
+   "ta": "க்ளியரா ப்ளெண்ட், நோ வைட் காஸ்ட், நோ ஸ்டிக்கி!",
+   "te": "క్లియర్‌గా బ్లెండ్, నో వైట్ కాస్ట్, నో స్టిక్కీ!",
+   "ml": "ക്ലിയർ ബ്ലെൻഡ്, നോ വൈറ്റ് കാസ്റ്റ്, നോ സ്റ്റിക്കി!",
+   "or": "ମିଶିଯାଏ, ନୋ ହ୍ୱାଇଟ କାଷ୍ଟ, ନୋ ଷ୍ଟିକି।"
+  },
+  {
+   "id": 7,
+   "speaker": "creator",
+   "start": 13.28,
+   "end": 14.9,
+   "max_end": 14.98,
+   "en": "Inside, 4% niacinamide.",
+   "tag": null,
+   "keep_original": false,
+   "bn": "চার পারসেন্ট নিয়াসিনামাইড।",
+   "ta": "உள்ள நாலு பர்சன்ட் நியாசினமைட்.",
+   "te": "లోపల ఫోర్ పర్సెంట్ నియాసినమైడ్.",
+   "ml": "ഇതിൽ ഫോർ പെർസന്റ് നിയാസിനാമൈഡ്.",
+   "or": "ଫୋର ପରସେଣ୍ଟ ନିଆସିନାମାଇଡ।"
+  },
+  {
+   "id": 8,
+   "speaker": "creator",
+   "start": 15.02,
+   "end": 17.24,
+   "max_end": 17.46,
+   "en": "Outside, SPF 50 PA+++ protection.",
+   "tag": null,
+   "keep_original": false,
+   "bn": "আর এসপিএফ ফিফটি, পিএ ট্রিপল প্লাস।",
+   "ta": "வெளிய எஸ்பிஎஃப் ஃபிஃப்டி, பிஏ ட்ரிபிள் ப்ளஸ்!",
+   "te": "బయట ఎస్‌పీఎఫ్ ఫిఫ్టీ, పీఏ ట్రిపుల్ ప్లస్.",
+   "ml": "കൂടെ എസ്പിഎഫ് ഫിഫ്റ്റി, പിഎ ട്രിപ്പിൾ പ്ലസ്.",
+   "or": "ଆଉ ଏସପିଏଫ ଫିଫ୍ଟି, ପିଏ ଟ୍ରିପଲ ପ୍ଲସ।"
+  },
+  {
+   "id": 9,
+   "speaker": "creator",
+   "start": 17.5,
+   "end": 19.88,
+   "max_end": 19.64,
+   "en": "Dullness corrected, glow controlled, day protected.",
+   "tag": "happy",
+   "keep_original": false,
+   "bn": "ডালনেস ঠিক, গ্লো কন্ট্রোলে, দিন সেফ!",
+   "ta": "டல்னஸ் கரெக்ட், க்ளோ கண்ட்ரோல், டே சேஃப்!",
+   "te": "డల్‌నెస్ కరెక్ట్, గ్లో కంట్రోల్, డే సేఫ్!",
+   "ml": "ഡൾനെസ് കറക്റ്റ്, ഗ്ലോ കൺട്രോൾ, ഡേ സേഫ്!",
+   "or": "ଡଲନେସ କରେକ୍ଟ, ଗ୍ଲୋ କଣ୍ଟ୍ରୋଲ, ଦିନ ସେଫ!"
+  }
+ ],
+ "notes": "Single on-camera creator (f0 ~218-263 Hz; the 263 Hz on line 4 is her excited delivery, same person). Whisper heard 'SPF 50 PA plus' on line 8; the prompt and product claim are PA+++, so the dub says 'PA triple plus' (no new claim). Line 5 'brighter-looking' is rendered as bright/glow wording, never fairness or whitening. Purple tint is a colour-correcting sunscreen; no product name is spoken in this video. Last line ends at 19.88, past max_end 19.64 but within tolerance."
+}

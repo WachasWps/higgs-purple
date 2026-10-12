@@ -1,0 +1,51 @@
+{
+ "video_id": "74495eba",
+ "product": "ps",
+ "category": "product_avatar",
+ "approach": "v2_original_story",
+ "shots": [
+  {
+   "start": 0,
+   "end": 4.6,
+   "action": "keep",
+   "n": 1
+  },
+  {
+   "start": 4.6,
+   "end": 8.2,
+   "action": "keep",
+   "n": 2
+  },
+  {
+   "start": 8.2,
+   "end": 12.2,
+   "action": "replace",
+   "replace_with": "GRAPHIC_COLOUR_WHEEL",
+   "n": 3
+  },
+  {
+   "start": 12.2,
+   "end": 14.6,
+   "action": "keep",
+   "n": 4
+  },
+  {
+   "start": 14.6,
+   "end": 16.05,
+   "action": "replace",
+   "n": 5,
+   "replace_with": "GRAPHIC_BA_SPLIT",
+   "ba_pair": [
+    "BA2_74495eba_BEFORE",
+    "BA2_74495eba_AFTER"
+   ],
+   "ba_face_y": 0.08
+  },
+  {
+   "start": 16.05,
+   "end": 20.04,
+   "action": "keep",
+   "n": 6
+  }
+ ]
+}

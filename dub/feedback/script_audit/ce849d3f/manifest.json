@@ -1,0 +1,257 @@
+{
+ "video": "ce849d3f",
+ "style": "personification",
+ "cast": [
+  {
+   "id": "greasiness",
+   "name": "Greasiness",
+   "description": "small glossy golden oil-droplet villain skateboarding across the woman's cheek leaving an oily trail; cheeky, gloating, squeaky-high troublemaker voice that turns panicky when defeated; should sound sly and menacing but playful"
+  },
+  {
+   "id": "tube",
+   "name": "DERMDOC Sunscreen Tube",
+   "description": "the white DERMDOC Ultra Violet sunscreen tube with expressive eyes and tiny lavender arms; sassy, confident boss voice, cool and in control (it fires the villain)"
+  },
+  {
+   "id": "purple_tint",
+   "name": "Purple Tint",
+   "description": "friendly lavender droplet hero; soft, sweet, silky cartoon voice describing the texture"
+  },
+  {
+   "id": "spf_shield",
+   "name": "SPF Shield",
+   "description": "cobalt-blue SPF 50 PA+++ shield hero blocking UV rays; deep, firm, no-nonsense bodyguard voice"
+  },
+  {
+   "id": "niacinamide",
+   "name": "Niacinamide",
+   "description": "silver-lavender 4% niacinamide molecule hero clearing the dullness haze; bright, cheerful, sparkly cartoon voice"
+  }
+ ],
+ "lines": [
+  {
+   "id": 1,
+   "start": 0.0,
+   "end": 2.24,
+   "speaker": "greasiness",
+   "en": "More shine! More stickiness!"
+  },
+  {
+   "id": 2,
+   "start": 2.62,
+   "end": 4.06,
+   "speaker": "tube",
+   "en": "You're not part of my finish."
+  },
+  {
+   "id": 3,
+   "start": 4.58,
+   "end": 6.64,
+   "speaker": "purple_tint",
+   "en": "I'm opposite yellow, so I cancel dullness."
+  },
+  {
+   "id": 4,
+   "start": 6.94,
+   "end": 8.5,
+   "speaker": "greasiness",
+   "en": "Wait, where's the sticky layer?"
+  },
+  {
+   "id": 5,
+   "start": 8.74,
+   "end": 9.34,
+   "speaker": "tube",
+   "en": "Fired."
+  },
+  {
+   "id": 6,
+   "start": 9.6,
+   "end": 11.66,
+   "speaker": "spf_shield",
+   "en": "Comfortable finish. Serious protection."
+  },
+  {
+   "id": 7,
+   "start": 11.94,
+   "end": 13.64,
+   "speaker": "niacinamide",
+   "en": "And I help bring an instant glow."
+  },
+  {
+   "id": 8,
+   "start": 14.32,
+   "end": 16.56,
+   "speaker": "tube",
+   "en": "Protected, comfortable, made for Indian skin."
+  }
+ ],
+ "shots": [
+  {
+   "n": 1,
+   "start": 0,
+   "end": 2.7,
+   "what": "original footage",
+   "frames": [
+    "s01_0.jpg",
+    "s01_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 1,
+     "start": 0.0,
+     "end": 2.24,
+     "speaker": "greasiness",
+     "en": "More shine! More stickiness!"
+    },
+    {
+     "id": 2,
+     "start": 2.62,
+     "end": 4.06,
+     "speaker": "tube",
+     "en": "You're not part of my finish."
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "start": 2.7,
+   "end": 4.6,
+   "what": "STORY_ce849d3f_S2",
+   "frames": [
+    "s02_0.jpg",
+    "s02_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 2,
+     "start": 2.62,
+     "end": 4.06,
+     "speaker": "tube",
+     "en": "You're not part of my finish."
+    },
+    {
+     "id": 3,
+     "start": 4.58,
+     "end": 6.64,
+     "speaker": "purple_tint",
+     "en": "I'm opposite yellow, so I cancel dullness."
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "start": 4.6,
+   "end": 6.9,
+   "what": "GRAPHIC_COLOUR_WHEEL",
+   "frames": [
+    "s03_0.jpg",
+    "s03_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 3,
+     "start": 4.58,
+     "end": 6.64,
+     "speaker": "purple_tint",
+     "en": "I'm opposite yellow, so I cancel dullness."
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "start": 6.9,
+   "end": 8.6,
+   "what": "original footage",
+   "frames": [
+    "s04_0.jpg",
+    "s04_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 4,
+     "start": 6.94,
+     "end": 8.5,
+     "speaker": "greasiness",
+     "en": "Wait, where's the sticky layer?"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "start": 8.6,
+   "end": 9.6,
+   "what": "USR_PS_BLEND",
+   "frames": [
+    "s05_0.jpg",
+    "s05_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 5,
+     "start": 8.74,
+     "end": 9.34,
+     "speaker": "tube",
+     "en": "Fired."
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "start": 9.6,
+   "end": 11.8,
+   "what": "original footage",
+   "frames": [
+    "s06_0.jpg",
+    "s06_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 6,
+     "start": 9.6,
+     "end": 11.66,
+     "speaker": "spf_shield",
+     "en": "Comfortable finish. Serious protection."
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "start": 11.8,
+   "end": 13.9,
+   "what": "original footage",
+   "frames": [
+    "s07_0.jpg",
+    "s07_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 7,
+     "start": 11.94,
+     "end": 13.64,
+     "speaker": "niacinamide",
+     "en": "And I help bring an instant glow."
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "start": 13.9,
+   "end": 17.0,
+   "what": "original footage",
+   "frames": [
+    "s08_0.jpg",
+    "s08_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 8,
+     "start": 14.32,
+     "end": 16.56,
+     "speaker": "tube",
+     "en": "Protected, comfortable, made for Indian skin."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,65 @@
+[
+ {
+  "id": 1,
+  "speaker": "creator",
+  "cer": 0.2,
+  "heard": "சகின் டல்லா, டார்க் ச்பாட்ஸ் ஏக்க் நோர் பண்ணவே முடியலு.",
+  "redub": true
+ },
+ {
+  "id": 2,
+  "speaker": "creator",
+  "cer": 0.1,
+  "heard": "அதான் டெய்லி நைட்டிது.",
+  "redub": true
+ },
+ {
+  "id": 3,
+  "speaker": "creator",
+  "cer": 0.24,
+  "heard": "கலோப்பியுஸ்ன்ல கோசிகாசிட் நியாசினமைத் ஆல்பா அர்புடின்.",
+  "redub": true
+ },
+ {
+  "id": 4,
+  "speaker": "creator",
+  "cer": 0.15,
+  "heard": "9-Cream Texer Semmerich",
+  "redub": true
+ },
+ {
+  "id": 5,
+  "speaker": "creator",
+  "cer": 0.43,
+  "heard": "கண்சம் போகிறு.",
+  "redub": true
+ },
+ {
+  "id": 6,
+  "speaker": "creator",
+  "cer": 0.27,
+  "heard": "முகம் கடுத்து புல்லா பலன்ட்",
+  "redub": true
+ },
+ {
+  "id": 7,
+  "speaker": "creator",
+  "cer": 0.15,
+  "heard": "அப்புரம் sleep to glow time.",
+  "redub": true
+ },
+ {
+  "id": 8,
+  "speaker": "creator",
+  "cer": 0.19,
+  "heard": "ரண்டு வாரத்தில் டாக் ச்பாட்ஸ் கொழிந்சமாதிரி டோன் மாரலே.",
+  "redub": true
+ },
+ {
+  "id": 9,
+  "speaker": "creator",
+  "cer": 1.0,
+  "heard": "ترمدا کوجک آسید نائٹ کریم.",
+  "redub": true
+ }
+]

@@ -1,0 +1,45 @@
+{
+  "created_at": "2026-10-08T13:08:12.569377Z",
+  "display_name": "Wan 3.0",
+  "id": "33c29291-132c-476f-bf2b-bfeaa5be46be",
+  "job_type": "wan3_0",
+  "min_result_url": null,
+  "params": {
+    "aspect_ratio": "9:16",
+    "duration": 20,
+    "generate_audio": true,
+    "height": 854,
+    "medias": [
+      {
+        "data": {
+          "id": "1f7e84e9-253f-4bb2-9b92-8b462e680c3e",
+          "type": "media_input",
+          "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3A6ZxB95Mnf55lwPBqzkePnTfzA/1f7e84e9-253f-4bb2-9b92-8b462e680c3e.webp"
+        },
+        "role": "image"
+      },
+      {
+        "data": {
+          "id": "56723c57-45bc-48a3-8ebf-b889362b8d5e",
+          "type": "media_input",
+          "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3A6ZxB95Mnf55lwPBqzkePnTfzA/56723c57-45bc-48a3-8ebf-b889362b8d5e.webp"
+        },
+        "role": "image"
+      },
+      {
+        "data": {
+          "id": "085c6800-076c-4b18-b3c3-5dee44e074ec",
+          "type": "media_input",
+          "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3A6ZxB95Mnf55lwPBqzkePnTfzA/085c6800-076c-4b18-b3c3-5dee44e074ec.png"
+        },
+        "role": "image"
+      }
+    ],
+    "prompt": "Create a premium 15-second vertical 9:16 Product Avatar advertisement for DERMDOC Ultra Violet Brightening Sunscreen.\nPRODUCT:\nUse the supplied DERMDOC tube as the exact reference. The avatar must retain the correct white packaging, translucent lavender cap, label structure, ULTRA VIOLET branding, 4% NIACINAMIDE WITH SPF 50 PA+++, BRIGHTENING SUNSCREEN, FOR INDIAN SKIN and 60 GM.\nAdd only eyes, mouth, eyebrows, tiny arms and lavender-white shoes.\nTEXT RULE:\nNo subtitles, captions, speech bubbles, benefit cards, timestamps, CTA or random text.\nOnly permit:\n“PURPLE TINT”\n“4% NIACINAMIDE”\n“SPF 50 PA+++”\nSHOT 1 — 0:00–0:03\nVISUAL:\nOpen on a real Indian woman’s face in daylight.\nA small flat White Cast villain attempts to paint a chalky grey-white streak across her cheek.\nWHITE CAST:\n“I’ll make this sunscreen impossible to miss!”\nThe product avatar steps between the villain and the woman.\nSUNSCREEN:\n“Wrong shade. Wrong sunscreen.”\nSHOT 2 — 0:03–0:06\nVISUAL:\nThe tube presents a colour wheel and a small range of realistic Indian skin-tone swatches.\nIt points from muted yellow across to the opposite violet section. White Cast looks confused.\nSUNSCREEN:\n“Purple visually balances yellow-looking dullness.”\nThe wheel must be visually correct and contain no written labels.\nSHOT 3 — 0:06–0:09\nVISUAL:\nDispense one controlled pale-lavender ribbon onto the back of the woman’s hand.\nShow:\n“PURPLE TINT”\nThe woman blends it across her natural warm-brown skin. The sunscreen disappears without whitening her hand.\nSUNSCREEN:\n“Purple Tint—made for Indian skin.”\nWhite Cast tries to leave chalk behind, but the smoothly blended finish pushes it away.\nSHOT 4 — 0:09–0:12.5\nVISUAL:\nShow the woman applying the sunscreen to her cheek.\nTransition into a controlled before-and-after divider using the same woman and lighting. The before side looks slightly ashy and dull. The after side looks natural and fresh—not fairer.\nShow briefly:\n“4% NIACINAMIDE”\nSUNSCREEN:\n“Four percent niacinamide helps brighten.”\nA transparent shield blocks incoming UVA and UVB rays.\nShow briefly:\n“SPF 50 PA+++”\nSUNSCREEN:\n“And SPF 50 PA+++ protects.”\nSHOT 5 — 0:12.5–0:15\nVISUAL:\nThe woman confidently steps into daylight. The exact sunscreen avatar stands upright beside the colour wheel while White Cast runs away.\nSUNSCREEN:\n“No ashiness. Just protected, brighter-looking skin.”\nFinish with the DERMDOC brand sting.\nNO NARRATOR.\nAVOID:\nMaking the woman fairer, an exaggerated white patch, powder resembling disease, purple skin, separate ingredient characters, fantasy skin terrain, incorrect packaging, excessive product and subtitles.",
+    "resolution": "480p",
+    "width": 480
+  },
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3A6ZxB95Mnf55lwPBqzkePnTfzA/hf_20261008_130812_33c29291-132c-476f-bf2b-bfeaa5be46be.mp4",
+  "status": "completed",
+  "thumbnail_url": "https://cdn.higgsfield.ai/user_3A6ZxB95Mnf55lwPBqzkePnTfzA/hf_20261008_130812_33c29291-132c-476f-bf2b-bfeaa5be46be_thumbnail.webp"
+}

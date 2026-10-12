@@ -1,0 +1,58 @@
+[
+ {
+  "id": 1,
+  "speaker": "creator",
+  "cer": 0.11,
+  "heard": "தினமும் காலையில சகின் தல்லா இருக்கும்.",
+  "redub": true
+ },
+ {
+  "id": 2,
+  "speaker": "creator",
+  "cer": 0.14,
+  "heard": "கலில் வில்ல பர்புள் மஞ்சிலுக்கு எதிர் மஞ்சல் டல்னசக்குறேக்கு உதவும்",
+  "redub": true
+ },
+ {
+  "id": 3,
+  "speaker": "creator",
+  "cer": 0.11,
+  "heard": "பில்ண்டிங் பாரங்க.",
+  "redub": true
+ },
+ {
+  "id": 4,
+  "speaker": "creator",
+  "cer": 0.15,
+  "heard": "lavender blend پرنا کلیر",
+  "redub": true
+ },
+ {
+  "id": 5,
+  "speaker": "creator",
+  "cer": 0.13,
+  "heard": "வைட் காஸ்ட ஜீரோ, பர்ப்புள் கரே ஜீரோ.",
+  "redub": true
+ },
+ {
+  "id": 6,
+  "speaker": "creator",
+  "cer": 0.24,
+  "heard": "இந்தியன் சகின்னுக்கு 4 பொர்சன் நாசனமைட் பரைத் லொக்கு.",
+  "redub": true
+ },
+ {
+  "id": 7,
+  "speaker": "creator",
+  "cer": 0.15,
+  "heard": "SBF 50 BA Triple Plus – Tylee Production",
+  "redub": true
+ },
+ {
+  "id": 8,
+  "speaker": "creator",
+  "cer": 0.15,
+  "heard": "தரம்டாக – aldera, violet, instant glow.",
+  "redub": true
+ }
+]

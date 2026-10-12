@@ -1,0 +1,54 @@
+[
+ {
+  "id": 1,
+  "speaker": "greasiness",
+  "cer": 0.15,
+  "heard": "sticky shiny duty ready"
+ },
+ {
+  "id": 2,
+  "speaker": "dullness",
+  "cer": 0.69,
+  "heard": "യൾന ദലന് നേ സിമകുംടു വന്.",
+  "redub": true
+ },
+ {
+  "id": 3,
+  "speaker": "sunscreen",
+  "cer": 0.15,
+  "heard": "Ningle Random File"
+ },
+ {
+  "id": 4,
+  "speaker": "sunscreen",
+  "cer": 0.47,
+  "heard": "കലരവില് പരപൽ മന്യുടെ എദര അതോന്ട് ഡലന്ന്സ കാന്സല.",
+  "redub": true
+ },
+ {
+  "id": 5,
+  "speaker": "sunscreen",
+  "cer": 0.53,
+  "heard": "പരൺ്റ് ട്ട് ഇന് സകിന് നായ്."
+ },
+ {
+  "id": 6,
+  "speaker": "sunscreen",
+  "cer": 0.15,
+  "heard": "4% niacinamide. Koode instant glow.",
+  "redub": true
+ },
+ {
+  "id": 7,
+  "speaker": "sunscreen",
+  "cer": 0.15,
+  "heard": "SPF 50PA++++ Veilnya Nocom"
+ },
+ {
+  "id": 8,
+  "speaker": "sunscreen",
+  "cer": 0.15,
+  "heard": "Instant Glow protected ravelly no lava.",
+  "redub": true
+ }
+]

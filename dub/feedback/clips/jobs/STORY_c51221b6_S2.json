@@ -1,0 +1,31 @@
+[
+  {
+    "created_at": "2026-10-09T18:20:54.344148Z",
+    "display_name": "Wan 3.0",
+    "id": "45f58b86-8038-4141-a46a-736815c2d223",
+    "job_type": "wan3_0",
+    "min_result_url": null,
+    "params": {
+      "aspect_ratio": "9:16",
+      "duration": 5,
+      "generate_audio": false,
+      "height": 1344,
+      "medias": [
+        {
+          "data": {
+            "id": "7a8e0378-534b-429a-a3d3-1681550714fb",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3A6ZxB95Mnf55lwPBqzkePnTfzA/7a8e0378-534b-429a-a3d3-1681550714fb.png"
+          },
+          "role": "start_image"
+        }
+      ],
+      "prompt": "The woman smiles at the tube in the foreground; the white-cast blob villain backs away, worried; gentle camera push-in; the tube stays exactly as in the first frame. Keep the exact look of the first frame: same real woman and skin tone, same cartoon characters, product label and cap exactly as in the first frame (cap on, no nozzle); smooth natural motion; no text appears.",
+      "resolution": "480p",
+      "width": 768
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3A6ZxB95Mnf55lwPBqzkePnTfzA/hf_20261009_182054_45f58b86-8038-4141-a46a-736815c2d223.mp4",
+    "status": "completed",
+    "thumbnail_url": "https://cdn.higgsfield.ai/user_3A6ZxB95Mnf55lwPBqzkePnTfzA/hf_20261009_182054_45f58b86-8038-4141-a46a-736815c2d223_thumbnail.webp"
+  }
+]

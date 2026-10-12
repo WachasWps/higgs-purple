@@ -1,0 +1,46 @@
+[
+ {
+  "id": 1,
+  "speaker": "kojic_jar",
+  "cer": 0.27,
+  "heard": "ఏంతి డాక స్పాట్స్ మల్లి మీటింగా."
+ },
+ {
+  "id": 2,
+  "speaker": "kojic_jar",
+  "cer": 0.15,
+  "heard": "Night team, meeting cancel.",
+  "redub": true
+ },
+ {
+  "id": 3,
+  "speaker": "kojic_acid",
+  "cer": 0.08,
+  "heard": "మొండి డాక స్పాట్స్ నపని."
+ },
+ {
+  "id": 4,
+  "speaker": "niacinamide",
+  "cer": 0.31,
+  "heard": "దా లేస్నే నో క్లీ చేస్తా."
+ },
+ {
+  "id": 5,
+  "speaker": "alpha_arbutin",
+  "cer": 0.14,
+  "heard": "అనీ వెంటోన్ నకు వదిలేయేండి."
+ },
+ {
+  "id": 6,
+  "speaker": "narrator",
+  "cer": 0.06,
+  "heard": "రిచ్క్రిమ్ పూర్తిగా ఇంకు పోతుంది. రిండు వారలో స్పాట్స్ తగ్యనట్టున్నాయి.",
+  "redub": true
+ },
+ {
+  "id": 7,
+  "speaker": "narrator",
+  "cer": 0.15,
+  "heard": "Dermdok 2% Cozic Acid Night Cream"
+ }
+]

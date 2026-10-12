@@ -1,0 +1,105 @@
+{
+ "video_id": "dad2130b",
+ "product": "uv_sunscreen",
+ "caption_y": 0.9,
+ "caption_moves": [
+  {
+   "start": 14.23,
+   "end": 17.43,
+   "y": 0.58
+  }
+ ],
+ "elements": [
+  {
+   "type": "hook_mono",
+   "start": 0.2,
+   "end": 2.55,
+   "lines": [
+    "PURPLE",
+    "SUNSCREEN?"
+   ],
+   "position": "lower",
+   "anim": "type"
+  },
+  {
+   "type": "pill",
+   "start": 8.35,
+   "end": 9.6,
+   "lines": [
+    "FOR INDIAN SKIN",
+    "NO WHITE CAST"
+   ],
+   "position": "top",
+   "anim": "pop"
+  },
+  {
+   "type": "pill",
+   "start": 10.75,
+   "end": 12.2,
+   "lines": [
+    "4% NIACINAMIDE",
+    "SPF 50 PA+++"
+   ],
+   "x": 0.5,
+   "y": 0.74,
+   "anim": "pop"
+  },
+  {
+   "type": "claim_bold",
+   "start": 12.6,
+   "end": 14.1,
+   "lines": [
+    "INSTANT GLOW"
+   ],
+   "x": 0.5,
+   "y": 0.72,
+   "anim": "fade"
+  },
+  {
+   "type": "label",
+   "start": 14.28,
+   "end": 17.38,
+   "lines": [
+    "BEFORE"
+   ],
+   "x": 0.5,
+   "y": 0.455,
+   "anim": "pop"
+  },
+  {
+   "type": "label",
+   "start": 14.28,
+   "end": 17.38,
+   "lines": [
+    "AFTER"
+   ],
+   "x": 0.5,
+   "y": 0.895,
+   "anim": "pop"
+  },
+  {
+   "type": "label",
+   "start": 14.28,
+   "end": 17.38,
+   "lines": [
+    "INSTANT GLOW"
+   ],
+   "x": 0.5,
+   "y": 0.955,
+   "anim": "pop"
+  },
+  {
+   "type": "claim_bold",
+   "start": 17.6,
+   "end": 19.8,
+   "lines": [
+    "PURPLE TINT",
+    "INSTANT GLOW"
+   ],
+   "x": 0.5,
+   "y": 0.76,
+   "anim": "fade"
+  }
+ ],
+ "notes": "Skeptic hook on MEERA's chest (PS07); colour-wheel window 2.77-6.0 left to the wheel graphic; Indian-skin pill on the PS08 hand blend; niacinamide + SPF below her face on the PS04 dots (ends at the cut); INSTANT GLOW as the PS05 cream melts in; B/A split BEFORE / INSTANT GLOW with captions under the divider; PURPLE TINT / INSTANT GLOW below her face on PS02 (tube label clear)."
+}

@@ -1,0 +1,37 @@
+[
+ {
+  "id": 1,
+  "speaker": "dark_spot",
+  "cer": 0.67,
+  "heard": "വേങ് അപുലോ രെങേ.",
+  "redub": true
+ },
+ {
+  "id": 2,
+  "speaker": "knc_jar",
+  "cer": 0.53,
+  "heard": "ക്ടന നയിട്മ ഉനരനിട്ട്ട്ട്ട.",
+  "redub": true
+ },
+ {
+  "id": 3,
+  "speaker": "kojic_acid",
+  "cer": 0.61,
+  "heard": "ശ നങള് പണേങല നാറക സപർട്സിൽ നയാസിനമയിട്യിടളിനഽിനൽ സില്.",
+  "redub": true
+ },
+ {
+  "id": 4,
+  "speaker": "narrator",
+  "cer": 0.39,
+  "heard": "മ�ൂനാക്ടിവ് രാദ്രിമുളവന രണ്ടായചെില് സ്പോട്സ് കുരണ്യപോലീ.",
+  "redub": true
+ },
+ {
+  "id": 5,
+  "speaker": "knc_jar",
+  "cer": 0.41,
+  "heard": "ദാളക് പോടനേ രാദരിയ് ലിവിലാ.",
+  "redub": true
+ }
+]

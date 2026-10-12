@@ -1,0 +1,189 @@
+{
+ "video_id": "caf29456",
+ "product": "ps",
+ "category": "ugc",
+ "shots": [
+  {
+   "n": 1,
+   "start": 0.0,
+   "end": 2.67,
+   "content": "Curly-haired creator on a sunny balcony gesturing at a half-visible product box she seems to be looking into, talking to camera.",
+   "issues": [
+    "dull_in_sunlight_concept",
+    "unclear_action",
+    "lip_sync_talking_head",
+    "model_not_dusky_enough",
+    "two_products_risk"
+   ],
+   "action": "replace",
+   "replace_with": "PS07_before_dull",
+   "custom": null,
+   "note": "Client 00003296 'what is she looking into? product? also dull in sunlight makes no sense'. Use MEERA's dull, matte BEFORE face as B-roll (no box, no sunlight premise) under the rewritten L1."
+  },
+  {
+   "n": 2,
+   "start": 2.67,
+   "end": 6.6,
+   "content": "AI colour wheel on stone with a lavender dollop; yellow is not opposite purple.",
+   "issues": [
+    "wrong_colour_wheel",
+    "colour_wheel_unexplained"
+   ],
+   "action": "replace",
+   "replace_with": "GRAPHIC_COLOUR_WHEEL",
+   "custom": null,
+   "note": "L2+L3 (rewritten): the correct animated wheel full-screen with purple exactly opposite yellow, an arrow between them, and the yellow segment neutralising on 'helps cancel yellow-looking dullness'. 3.9 s holds the whole explanation."
+  },
+  {
+   "n": 3,
+   "start": 6.6,
+   "end": 8.1,
+   "content": "Tube squeezing a lavender swirl onto the back of a hand, pointed nozzle visible.",
+   "issues": [
+    "nozzle",
+    "packaging_wrong",
+    "hand_continuity"
+   ],
+   "action": "replace",
+   "replace_with": "PS08_hand_swatch",
+   "custom": null,
+   "note": "L4 'And no, it doesn't stay purple.' S3+S4+S5 (6.6-10.6 = 4.0 s) become ONE PS08 clip at 1.25x. Here clip 0-1.9 s: the lavender stripe on MEERA's dusky hand (no tube in frame, so no nozzle)."
+  },
+  {
+   "n": 4,
+   "start": 8.1,
+   "end": 8.73,
+   "content": "Two wrists side by side, one with a pale lavender/white cast.",
+   "issues": [
+    "white_cast",
+    "no_visible_difference"
+   ],
+   "action": "replace",
+   "replace_with": "PS08_hand_swatch",
+   "custom": null,
+   "note": "Continuation of PS08 (clip 1.9-2.7 s): fingertips start rubbing the stripe."
+  },
+  {
+   "n": 5,
+   "start": 8.73,
+   "end": 10.6,
+   "content": "Fingers rubbing cream on the hand, leaving a visible whitish cast.",
+   "issues": [
+    "white_cast",
+    "not_blended"
+   ],
+   "action": "replace",
+   "replace_with": "PS08_hand_swatch",
+   "custom": null,
+   "note": "Client 00003295 'looks like a cast. pls blend'. End of PS08 (clip 2.7-5.0 s): the lavender fully vanishes with no cast and no residue, leaving a radiant patch, under L5 'It blends clear on Indian skin, no white cast'. Keep the 'BLENDS CLEAR / NO WHITE CAST' pill and HUD."
+  },
+  {
+   "n": 6,
+   "start": 10.6,
+   "end": 14.57,
+   "content": "Creator facing camera with lavender dots on forehead, nose, cheeks and chin, fingers starting to blend.",
+   "issues": [
+    "model_not_dusky_enough",
+    "transformation_missing",
+    "lip_sync"
+   ],
+   "action": "replace",
+   "replace_with": "PS04_dot_face",
+   "custom": null,
+   "note": "L6 (niacinamide, Instant Glow, same skin tone). Two library clips: PS04_dot_face clip 0-1.5 s (dots, blending starts), then PS05_blend_glow clip 2.5-5.0 s (lavender melts away, skin becomes dewy with an Instant Glow, she lowers her hand and smiles). This is the missing application -> blended -> glow beat.",
+   "then": "PS05_blend_glow"
+  },
+  {
+   "n": 7,
+   "start": 14.57,
+   "end": 16.23,
+   "content": "AI before/after split face, with no visible difference between the halves and baked-in BEFORE/AFTER text.",
+   "issues": [
+    "no_visible_difference",
+    "missing_instant_glow_label"
+   ],
+   "action": "replace",
+   "replace_with": "GRAPHIC_BA_SPLIT",
+   "custom": null,
+   "note": "Client 00003294 'no difference visible'. Vertical half/half: left PS07_before_dull, right PS06_glow_after, labels 'BEFORE' / 'INSTANT GLOW'. 1.66 s is short, so if possible pull the cut in to 14.2 (end PS05 earlier) to hold the split about 2 s."
+  },
+  {
+   "n": 8,
+   "start": 16.23,
+   "end": 20.04,
+   "content": "Creator holding the tube in an SPF bubble graphic on the balcony, talking to camera.",
+   "issues": [
+    "model_not_dusky_enough",
+    "lip_sync_talking_head",
+    "continuity"
+   ],
+   "action": "replace",
+   "replace_with": "PS09_outdoor_glow",
+   "custom": null,
+   "note": "L7 'SPF 50 PA+++ keeps my daytime protection covered.' MEERA steps into the sun with glowing, even skin and no cast, so the video ends on a face. Keep the SPF bubble super on top."
+  }
+ ],
+ "script_changes": [
+  {
+   "line_id": 1,
+   "old_en": "Why does sunlight expose every bit of dullness?",
+   "new_en": "Why does my skin always look so dull?",
+   "reason": "Client: 'dull in sunlight' makes no sense"
+  },
+  {
+   "line_id": 2,
+   "old_en": "That's where this purple tint makes sense.",
+   "new_en": "Purple sits opposite yellow on the colour wheel.",
+   "reason": "Explain the colour wheel"
+  },
+  {
+   "line_id": 3,
+   "old_en": "Violet helps correct yellow-looking dullness.",
+   "new_en": "So it helps cancel yellow-looking dullness.",
+   "reason": "Explain WHY purple: opposite colours cancel"
+  },
+  {
+   "line_id": 6,
+   "old_en": "You also get 4% Niacinamide for brighter, more even-looking skin, without changing your natural skin tone.",
+   "new_en": "With 4% Niacinamide, I get an Instant Glow and more even-looking skin, without changing my natural skin tone.",
+   "reason": "Instant Glow must be said and shown (PS05 transformation plays here)"
+  }
+ ],
+ "new_lines": [],
+ "supers": [
+  {
+   "action": "change",
+   "match": "DULL IN / SUNLIGHT?",
+   "text": "DULL-LOOKING / SKIN?",
+   "start": 0.2,
+   "end": 2.4,
+   "why": "Client: 'dull in sunlight' makes no sense"
+  },
+  {
+   "action": "change",
+   "match": "PURPLE TINT / COLOUR CORRECTION",
+   "text": "PURPLE IS OPPOSITE YELLOW / HELPS CANCEL YELLOW-LOOKING DULLNESS",
+   "start": 2.9,
+   "end": 6.4,
+   "why": "Explain the colour wheel and sync it to the correct wheel graphic"
+  },
+  {
+   "action": "change",
+   "match": "4% NIACINAMIDE / EVEN-LOOKING SKIN",
+   "text": "4% NIACINAMIDE / INSTANT GLOW",
+   "start": 11.0,
+   "end": 14.3,
+   "why": "Label the blend -> glow transformation as Instant Glow"
+  },
+  {
+   "action": "change",
+   "match": "AFTER",
+   "text": "INSTANT GLOW",
+   "start": 14.6,
+   "end": 16.2,
+   "why": "Client: 'Instant Glow' under the after image"
+  }
+ ],
+ "voice_changes": [],
+ "summary": "Removed the 'dull in sunlight' premise. All creator shots are now MEERA B-roll: dull face -> correct wheel -> hand swatch blending fully clear -> dots -> blend -> Instant Glow -> B/A split -> outdoor glow. 0 custom."
+}

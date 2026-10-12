@@ -1,0 +1,275 @@
+{
+ "language": "en",
+ "segments": [
+  {
+   "seg": 0,
+   "start": 0.0,
+   "end": 2.24,
+   "text": "More shine! More stickiness!",
+   "f0_median_hz": 374,
+   "words": [
+    [
+     "More",
+     0.0,
+     0.46
+    ],
+    [
+     "shine!",
+     0.46,
+     0.92
+    ],
+    [
+     "More",
+     1.22,
+     1.54
+    ],
+    [
+     "stickiness!",
+     1.54,
+     2.24
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 1,
+   "start": 2.62,
+   "end": 4.06,
+   "text": "You're not part of my finish.",
+   "f0_median_hz": 222,
+   "words": [
+    [
+     "You're",
+     2.62,
+     2.92
+    ],
+    [
+     "not",
+     2.92,
+     3.1
+    ],
+    [
+     "part",
+     3.1,
+     3.32
+    ],
+    [
+     "of",
+     3.32,
+     3.48
+    ],
+    [
+     "my",
+     3.48,
+     3.72
+    ],
+    [
+     "finish.",
+     3.72,
+     4.06
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 2,
+   "start": 4.58,
+   "end": 6.64,
+   "text": "Smooth, lightweight, and easy to blend.",
+   "f0_median_hz": 235,
+   "words": [
+    [
+     "Smooth,",
+     4.58,
+     4.88
+    ],
+    [
+     "lightweight,",
+     5.18,
+     5.56
+    ],
+    [
+     "and",
+     5.84,
+     5.92
+    ],
+    [
+     "easy",
+     5.92,
+     6.22
+    ],
+    [
+     "to",
+     6.22,
+     6.36
+    ],
+    [
+     "blend.",
+     6.36,
+     6.64
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 3,
+   "start": 6.94,
+   "end": 8.5,
+   "text": "Wait, where's the sticky layer?",
+   "f0_median_hz": 441,
+   "words": [
+    [
+     "Wait,",
+     6.94,
+     7.26
+    ],
+    [
+     "where's",
+     7.42,
+     7.72
+    ],
+    [
+     "the",
+     7.72,
+     7.84
+    ],
+    [
+     "sticky",
+     7.84,
+     8.14
+    ],
+    [
+     "layer?",
+     8.14,
+     8.5
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 4,
+   "start": 8.74,
+   "end": 9.34,
+   "text": "Fired.",
+   "f0_median_hz": 194,
+   "words": [
+    [
+     "Fired.",
+     8.74,
+     9.34
+    ]
+   ],
+   "voice_cluster_hint": null
+  },
+  {
+   "seg": 5,
+   "start": 9.6,
+   "end": 11.66,
+   "text": "Comfortable finish, serious protection.",
+   "f0_median_hz": 161,
+   "words": [
+    [
+     "Comfortable",
+     9.6,
+     10.14
+    ],
+    [
+     "finish,",
+     10.14,
+     10.52
+    ],
+    [
+     "serious",
+     10.74,
+     11.16
+    ],
+    [
+     "protection.",
+     11.16,
+     11.66
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 6,
+   "start": 11.94,
+   "end": 13.64,
+   "text": "And I help bring back the brightness.",
+   "f0_median_hz": 266,
+   "words": [
+    [
+     "And",
+     11.94,
+     12.04
+    ],
+    [
+     "I",
+     12.04,
+     12.22
+    ],
+    [
+     "help",
+     12.22,
+     12.46
+    ],
+    [
+     "bring",
+     12.46,
+     12.72
+    ],
+    [
+     "back",
+     12.72,
+     12.98
+    ],
+    [
+     "the",
+     12.98,
+     13.2
+    ],
+    [
+     "brightness.",
+     13.2,
+     13.64
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 7,
+   "start": 14.32,
+   "end": 16.56,
+   "text": "Protected, bright looking, and comfortable.",
+   "f0_median_hz": 217,
+   "words": [
+    [
+     "Protected,",
+     14.32,
+     14.92
+    ],
+    [
+     "bright",
+     15.04,
+     15.36
+    ],
+    [
+     "looking,",
+     15.36,
+     15.66
+    ],
+    [
+     "and",
+     15.9,
+     16.14
+    ],
+    [
+     "comfortable.",
+     16.14,
+     16.56
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  }
+ ]
+}

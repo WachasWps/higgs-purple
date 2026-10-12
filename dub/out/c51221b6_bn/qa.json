@@ -1,0 +1,41 @@
+[
+ {
+  "id": 2,
+  "speaker": "white_cast",
+  "cer": 0.06,
+  "heard": "এবার সবাইতুর সান্সক্রিন দেখে।"
+ },
+ {
+  "id": 3,
+  "speaker": "sunscreen_tube",
+  "cer": 0.1,
+  "heard": "ভুল শান্সকরিন ভাযা।"
+ },
+ {
+  "id": 4,
+  "speaker": "purple_tint",
+  "cer": 0.1,
+  "heard": "হুশ কালার হিলে আমি হুলুদের উল্টো তাই দালোন স্কান্সেল করি",
+  "redub": true
+ },
+ {
+  "id": 5,
+  "speaker": "spf_shield",
+  "cer": 0.55,
+  "heard": "এর্র্র তামিস হমল�ু।",
+  "redub": true
+ },
+ {
+  "id": 6,
+  "speaker": "niacinamide",
+  "cer": 0.33,
+  "heard": "দালনেস এটিমে ছরবেনা ?"
+ },
+ {
+  "id": 7,
+  "speaker": "sunscreen_tube",
+  "cer": 0.19,
+  "heard": "আকদম মিশে জাই ইন্স্টেন গ্লো দাখো সান্স্করিন নয়।",
+  "redub": true
+ }
+]

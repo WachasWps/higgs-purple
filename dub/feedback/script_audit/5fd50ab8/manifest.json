@@ -1,0 +1,178 @@
+{
+ "video": "5fd50ab8",
+ "style": "product_avatar",
+ "cast": [
+  {
+   "id": "sunscreen",
+   "name": "DERMDOC Ultra Violet Sunscreen",
+   "description": "talking white DERMDOC Ultra Violet sunscreen tube with lavender cap, cartoon eyes, white-gloved arms and lavender shoes; confident, playful, lightly sarcastic cartoon voice, fairly low and relaxed (f0 ~140-155 Hz)"
+  }
+ ],
+ "lines": [
+  {
+   "id": 1,
+   "start": 0.78,
+   "end": 2.68,
+   "speaker": "sunscreen",
+   "en": "Morning skin drama again?"
+  },
+  {
+   "id": 2,
+   "start": 3.38,
+   "end": 8.98,
+   "speaker": "sunscreen",
+   "en": "Relax. My purple sits opposite yellow, so it cancels dullness."
+  },
+  {
+   "id": 3,
+   "start": 9.16,
+   "end": 12.32,
+   "speaker": "sunscreen",
+   "en": "Blend me in. Made for Indian skin, no cast."
+  },
+  {
+   "id": 4,
+   "start": 12.84,
+   "end": 15.4,
+   "speaker": "sunscreen",
+   "en": "Protected. Instant glow. Ready."
+  },
+  {
+   "id": 5,
+   "start": 17.9,
+   "end": 19.44,
+   "speaker": "sunscreen",
+   "en": "Instant glow, then go."
+  }
+ ],
+ "shots": [
+  {
+   "n": 1,
+   "start": 0,
+   "end": 3.6,
+   "what": "STORY_5fd50ab8_S1",
+   "frames": [
+    "s01_0.jpg",
+    "s01_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 1,
+     "start": 0.78,
+     "end": 2.68,
+     "speaker": "sunscreen",
+     "en": "Morning skin drama again?"
+    },
+    {
+     "id": 2,
+     "start": 3.38,
+     "end": 8.98,
+     "speaker": "sunscreen",
+     "en": "Relax. My purple sits opposite yellow, so it cancels dullness."
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "start": 3.6,
+   "end": 6.2,
+   "what": "STORY_5fd50ab8_S2",
+   "frames": [
+    "s02_0.jpg",
+    "s02_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 2,
+     "start": 3.38,
+     "end": 8.98,
+     "speaker": "sunscreen",
+     "en": "Relax. My purple sits opposite yellow, so it cancels dullness."
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "start": 6.2,
+   "end": 9.0,
+   "what": "GRAPHIC_COLOUR_WHEEL",
+   "frames": [
+    "s03_0.jpg",
+    "s03_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 2,
+     "start": 3.38,
+     "end": 8.98,
+     "speaker": "sunscreen",
+     "en": "Relax. My purple sits opposite yellow, so it cancels dullness."
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "start": 9.0,
+   "end": 12.9,
+   "what": "STORY_5fd50ab8_S3",
+   "frames": [
+    "s04_0.jpg",
+    "s04_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 3,
+     "start": 9.16,
+     "end": 12.32,
+     "speaker": "sunscreen",
+     "en": "Blend me in. Made for Indian skin, no cast."
+    },
+    {
+     "id": 4,
+     "start": 12.84,
+     "end": 15.4,
+     "speaker": "sunscreen",
+     "en": "Protected. Instant glow. Ready."
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "start": 12.9,
+   "end": 15.8,
+   "what": "GRAPHIC_BA_SPLIT",
+   "frames": [
+    "s05_0.jpg",
+    "s05_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 4,
+     "start": 12.84,
+     "end": 15.4,
+     "speaker": "sunscreen",
+     "en": "Protected. Instant glow. Ready."
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "start": 15.8,
+   "end": 20.0,
+   "what": "STORY_5fd50ab8_S5",
+   "frames": [
+    "s06_0.jpg",
+    "s06_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 5,
+     "start": 17.9,
+     "end": 19.44,
+     "speaker": "sunscreen",
+     "en": "Instant glow, then go."
+    }
+   ]
+  }
+ ]
+}

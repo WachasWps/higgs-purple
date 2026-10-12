@@ -1,0 +1,19 @@
+04:03:38 5 render(s) queued, 2 in parallel
+04:03:38 start 7558fbf1_bn (19.87s + outro) -> deliver/Bengali/18_kojic-night-cream_product_avatar_we-re-moving-in-permanently_7558fbf1.mp4
+04:03:38 start 7558fbf1_ta (19.87s + outro) -> deliver/Tamil/18_kojic-night-cream_product_avatar_we-re-moving-in-permanently_7558fbf1.mp4
+04:03:42 ok     7558fbf1_bn  4.8s
+04:03:42 start 7558fbf1_te (19.87s + outro) -> deliver/Telugu/18_kojic-night-cream_product_avatar_we-re-moving-in-permanently_7558fbf1.mp4
+04:03:44 ok     7558fbf1_ta  5.4s
+04:03:44 start 7558fbf1_ml (19.87s + outro) -> deliver/Malayalam/18_kojic-night-cream_product_avatar_we-re-moving-in-permanently_7558fbf1.mp4
+04:03:48 ok     7558fbf1_te  5.4s
+04:03:48 start 7558fbf1_or (19.87s + outro) -> deliver/Odia/18_kojic-night-cream_product_avatar_we-re-moving-in-permanently_7558fbf1.mp4
+04:03:50 ok     7558fbf1_ml  5.4s
+04:03:52 ok     7558fbf1_or  4.2s
+04:03:52 done: 5 ok, 0 failed; avg 5.0s/render
+ok   Bengali/18_kojic-night-cream_product_avatar_we-re-moving-in-permanently_7558fbf1.mp4 
+ok   Malayalam/18_kojic-night-cream_product_avatar_we-re-moving-in-permanently_7558fbf1.mp4 
+ok   Odia/18_kojic-night-cream_product_avatar_we-re-moving-in-permanently_7558fbf1.mp4 
+ok   Tamil/18_kojic-night-cream_product_avatar_we-re-moving-in-permanently_7558fbf1.mp4 
+ok   Telugu/18_kojic-night-cream_product_avatar_we-re-moving-in-permanently_7558fbf1.mp4 
+DONE 5 files -> /Users/wachas/Documents/higgs-purple/dub/deliver_music
+DONE7558

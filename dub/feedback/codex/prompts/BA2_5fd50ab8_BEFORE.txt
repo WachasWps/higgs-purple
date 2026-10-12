@@ -1,0 +1,6 @@
+Read CODEX_BRIEF.md in this folder first and follow it strictly.
+Attached reference images: ba2_refs/5fd50ab8.png. Product photos are the ground truth for packaging; the out/*_model_ref.png image is the identity reference for the woman — keep the SAME face, hair and skin tone.
+TASK: generate ONE photorealistic vertical 9:16 keyframe image:
+Use the attached frame ba2_refs/5fd50ab8.png as the reference. Create ONE clean photoreal vertical 9:16 head-and-shoulders portrait of the SAME woman — identical face, features, hair, skin tone, clothes, background and lighting as the frame, facing the camera, face centred in the upper-middle of the frame. Remove any text, labels, graphics, cartoon characters, product jars or cream on the skin. Natural real skin texture with pores (not airbrushed, not blurred). BEFORE state: skin looks dull, flat and slightly yellow-grey / tired, no glow, uneven-looking — realistic, not dirty. No text.
+
+Use your image generation tool (pass the reference images to it), then copy the generated file to out/BA2_5fd50ab8_BEFORE.png. Reply only with the saved path.

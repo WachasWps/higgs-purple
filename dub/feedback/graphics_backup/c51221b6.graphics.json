@@ -1,0 +1,57 @@
+{
+ "video_id": "c51221b6",
+ "product": "uv_sunscreen",
+ "caption_y": 0.9,
+ "elements": [
+  {
+   "type": "hook_mono",
+   "start": 0.2,
+   "end": 2.6,
+   "lines": [
+    "TIRED OF",
+    "WHITE CAST?"
+   ],
+   "x": 0.6,
+   "y": 0.085,
+   "anim": "slide_up"
+  },
+  {
+   "type": "claim_bold",
+   "start": 8.6,
+   "end": 10.8,
+   "lines": [
+    "SPF 50 PA+++"
+   ],
+   "sub": "UVA + UVB PROTECTION",
+   "x": 0.5,
+   "y": 0.12,
+   "anim": "fade"
+  },
+  {
+   "type": "pill",
+   "start": 11.15,
+   "end": 12.8,
+   "lines": [
+    "4% NIACINAMIDE",
+    "BRIGHTENS DULL-LOOKING SKIN"
+   ],
+   "x": 0.5,
+   "y": 0.76,
+   "anim": "pop"
+  },
+  {
+   "type": "claim_bold",
+   "start": 13.3,
+   "end": 15.35,
+   "lines": [
+    "INSTANT GLOW",
+    "NO WHITE CAST"
+   ],
+   "sub": "MADE FOR INDIAN SKIN TONES",
+   "x": 0.5,
+   "y": 0.76,
+   "anim": "fade"
+  }
+ ],
+ "notes": "Text pass (EDL): hook kept, over the hair of the shared villain-hook clip; no supers in the colour-wheel window 5.13-8.3 (PURPLE TINT pill removed; the EDL's MADE FOR INDIAN SKIN TONES card there moved into the after claim's sub); SPF claim over the hair on PS04; 5 blur boxes and the hand-shot HUD removed; 4% NIACINAMIDE pill below the chin on PS05; INSTANT GLOW / NO WHITE CAST + MADE FOR INDIAN SKIN TONES below the chin on PS06."
+}

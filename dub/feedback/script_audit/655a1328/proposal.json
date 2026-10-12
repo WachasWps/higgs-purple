@@ -1,0 +1,133 @@
+{
+ "video": "655a1328",
+ "shots": [
+  {
+   "n": 1,
+   "start": 0,
+   "end": 4.0,
+   "on_screen": "Woman at bathroom mirror touches cheek while a yellow-grey dullness blob attacks; tube character arrives on the counter."
+  },
+  {
+   "n": 2,
+   "start": 4.0,
+   "end": 7.4,
+   "on_screen": "Full-screen colour wheel, purple top, yellow bottom lit."
+  },
+  {
+   "n": 3,
+   "start": 7.4,
+   "end": 8.9,
+   "on_screen": "Ultra Violet tube lying in lavender cream swirls."
+  },
+  {
+   "n": 4,
+   "start": 8.9,
+   "end": 10.9,
+   "on_screen": "Close-up: woman pats lavender cream on cheek, caption 'PURPLE TINT'."
+  },
+  {
+   "n": 5,
+   "start": 10.9,
+   "end": 14.0,
+   "on_screen": "Before/after split of the woman, after slightly brighter."
+  },
+  {
+   "n": 6,
+   "start": 14.0,
+   "end": 16.6,
+   "on_screen": "Tube in lavender cream swirls, label shows 4% Niacinamide with SPF 50 PA+++."
+  },
+  {
+   "n": 7,
+   "start": 16.6,
+   "end": 20.0,
+   "on_screen": "Woman smiles in sunlight; tube character holds a mini colour wheel."
+  }
+ ],
+ "lines": [
+  {
+   "id": 1,
+   "start": 0.0,
+   "slot_s": 2.25,
+   "speaker": "dullness",
+   "current": "Let's make her skin look dull!",
+   "on_screen_during": "S1 dullness blob on cheek",
+   "verdict": "rewrite",
+   "new": "Let's make her look dull!",
+   "words": 5,
+   "reason": "over length (6w vs 5)"
+  },
+  {
+   "id": 2,
+   "start": 2.4,
+   "slot_s": 1.91,
+   "speaker": "sunscreen",
+   "current": "Not while I'm here.",
+   "on_screen_during": "S1 tube character appears",
+   "verdict": "keep",
+   "new": "Not while I'm here.",
+   "words": 4,
+   "reason": "fits"
+  },
+  {
+   "id": 3,
+   "start": 4.46,
+   "slot_s": 3.51,
+   "speaker": "sunscreen",
+   "current": "Yellow-looking dullness? Purple sits opposite, cancels it.",
+   "on_screen_during": "S2 colour wheel",
+   "verdict": "rewrite",
+   "new": "Purple sits opposite yellow, cancelling yellow-looking dullness.",
+   "words": 7,
+   "reason": "make wheel explanation explicit"
+  },
+  {
+   "id": 4,
+   "start": 8.12,
+   "slot_s": 2.85,
+   "speaker": "sunscreen",
+   "current": "My purple tint is made for Indian skin.",
+   "on_screen_during": "S3 tube in swirl, S4 lavender patted on cheek",
+   "verdict": "rewrite",
+   "new": "Purple tint, made for Indian skin.",
+   "words": 6,
+   "reason": "over length"
+  },
+  {
+   "id": 5,
+   "start": 11.12,
+   "slot_s": 2.75,
+   "speaker": "sunscreen",
+   "current": "Four percent niacinamide helps brighten.",
+   "on_screen_during": "S5 before/after split",
+   "verdict": "rewrite",
+   "new": "After: even, radiant-looking skin.",
+   "words": 4,
+   "reason": "split on screen: talk about result, not ingredient"
+  },
+  {
+   "id": 6,
+   "start": 14.02,
+   "slot_s": 2.43,
+   "speaker": "sunscreen",
+   "current": "SPF 50 PA+++ protects.",
+   "on_screen_during": "S6 tube in swirl, label visible",
+   "verdict": "rewrite",
+   "new": "4% Niacinamide, SPF 50 PA+++.",
+   "words": 5,
+   "reason": "niacinamide moved here, matches label on screen"
+  },
+  {
+   "id": 7,
+   "start": 16.6,
+   "slot_s": 2.8,
+   "speaker": "sunscreen",
+   "current": "Same skin tone, with an instant glow.",
+   "on_screen_during": "S7 smiling woman with tube character",
+   "verdict": "rewrite",
+   "new": "Same skin tone, instant glow.",
+   "words": 5,
+   "reason": "over length (7w vs 6)"
+  }
+ ]
+}

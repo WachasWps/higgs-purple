@@ -1,0 +1,193 @@
+{
+ "video": "390113f1",
+ "style": "personification",
+ "cast": [
+  {
+   "id": "dark_spot",
+   "name": "Dark Spot Villain",
+   "description": "tiny flat brown Dark Spot blob stamping dots on the sleeping woman's cheek, leader of the villain gang; sneaky, hissing, conspiratorial whisper"
+  },
+  {
+   "id": "knc_jar",
+   "name": "DERMDOC Kojic Night Cream Jar",
+   "description": "the white-and-blue DERMDOC 2% Kojic Acid night cream jar on the bedside table, wakes up and lifts its lid; low, warm, sly hushed cartoon voice"
+  },
+  {
+   "id": "kojic_acid",
+   "name": "Kojic Acid",
+   "description": "golden spiky Kojic Acid ball hero leading the night team out of the jar; bossy, cute, hushed little foreman cartoon voice"
+  },
+  {
+   "id": "narrator",
+   "name": "Narrator",
+   "description": "off-screen voiceover over the cream application; soft, warm, calm bedtime-story voice"
+  }
+ ],
+ "lines": [
+  {
+   "id": 1,
+   "start": 1.56,
+   "end": 3.08,
+   "speaker": "dark_spot",
+   "en": "Quick, she's asleep."
+  },
+  {
+   "id": 2,
+   "start": 3.48,
+   "end": 4.86,
+   "speaker": "knc_jar",
+   "en": "So is my night team."
+  },
+  {
+   "id": 3,
+   "start": 5.16,
+   "end": 6.92,
+   "speaker": "kojic_acid",
+   "en": "Keep it down. We're working."
+  },
+  {
+   "id": 4,
+   "start": 11.44,
+   "end": 14.4,
+   "speaker": "narrator",
+   "en": "Working through the night for brighter, even-looking skin."
+  },
+  {
+   "id": 5,
+   "start": 14.62,
+   "end": 16.56,
+   "speaker": "knc_jar",
+   "en": "Dark spots don't get the night off."
+  }
+ ],
+ "shots": [
+  {
+   "n": 1,
+   "start": 0,
+   "end": 3.6,
+   "what": "original footage",
+   "frames": [
+    "s01_0.jpg",
+    "s01_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 1,
+     "start": 1.56,
+     "end": 3.08,
+     "speaker": "dark_spot",
+     "en": "Quick, she's asleep."
+    },
+    {
+     "id": 2,
+     "start": 3.48,
+     "end": 4.86,
+     "speaker": "knc_jar",
+     "en": "So is my night team."
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "start": 3.6,
+   "end": 6.9,
+   "what": "original footage",
+   "frames": [
+    "s02_0.jpg",
+    "s02_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 2,
+     "start": 3.48,
+     "end": 4.86,
+     "speaker": "knc_jar",
+     "en": "So is my night team."
+    },
+    {
+     "id": 3,
+     "start": 5.16,
+     "end": 6.92,
+     "speaker": "kojic_acid",
+     "en": "Keep it down. We're working."
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "start": 6.9,
+   "end": 10.4,
+   "what": "original footage",
+   "frames": [
+    "s03_0.jpg",
+    "s03_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 3,
+     "start": 5.16,
+     "end": 6.92,
+     "speaker": "kojic_acid",
+     "en": "Keep it down. We're working."
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "start": 10.4,
+   "end": 12.9,
+   "what": "KNA2_avatar_ingredients",
+   "frames": [
+    "s04_0.jpg",
+    "s04_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 4,
+     "start": 11.44,
+     "end": 14.4,
+     "speaker": "narrator",
+     "en": "Working through the night for brighter, even-looking skin."
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "start": 12.9,
+   "end": 14.6,
+   "what": "GRAPHIC_BA_SPLIT",
+   "frames": [
+    "s05_0.jpg",
+    "s05_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 4,
+     "start": 11.44,
+     "end": 14.4,
+     "speaker": "narrator",
+     "en": "Working through the night for brighter, even-looking skin."
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "start": 14.6,
+   "end": 17.0,
+   "what": "original footage",
+   "frames": [
+    "s06_0.jpg",
+    "s06_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 5,
+     "start": 14.62,
+     "end": 16.56,
+     "speaker": "knc_jar",
+     "en": "Dark spots don't get the night off."
+    }
+   ]
+  }
+ ]
+}

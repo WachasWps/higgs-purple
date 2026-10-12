@@ -1,0 +1,56 @@
+[
+ {
+  "id": 1,
+  "speaker": "tube",
+  "cer": 0.58,
+  "heard": "ഇത് പ�ർട് പണ്യന്ട്."
+ },
+ {
+  "id": 2,
+  "speaker": "uv_rays",
+  "cer": 0.24,
+  "heard": "വാള ഇവലുറുറെ ഓഫിസ ദിവസം നമക്ക് ക്ളമാക്.",
+  "redub": true
+ },
+ {
+  "id": 3,
+  "speaker": "tube",
+  "cer": 0.41,
+  "heard": "എലയാരക് സ�്നത് ട�്ടിഅരയാ."
+ },
+ {
+  "id": 4,
+  "speaker": "spf_shield",
+  "cer": 0.15,
+  "heard": "traced  Weg reiz  ngā nō kikora.",
+  "redub": true
+ },
+ {
+  "id": 5,
+  "speaker": "purple_tint",
+  "cer": 1.0,
+  "heard": "ὶ ὶ ὶ ὶ ὶ ὶ ὶ ὶ ὶ ὶ ὶ ὶ ὶ ὶ ὶ ὶ ὶ ὶ ὶ ὶ ὶ ὶ ὶ ὶ ὶ ὶ ὶ ὶ ὶ ὶ ὶ ὶ ὶ ὶ ὶ ὶ ὶ ὶ ὶ ὶ ὶ ὶ ὶ ὶ ὶ ὶ ὶ ὶ ὶ ὶ ὶ ὶ ὶ ὶ ὶ ὶ ὶ ὶ ὶ ὶ ὶ ὶ ὶ ὶ ὶ ὶ ὶ ὶ ὶ ὶ ὶ ὶ ὶ ὶ",
+  "redub": true
+ },
+ {
+  "id": 6,
+  "speaker": "niacinamide",
+  "cer": 0.69,
+  "heard": "ആണ് ടല്ദിസ നാന ബരയടാകുംപ്.",
+  "redub": true
+ },
+ {
+  "id": 7,
+  "speaker": "tube",
+  "cer": 0.27,
+  "heard": "നനനയ അലിനിചേരു. നോ രസിയോ.",
+  "redub": true
+ },
+ {
+  "id": 8,
+  "speaker": "tube",
+  "cer": 0.15,
+  "heard": "Instant Glow, let's go!",
+  "redub": true
+ }
+]

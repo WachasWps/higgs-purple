@@ -1,0 +1,540 @@
+{
+ "00b304b4": [
+  {
+   "id": 5,
+   "speaker": "purple_tint",
+   "start": 9.44,
+   "end": 10.82,
+   "old": "I cancel yellow-looking dullness.",
+   "new": "Purple beats yellow dullness!",
+   "old_bn": "হলদেটে ডালনেস আমি কাটাই!"
+  },
+  {
+   "id": 6,
+   "speaker": "niacinamide",
+   "start": 11.0,
+   "end": 12.66,
+   "old": "And I've got the instant glow.",
+   "new": "I'll brighten that dullness!",
+   "old_bn": "আর ইনস্ট্যান্ট গ্লো আমি দেব!"
+  },
+  {
+   "id": 7,
+   "speaker": "tube",
+   "start": 13.06,
+   "end": 14.66,
+   "old": "Team, protection complete.",
+   "new": "Blends right in. No residue!",
+   "old_bn": "টিম, প্রোটেকশন কমপ্লিট!"
+  },
+  {
+   "id": 8,
+   "speaker": "tube",
+   "start": 14.96,
+   "end": 15.9,
+   "old": "Instant glow. Ready for the day.",
+   "new": "Instant glow. Let's go!",
+   "old_bn": "ইনস্ট্যান্ট গ্লো, আজ রেডি!"
+  }
+ ],
+ "23850d94": [
+  {
+   "id": 5,
+   "speaker": "professor_jar",
+   "start": 10.84,
+   "end": 13.34,
+   "old": "Now apply at night, and let the team get to work.",
+   "new": "Rich cream. Apply at night, and let the team get to work.",
+   "old_bn": "এবার রাতে লাগাও, বাকি কাজ টিমের।"
+  },
+  {
+   "id": 6,
+   "speaker": "narrator",
+   "start": 13.66,
+   "end": 16.5,
+   "old": "DERMDOC 2% Kojic Acid Night Cream. Class dismissed.",
+   "new": "After two weeks, spots look reduced. Class dismissed!",
+   "old_bn": "ডার্মডক কোজিক অ্যাসিড নাইট ক্রিম। ক্লাস ছুটি!"
+  }
+ ],
+ "291827ba": [
+  {
+   "id": 4,
+   "speaker": "purple_tint",
+   "start": 7.62,
+   "end": 10.08,
+   "old": "Evidence two: purple cancels yellow-looking dullness.",
+   "new": "Evidence two: purple sits opposite yellow, so dullness is cancelled!",
+   "old_bn": "প্রমাণ নম্বর দুই, পার্পল হলদেটে ডালনেস কাটায়!"
+  },
+  {
+   "id": 6,
+   "speaker": "judge",
+   "start": 12.64,
+   "end": 15.34,
+   "old": "The verdict: protected skin with an instant glow.",
+   "new": "The verdict: it blends in fully. Instant glow!",
+   "old_bn": "রায় হলো, প্রোটেক্টেড স্কিন আর ইনস্ট্যান্ট গ্লো!"
+  }
+ ],
+ "33c29291": [
+  {
+   "id": 4,
+   "speaker": "sunscreen",
+   "start": 7.54,
+   "end": 9.64,
+   "old": "Purple Tint, made for Indian skin.",
+   "new": "It blends right in, made for Indian skin.",
+   "old_bn": "পার্পল টিন্ট, ইন্ডিয়ান স্কিনের জন্যই তৈরি!"
+  },
+  {
+   "id": 5,
+   "speaker": "sunscreen",
+   "start": 10.26,
+   "end": 12.7,
+   "old": "Four percent niacinamide helps brighten.",
+   "new": "And four percent niacinamide gives an instant glow.",
+   "old_bn": "ফোর পার্সেন্ট নায়াসিনামাইড, ব্রাইটনেসে হেল্প!"
+  }
+ ],
+ "390113f1": [
+  {
+   "id": 2,
+   "speaker": "knc_jar",
+   "start": 3.48,
+   "end": 4.86,
+   "old": "So is my night team.",
+   "new": "And my night team is awake!",
+   "old_bn": "আমার নাইট টিম কিন্তু জেগে!"
+  },
+  {
+   "id": 3,
+   "speaker": "kojic_acid",
+   "start": 5.16,
+   "end": 6.92,
+   "old": "Keep it down. We're working.",
+   "new": "Shh, we're working. I'm on dark spots, Niacinamide's on dullness.",
+   "old_bn": "আস্তে! আমরা কাজ করছি।"
+  },
+  {
+   "id": 4,
+   "speaker": "narrator",
+   "start": 11.44,
+   "end": 14.4,
+   "old": "Working through the night for brighter, even-looking skin.",
+   "new": "Three actives, all night. Two weeks later, spots look reduced.",
+   "old_bn": "সারা রাত ধরে কাজ, ব্রাইটার আর ইভেন লুকিং স্কিনের জন্য।"
+  }
+ ],
+ "4010f985": [
+  {
+   "id": 5,
+   "speaker": "narrator",
+   "start": 13.4,
+   "end": 15.8,
+   "old": "Made for Indian skin tones.",
+   "new": "Instant glow, made for Indian skin tones.",
+   "old_bn": "ইন্ডিয়ান স্কিন টোনের জন্যই তৈরি।"
+  }
+ ],
+ "426b77bb": [
+  {
+   "id": 6,
+   "speaker": "narrator",
+   "start": 15.8,
+   "end": 17.7,
+   "old": "One jar. Three actives.",
+   "new": "After two weeks, spots look reduced.",
+   "old_bn": "একটা জার। তিনটে অ্যাক্টিভ।"
+  }
+ ],
+ "46d965c9": [
+  {
+   "id": 6,
+   "speaker": "creator",
+   "start": 10.82,
+   "end": 13.28,
+   "old": "The Glow Fusion Formula combines three brightening actives.",
+   "new": "I massage it in until it's fully absorbed.",
+   "old_bn": "গ্লো ফিউশনে তিনটে ব্রাইটনিং অ্যাক্টিভ।"
+  }
+ ],
+ "51440b1f": [
+  {
+   "id": 8,
+   "speaker": "creator",
+   "start": 18.0,
+   "end": 19.6,
+   "old": "Before: dull. After: Instant Glow!",
+   "new": "DERMDOC Ultra Violet. Instant glow!",
+   "old_bn": "আগে ডাল, এখন ইনস্ট্যান্ট গ্লো!"
+  }
+ ],
+ "595689d8": [
+  {
+   "id": 3,
+   "speaker": "jar",
+   "start": 4.36,
+   "end": 5.94,
+   "old": "Activating my 3Xpert formula.",
+   "new": "Activating my 3XPERT formula.",
+   "old_bn": "আমার থ্রি এক্সপার্ট ফর্মুলা, অন!"
+  },
+  {
+   "id": 7,
+   "speaker": "jar",
+   "start": 12.26,
+   "end": 13.98,
+   "old": "Now let the night shift begin.",
+   "new": "Rich cream on. Let the night shift begin.",
+   "old_bn": "এবার নাইট শিফট শুরু!"
+  },
+  {
+   "id": 8,
+   "speaker": "woman",
+   "start": 14.24,
+   "end": 17.34,
+   "old": "Dark spots look reduced. My glow looks switched on.",
+   "new": "After two weeks, dark spots look reduced. My glow's switched on!",
+   "old_bn": "ডার্ক স্পটস কম লাগছে। আমার গ্লো যেন সুইচ অন!"
+  }
+ ],
+ "5fd50ab8": [
+  {
+   "id": 2,
+   "speaker": "sunscreen",
+   "start": 3.38,
+   "end": 8.98,
+   "old": "Relax. My purple sits opposite yellow, so it cancels dullness.",
+   "new": "Relax. On the colour wheel, purple sits opposite yellow, so it cancels dullness.",
+   "old_bn": "রিল্যাক্স। আমার পার্পল হলুদের ঠিক উল্টো দিকে থাকে, তাই ডালনেস ক্যানসেল করে।"
+  },
+  {
+   "id": 4,
+   "speaker": "sunscreen",
+   "start": 12.84,
+   "end": 15.4,
+   "old": "Protected. Instant glow. Ready.",
+   "new": "Before: dull. After: instant glow, even and radiant-looking.",
+   "old_bn": "প্রোটেক্টেড। ইনস্ট্যান্ট গ্লো। একদম রেডি!"
+  }
+ ],
+ "655a1328": [
+  {
+   "id": 3,
+   "speaker": "sunscreen",
+   "start": 4.46,
+   "end": 7.0,
+   "old": "Yellow-looking dullness? Purple sits opposite, cancels it.",
+   "new": "See the wheel? Purple sits opposite yellow, so it cancels dullness.",
+   "old_bn": "হলদেটে ডালনেস? পার্পল ঠিক তার উল্টো দিকে, ক্যানসেল করে দেয়!"
+  },
+  {
+   "id": 5,
+   "speaker": "sunscreen",
+   "start": 11.12,
+   "end": 13.22,
+   "old": "Four percent niacinamide helps brighten.",
+   "new": "After: an instant, even-looking glow.",
+   "old_bn": "চার পারসেন্ট নায়াসিনামাইড ব্রাইট হতে হেল্প করে।"
+  }
+ ],
+ "715b1b5c": [
+  {
+   "id": 6,
+   "speaker": "jar",
+   "start": 11.36,
+   "end": 13.68,
+   "old": "Three actives. One powerful night formula.",
+   "new": "Rich night cream, massaged in. Three actives at work.",
+   "old_bn": "তিনটে অ্যাক্টিভ, এক পাওয়ারফুল নাইট ফর্মুলা!"
+  },
+  {
+   "id": 8,
+   "speaker": "woman",
+   "start": 15.12,
+   "end": 17.02,
+   "old": "Brighter, more even-looking, ready to glow.",
+   "new": "After two weeks: brighter, more even-looking skin!",
+   "old_bn": "ব্রাইটার, আরও ইভন লুকিং, গ্লো রেডি!"
+  }
+ ],
+ "71e0977a": [
+  {
+   "id": 3,
+   "speaker": "kojic_acid",
+   "start": 4.4,
+   "end": 5.6,
+   "old": "Challenge accepted.",
+   "new": "Challenge accepted! Team, target those dark spots!",
+   "old_bn": "চ্যালেঞ্জ অ্যাকসেপ্টেড!"
+  }
+ ],
+ "74495eba": [
+  {
+   "id": 4,
+   "speaker": "sunscreen",
+   "start": 9.26,
+   "end": 12.1,
+   "old": "Purple sits opposite yellow, so it helps cancel dullness.",
+   "new": "On the colour wheel, purple sits opposite yellow, so it cancels dullness.",
+   "old_bn": "পার্পল হলুদের ঠিক উল্টো, তাই ডালনেস ক্যানসেল করতে হেল্প করে।"
+  },
+  {
+   "id": 5,
+   "speaker": "sunscreen",
+   "start": 12.86,
+   "end": 15.96,
+   "old": "Made for Indian skin, with four percent niacinamide.",
+   "new": "With four percent niacinamide: an instant, even-looking glow.",
+   "old_bn": "ইন্ডিয়ান স্কিনের জন্য, ফোর পার্সেন্ট নায়াসিনামাইড!"
+  }
+ ],
+ "7558fbf1": [
+  {
+   "id": 7,
+   "speaker": "woman",
+   "start": 14.82,
+   "end": 16.78,
+   "old": "Looks like they finally moved out.",
+   "new": "Two weeks later, they finally moved out!",
+   "old_bn": "মনে হয় শেষমেশ পাততাড়ি গুটিয়েছে!"
+  }
+ ],
+ "784c77c5": [
+  {
+   "id": 3,
+   "speaker": "creator",
+   "start": 6.78,
+   "end": 9.28,
+   "old": "The texture is rich and creamy, not watery or stringy.",
+   "new": "The texture is rich and creamy, never watery.",
+   "old_bn": "টেক্সচার রিচ আর ক্রিমি, একদম জলের মতো না।"
+  }
+ ],
+ "7ea55172": [
+  {
+   "id": 4,
+   "speaker": "sunscreen",
+   "start": 5.32,
+   "end": 8.1,
+   "old": "Purple sits opposite yellow, so it cancels dullness.",
+   "new": "On the colour wheel, purple sits opposite yellow, so it cancels dullness.",
+   "old_bn": "পার্পল হলুদের উল্টো, তাই ডালনেস ক্যানসেল করে।"
+  },
+  {
+   "id": 6,
+   "speaker": "sunscreen",
+   "start": 10.98,
+   "end": 12.92,
+   "old": "Four percent niacinamide helps brighten.",
+   "new": "Four percent niacinamide, and an instant glow.",
+   "old_bn": "ফোর পারসেন্ট নায়াসিনামাইড, ব্রাইটে হেল্প!"
+  }
+ ],
+ "89697c77": [
+  {
+   "id": 4,
+   "speaker": "jar",
+   "start": 6.66,
+   "end": 8.78,
+   "old": "My 3Xpert formula works while you rest.",
+   "new": "My 3XPERT formula works while you rest.",
+   "old_bn": "থ্রি এক্সপার্ট ফর্মুলা, ঘুমেও কাজ করে!"
+  }
+ ],
+ "906fbf3c": [
+  {
+   "id": 3,
+   "speaker": "jar",
+   "start": 5.58,
+   "end": 8.14,
+   "old": "My 3Xpert formula brings three brightening actives together.",
+   "new": "My 3XPERT formula brings three brightening actives together.",
+   "old_bn": "থ্রি এক্সপার্ট মানে তিন ব্রাইটেনিং অ্যাক্টিভ!"
+  },
+  {
+   "id": 7,
+   "speaker": "woman",
+   "start": 14.46,
+   "end": 16.5,
+   "old": "Now that's a glow worth waking up to.",
+   "new": "After two weeks, spots look reduced!",
+   "old_bn": "এই গ্লো দেখার জন্য ঘুম থেকে ওঠাই যায়!"
+  }
+ ],
+ "a9be56d9": [
+  {
+   "id": 6,
+   "speaker": "narrator",
+   "start": 15.9,
+   "end": 17.7,
+   "old": "Brighter, more even-looking skin.",
+   "new": "After two weeks: brighter, more even-looking skin.",
+   "old_bn": "আরও ব্রাইট, আরও ইভেন লুকিং স্কিন।"
+  }
+ ],
+ "b4c787e1": [
+  {
+   "id": 5,
+   "speaker": "narrator",
+   "start": 13.6,
+   "end": 17.4,
+   "old": "Every night, one step closer to brighter, even-looking skin.",
+   "new": "Wake up glowing. After two weeks, spots look reduced.",
+   "old_bn": "প্রতি রাতে, ব্রাইট, ইভেন লুকিং স্কিনের দিকে আরও এক ধাপ।"
+  }
+ ],
+ "bd3b8af7": [
+  {
+   "id": 5,
+   "speaker": "kojic_jar",
+   "start": 9.98,
+   "end": 14.92,
+   "old": "Rich night cream. Apply, let it absorb, and stay consistent. DERMDOC two percent Kojic Acid Night Cream.",
+   "new": "Rich night cream. After two weeks, spots look reduced. DERMDOC two percent Kojic Acid Night Cream.",
+   "old_bn": "রিচ ক্রিম। লাগাও, মিশুক, রোজ লাগাও। ডার্মডক টু পারসেন্ট কোজিক অ্যাসিড নাইট ক্রিম।"
+  }
+ ],
+ "c01adcce": [
+  {
+   "id": 3,
+   "speaker": "narrator",
+   "start": 6.6,
+   "end": 10.0,
+   "old": "Its purple tint sits opposite yellow, so it helps cancel dullness.",
+   "new": "Its purple tint sits opposite yellow on the colour wheel, so it cancels dullness.",
+   "old_bn": "এর পার্পল টিন্ট হলুদের ঠিক উল্টো, তাই ডালনেস কাটাতে সাহায্য করে।"
+  }
+ ],
+ "c51221b6": [
+  {
+   "id": 4,
+   "speaker": "purple_tint",
+   "start": 5.06,
+   "end": 8.1,
+   "old": "I'm opposite yellow, so I cancel dullness.",
+   "new": "Shoo! On the colour wheel I'm opposite yellow, so I cancel dullness.",
+   "old_bn": "আমি হলুদের ঠিক উল্টো, তাই ডালনেস ক্যানসেল করি!"
+  },
+  {
+   "id": 7,
+   "speaker": "sunscreen_tube",
+   "start": 13.4,
+   "end": 15.16,
+   "old": "See the instant glow, not the sunscreen.",
+   "new": "It blends right in. See the instant glow, not the sunscreen.",
+   "old_bn": "ইনস্ট্যান্ট গ্লো দেখো, সানস্ক্রিন নয়!"
+  }
+ ],
+ "cd5a6fe8": [
+  {
+   "id": 8,
+   "speaker": "creator",
+   "start": 14.98,
+   "end": 17.66,
+   "old": "My dark spots look reduced without changing my natural skin tone.",
+   "new": "After two weeks, my dark spots look reduced, same skin tone.",
+   "old_bn": "ডার্ক স্পট কম লাগছে, ন্যাচারাল টোন একই।"
+  }
+ ],
+ "ce52c347": [
+  {
+   "id": 4,
+   "speaker": "narrator",
+   "start": 9.7,
+   "end": 12.9,
+   "old": "Purple sits opposite yellow, so it helps cancel yellow-looking dullness.",
+   "new": "Purple sits opposite yellow on the colour wheel. Dullness, cancelled.",
+   "old_bn": "পার্পল হলুদের ঠিক উল্টো, তাই হলদেটে ডালনেস কাটাতে সাহায্য করে।"
+  }
+ ],
+ "ce849d3f": [
+  {
+   "id": 3,
+   "speaker": "purple_tint",
+   "start": 4.58,
+   "end": 6.64,
+   "old": "I'm opposite yellow, so I cancel dullness.",
+   "new": "Colour wheel says: I cancel yellow dullness!",
+   "old_bn": "আমি হলুদের উল্টো, তাই ডালনেস ক্যানসেল করি!"
+  }
+ ],
+ "dad2130b": [
+  {
+   "id": 5,
+   "speaker": "creator",
+   "start": 10.62,
+   "end": 14.12,
+   "old": "Plus 4% Niacinamide and SPF 50 PA+++.",
+   "new": "I blend it in. Plus 4% Niacinamide and SPF 50 PA+++.",
+   "old_bn": "চার পার্সেন্ট নায়াসিনামাইড, এসপিএফ ফিফটি, পিএ ট্রিপল প্লাস!"
+  }
+ ],
+ "e7e42eaf": [
+  {
+   "id": 4,
+   "speaker": "purple_tint",
+   "start": 9.04,
+   "end": 11.1,
+   "old": "I'm opposite yellow, so I cancel dullness.",
+   "new": "Colour wheel says: I cancel yellow dullness!",
+   "old_bn": "আমি হলুদের উল্টো, তাই ডালনেস ক্যানসেল করি!"
+  }
+ ],
+ "e9528636": [
+  {
+   "id": 5,
+   "speaker": "narrator",
+   "start": 13.3,
+   "end": 16.6,
+   "old": "Apply at night. Wake up to glow.",
+   "new": "Wake up glowing. After two weeks, dark spots look reduced.",
+   "old_bn": "রাতে লাগান। সকালে উঠুন গ্লো নিয়ে।"
+  }
+ ],
+ "eab38211": [
+  {
+   "id": 5,
+   "speaker": "narrator",
+   "start": 13.1,
+   "end": 16.2,
+   "old": "Apply. Sleep. Wake up glowing.",
+   "new": "Sleep, wake up glowing. After two weeks, spots look reduced.",
+   "old_bn": "লাগান। ঘুমোন। সকালে উঠুন গ্লো নিয়ে।"
+  }
+ ],
+ "f7ce58d4": [
+  {
+   "id": 6,
+   "speaker": "narrator",
+   "start": 10.24,
+   "end": 13.36,
+   "old": "Three targeted ingredients. One powerful night cream.",
+   "new": "Rich cream, fully absorbed. After two weeks, spots look reduced.",
+   "old_bn": "তিনটে টার্গেটেড ইনগ্রেডিয়েন্ট। একটা পাওয়ারফুল নাইট ক্রিম।"
+  }
+ ],
+ "fb3fa838": [
+  {
+   "id": 3,
+   "speaker": "narrator",
+   "start": 6.4,
+   "end": 10.0,
+   "old": "Purple sits opposite yellow, so its tint helps cancel dullness.",
+   "new": "Purple sits opposite yellow on the colour wheel, so it cancels dullness.",
+   "old_bn": "পার্পল হলুদের উল্টো, তাই এর টিন্ট ডালনেস কাটাতে সাহায্য করে।"
+  }
+ ],
+ "fe7174d4": [
+  {
+   "id": 4,
+   "speaker": "narrator",
+   "start": 9.5,
+   "end": 12.6,
+   "old": "Its purple tint sits opposite yellow, helping cancel dullness.",
+   "new": "On the colour wheel, purple sits opposite yellow, cancelling dullness.",
+   "old_bn": "এর পার্পল টিন্ট হলুদের ঠিক উল্টো, ডালনেস কাটাতে সাহায্য করে।"
+  }
+ ]
+}

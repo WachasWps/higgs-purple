@@ -1,0 +1,38 @@
+[
+ {
+  "id": 1,
+  "speaker": "narrator",
+  "cer": 0.1,
+  "heard": "డార్క స్పర్ట్స్ కవర్ చేడం పరిష్కరం కాదు."
+ },
+ {
+  "id": 2,
+  "speaker": "narrator",
+  "cer": 0.15,
+  "heard": "Ithigo Dermadoc 2 % Cozic Acid Night Cream"
+ },
+ {
+  "id": 3,
+  "speaker": "narrator",
+  "cer": 0.09,
+  "heard": "ది నగులో ఫ్యుజన్ ఫార్ములా కోజిక ఏసీడ్ నియసినమయడ్ ఆల్ఫా అర్పుటిన్."
+ },
+ {
+  "id": 4,
+  "speaker": "narrator",
+  "cer": 0.12,
+  "heard": "డార్క స్పోట్స్ తక్కుగా కని పించరానికి సాయపరుతుంది."
+ },
+ {
+  "id": 5,
+  "speaker": "narrator",
+  "cer": 0.06,
+  "heard": "రాత్రి రాసుకోండి పొద్ధిన గ్లోతోలేవండి."
+ },
+ {
+  "id": 6,
+  "speaker": "narrator",
+  "cer": 0.38,
+  "heard": "బరిటర ఇవం వంగిం సకిం."
+ }
+]

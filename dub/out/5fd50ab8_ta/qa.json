@@ -1,0 +1,37 @@
+[
+ {
+  "id": 1,
+  "speaker": "sunscreen",
+  "cer": 0.12,
+  "heard": "மறுபடியும் மானிங் ச்கின் ட்ராமாவா.",
+  "redub": true
+ },
+ {
+  "id": 2,
+  "speaker": "sunscreen",
+  "cer": 0.12,
+  "heard": "ரிலாக்ஸ் கலர் வீல பருபிழ் மஞ்சலிக்கு நேர் எதிர் அதனால் டெல்னச்யை கேன்சல் பண்ணும்",
+  "redub": true
+ },
+ {
+  "id": 3,
+  "speaker": "sunscreen",
+  "cer": 0.09,
+  "heard": "என்ன பிரண்ட் பண்ணு எந்தியன் சகின்னுக்காகவை செஞ்சது காஸ்ட் கிடையாது.",
+  "redub": true
+ },
+ {
+  "id": 4,
+  "speaker": "sunscreen",
+  "cer": 0.15,
+  "heard": "முன்னடல் இப்போ instant glow, even radiant looking.",
+  "redub": true
+ },
+ {
+  "id": 5,
+  "speaker": "sunscreen",
+  "cer": 0.17,
+  "heard": "மதல்லை இன்ஸ்டன்ட்டலா அப்பிரம் கோ.",
+  "redub": true
+ }
+]

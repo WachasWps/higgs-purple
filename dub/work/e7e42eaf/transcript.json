@@ -1,0 +1,205 @@
+{
+ "language": "en",
+ "segments": [
+  {
+   "seg": 0,
+   "start": 1.08,
+   "end": 3.14,
+   "text": "Sun's out. Let's get her.",
+   "f0_median_hz": 248,
+   "words": [
+    [
+     "Sun's",
+     1.08,
+     1.72
+    ],
+    [
+     "out.",
+     1.72,
+     1.98
+    ],
+    [
+     "Let's",
+     2.18,
+     2.6
+    ],
+    [
+     "get",
+     2.6,
+     2.84
+    ],
+    [
+     "her.",
+     2.84,
+     3.14
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 1,
+   "start": 3.46,
+   "end": 4.8,
+   "text": "Not on my watch.",
+   "f0_median_hz": 221,
+   "words": [
+    [
+     "Not",
+     3.46,
+     3.88
+    ],
+    [
+     "on",
+     3.88,
+     4.08
+    ],
+    [
+     "my",
+     4.08,
+     4.34
+    ],
+    [
+     "watch.",
+     4.34,
+     4.8
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 2,
+   "start": 5.54,
+   "end": 8.12,
+   "text": "UVA and UVB? Blocked.",
+   "f0_median_hz": 121,
+   "words": [
+    [
+     "UVA",
+     5.54,
+     6.18
+    ],
+    [
+     "and",
+     6.18,
+     6.36
+    ],
+    [
+     "UVB?",
+     6.36,
+     7.0
+    ],
+    [
+     "Blocked.",
+     7.48,
+     8.12
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 3,
+   "start": 9.04,
+   "end": 11.1,
+   "text": "No white ashy finish here.",
+   "f0_median_hz": 221,
+   "words": [
+    [
+     "No",
+     9.04,
+     9.68
+    ],
+    [
+     "white",
+     9.68,
+     10.0
+    ],
+    [
+     "ashy",
+     10.0,
+     10.4
+    ],
+    [
+     "finish",
+     10.4,
+     10.7
+    ],
+    [
+     "here.",
+     10.7,
+     11.1
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 4,
+   "start": 11.46,
+   "end": 13.72,
+   "text": "And dullness? You're done too.",
+   "f0_median_hz": 212,
+   "words": [
+    [
+     "And",
+     11.46,
+     11.98
+    ],
+    [
+     "dullness?",
+     11.98,
+     12.48
+    ],
+    [
+     "You're",
+     12.7,
+     13.12
+    ],
+    [
+     "done",
+     13.12,
+     13.4
+    ],
+    [
+     "too.",
+     13.4,
+     13.72
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 5,
+   "start": 14.24,
+   "end": 16.28,
+   "text": "Come out, sun. We're ready.",
+   "f0_median_hz": 188,
+   "words": [
+    [
+     "Come",
+     14.24,
+     14.82
+    ],
+    [
+     "out,",
+     14.82,
+     15.06
+    ],
+    [
+     "sun.",
+     15.18,
+     15.38
+    ],
+    [
+     "We're",
+     15.6,
+     16.02
+    ],
+    [
+     "ready.",
+     16.02,
+     16.28
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  }
+ ]
+}

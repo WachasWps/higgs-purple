@@ -1,0 +1,399 @@
+[
+ {
+  "n": 0,
+  "text": "DERMDOC",
+  "variants": [
+   "DERMDOC"
+  ],
+  "start": 0.0,
+  "end": 3.33,
+  "box": [
+   0.35,
+   0.3068,
+   0.6458,
+   0.3747
+  ],
+  "height": 0.0679,
+  "suspect_words": []
+ },
+ {
+  "n": 1,
+  "text": "Honest Science",
+  "variants": [
+   "Honest Science"
+  ],
+  "start": 0.0,
+  "end": 3.33,
+  "box": [
+   0.3833,
+   0.3396,
+   0.6083,
+   0.3911
+  ],
+  "height": 0.0515,
+  "suspect_words": []
+ },
+ {
+  "n": 3,
+  "text": "4% NIACINAMIDE",
+  "variants": [
+   "4% MIAMIDE",
+   "4% NIACINAMIDE"
+  ],
+  "start": 0.0,
+  "end": 3.33,
+  "box": [
+   0.4083,
+   0.4754,
+   0.65,
+   0.4941
+  ],
+  "height": 0.0187,
+  "suspect_words": [
+   "MIAMIDE"
+  ],
+  "crop": "post/text_audit/c01adcce_3.png"
+ },
+ {
+  "n": 4,
+  "text": "WITH SPF 50 PA+++",
+  "variants": [
+   "WITH SPF 50 PA+++",
+   "WITH SPF S0 PA+++",
+   "WITH SPF SO PA+++"
+  ],
+  "start": 0.0,
+  "end": 3.33,
+  "box": [
+   0.4125,
+   0.4918,
+   0.6208,
+   0.5082
+  ],
+  "height": 0.0164,
+  "suspect_words": []
+ },
+ {
+  "n": 5,
+  "text": "BRIGHTENING",
+  "variants": [
+   "BRIGHTENING"
+  ],
+  "start": 0.0,
+  "end": 3.33,
+  "box": [
+   0.4083,
+   0.5735,
+   0.5917,
+   0.623
+  ],
+  "height": 0.0495,
+  "suspect_words": []
+ },
+ {
+  "n": 6,
+  "text": "SUNSCREEN",
+  "variants": [
+   "SUNSCREEN"
+  ],
+  "start": 0.0,
+  "end": 3.33,
+  "box": [
+   0.4123,
+   0.5902,
+   0.5835,
+   0.6446
+  ],
+  "height": 0.0545,
+  "suspect_words": []
+ },
+ {
+  "n": 7,
+  "text": "FOR TAM TO MEDIUM SEN",
+  "variants": [
+   "FOR FARE TO MISER LOR",
+   "FOR TAM TO MEDIUM SAN",
+   "FOR TAM TO MEDIUM SEN"
+  ],
+  "start": 0.33,
+  "end": 1.33,
+  "box": [
+   0.425,
+   0.6136,
+   0.5792,
+   0.6276
+  ],
+  "height": 0.0141,
+  "suspect_words": [
+   "LOR"
+  ],
+  "crop": "post/text_audit/c01adcce_7.png"
+ },
+ {
+  "n": 8,
+  "text": "Balances unesen Clin lune and",
+  "variants": [
+   "Balances uncan this uns and",
+   "Balances unesen Clin lune and",
+   "Balances uneven Ole tone and",
+   "Balances uneven cale boss a",
+   "Balances uneven cale lone and",
+   "Balaoces uneven chin tone and"
+  ],
+  "start": 0.67,
+  "end": 3.33,
+  "box": [
+   0.4167,
+   0.5152,
+   0.625,
+   0.5316
+  ],
+  "height": 0.0164,
+  "suspect_words": [
+   "Balaoces",
+   "Clin",
+   "alances",
+   "cale",
+   "uncan",
+   "unesen"
+  ],
+  "crop": "post/text_audit/c01adcce_8.png"
+ },
+ {
+  "n": 9,
+  "text": "leaves an instant radiant glow",
+  "variants": [
+   "Inves an istant redlant you",
+   "leaves an instant radiant glow",
+   "leoves an instant radiant gou",
+   "lerves an instant radient glov",
+   "leves an instast radiant glow"
+  ],
+  "start": 0.67,
+  "end": 3.33,
+  "box": [
+   0.4167,
+   0.5222,
+   0.6208,
+   0.5433
+  ],
+  "height": 0.0211,
+  "suspect_words": [
+   "Inves",
+   "glov",
+   "gou",
+   "instast",
+   "istant",
+   "leoves",
+   "lerves",
+   "leves",
+   "radient",
+   "redlant"
+  ],
+  "crop": "post/text_audit/c01adcce_9.png"
+ },
+ {
+  "n": 10,
+  "text": "ULTRA VIOLET",
+  "variants": [
+   "ULTRA VIOLET"
+  ],
+  "start": 1.0,
+  "end": 3.33,
+  "box": [
+   0.3441,
+   0.3811,
+   0.4167,
+   0.6001
+  ],
+  "height": 0.219,
+  "suspect_words": []
+ },
+ {
+  "n": 12,
+  "text": "FOR FAME TO MEDIUN TRUE",
+  "variants": [
+   "FOR FAM TO MEDIUM DON",
+   "FOR FAME TO MEDIUN TRUE"
+  ],
+  "start": 2.33,
+  "end": 3.0,
+  "box": [
+   0.4083,
+   0.6417,
+   0.5917,
+   0.6557
+  ],
+  "height": 0.0141,
+  "suspect_words": [
+   "MEDIUN"
+  ],
+  "crop": "post/text_audit/c01adcce_12.png"
+ },
+ {
+  "n": 14,
+  "text": "DERMO'S!",
+  "variants": [
+   "DERMO'S!"
+  ],
+  "start": 3.33,
+  "end": 4.0,
+  "box": [
+   0.2333,
+   0.904,
+   0.7292,
+   0.9742
+  ],
+  "height": 0.0703,
+  "suspect_words": [
+   "DERMO'S"
+  ],
+  "crop": "post/text_audit/c01adcce_14.png"
+ },
+ {
+  "n": 15,
+  "text": "DERMDOC",
+  "variants": [
+   "DERMDOC"
+  ],
+  "start": 18.67,
+  "end": 20.0,
+  "box": [
+   0.4,
+   0.3443,
+   0.5876,
+   0.3745
+  ],
+  "height": 0.0303,
+  "suspect_words": []
+ },
+ {
+  "n": 16,
+  "text": "Honest Science",
+  "variants": [
+   "Honest Science"
+  ],
+  "start": 18.67,
+  "end": 20.0,
+  "box": [
+   0.4208,
+   0.3677,
+   0.5708,
+   0.3911
+  ],
+  "height": 0.0234,
+  "suspect_words": []
+ },
+ {
+  "n": 17,
+  "text": "ULTRA VIOLET",
+  "variants": [
+   "ULTRA VIOLET"
+  ],
+  "start": 18.67,
+  "end": 19.33,
+  "box": [
+   0.3984,
+   0.4093,
+   0.4433,
+   0.586
+  ],
+  "height": 0.1766,
+  "suspect_words": []
+ },
+ {
+  "n": 18,
+  "text": "WITH S97-50 PA++*",
+  "variants": [
+   "WITH 99730 Nie+",
+   "WITH S97-50 PA++*"
+  ],
+  "start": 18.67,
+  "end": 19.67,
+  "box": [
+   0.4458,
+   0.5012,
+   0.575,
+   0.5129
+  ],
+  "height": 0.0117,
+  "suspect_words": [
+   "Nie"
+  ],
+  "crop": "post/text_audit/c01adcce_18.png"
+ },
+ {
+  "n": 19,
+  "text": "BRIGHTENING",
+  "variants": [
+   "BRIGHTENING"
+  ],
+  "start": 18.67,
+  "end": 20.0,
+  "box": [
+   0.4416,
+   0.5876,
+   0.5626,
+   0.6042
+  ],
+  "height": 0.0167,
+  "suspect_words": []
+ },
+ {
+  "n": 20,
+  "text": "SUNSCREEN",
+  "variants": [
+   "SUNSCREEN"
+  ],
+  "start": 18.67,
+  "end": 20.0,
+  "box": [
+   0.4458,
+   0.6019,
+   0.5583,
+   0.6206
+  ],
+  "height": 0.0187,
+  "suspect_words": []
+ },
+ {
+  "n": 22,
+  "text": "4% NIACINAMIDE",
+  "variants": [
+   "4% NIACINAMIDE"
+  ],
+  "start": 19.0,
+  "end": 20.0,
+  "box": [
+   0.4458,
+   0.4895,
+   0.5917,
+   0.5035
+  ],
+  "height": 0.0141,
+  "suspect_words": []
+ },
+ {
+  "n": 24,
+  "text": "FORTER T3 MEPIN DEN",
+  "variants": [
+   "FISTER IS MISUM SEN",
+   "FORTER T3 MEPIN DEN"
+  ],
+  "start": 19.33,
+  "end": 20.0,
+  "box": [
+   0.4375,
+   0.6183,
+   0.5625,
+   0.63
+  ],
+  "height": 0.0117,
+  "suspect_words": [
+   "FORTER",
+   "MEPIN",
+   "MISUM"
+  ],
+  "crop": "post/text_audit/c01adcce_24.png"
+ }
+]

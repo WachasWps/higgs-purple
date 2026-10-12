@@ -1,0 +1,6 @@
+Read CODEX_BRIEF.md in this folder first and follow it strictly.
+Attached reference images: ps_texture_drip.png, out/ps_model_ref.png. Product photos are the ground truth for packaging; the out/*_model_ref.png image is the identity reference for the woman — keep the SAME face, hair and skin tone.
+TASK: generate ONE photorealistic vertical 9:16 keyframe image:
+Face close-up of MEERA in soft morning bathroom light, five small neat dots of pale-lavender cream on her forehead, both cheeks, nose and chin, about to blend; her skin before blending looks slightly dull and matte. No product packaging in frame.
+
+Use your image generation tool (pass the reference images to it), then copy the generated file to out/PS04_dot_face.png. Reply only with the saved path.

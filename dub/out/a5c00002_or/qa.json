@@ -1,0 +1,58 @@
+[
+ {
+  "id": 1,
+  "speaker": "creator",
+  "cer": 0.2,
+  "heard": "গত্রাতি সোইবাকু জাউ থিলি হারথাত মনে পডিলা।",
+  "redub": true
+ },
+ {
+  "id": 2,
+  "speaker": "creator",
+  "cer": 0.36,
+  "heard": "আয় সকিন কারিনি",
+  "redub": true
+ },
+ {
+  "id": 3,
+  "speaker": "creator",
+  "cer": 0.0,
+  "heard": "এটা মোকে বে সকিপ করেনে।",
+  "redub": true
+ },
+ {
+  "id": 4,
+  "speaker": "creator",
+  "cer": 0.14,
+  "heard": "গালরে বহতো জিত্খরু দাগতেলা।",
+  "redub": true
+ },
+ {
+  "id": 5,
+  "speaker": "creator",
+  "cer": 0.18,
+  "heard": "এবে টিকে টিকে ফেডে উথে বা লাগো ছি।",
+  "redub": true
+ },
+ {
+  "id": 6,
+  "speaker": "creator",
+  "cer": 0.13,
+  "heard": "দারমাডকটু পারসন্ট কোজিকা এসিডে নাইত করিম।",
+  "redub": true
+ },
+ {
+  "id": 7,
+  "speaker": "creator",
+  "cer": 0.21,
+  "heard": "লাগা লাইট অপকরা সোই পডো।",
+  "redub": true
+ },
+ {
+  "id": 8,
+  "speaker": "creator",
+  "cer": 0.07,
+  "heard": "সকিনকে নিজা কামকরি বেকো দিয়।",
+  "redub": true
+ }
+]

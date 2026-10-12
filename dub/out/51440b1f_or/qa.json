@@ -1,0 +1,58 @@
+[
+ {
+  "id": 1,
+  "speaker": "creator",
+  "cer": 0.08,
+  "heard": "রোজো সকারে সকিন ডাল লাগুথিলা।",
+  "redub": true
+ },
+ {
+  "id": 2,
+  "speaker": "creator",
+  "cer": 0.19,
+  "heard": "কালার হোইল্য়ে পরপল হলদ্য়ে এলটা দলা নেস কমাই বারে হেল্প করে।",
+  "redub": true
+ },
+ {
+  "id": 3,
+  "speaker": "creator",
+  "cer": 0.14,
+  "heard": "দিখা কে মি তিমি সে।",
+  "redub": true
+ },
+ {
+  "id": 4,
+  "speaker": "creator",
+  "cer": 0.21,
+  "heard": "লাভিডরো একদম কলিয়েড্",
+  "redub": true
+ },
+ {
+  "id": 5,
+  "speaker": "creator",
+  "cer": 0.2,
+  "heard": "নো হযটকাস্ট নো পরপল দাগো।",
+  "redub": true
+ },
+ {
+  "id": 6,
+  "speaker": "creator",
+  "cer": 0.22,
+  "heard": "ইন্ডিযান সকিন পাইন চরি পর্সেন ন্যাসিনামাইডেরে ব্রাইট ফিনিস্",
+  "redub": true
+ },
+ {
+  "id": 7,
+  "speaker": "creator",
+  "cer": 0.15,
+  "heard": "SPF 50 PA++++ Delhi Protection",
+  "redub": true
+ },
+ {
+  "id": 8,
+  "speaker": "creator",
+  "cer": 0.1,
+  "heard": "ডারমডকা অল্টরা ভায়ল্ট ইন্সটাট গ্লো।",
+  "redub": true
+ }
+]

@@ -1,0 +1,56 @@
+[
+ {
+  "id": 1,
+  "speaker": "greasiness",
+  "cer": 0.33,
+  "heard": "ఇంక శైన ఇంక జెదో.",
+  "redub": true
+ },
+ {
+  "id": 2,
+  "speaker": "tube",
+  "cer": 0.18,
+  "heard": "నా ఫినిశ్ లోనిగం చోటలేదు."
+ },
+ {
+  "id": 3,
+  "speaker": "purple_tint",
+  "cer": 0.12,
+  "heard": "కాళ్లార్ వీల్ చెప్తోంది పసపడల్నిస్ నేను కాంసిల్ చేస్తా.",
+  "redub": true
+ },
+ {
+  "id": 4,
+  "speaker": "greasiness",
+  "cer": 0.06,
+  "heard": "ఆగు స్టెక్కి లైయర్ ఎక్కరపయింది.",
+  "redub": true
+ },
+ {
+  "id": 5,
+  "speaker": "tube",
+  "cer": 0.5,
+  "heard": "నువాయేడి"
+ },
+ {
+  "id": 6,
+  "speaker": "spf_shield",
+  "cer": 0.15,
+  "heard": "Comfortable finish, serious protection.",
+  "redub": true
+ },
+ {
+  "id": 7,
+  "speaker": "niacinamide",
+  "cer": 0.11,
+  "heard": "ఇది స్టంటుగులో తేవడంలో నేను హిల్పే చస్తాక్.",
+  "redub": true
+ },
+ {
+  "id": 8,
+  "speaker": "tube",
+  "cer": 0.48,
+  "heard": "ప్రటిట తమ్ఫా టాప్ వా ఇదిం స్కిం కసం.",
+  "redub": true
+ }
+]

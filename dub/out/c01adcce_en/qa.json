@@ -1,0 +1,32 @@
+[
+ {
+  "id": 1,
+  "speaker": "narrator",
+  "cer": 0.0,
+  "heard": "You can see the sun, not your protection."
+ },
+ {
+  "id": 2,
+  "speaker": "narrator",
+  "cer": 0.06,
+  "heard": "DERMDOC Ultraviolet SPF 50 with 4% neosinamide."
+ },
+ {
+  "id": 3,
+  "speaker": "narrator",
+  "cer": 0.0,
+  "heard": "Its purple tint sits opposite yellow so it helps cancel dullness."
+ },
+ {
+  "id": 4,
+  "speaker": "narrator",
+  "cer": 0.0,
+  "heard": "It blends in completely. No white cast."
+ },
+ {
+  "id": 5,
+  "speaker": "narrator",
+  "cer": 0.0,
+  "heard": "Invisible protection, visible instant glow."
+ }
+]

@@ -1,0 +1,51 @@
+[
+ {
+  "id": 1,
+  "speaker": "creator",
+  "cer": 0.17,
+  "heard": "పర్పు సంస్క్రిన ఫేస్ పర్పు లోతుం దనుకున్నా.",
+  "redub": true
+ },
+ {
+  "id": 2,
+  "speaker": "creator",
+  "cer": 0.1,
+  "heard": "కలార్ వీల్లో పెరుపుల్ పసపుకి ఆపోసట్ డెల్నేస్ తక్గించి కలదు.",
+  "redub": true
+ },
+ {
+  "id": 3,
+  "speaker": "creator",
+  "cer": 0.31,
+  "heard": "ఏటింట ఇండియోం స్కిన కఉస్తమే.",
+  "redub": true
+ },
+ {
+  "id": 4,
+  "speaker": "creator",
+  "cer": 0.06,
+  "heard": "పూర్తిగా బ్లెండ్ ఆయ్పతుది నో వైట్ కాస్ట్.",
+  "redub": true
+ },
+ {
+  "id": 5,
+  "speaker": "creator",
+  "cer": 0.16,
+  "heard": "బ్లేన్ చేస్తా ఇంకా నాలుగు పర్సంట్ నేయా సనమాఇట్ ఈస్ప్ ఫిఫ్ట్ి పిఏ ట్రిప్ల్ ప్ల్స్.",
+  "redub": true
+ },
+ {
+  "id": 6,
+  "speaker": "creator",
+  "cer": 0.35,
+  "heard": "ముందు డల్ ఇపడు శుమూథ ఇవనలుక ఇన్సిందు గ్రవా.",
+  "redub": true
+ },
+ {
+  "id": 7,
+  "speaker": "creator",
+  "cer": 0.15,
+  "heard": "Instant glow no white cast.",
+  "redub": true
+ }
+]

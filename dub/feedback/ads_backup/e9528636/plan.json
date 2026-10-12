@@ -1,0 +1,43 @@
+{
+ "video_id": "e9528636",
+ "kind": "ad",
+ "style": "product_ad",
+ "duration": 20.039002,
+ "cast": [
+  {
+   "id": "narrator",
+   "name": "Voiceover",
+   "role": "narrator"
+  }
+ ],
+ "lines": [
+  {
+   "id": 1,
+   "speaker": "narrator",
+   "start": 0.0,
+   "end": 2.4,
+   "en": "Rich night cream—but heavy, bilkul nahi."
+  },
+  {
+   "id": 2,
+   "speaker": "narrator",
+   "start": 2.58,
+   "end": 6.9,
+   "en": "DermDoc 2% Kojic Acid Night Cream smoothly blends into your night routine."
+  },
+  {
+   "id": 3,
+   "speaker": "narrator",
+   "start": 7.06,
+   "end": 16.08,
+   "en": "Kojic Acid, Niacinamide aur Alpha Arbutin ka Glow Fusion Formula dark spots ki appearance reduce karke skin ko brighter aur more even-looking banane mein help kare."
+  },
+  {
+   "id": 4,
+   "speaker": "narrator",
+   "start": 16.3,
+   "end": 17.34,
+   "en": "Wake up to glow."
+  }
+ ]
+}

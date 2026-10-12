@@ -1,0 +1,54 @@
+[
+ {
+  "id": 1,
+  "speaker": "greasiness",
+  "cer": 0.08,
+  "heard": "স্টিকে শাইন ড্য়েটি তে হাজির"
+ },
+ {
+  "id": 2,
+  "speaker": "dullness",
+  "cer": 0.4,
+  "heard": "আরা আমি আনদা মেডিনে ভাপ।",
+  "redub": true
+ },
+ {
+  "id": 3,
+  "speaker": "sunscreen",
+  "cer": 0.2,
+  "heard": "তরা দুজো নি ফাযাড্"
+ },
+ {
+  "id": 4,
+  "speaker": "sunscreen",
+  "cer": 0.07,
+  "heard": "কালার হোইলে পারপল হলুদের উল্টো তাই ডালনেস কান্ছেল।",
+  "redub": true
+ },
+ {
+  "id": 5,
+  "speaker": "sunscreen",
+  "cer": 0.23,
+  "heard": "পারপল তিন্ ইন্যান স্কনের জুনাই তুয়ে।"
+ },
+ {
+  "id": 6,
+  "speaker": "sunscreen",
+  "cer": 0.15,
+  "heard": "4% naishinamide or instant glow",
+  "redub": true
+ },
+ {
+  "id": 7,
+  "speaker": "sunscreen",
+  "cer": 0.17,
+  "heard": "এশ পিএফ ফিটি পিএ ট্রিপল পলাস রোধ শামলা বে"
+ },
+ {
+  "id": 8,
+  "speaker": "sunscreen",
+  "cer": 0.33,
+  "heard": "ইনিনিন গ্লো প্রাকটিটা আশকলে নো ড্রামা",
+  "redub": true
+ }
+]

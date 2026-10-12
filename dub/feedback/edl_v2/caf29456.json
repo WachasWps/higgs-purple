@@ -1,0 +1,76 @@
+{
+ "video_id": "caf29456",
+ "product": "ps",
+ "category": "ugc",
+ "approach": "v2_original_creator",
+ "shots": [
+  {
+   "start": 0,
+   "end": 2.67,
+   "action": "keep",
+   "zoom": [
+    1.25,
+    0.6,
+    0.42
+   ],
+   "client": "0.7 what is she looking into? product? -> box cropped out",
+   "n": 1
+  },
+  {
+   "start": 2.67,
+   "end": 6.6,
+   "action": "replace",
+   "replace_with": "GRAPHIC_COLOUR_WHEEL",
+   "n": 2
+  },
+  {
+   "start": 6.6,
+   "end": 8.1,
+   "action": "replace",
+   "replace_with": "PS10_texture_macro",
+   "client": "nozzle (all videos)",
+   "n": 3
+  },
+  {
+   "start": 8.1,
+   "end": 8.73,
+   "action": "replace",
+   "replace_with": "PS08_hand_swatch",
+   "n": 4
+  },
+  {
+   "start": 8.73,
+   "end": 10.6,
+   "action": "replace",
+   "replace_with": "PS08_hand_swatch",
+   "clip_offset": 3.17,
+   "client": "9.3 looks like a cast. pls blend",
+   "n": 5
+  },
+  {
+   "start": 10.6,
+   "end": 14.57,
+   "action": "keep",
+   "n": 6
+  },
+  {
+   "start": 14.57,
+   "end": 16.23,
+   "action": "replace",
+   "client": "14.3 no difference visible",
+   "n": 7,
+   "replace_with": "GRAPHIC_BA_SPLIT",
+   "ba_pair": [
+    "BA2_caf29456_BEFORE",
+    "BA2_caf29456_AFTER"
+   ],
+   "ba_face_y": 0.08
+  },
+  {
+   "start": 16.23,
+   "end": 20.04,
+   "action": "keep",
+   "n": 8
+  }
+ ]
+}

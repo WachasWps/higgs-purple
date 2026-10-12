@@ -1,0 +1,127 @@
+{
+ "video": "ce52c347",
+ "shots": [
+  {
+   "n": 1,
+   "start": 0,
+   "end": 1.2,
+   "on_screen": "Ultra Violet tube close-up with holographic label."
+  },
+  {
+   "n": 2,
+   "start": 1.2,
+   "end": 2.5,
+   "on_screen": "Purple sunscreen texture ribbon folding over itself."
+  },
+  {
+   "n": 3,
+   "start": 2.5,
+   "end": 4.3,
+   "on_screen": "Purple lens shield deflecting light rays above skin layers."
+  },
+  {
+   "n": 4,
+   "start": 4.3,
+   "end": 6.2,
+   "on_screen": "Honeycomb purple shield bouncing sun rays."
+  },
+  {
+   "n": 5,
+   "start": 6.2,
+   "end": 7.9,
+   "on_screen": "Tube lying in swirled purple cream."
+  },
+  {
+   "n": 6,
+   "start": 7.9,
+   "end": 9.6,
+   "on_screen": "Purple droplet morphs into a drop with yellow net inside (tint vs yellow)."
+  },
+  {
+   "n": 7,
+   "start": 9.6,
+   "end": 11.0,
+   "on_screen": "Indian woman in white top, dull-looking skin, neutral face."
+  },
+  {
+   "n": 8,
+   "start": 11.0,
+   "end": 13.0,
+   "on_screen": "Colour wheel graphic: purple top, yellow bottom, line joins them; 'Purple Tint Instant Glow for Indian skin tone'."
+  },
+  {
+   "n": 9,
+   "start": 13.0,
+   "end": 15.3,
+   "on_screen": "Same woman, glowing skin, smiling."
+  },
+  {
+   "n": 10,
+   "start": 15.3,
+   "end": 17.8,
+   "on_screen": "Before/after split: dull top, glowing bottom."
+  }
+ ],
+ "lines": [
+  {
+   "id": 1,
+   "start": 0.2,
+   "slot_s": 2.25,
+   "speaker": "narrator",
+   "current": "One sunscreen. Two smart actions.",
+   "on_screen_during": "S1 tube, S2 texture",
+   "verdict": "keep",
+   "new": "One sunscreen. Two smart actions.",
+   "words": 5,
+   "reason": "intro over product"
+  },
+  {
+   "id": 2,
+   "start": 2.6,
+   "slot_s": 3.55,
+   "speaker": "narrator",
+   "current": "One: SPF 50 PA+++, for UVA and UVB protection.",
+   "on_screen_during": "S3-S4 UV shields",
+   "verdict": "keep",
+   "new": "One: SPF 50 PA+++, for UVA and UVB protection.",
+   "words": 9,
+   "reason": "matches shields"
+  },
+  {
+   "id": 3,
+   "start": 6.3,
+   "slot_s": 3.25,
+   "speaker": "narrator",
+   "current": "Two: 4% Niacinamide with a purple tint.",
+   "on_screen_during": "S5 tube swirl, S6 purple/yellow droplet",
+   "verdict": "keep",
+   "new": "Two: 4% Niacinamide with a purple tint.",
+   "words": 7,
+   "reason": "matches"
+  },
+  {
+   "id": 4,
+   "start": 9.7,
+   "slot_s": 3.35,
+   "speaker": "narrator",
+   "current": "Purple sits opposite yellow, so it helps cancel yellow-looking dullness.",
+   "on_screen_during": "S7 dull face, then S8 colour wheel",
+   "verdict": "rewrite",
+   "new": "Purple, opposite yellow on the wheel, cancels dullness.",
+   "words": 8,
+   "reason": "adds colour-wheel explanation and fits budget (was 11 words)"
+  },
+  {
+   "id": 5,
+   "start": 13.2,
+   "slot_s": 4.1,
+   "speaker": "narrator",
+   "current": "It blends in with no white cast. Just Instant Glow.",
+   "on_screen_during": "S9 blend glow, S10 before/after",
+   "verdict": "keep",
+   "new": "It blends in with no white cast. Just Instant Glow.",
+   "words": 10,
+   "reason": "no white cast + Instant Glow over result"
+  }
+ ]
+}

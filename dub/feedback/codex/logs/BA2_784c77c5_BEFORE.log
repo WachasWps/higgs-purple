@@ -1,0 +1,505 @@
+Reading prompt from stdin...
+OpenAI Codex v0.162.0
+--------
+workdir: /Users/wachas/Documents/higgs-purple/dub/feedback/codex
+model: gpt-5.6-luna
+provider: openai
+approval: never
+sandbox: workspace-write [workdir, /tmp, $TMPDIR]
+reasoning effort: low
+reasoning summaries: none
+session id: 01a12a62-1fa4-7452-915b-1bb9ed01a29e
+--------
+user
+Read CODEX_BRIEF.md in this folder first and follow it strictly.
+Attached reference images: ba2_refs/784c77c5.png. Product photos are the ground truth for packaging; the out/*_model_ref.png image is the identity reference for the woman — keep the SAME face, hair and skin tone.
+TASK: generate ONE photorealistic vertical 9:16 keyframe image:
+Use the attached frame ba2_refs/784c77c5.png as the reference. Create ONE clean photoreal vertical 9:16 head-and-shoulders portrait of the SAME woman — identical face, features, hair, skin tone, clothes, background and lighting as the frame, facing the camera, face centred in the upper-middle of the frame. The frame is a split-screen of one face — render it as ONE normal un-split face (no dividing line, no differing halves). Remove any text, labels, graphics, cartoon characters, product jars or cream on the skin. Natural real skin texture with pores (not airbrushed, not blurred). BEFORE state: realistic hyperpigmentation — soft-edged FLAT brown sun spots and uneven darker patches on the cheekbones and upper cheeks, skin a little dull. Never round raised dots or chicken-pox. No text.
+
+Use your image generation tool (pass the reference images to it), then copy the generated file to out/BA2_784c77c5_BEFORE.png. Reply only with the saved path.
+codex
+I’m using the image-generation skill and first checking the local brief so the output matches the required identity, framing, and file path.
+exec
+/bin/zsh -lc "sed -n '1,240p' CODEX_BRIEF.md && printf '\\n--- files ---\\n' && rg --files | sed -n '1,120p'" in /Users/wachas/Documents/higgs-purple/dub/feedback/codex
+ succeeded in 0ms:
+# DERMDOC ad fix — image-generation brief for Codex
+
+You generate corrected KEYFRAMES (still images) for short vertical skincare ads by the Indian brand DERMDOC
+("Honest Science"). Each keyframe becomes the first frame of a 5-second AI video clip (Wan, 480p), so it must be a
+clean, photographic, single moment — no collage, no text, no watermark, no UI.
+
+## Output format (always)
+- Vertical 9:16 (e.g. 1024x1536 or 1088x1920 portrait). Photorealistic, premium beauty-commercial lighting,
+  shallow depth of field, real skin texture (pores, natural sheen) — not plastic, not airbrushed.
+- NO text, letters, captions, logos or graphics anywhere in the image EXCEPT the printed product label itself.
+- Save the final image exactly to the path given in the task.
+
+## The products — must match the attached reference photos EXACTLY (shape, colours, cap, label layout)
+### Purple Sunscreen (PS) — "DERMDOC Ultra Violet 4% Niacinamide with SPF 50 PA+++ Brightening Sunscreen", 60 g
+- Soft white squeeze tube, flat crimped seal at the top end, label text: "DERMDOC" / blue "Honest Science" bar /
+  "4% NIACINAMIDE WITH SPF 50 PA+++" / "BRIGHTENING SUNSCREEN"; a vertical lavender band with "ULTRA VIOLET" on the left.
+- The cap is a WIDE, flat-topped, translucent lavender cap the full width of the tube end. The tube stands upright ON
+  its cap. THERE IS NO NOZZLE, no pointed tip, no thin spout — never draw one. The cap is always on unless the shot is
+  dispensing; when dispensing, cream comes out of a small round opening directly under the flip cap, flush with the end.
+- Texture: smooth, light, pale LAVENDER cream (see ps_texture_drip.png). Not watery, not runny, not paste/mask/ubtan.
+  When rubbed in it disappears completely: no purple left, no white cast, no residue — skin looks naturally radiant.
+- Benefit language for visuals: INSTANT glow right after blending; purple tint cancels yellow-looking dullness.
+
+### Kojic Night Cream (KNC) — "DERMDOC 2% Kojic Acid Night Cream, Glow Fusion Formula with Niacinamide & Alpha Arbutin"
+- Short wide jar: royal-blue base and blue screw neck, white label band, WHITE lid. Label: "DERMDOC" / blue
+  "Honest Science" bar / "2% KOJIC ACID" / "GLOW FUSION FORMULA with Niacinamide & Alpha Arbutin" / "NIGHT CREAM ALL SKIN
+  TYPES" / round blue "NEW IMPROVED" badge / pale-yellow swatch rectangle.
+- Texture: thick, rich, whipped WHITE cream with a soft peak (knc_tub_open.png). Not watery.
+- It is a NIGHT cream: application only at night (warm lamp light). Results are seen next MORNING (soft daylight).
+
+## The people
+- Indian women, 24-32, DUSKY / medium-deep brown Indian skin tone (relatable, not fair). Keep the SAME skin tone
+  before and after — products improve glow/evenness, they never lighten skin.
+- No hair strands on skin in close-ups, no dandruff, no dark circles in "after" shots.
+- "Before" (PS): dull, slightly yellowish/uneven-looking, matte, tired — but realistic, not dirty or diseased; never
+  glowing. "After" (PS, instant): same face seconds later — even, smooth, dewy healthy glow, clearly visible difference.
+- Dark spots (KNC "before"): REALISTIC hyperpigmentation — soft-edged brown sun spots / patches on cheekbones and
+  upper cheeks, uneven tone, a few post-acne marks. NEVER round raised dots, never chicken-pox looking.
+- "After" (KNC morning / after 2 weeks): visibly clearer, spotless-looking, smooth, glowing, healthy skin, same tone.
+
+## Banned
+Nozzles/spouts on the PS tube, missing cap, two products in frame (unless asked), wrong colours/label layout,
+invented text, extra fingers, warped hands, mask-like thick application, residue, white cast, cartoon dark spots,
+morning application of the night cream, fairness/whitening look.
+
+--- files ---
+ugc_refs/a5c00002_face.png
+ugc_refs/dad2130b_S9.png
+ugc_refs/784c77c5_S1.png
+ugc_refs/02bad3b3_S9.png
+ugc_refs/cd5a6fe8_S9.png
+ugc_refs/65a0c520_S5.png
+ugc_refs/02bad3b3_S6.png
+ugc_refs/a5c00002_S4.png
+ugc_refs/02bad3b3_S1.png
+library.pre_ugc_credit.json
+CODEX_BRIEF.md
+story_refs/89697c77_S7.png
+story_refs/655a1328_face.png
+story_refs/ce849d3f_S2.png
+story_refs/655a1328_S5.png
+story_refs/89697c77_S1.png
+story_refs/7558fbf1_S2.png
+story_refs/715b1b5c_S4.png
+story_refs/7558fbf1_S4.png
+story_refs/291827ba_S2.png
+story_refs/c51221b6_S2.png
+story_refs/7558fbf1_S9.png
+story_refs/5fd50ab8_S1.png
+story_refs/5fd50ab8_S3.png
+story_refs/5fd50ab8_S2.png
+story_refs/5fd50ab8_S5.png
+story_refs/00b304b4_S3.png
+pilot/33c29291_S3.png
+pilot/33c29291_S2.png
+pilot/33c29291_S1.png
+pilot/33c29291_S5.png
+pilot/33c29291_S4.png
+pilot/33c29291_S1a.png
+prompts/BA_f7ce58d4_BEFORE.txt
+prompts/STORY_291827ba_S2.txt
+prompts/STORY_7558fbf1_S4.txt
+prompts/BA_89697c77_BEFORE.txt
+prompts/PS09_outdoor_glow.txt
+prompts/KNA2_avatar_ingredients.txt
+prompts/BA_23850d94_AFTER.txt
+prompts/STORY_715b1b5c_S4.txt
+prompts/STORY_7558fbf1_S2.txt
+prompts/BA_bd3b8af7_BEFORE.txt
+prompts/ps_hero_vanity.txt
+prompts/BA_906fbf3c_AFTER.txt
+prompts/BA_715b1b5c_BEFORE.txt
+prompts/STORY_89697c77_S1.txt
+prompts/BA2_5fd50ab8_BEFORE.txt
+prompts/BA_7558fbf1_BEFORE.txt
+prompts/PS04_dot_face.txt
+prompts/BA2_784c77c5_BEFORE.txt
+prompts/BA2_3d01d9fc_BEFORE.txt
+prompts/BA2_7ea55172_BEFORE.txt
+prompts/BA_906fbf3c_BEFORE.txt
+prompts/PS10_texture_macro.txt
+prompts/STORY_655a1328_S5.txt
+prompts/UGC_dad2130b_S9.txt
+prompts/STORY_ce849d3f_S2.txt
+prompts/UGC_02bad3b3_S9.txt
+prompts/UGC_784c77c5_S1.txt
+prompts/STORY_89697c77_S7.txt
+prompts/UGC_a5c00002_AFTER.txt
+prompts/KNA1_avatar_talk.txt
+prompts/BA_595689d8_AFTER.txt
+prompts/knc_model_ref.txt
+prompts/BA2_65a0c520_BEFORE.txt
+prompts/BA_595689d8_BEFORE.txt
+prompts/BA_bd3b8af7_AFTER.txt
+prompts/UGC_02bad3b3_S6.txt
+prompts/KN02_scoop.txt
+prompts/STORY_00b304b4_S3.txt
+prompts/BA2_02bad3b3_BEFORE.txt
+prompts/STORY_5fd50ab8_S5.txt
+prompts/KN07_after_day.txt
+prompts/PILOT_33c29291_S2.txt
+prompts/BA_390113f1_BEFORE.txt
+prompts/BA_71e0977a_AFTER.txt
+prompts/PS03_fingertips.txt
+prompts/UGC_a5c00002_S4.txt
+prompts/PS08_hand_swatch.txt
+prompts/BA_715b1b5c_AFTER.txt
+prompts/PILOT_33c29291_S1.txt
+prompts/BA2_caf29456_BEFORE.txt
+prompts/PILOT_33c29291_S5.txt
+prompts/PS07_before_dull.txt
+prompts/BA_f7ce58d4_AFTER.txt
+prompts/KN01_hero_night.txt
+prompts/BA2_74495eba_BEFORE.txt
+prompts/KN04_apply_night.txt
+ba_codex.log
+prompts/STORY_5fd50ab8_S2.txt
+prompts/STORY_5fd50ab8_S3.txt
+prompts/UGC_02bad3b3_S1.txt
+prompts/KN06_morning_wake.txt
+prompts/BA_390113f1_AFTER.txt
+prompts/STORY_5fd50ab8_S1.txt
+prompts/PSA2_avatar_point.txt
+prompts/BA2_dad2130b_BEFORE.txt
+prompts/PS05_blend_glow.txt
+prompts/BA_23850d94_BEFORE.txt
+prompts/BA2_33c29291_BEFORE.txt
+prompts/UGC_65a0c520_S5.txt
+prompts/BA_89697c77_AFTER.txt
+prompts/KN08_before_day.txt
+prompts/BA2_655a1328_BEFORE.txt
+prompts/KN03_before_night.txt
+prompts/PS06_glow_after.txt
+prompts/KN05_sleep.txt
+prompts/BA2_51440b1f_BEFORE.txt
+prompts/PSA3_avatar_model.txt
+prompts/STORY_7558fbf1_S9.txt
+prompts/PS02_hold_balcony.txt
+prompts/ps_model_ref.txt
+prompts/PSA1_avatar_talk.txt
+prompts/BA_71e0977a_BEFORE.txt
+prompts/STORY_c51221b6_S2.txt
+knc_tub_small.png
+ugc_codex.log
+story_codex.log
+ps_tube_swatch.png
+
+exec
+/bin/zsh -lc "sed -n '1,260p' /Users/wachas/.codex/skills/imagegen/SKILL.md" in /Users/wachas/Documents/higgs-purple/dub/feedback/codex
+ exited 1 in 71ms:
+sed: /Users/wachas/.codex/skills/imagegen/SKILL.md: No such file or directory
+
+exec
+/bin/zsh -lc "sed -n '1,260p' /Users/wachas/.codex/skills/.system/imagegen/SKILL.md" in /Users/wachas/Documents/higgs-purple/dub/feedback/codex
+ succeeded in 18ms:
+---
+name: "imagegen"
+description: "Generate or edit raster images when the task benefits from AI-created bitmap visuals such as photos, illustrations, textures, sprites, mockups, or transparent-background cutouts. Use when Codex should create a brand-new image, transform an existing image, or derive visual variants from references, and the output should be a bitmap asset rather than repo-native code or vector. Do not use when the task is better handled by editing existing SVG/vector/code-native assets, extending an established icon or logo system, or building the visual directly in HTML/CSS/canvas."
+---
+
+# Image Generation Skill
+
+Generates or edits images for the current project (for example website assets, game assets, UI mockups, product mockups, wireframes, logo design, photorealistic images, or infographics).
+
+## Top-level modes and rules
+
+This skill has exactly two top-level modes:
+
+- **Default built-in tool mode (preferred):** built-in `image_gen` tool for image generation, editing, and transparent-image requests. Does not require `OPENAI_API_KEY`.
+- **Fallback CLI mode:** `scripts/image_gen.py` CLI. Use when the user explicitly asks for or confirms the CLI/API/model path. Requires `OPENAI_API_KEY`.
+
+Within CLI fallback, the CLI exposes three subcommands:
+
+- `generate`
+- `edit`
+- `generate-batch`
+
+Rules:
+- Use the built-in `image_gen` tool by default for normal image generation and editing requests.
+- Do not switch to CLI fallback for ordinary quality, size, or file-path control.
+- For transparent images, ask built-in `image_gen` for a transparent background and preserve the generated alpha.
+- Never silently switch from built-in `image_gen` or CLI `gpt-image-2` to CLI `gpt-image-1.5`; ask the user first unless they explicitly requested `gpt-image-1.5`.
+- The word `batch` by itself does not mean CLI fallback. If the user asks for many assets or says to batch-generate assets without explicitly asking for CLI/API/model controls, stay on the built-in path and issue one built-in call per requested asset or variant.
+- If the built-in tool fails or is unavailable, tell the user the CLI fallback exists and that it requires `OPENAI_API_KEY`. Proceed only if the user explicitly asks for that fallback.
+- If the user explicitly asks for CLI mode, use the bundled `scripts/image_gen.py` workflow. Do not create one-off SDK runners.
+- Never modify `scripts/image_gen.py`. If something is missing, ask the user before doing anything else.
+
+Built-in save-path policy:
+- In built-in tool mode, Codex saves generated images under `$CODEX_HOME/*` by default.
+- Do not describe or rely on OS temp as the default built-in destination.
+- Do not describe or rely on a destination-path argument (if any) on the built-in `image_gen` tool. If a specific location is needed, generate first and then move or copy the selected output from `$CODEX_HOME/generated_images/...`.
+- Save-path precedence in built-in mode:
+  1. If the user names a destination, move or copy the selected output there.
+  2. If the image is meant for the current project, move or copy the final selected image into the workspace before finishing.
+  3. If the image is only for preview or brainstorming, render it inline; the underlying file can remain at the default `$CODEX_HOME/*` path.
+- Never leave a project-referenced asset only at the default `$CODEX_HOME/*` path.
+- Do not overwrite an existing asset unless the user explicitly asked for replacement; otherwise create a sibling versioned filename such as `hero-v2.png` or `item-icon-edited.png`.
+
+Shared prompt guidance for both modes lives in `references/prompting.md` and `references/sample-prompts.md`.
+
+Fallback-only docs/resources for CLI mode:
+- `references/cli.md`
+- `references/image-api.md`
+- `references/codex-network.md`
+- `scripts/image_gen.py`
+
+## When to use
+- Generate a new image (concept art, product shot, cover, website hero)
+- Generate a new image using one or more reference images for style, composition, or mood
+- Edit an existing image (inpainting, lighting or weather transformations, background replacement, object removal, compositing, transparent background)
+- Produce many assets or variants for one task
+
+## When not to use
+- Extending or matching an existing SVG/vector icon set, logo system, or illustration library inside the repo
+- Creating simple shapes, diagrams, wireframes, or icons that are better produced directly in SVG, HTML/CSS, or canvas
+- Making a small project-local asset edit when the source file already exists in an editable native format
+- Any task where the user clearly wants deterministic code-native output instead of a generated bitmap
+
+## Decision tree
+
+Think about two separate questions:
+
+1. **Intent:** is this a new image or an edit of an existing image?
+2. **Execution strategy:** is this one asset or many assets/variants?
+
+Intent:
+- If the user wants to modify an existing image while preserving parts of it, treat the request as **edit**.
+- If the user provides images only as references for style, composition, mood, or subject guidance, treat the request as **generate**.
+- If the user provides no images, treat the request as **generate**.
+
+Built-in edit semantics:
+- Built-in edit mode is for images already visible in the conversation context, such as attached images or images generated earlier in the thread.
+- If the user wants to edit a local image file with the built-in tool, first load it with built-in `view_image` tool so the image is visible in the conversation context, then proceed with the built-in edit flow.
+- Do not promise arbitrary filesystem-path editing through the built-in tool.
+- If a local file still needs direct file-path control, masks, or other explicit CLI-only parameters, use the explicit CLI fallback only when the user asks for it.
+- For edits, preserve invariants aggressively and save non-destructively by default.
+
+Execution strategy:
+- In the built-in default path, produce many assets or variants by issuing one `image_gen` call per requested asset or variant.
+- In the CLI fallback path, use the CLI `generate-batch` subcommand only when the user explicitly chose CLI mode and needs many prompts/assets.
+- For many distinct assets, do not use `n` as a substitute for separate prompts. `n` is for variants of one prompt; distinct assets need distinct built-in calls or distinct CLI `generate-batch` jobs.
+
+Assume the user wants a new image unless they clearly ask to change an existing one.
+
+## Workflow
+1. Decide the top-level mode: built-in by default, including transparent-output requests; fallback CLI only if explicitly requested or confirmed.
+2. Decide the intent: `generate` or `edit`.
+3. Decide whether the output is preview-only or meant to be consumed by the current project.
+4. Decide the execution strategy: single asset vs repeated built-in calls vs CLI `generate-batch`.
+5. Collect inputs up front: prompt(s), exact text (verbatim), constraints/avoid list, and any input images.
+6. For every input image, label its role explicitly:
+   - reference image
+   - edit target
+   - supporting insert/style/compositing input
+7. If the edit target is only on the local filesystem and you are staying on the built-in path, inspect it with `view_image` first so the image is available in conversation context.
+8. If the user asked for a photo, illustration, sprite, product image, banner, or other explicitly raster-style asset, use `image_gen` rather than substituting SVG/HTML/CSS placeholders. If the request is for an icon, logo, or UI graphic that should match existing repo-native SVG/vector/code assets, prefer editing those directly instead.
+9. Augment the prompt based on specificity:
+   - If the user's prompt is already specific and detailed, normalize it into a clear spec without adding creative requirements.
+   - If the user's prompt is generic, add tasteful augmentation only when it materially improves output quality.
+10. Use the built-in `image_gen` tool by default.
+11. For transparent-output requests, ask built-in `image_gen` for a transparent background and preserve the generated alpha channel.
+12. Inspect outputs and validate: subject, style, composition, text accuracy, and invariants/avoid items.
+13. Iterate with a single targeted change, then re-check.
+14. For preview-only work, render the image inline; the underlying file may remain at the default `$CODEX_HOME/generated_images/...` path.
+15. For project-bound work, move or copy the selected artifact into the workspace and update any consuming code or references. Never leave a project-referenced asset only at the default `$CODEX_HOME/generated_images/...` path.
+16. For batches or multi-asset requests, persist every requested deliverable final in the workspace unless the user explicitly asked to keep outputs preview-only. Discarded variants do not need to be kept unless requested.
+17. If the user explicitly chooses or confirms the CLI fallback, then use the fallback-only docs for model, quality, size, `input_fidelity`, masks, output format, output paths, and network setup.
+18. Always report the final saved path(s) for any workspace-bound asset(s), plus the final prompt or prompt set and whether the built-in tool or fallback CLI mode was used.
+
+## Transparent image requests
+
+Ask built-in `image_gen` for a genuinely transparent background and preserve its alpha.
+
+## Prompt augmentation
+
+Reformat user prompts into a structured, production-oriented spec. Make the user's goal clearer and more actionable, but do not blindly add detail.
+
+Treat this as prompt-shaping guidance, not a closed schema. Use only the lines that help, and add a short extra labeled line when it materially improves clarity.
+
+### Specificity policy
+
+Use the user's prompt specificity to decide how much augmentation is appropriate:
+
+- If the prompt is already specific and detailed, preserve that specificity and only normalize/structure it.
+- If the prompt is generic, you may add tasteful augmentation when it will materially improve the result.
+
+Allowed augmentations:
+- composition or framing hints
+- polish level or intended-use hints
+- practical layout guidance
+- reasonable scene concreteness that supports the stated request
+
+Not allowed augmentations:
+- extra characters or objects that are not implied by the request
+- brand names, slogans, palettes, or narrative beats that are not implied
+- arbitrary side-specific placement unless the surrounding layout supports it
+
+## Use-case taxonomy (exact slugs)
+
+Classify each request into one of these buckets and keep the slug consistent across prompts and references.
+
+Generate:
+- photorealistic-natural — candid/editorial lifestyle scenes with real texture and natural lighting.
+- product-mockup — product/packaging shots, catalog imagery, merch concepts.
+- ui-mockup — app/web interface mockups and wireframes; specify the desired fidelity.
+- infographic-diagram — diagrams/infographics with structured layout and text.
+- scientific-educational — classroom explainers, scientific diagrams, and learning visuals with required labels and accuracy constraints.
+- ads-marketing — campaign concepts and ad creatives with audience, brand position, scene, and exact tagline/copy.
+- productivity-visual — slide, chart, workflow, and data-heavy business visuals.
+- logo-brand — logo/mark exploration, vector-friendly.
+- illustration-story — comics, children’s book art, narrative scenes.
+- stylized-concept — style-driven concept art, 3D/stylized renders.
+- historical-scene — period-accurate/world-knowledge scenes.
+
+Edit:
+- text-localization — translate/replace in-image text, preserve layout.
+- identity-preserve — try-on, person-in-scene; lock face/body/pose.
+- precise-object-edit — remove/replace a specific element (including interior swaps).
+- lighting-weather — time-of-day/season/atmosphere changes only.
+- background-extraction — transparent background / clean cutout. Ask built-in `image_gen` for actual transparency.
+- style-transfer — apply reference style while changing subject/scene.
+- compositing — multi-image insert/merge with matched lighting/perspective.
+- sketch-to-render — drawing/line art to photoreal render.
+
+## Shared prompt schema
+
+Use the following labeled spec as shared prompt scaffolding for both top-level modes:
+
+```text
+Use case: <taxonomy slug>
+Asset type: <where the asset will be used>
+Primary request: <user's main prompt>
+Input images: <Image 1: role; Image 2: role> (optional)
+Scene/backdrop: <environment>
+Subject: <main subject>
+Style/medium: <photo/illustration/3D/etc>
+Composition/framing: <wide/close/top-down; placement>
+Lighting/mood: <lighting + mood>
+Color palette: <palette notes>
+Materials/textures: <surface details>
+Text (verbatim): "<exact text>"
+Constraints: <must keep/must avoid>
+Avoid: <negative constraints>
+```
+
+Notes:
+- `Asset type` and `Input images` are prompt scaffolding, not dedicated CLI flags.
+- `Scene/backdrop` refers to the visual setting. It is not the same as the fallback CLI `background` parameter, which controls output transparency behavior.
+- Fallback-only execution notes such as `Quality:`, `Input fidelity:`, masks, output format, and output paths belong in the CLI path only. Do not treat them as built-in `image_gen` tool arguments.
+
+Augmentation rules:
+- Keep it short.
+- Add only the details needed to improve the prompt materially.
+- For edits, explicitly list invariants (`change only X; keep Y unchanged`).
+- If any critical detail is missing and blocks success, ask a question; otherwise proceed.
+
+## Examples
+
+### Generation example (hero image)
+```text
+Use case: product-mockup
+Asset type: landing page hero
+Primary request: a minimal hero image of a ceramic coffee mug
+Style/medium: clean product photography
+Composition/framing: wide composition with usable negative space for page copy if needed
+Lighting/mood: soft studio lighting
+Constraints: no logos, no text, no watermark
+```
+
+### Edit example (invariants)
+```text
+Use case: precise-object-edit
+Asset type: product photo background replacement
+Primary request: replace only the background with a warm sunset gradient
+Constraints: change only the background; keep the product and its edges unchanged; no text; no watermark
+```
+
+## Prompting best practices
+- Structure prompt as scene/backdrop -> subject -> details -> constraints.
+- Include intended use (ad, UI mock, infographic) to set the mode and polish level.
+- Use camera/composition language for photorealism.
+- Only use SVG/vector stand-ins when the user explicitly asked for vector output or a non-image placeholder.
+- Quote exact text and specify typography + placement.
+- For tricky words, spell them letter-by-letter and require verbatim rendering.
+- For multi-image inputs, reference images by index and describe how they should be used.
+- For edits, repeat invariants every iteration to reduce drift.
+- Iterate with single-change follow-ups.
+- If the prompt is generic, add only the extra detail that will materially help.
+- If the prompt is already detailed, normalize it instead of expanding it.
+- For CLI fallback only, see `references/cli.md` and `references/image-api.md` for model, `quality`, `input_fidelity`, masks, output format, and output-path guidance.
+- For transparent images, ask built-in `image_gen` for actual transparency and preserve its alpha.
+
+More principles shared by both modes: `references/prompting.md`.
+Copy/paste specs shared by both modes: `references/sample-prompts.md`.
+
+## Guidance by asset type
+Asset-type templates (website assets, game assets, wireframes, logo) are consolidated in `references/sample-prompts.md`.
+
+## gpt-image-2 guidance for CLI fallback
+
+The fallback CLI defaults to `gpt-image-2`.
+
+- Use `gpt-image-2` for new CLI/API workflows unless the user confirms a different model.
+- CLI `gpt-image-2` does not support `background=transparent`; ask before using `gpt-image-1.5` unless the user explicitly requested that model.
+- `gpt-image-2` always uses high fidelity for image inputs; do not set `input_fidelity` with this model.
+- `gpt-image-2` supports `quality` values `low`, `medium`, `high`, and `auto`.
+- Use `quality low` for fast drafts, thumbnails, and quick iterations. Use `medium`, `high`, or `auto` for final assets, dense text, diagrams, identity-sensitive edits, or high-resolution outputs.
+- Square images are typically fastest to generate. Use `1024x1024` for fast square drafts.
+- If the user asks for 4K-style output, use `3840x2160` for landscape or `2160x3840` for portrait.
+- `gpt-image-2` size may be `auto` or `WIDTHxHEIGHT` if all constraints hold: max edge `<= 3840px`, both edges multiples of `16px`, long-to-short ratio `<= 3:1`, total pixels between `655,360` and `8,294,400`.
+
+Popular `gpt-image-2` sizes:
+- `1024x1024` square
+- `1536x1024` landscape
+- `1024x1536` portrait
+
+codex
+The brief confirms this is an identity-preserving portrait edit/generation: one unsplit face, same woman and styling, with realistic flat-edged hyperpigmentation and no text or products. I’m generating the single 9:16 keyframe now.
+exec
+/bin/zsh -lc "find /Users/wachas/.codex -type f \\( -name '*.png' -o -name '*.jpg' -o -name '*.webp' \\) -mmin -10 -print | tail -20" in /Users/wachas/Documents/higgs-purple/dub/feedback/codex
+ succeeded in 1420ms:
+/Users/wachas/.codex/generated_images/01a12a5b-de00-7a60-91f8-018b21b9f1aa/exec-4dc9b30b-cb93-416c-bf5e-1c0d54314268.png
+/Users/wachas/.codex/generated_images/01a12a5f-9747-7941-a24c-48b1bcc35840/exec-201f2955-86b9-4d2e-81cd-d9f9cbda3580.png
+/Users/wachas/.codex/generated_images/01a12a5e-b578-79f3-861c-5c8b52fb60eb/exec-859dd8f6-ae29-4156-baa1-ce09811e5170.png
+/Users/wachas/.codex/generated_images/01a12a5e-dca6-7b72-9bdf-e5bb523b6beb/exec-88f7ae86-0d02-42ce-a0cc-cbe694653e6d.png
+/Users/wachas/.codex/generated_images/01a12a5e-8fae-7dd1-ae95-cc8d743719cb/exec-eb945c98-c62b-48ba-8662-be461c1d227a.png
+/Users/wachas/.codex/generated_images/01a12a62-05ad-7d92-a02a-a475bdbd7230/exec-1fc97cbc-12a7-4a4c-b268-538309eceb5f.png
+/Users/wachas/.codex/generated_images/01a12a5c-ef6c-7552-8b62-3ba02a99e8e1/exec-0d0eb443-2114-4bdf-aa6e-4ae95cee8cab.png
+/Users/wachas/.codex/generated_images/01a12a5f-679d-71e3-af88-666330750014/exec-fd73ce32-69bf-4a0a-9b60-a2e013786aac.png
+/Users/wachas/.codex/generated_images/01a12a5d-bbe7-7631-b990-85cc366313a4/exec-aa1e3b79-89ec-40ae-b720-4f0c36a7f9cd.png
+/Users/wachas/.codex/generated_images/01a12a61-120c-7b83-a940-efffb4e05146/exec-8a2f65ad-3e12-4ca3-b00e-eeb003fec7e9.png
+/Users/wachas/.codex/generated_images/01a12a5d-f7d4-70a3-9f69-b43cf1be46fc/exec-47f44bb0-ee0e-4fb0-a15b-33d20d8d3f95.png
+/Users/wachas/.codex/generated_images/01a12a5f-dd23-7c71-94c8-c2efc6742174/exec-6f00f8be-e69f-405e-831d-92b60829b8ef.png
+/Users/wachas/.codex/generated_images/01a12a62-1fa4-7452-915b-1bb9ed01a29e/exec-96ae632e-2223-4f14-ac26-8ff8ffa9c573.png
+/Users/wachas/.codex/generated_images/01a12a5c-d02f-7e10-984a-7e4efb8b95ad/exec-30ae3c2c-f040-4ac0-851e-1d58c34ff2fb.png
+/Users/wachas/.codex/generated_images/01a12a5b-de00-7ca3-820c-ee7ed0a3124d/exec-8719562d-23d9-41e6-a026-f504fc337dab.png
+/Users/wachas/.codex/generated_images/01a12a60-2239-7a20-8762-cf1844992efa/exec-26567b58-137b-4136-8fac-de22ef20203b.png
+/Users/wachas/.codex/generated_images/01a12a60-5f4d-7aa0-82b1-8371d72bd4a6/exec-a00c12ee-3d1d-4bd6-896a-35f5e3253901.png
+/Users/wachas/.codex/generated_images/01a12a5d-67dd-7122-b90b-521d2a77ea68/exec-89704b73-8923-4b34-ac70-c0f3056c40fb.png
+/Users/wachas/.codex/generated_images/01a12a61-1f35-77e3-b04a-148dbaf3d94f/exec-a51e8df3-b62c-4ced-bd88-3726eda0d140.png
+/Users/wachas/.codex/generated_images/01a12a61-1f35-77e3-b04a-148dbaf3d94f/exec-57d042c5-7084-41d2-8934-59f90b2390bc.png
+
+exec
+/bin/zsh -lc "find /Users/wachas/.codex/generated_images -type f -name '*.png' -print0 | xargs -0 stat -f '%m %N' | sort -nr | head -5" in /Users/wachas/Documents/higgs-purple/dub/feedback/codex
+ succeeded in 0ms:
+1791712494 /Users/wachas/.codex/generated_images/01a12a62-1fa4-7452-915b-1bb9ed01a29e/exec-96ae632e-2223-4f14-ac26-8ff8ffa9c573.png
+1791712485 /Users/wachas/.codex/generated_images/01a12a61-1f35-77e3-b04a-148dbaf3d94f/exec-57d042c5-7084-41d2-8934-59f90b2390bc.png
+1791712479 /Users/wachas/.codex/generated_images/01a12a62-05ad-7d92-a02a-a475bdbd7230/exec-1fc97cbc-12a7-4a4c-b268-538309eceb5f.png
+1791712433 /Users/wachas/.codex/generated_images/01a12a61-1f35-77e3-b04a-148dbaf3d94f/exec-a51e8df3-b62c-4ced-bd88-3726eda0d140.png
+1791712425 /Users/wachas/.codex/generated_images/01a12a61-15e9-7092-bcb8-c414111c5626/exec-4efb50d9-2278-4a52-afab-0cf7bba5fece.png
+
+exec
+/bin/zsh -lc 'mkdir -p out && cp /Users/wachas/.codex/generated_images/01a12a62-1fa4-7452-915b-1bb9ed01a29e/exec-96ae632e-2223-4f14-ac26-8ff8ffa9c573.png out/BA2_784c77c5_BEFORE.png && file out/BA2_784c77c5_BEFORE.png' in /Users/wachas/Documents/higgs-purple/dub/feedback/codex
+ succeeded in 0ms:
+out/BA2_784c77c5_BEFORE.png: PNG image data, 941 x 1672, 8-bit/color RGB, non-interlaced
+
+codex
+out/BA2_784c77c5_BEFORE.png
+tokens used
+22,549
+out/BA2_784c77c5_BEFORE.png

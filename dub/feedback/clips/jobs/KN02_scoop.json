@@ -1,0 +1,31 @@
+[
+  {
+    "created_at": "2026-10-09T13:15:57.147928Z",
+    "display_name": "Wan 3.0",
+    "id": "eb866464-9f97-46dc-83ca-4b3c2824c2a7",
+    "job_type": "wan3_0",
+    "min_result_url": null,
+    "params": {
+      "aspect_ratio": "9:16",
+      "duration": 5,
+      "generate_audio": false,
+      "height": 1344,
+      "medias": [
+        {
+          "data": {
+            "id": "3c04f6ae-cf40-487b-a52a-10dde2c542ec",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3A6ZxB95Mnf55lwPBqzkePnTfzA/3c04f6ae-cf40-487b-a52a-10dde2c542ec.png"
+          },
+          "role": "start_image"
+        }
+      ],
+      "prompt": "The fingertip lifts out a soft peak of thick cream in slow motion; the cream is rich and holds its shape; jar unchanged. Photorealistic, natural motion, stable identity, product packaging stays exactly as in the first frame, no text appears.",
+      "resolution": "480p",
+      "width": 768
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3A6ZxB95Mnf55lwPBqzkePnTfzA/hf_20261009_131557_eb866464-9f97-46dc-83ca-4b3c2824c2a7.mp4",
+    "status": "completed",
+    "thumbnail_url": "https://cdn.higgsfield.ai/user_3A6ZxB95Mnf55lwPBqzkePnTfzA/hf_20261009_131557_eb866464-9f97-46dc-83ca-4b3c2824c2a7_thumbnail.webp"
+  }
+]

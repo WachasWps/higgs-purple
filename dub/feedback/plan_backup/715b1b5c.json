@@ -1,0 +1,127 @@
+{
+ "video_id": "715b1b5c",
+ "style": "product_avatar",
+ "duration": 20.04,
+ "cast": [
+  {
+   "id": "villain",
+   "name": "Dark Spot & Uneven Tone",
+   "role": "villain",
+   "description": "two-headed smoky cartoon villain (Dark Spot + Uneven Tone) on the woman's cheek; low, menacing growl when attacking, panicked squeal when it retreats",
+   "ref_ranges": [[0.0, 1.88]],
+   "fx": "villain",
+   "pitch_semitones": -2
+  },
+  {
+   "id": "jar",
+   "name": "DERMDOC Kojic Night Cream Jar",
+   "role": "product_mascot",
+   "description": "talking DERMDOC 2% Kojic Acid Night Cream jar with eyes, mouth and little arms, captain of the Glow Fusion Night Patrol; bright, bouncy, confident cartoon voice",
+   "ref_ranges": [[2.36, 6.18], [6.42, 8.66], [9.0, 10.94]],
+   "fx": "cartoon",
+   "pitch_semitones": 0
+  },
+  {
+   "id": "woman",
+   "name": "Woman",
+   "role": "creator",
+   "description": "adult Indian woman in orange pyjamas, real person; warm, soft, happy after-two-weeks testimonial voice",
+   "ref_ranges": [[15.12, 17.02]],
+   "fx": "none",
+   "pitch_semitones": 0
+  }
+ ],
+ "lines": [
+  {
+   "id": 1, "speaker": "villain", "start": 0.0, "end": 1.88, "max_end": 2.32,
+   "en": "Tonight, we take over.",
+   "tag": "angry", "keep_original": false,
+   "bn": "আজ রাতে, এই মুখ আমাদের দখলে!",
+   "ta": "இன்னைக்கு நைட், ஆட்சி நம்மளோடது!",
+   "te": "ఈ రాత్రి, ఈ ముఖం మనదే!",
+   "ml": "ഇന്ന് രാത്രി, ഈ മുഖം നമ്മുടേതാ!",
+   "or": "ଆଜି ରାତିରେ, ଏ ମୁହଁ ଆମ କବଜାରେ!"
+  },
+  {
+   "id": 2, "speaker": "jar", "start": 2.36, "end": 4.26, "max_end": 4.46,
+   "en": "Glow Fusion Night Patrol, reporting for duty.",
+   "tag": "happy", "keep_original": false,
+   "bn": "গ্লো ফিউশন নাইট প্যাট্রোল, হাজির!",
+   "ta": "க்ளோ ஃப்யூஷன் நைட் பேட்ரோல், ரெடி!",
+   "te": "గ్లో ఫ్యూజన్ నైట్ ప్యాట్రోల్, రెడీ!",
+   "ml": "ഗ്ലോ ഫ്യൂഷൻ നൈറ്റ് പട്രോൾ, റെഡി!",
+   "or": "ଗ୍ଲୋ ଫ୍ୟୁଜନ ନାଇଟ ପାଟ୍ରୋଲ, ହାଜିର!"
+  },
+  {
+   "id": 3, "speaker": "jar", "start": 4.5, "end": 6.18, "max_end": 6.38,
+   "en": "Kojic acid, target dark spots.",
+   "tag": null, "keep_original": false,
+   "bn": "কোজিক অ্যাসিড, টার্গেট ডার্ক স্পট!",
+   "ta": "கோஜிக் ஆசிட், டார்க் ஸ்பாட் குறிவை!",
+   "te": "కోజిక్ యాసిడ్, డార్క్ స్పాట్‌పై గురి!",
+   "ml": "കോജിക് ആസിഡ്, ലക്ഷ്യം ഡാർക് സ്പോട്ട്!",
+   "or": "କୋଜିକ ଏସିଡ, ଡାର୍କ ସ୍ପଟ ଟାର୍ଗେଟ କର!"
+  },
+  {
+   "id": 4, "speaker": "jar", "start": 6.42, "end": 8.66, "max_end": 8.96,
+   "en": "Niacinamide, support a brighter, even-looking tone.",
+   "tag": null, "keep_original": false,
+   "bn": "নিয়াসিনামাইড, ব্রাইট ইভন টোনে সাপোর্ট!",
+   "ta": "நியாசினமைட், பிரைட்டர், ஈவன் டோனுக்கு சப்போர்ட்!",
+   "te": "నియాసినమైడ్, బ్రైటర్, ఈవెన్ టోన్‌కి సపోర్ట్!",
+   "ml": "നിയാസിനാമൈഡ്, ബ്രൈറ്റർ, ഈവൻ ടോണിന് സപ്പോർട്ട്!",
+   "or": "ନିଆସିନାମାଇଡ, ବ୍ରାଇଟ ଇଭେନ ଟୋନକୁ ସପୋର୍ଟ!"
+  },
+  {
+   "id": 5, "speaker": "jar", "start": 9.0, "end": 10.94, "max_end": 11.32,
+   "en": "Alpha arbutin, join the brightening patrol.",
+   "tag": null, "keep_original": false,
+   "bn": "আলফা আরবুটিন, ব্রাইটেনিং টিমে এসো!",
+   "ta": "ஆல்ஃபா அர்புடின், பிரைட்டனிங் டீம்ல வா!",
+   "te": "ఆల్ఫా అర్బుటిన్, బ్రైటెనింగ్ టీమ్‌లో చేరు!",
+   "ml": "ആൽഫ ആർബുട്ടിൻ, ബ്രൈറ്റനിംഗ് ടീമിൽ ചേര്!",
+   "or": "ଆଲଫା ଆରବୁଟିନ, ବ୍ରାଇଟେନିଂ ଟିମକୁ ଆସ!"
+  },
+  {
+   "id": 6, "speaker": "jar", "start": 11.36, "end": 13.68, "max_end": 13.98,
+   "en": "Three actives. One powerful night formula.",
+   "tag": "happy", "keep_original": false,
+   "bn": "তিনটে অ্যাক্টিভ, এক পাওয়ারফুল নাইট ফর্মুলা!",
+   "ta": "மூணு ஆக்டிவ்ஸ், ஒரே பவர்ஃபுல் நைட் ஃபார்முலா!",
+   "te": "మూడు యాక్టివ్స్, ఒకే పవర్‌ఫుల్ నైట్ ఫార్ములా!",
+   "ml": "മൂന്ന് ആക്ടീവ്സ്, ഒരൊറ്റ പവർഫുൾ നൈറ്റ് ഫോർമുല!",
+   "or": "ତିନି ଆକ୍ଟିଭ, ଏକ ପାୱାରଫୁଲ ନାଇଟ ଫର୍ମୁଲା!"
+  },
+  {
+   "id": 7, "speaker": "villain", "start": 14.02, "end": 14.58, "max_end": 15.08,
+   "en": "Retreat!",
+   "tag": "fear", "keep_original": false,
+   "bn": "পালাও!",
+   "ta": "ஓடுங்க!",
+   "te": "పారిపోండి!",
+   "ml": "ഓടിക്കോ!",
+   "or": "ପଳାଅ!"
+  },
+  {
+   "id": 8, "speaker": "woman", "start": 15.12, "end": 17.02, "max_end": 17.22,
+   "en": "Brighter, more even, ready to glow.",
+   "tag": "happy", "keep_original": false,
+   "bn": "ব্রাইটার, আরও ইভন, গ্লো করতে রেডি!",
+   "ta": "பிரைட்டர், இன்னும் ஈவன், க்ளோவுக்கு ரெடி!",
+   "te": "బ్రైటర్, మరింత ఈవెన్, గ్లోకి రెడీ!",
+   "ml": "ബ്രൈറ്റർ, കൂടുതൽ ഈവൻ, ഗ്ലോ ചെയ്യാൻ റെഡി!",
+   "or": "ବ୍ରାଇଟର, ଆହୁରି ଇଭେନ, ଗ୍ଲୋ ପାଇଁ ରେଡି!"
+  },
+  {
+   "id": 9, "speaker": "jar", "start": 17.26, "end": 19.86, "max_end": 19.64,
+   "en": "DERMDOC Glow Fusion Formula, the overnight brightener.",
+   "tag": "happy", "keep_original": false,
+   "bn": "ডার্মডক গ্লো ফিউশন, ওভারনাইট ব্রাইটেনার!",
+   "ta": "டெர்ம்டாக் க்ளோ ஃப்யூஷன், ஓவர்நைட் பிரைட்னர்!",
+   "te": "డెర్మ్‌డాక్ గ్లో ఫ్యూజన్, ఓవర్‌నైట్ బ్రైటెనర్!",
+   "ml": "ഡെർമ്ഡോക് ഗ്ലോ ഫ്യൂഷൻ, ഓവർനൈറ്റ് ബ്രൈറ്റനർ!",
+   "or": "ଡର୍ମଡକ ଗ୍ଲୋ ଫ୍ୟୁଜନ, ଓଭରନାଇଟ ବ୍ରାଇଟେନର!"
+  }
+ ],
+ "notes": "Product-avatar ad. Three voices: villain (0.0-1.88, low ~127 Hz growl), jar mascot (~240-265 Hz, all ingredient/brand lines), woman (15.12-17.02, ~209 Hz). Line 7 'Retreat!' is the villain per prompt but delivered as a high panicked squeal (~404 Hz) as it shrinks; only 0.0-1.88 used as villain clone ref. Whisper heard 'Dermadoc' for DERMDOC in line 9. In line 9 the word 'Formula' is dropped in all dubs to fit the 2.4 s slot (Glow Fusion Formula is on the end slate). Brightening wording kept as 'brighter/brightening' and 'even tone' only, no fairness claims."
+}

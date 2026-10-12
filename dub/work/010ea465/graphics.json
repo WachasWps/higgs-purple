@@ -1,0 +1,130 @@
+{
+ "video_id": "010ea465",
+ "product": "uv_sunscreen",
+ "caption_y": 0.9,
+ "no_outro": true,
+ "caption_moves": [
+  {
+   "start": 23.45,
+   "end": 26.65,
+   "y": 0.497,
+   "ext": 1
+  }
+ ],
+ "elements": [
+  {
+   "type": "hook_mono",
+   "start": 0.2,
+   "end": 2.4,
+   "lines": [
+    "DULL SKIN?",
+    "NO GOOD SPF?"
+   ],
+   "position": "lower",
+   "anim": "slide_up"
+  },
+  {
+   "type": "pill",
+   "start": 8.0,
+   "end": 10.5,
+   "lines": [
+    "DERMDOC",
+    "ULTRA VIOLET"
+   ],
+   "x": 0.5,
+   "y": 0.12,
+   "anim": "pop"
+  },
+  {
+   "type": "pill",
+   "start": 12.8,
+   "end": 14.6,
+   "lines": [
+    "PURPLE TINT"
+   ],
+   "x": 0.5,
+   "y": 0.12,
+   "anim": "pop"
+  },
+  {
+   "type": "pill",
+   "start": 17.4,
+   "end": 19.9,
+   "lines": [
+    "ZERO WHITE CAST"
+   ],
+   "x": 0.5,
+   "y": 0.12,
+   "anim": "pop"
+  },
+  {
+   "type": "claim_bold",
+   "start": 21.95,
+   "end": 24.05,
+   "lines": [
+    "SPF 50 PA+++"
+   ],
+   "sub": "4% NIACINAMIDE",
+   "x": 0.5,
+   "y": 0.76,
+   "anim": "fade"
+  },
+  {
+   "type": "label",
+   "start": 24.15,
+   "end": 26.55,
+   "lines": [
+    "BEFORE"
+   ],
+   "x": 0.5,
+   "y": 0.455,
+   "anim": "pop"
+  },
+  {
+   "type": "label",
+   "start": 24.15,
+   "end": 26.55,
+   "lines": [
+    "AFTER"
+   ],
+   "x": 0.5,
+   "y": 0.895,
+   "anim": "pop"
+  },
+  {
+   "type": "label",
+   "start": 24.15,
+   "end": 26.55,
+   "lines": [
+    "INSTANT GLOW"
+   ],
+   "x": 0.5,
+   "y": 0.955,
+   "anim": "pop"
+  },
+  {
+   "type": "pill",
+   "start": 26.7,
+   "end": 29.0,
+   "lines": [
+    "SHOP AT PURPLLE.COM"
+   ],
+   "x": 0.5,
+   "y": 0.12,
+   "anim": "pop"
+  }
+ ],
+ "notes": "user UGC 5",
+ "cut_sfx": [
+  7.05,
+  12.75,
+  14.65,
+  17.15,
+  20.0,
+  21.9,
+  24.1,
+  26.6,
+  29.1
+ ],
+ "logo_until": 29.25
+}

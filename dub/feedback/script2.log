@@ -1,0 +1,81 @@
+00b304b4 updated [5, 6, 7, 8]
+23850d94 updated [5, 6]
+291827ba updated [4, 6]
+33c29291 updated [4, 5]
+390113f1 updated [2, 3, 4]
+4010f985 updated [5]
+426b77bb updated [6]
+46d965c9 updated [6]
+51440b1f updated [8]
+595689d8 updated [3, 7, 8]
+5fd50ab8 updated [2, 4]
+655a1328 updated [3, 5]
+715b1b5c updated [6, 8]
+71e0977a updated [3]
+74495eba updated [4, 5]
+7558fbf1 updated [7]
+784c77c5 updated [3]
+7ea55172 updated [4, 6]
+89697c77 updated [4]
+906fbf3c updated [3, 7]
+a9be56d9 updated [6]
+b4c787e1 updated [5]
+bd3b8af7 updated [5]
+c01adcce updated [3]
+c51221b6 updated [4, 7]
+cd5a6fe8 updated [8]
+ce52c347 updated [4]
+ce849d3f updated [3]
+dad2130b updated [5]
+e7e42eaf updated [4]
+e9528636 updated [5]
+eab38211 updated [5]
+f7ce58d4 updated [6]
+fb3fa838 updated [3]
+fe7174d4 updated [4]
+00:45:52 redub 00b304b4: [00b304b4] REDUB OK (327s)
+00:49:36 redub 23850d94: [23850d94] REDUB OK (191s)
+00:52:59 redub 291827ba: [291827ba] REDUB OK (169s)
+00:56:06 redub 33c29291: [33c29291] REDUB OK (157s)
+01:00:49 redub 390113f1: [390113f1] REDUB OK (263s)
+01:05:08 redub 46d965c9: [46d965c9] REDUB OK (205s)
+01:11:31 redub 51440b1f: [51440b1f] REDUB OK (344s)
+01:18:31 redub 595689d8: [595689d8] REDUB OK (381s)
+01:27:14 redub 5fd50ab8: [5fd50ab8] REDUB OK (481s)
+01:32:15 redub 655a1328: [655a1328] REDUB OK (268s)
+01:37:15 redub 715b1b5c: [715b1b5c] REDUB OK (214s)
+01:40:09 redub 71e0977a: [71e0977a] REDUB OK (119s)
+01:42:22 redub 74495eba: [74495eba] REDUB OK (91s)
+01:42:57 redub 7558fbf1: [7558fbf1] REDUB OK (5s)
+01:43:14 redub 784c77c5: [784c77c5] REDUB OK (5s)
+01:43:30 redub 7ea55172: [7ea55172] REDUB OK (6s)
+01:43:46 redub 89697c77: [89697c77] REDUB OK (5s)
+01:44:02 redub 906fbf3c: [906fbf3c] REDUB OK (5s)
+01:44:17 redub bd3b8af7: [bd3b8af7] REDUB OK (4s)
+01:44:34 redub c51221b6: [c51221b6] REDUB OK (6s)
+01:44:52 redub cd5a6fe8: [cd5a6fe8] REDUB OK (6s)
+01:45:09 redub ce849d3f: [ce849d3f] REDUB OK (6s)
+01:45:25 redub dad2130b: [dad2130b] REDUB OK (5s)
+01:45:55 redub e7e42eaf: [e7e42eaf] REDUB OK (4s)
+01:46:09 redub f7ce58d4: [f7ce58d4] REDUB OK (6s)
+4010f985: voiced (hf_beta/a)
+c01adcce: voiced (hf_beta/a)
+fe7174d4: voiced (hf_beta/a)
+fb3fa838: voiced (hf_beta/a)
+ce52c347: voiced (hf_beta/a)
+a9be56d9: voiced (hf_beta/a)
+426b77bb: voiced (hf_beta/a)
+eab38211: voiced (hf_beta/a)
+e9528636: voiced (hf_beta/a)
+b4c787e1: voiced (hf_beta/a)
+01:54:33 done: 125 ok, 0 failed; avg 6.4s/render
+01:55:03 done: 10 ok, 0 failed; avg 5.6s/render
+DONE 136 files -> /Users/wachas/Documents/higgs-purple/dub/deliver_music
+TOTAL 160 files -> /Users/wachas/Documents/higgs-purple/dub/Final_Deliverables
+loudness failures: []
+checked 160 | 1080x1920: 160 | audio: 160
+loudness LUFS range -17.2 -14.2
+files with issues: 0
+videos: 160 | language sets with duration mismatch: 0 []
+per-video language counts: Counter({1: 160})
+01:59:29 SCRIPT2 DONE

@@ -1,0 +1,607 @@
+[
+ {
+  "n": 7,
+  "text": "Theo!",
+  "variants": [
+   "Theo!",
+   "Thoo"
+  ],
+  "start": 2.33,
+  "end": 3.33,
+  "box": [
+   -0.0066,
+   0.7494,
+   0.1375,
+   0.7841
+  ],
+  "height": 0.0346,
+  "suspect_words": []
+ },
+ {
+  "n": 11,
+  "text": "DERMDOC",
+  "variants": [
+   "DERMDOC"
+  ],
+  "start": 3.0,
+  "end": 4.67,
+  "box": [
+   0.1875,
+   0.3536,
+   0.4572,
+   0.3862
+  ],
+  "height": 0.0326,
+  "suspect_words": []
+ },
+ {
+  "n": 13,
+  "text": "Honest Science",
+  "variants": [
+   "Honest Science",
+   "Ronmat Setance"
+  ],
+  "start": 3.33,
+  "end": 4.67,
+  "box": [
+   0.2083,
+   0.3724,
+   0.3958,
+   0.3934
+  ],
+  "height": 0.0211,
+  "suspect_words": [
+   "Ronmat",
+   "Setance"
+  ],
+  "crop": "post/text_audit/65a0c520_13.png"
+ },
+ {
+  "n": 14,
+  "text": "ULTRA VIOLE",
+  "variants": [
+   "ULTRA VIOLE",
+   "ULTRA VIOLET"
+  ],
+  "start": 3.33,
+  "end": 4.67,
+  "box": [
+   0.1802,
+   0.3977,
+   0.2385,
+   0.5463
+  ],
+  "height": 0.1487,
+  "suspect_words": [
+   "VIOLE"
+  ],
+  "crop": "post/text_audit/65a0c520_14.png"
+ },
+ {
+  "n": 15,
+  "text": "4% NIACINAMIDE",
+  "variants": [
+   "4% NIACINAMIDE",
+   "4%6 NIACINAMIDE"
+  ],
+  "start": 3.33,
+  "end": 4.67,
+  "box": [
+   0.2375,
+   0.4403,
+   0.4208,
+   0.4567
+  ],
+  "height": 0.0164,
+  "suspect_words": []
+ },
+ {
+  "n": 17,
+  "text": "BRIGHTENING",
+  "variants": [
+   "BRIGHTENING",
+   "DEUCHTEMING"
+  ],
+  "start": 3.33,
+  "end": 4.67,
+  "box": [
+   0.2292,
+   0.5433,
+   0.3833,
+   0.5574
+  ],
+  "height": 0.0141,
+  "suspect_words": [
+   "DEUCHTEMING"
+  ],
+  "crop": "post/text_audit/65a0c520_17.png"
+ },
+ {
+  "n": 18,
+  "text": "SUNSCREEN",
+  "variants": [
+   "SUNSCREEN",
+   "SUNSCUEEN"
+  ],
+  "start": 3.33,
+  "end": 4.67,
+  "box": [
+   0.2332,
+   0.5547,
+   0.375,
+   0.5694
+  ],
+  "height": 0.0147,
+  "suspect_words": [
+   "SUNSCUEEN"
+  ],
+  "crop": "post/text_audit/65a0c520_18.png"
+ },
+ {
+  "n": 19,
+  "text": "pol",
+  "variants": [
+   "pol"
+  ],
+  "start": 3.33,
+  "end": 4.0,
+  "box": [
+   0.0,
+   0.7728,
+   0.075,
+   0.8033
+  ],
+  "height": 0.0304,
+  "suspect_words": []
+ },
+ {
+  "n": 20,
+  "text": "WITH SPF SO PA++*",
+  "variants": [
+   "WITH SPF SO PA++*",
+   "WITH SPY 30 PA+*•"
+  ],
+  "start": 3.67,
+  "end": 4.67,
+  "box": [
+   0.2333,
+   0.452,
+   0.4,
+   0.466
+  ],
+  "height": 0.0141,
+  "suspect_words": []
+ },
+ {
+  "n": 21,
+  "text": "100",
+  "variants": [
+   "100"
+  ],
+  "start": 4.0,
+  "end": 4.67,
+  "box": [
+   0.0,
+   0.7775,
+   0.0625,
+   0.808
+  ],
+  "height": 0.0304,
+  "suspect_words": []
+ },
+ {
+  "n": 22,
+  "text": "WITH SPF 5O PA+++",
+  "variants": [
+   "WITH SPF 50 PA++",
+   "WITH SPF 5O PA+++",
+   "WITH SPF SO PA++"
+  ],
+  "start": 4.67,
+  "end": 5.67,
+  "box": [
+   0.6657,
+   0.0061,
+   1.008,
+   0.1126
+  ],
+  "height": 0.1066,
+  "suspect_words": []
+ },
+ {
+  "n": 23,
+  "text": "ULTRAVI",
+  "variants": [
+   "ULTRAV",
+   "ULTRAVI"
+  ],
+  "start": 4.67,
+  "end": 5.33,
+  "box": [
+   0.4997,
+   -0.0068,
+   0.6878,
+   0.1995
+  ],
+  "height": 0.2062,
+  "suspect_words": [
+   "ULTRAV",
+   "ULTRAVI"
+  ],
+  "crop": "post/text_audit/65a0c520_23.png"
+ },
+ {
+  "n": 24,
+  "text": "Sudander tartes gthe thate and",
+  "variants": [
+   "Solander nearers gthe that and",
+   "Sudander tartes gthe thate and",
+   "Sulender nares gthe time and"
+  ],
+  "start": 4.67,
+  "end": 5.67,
+  "box": [
+   0.6465,
+   0.0431,
+   0.977,
+   0.1421
+  ],
+  "height": 0.099,
+  "suspect_words": [
+   "Sudander",
+   "Sulender",
+   "gthe",
+   "nearers",
+   "tartes",
+   "thate"
+  ],
+  "crop": "post/text_audit/65a0c520_24.png"
+ },
+ {
+  "n": 25,
+  "text": "Sonuts an Malibert teelers gher",
+  "variants": [
+   "Lanet on hallen testors ghar",
+   "Lonets an tadibot cediers ghar",
+   "Soners an heffent tedlers ghar",
+   "Sonuts an Malibert teelers gher"
+  ],
+  "start": 4.67,
+  "end": 6.0,
+  "box": [
+   0.636,
+   0.0161,
+   0.9544,
+   0.154
+  ],
+  "height": 0.1379,
+  "suspect_words": [
+   "Lanet",
+   "Lonets",
+   "Malibert",
+   "Soners",
+   "Sonuts",
+   "cediers",
+   "ghar",
+   "gher",
+   "hallen",
+   "heffent",
+   "tadibot",
+   "tedlers",
+   "teelers"
+  ],
+  "crop": "post/text_audit/65a0c520_25.png"
+ },
+ {
+  "n": 26,
+  "text": "BRIGHTENING",
+  "variants": [
+   "BRIGHTENING",
+   "BRIGTENING"
+  ],
+  "start": 4.67,
+  "end": 5.67,
+  "box": [
+   0.5193,
+   0.1902,
+   0.8333,
+   0.2886
+  ],
+  "height": 0.0985,
+  "suspect_words": [
+   "BRIGTENING"
+  ],
+  "crop": "post/text_audit/65a0c520_26.png"
+ },
+ {
+  "n": 27,
+  "text": "SUNSCREEN",
+  "variants": [
+   "SUNSCREEN"
+  ],
+  "start": 4.67,
+  "end": 5.67,
+  "box": [
+   0.5161,
+   0.2234,
+   0.7968,
+   0.3099
+  ],
+  "height": 0.0865,
+  "suspect_words": []
+ },
+ {
+  "n": 28,
+  "text": "PORTIAS TO MOSMAN THIM",
+  "variants": [
+   "PORTIAS TO MOSMAN SHIM",
+   "PORTIAS TO MOSMAN THIM",
+   "PORTVAS TO MOSMAN INTIM"
+  ],
+  "start": 4.67,
+  "end": 5.67,
+  "box": [
+   0.49,
+   0.2552,
+   0.786,
+   0.3396
+  ],
+  "height": 0.0844,
+  "suspect_words": [
+   "INTIM",
+   "MOSMAN",
+   "PORTVAS",
+   "THIM"
+  ],
+  "crop": "post/text_audit/65a0c520_28.png"
+ },
+ {
+  "n": 36,
+  "text": "BRIGHTENING",
+  "variants": [
+   "BRIGHTENIN",
+   "BRIGHTENING"
+  ],
+  "start": 6.33,
+  "end": 7.0,
+  "box": [
+   0.7714,
+   0.1229,
+   1.0192,
+   0.216
+  ],
+  "height": 0.0931,
+  "suspect_words": [
+   "BRIGHTENIN"
+  ],
+  "crop": "post/text_audit/65a0c520_36.png"
+ },
+ {
+  "n": 37,
+  "text": "SUNSCREEN",
+  "variants": [
+   "SUNSCREEN"
+  ],
+  "start": 6.33,
+  "end": 7.0,
+  "box": [
+   0.7617,
+   0.1433,
+   1.004,
+   0.2314
+  ],
+  "height": 0.0881,
+  "suspect_words": []
+ },
+ {
+  "n": 41,
+  "text": "DERMDOC",
+  "variants": [
+   "DERMDOC"
+  ],
+  "start": 7.0,
+  "end": 10.67,
+  "box": [
+   0.7542,
+   0.389,
+   0.9897,
+   0.4303
+  ],
+  "height": 0.0413,
+  "suspect_words": []
+ },
+ {
+  "n": 44,
+  "text": "ULTRA VIOLET",
+  "variants": [
+   "ULTRA VIOLE",
+   "ULTRA VIOLET",
+   "VIOLET"
+  ],
+  "start": 8.33,
+  "end": 10.33,
+  "box": [
+   0.7758,
+   0.4322,
+   0.8346,
+   0.5726
+  ],
+  "height": 0.1404,
+  "suspect_words": [
+   "VIOLE"
+  ],
+  "crop": "post/text_audit/65a0c520_44.png"
+ },
+ {
+  "n": 45,
+  "text": "4% NIACINAMDE",
+  "variants": [
+   "4% MACINAMDE",
+   "4% MACMANDE",
+   "4% NIACIMAMDE",
+   "4% NIACINAMDE",
+   "4%6 NLACIKAMDE",
+   "4t MACIRANDE"
+  ],
+  "start": 8.33,
+  "end": 10.67,
+  "box": [
+   0.8076,
+   0.4936,
+   0.9667,
+   0.5185
+  ],
+  "height": 0.0249,
+  "suspect_words": [
+   "MACINAMDE",
+   "MACIRANDE",
+   "MACMANDE",
+   "NIACIMAMDE",
+   "NIACINAMDE",
+   "NLACIKAMDE"
+  ],
+  "crop": "post/text_audit/65a0c520_45.png"
+ },
+ {
+  "n": 48,
+  "text": "BRICHTENING",
+  "variants": [
+   "BASGITENING",
+   "BRICHTENING",
+   "RICHTERNE"
+  ],
+  "start": 8.33,
+  "end": 10.67,
+  "box": [
+   0.7917,
+   0.5652,
+   0.9266,
+   0.5907
+  ],
+  "height": 0.0255,
+  "suspect_words": [
+   "BASGITENING",
+   "BRICHTENING",
+   "RICHTERNE"
+  ],
+  "crop": "post/text_audit/65a0c520_48.png"
+ },
+ {
+  "n": 49,
+  "text": "SUNSCREEN",
+  "variants": [
+   "SUNCREEN",
+   "SUNSCHEEN",
+   "SUNSCREEN"
+  ],
+  "start": 8.33,
+  "end": 10.67,
+  "box": [
+   0.8,
+   0.5785,
+   0.9167,
+   0.601
+  ],
+  "height": 0.0225,
+  "suspect_words": [
+   "SUNCREEN",
+   "SUNSCHEEN"
+  ],
+  "crop": "post/text_audit/65a0c520_49.png"
+ },
+ {
+  "n": 55,
+  "text": "nat Sarca",
+  "variants": [
+   "AH Panca",
+   "nat Sarca"
+  ],
+  "start": 9.67,
+  "end": 10.33,
+  "box": [
+   0.8583,
+   0.4239,
+   0.9625,
+   0.4426
+  ],
+  "height": 0.0187,
+  "suspect_words": [
+   "Panca",
+   "Sarca"
+  ],
+  "crop": "post/text_audit/65a0c520_55.png"
+ },
+ {
+  "n": 56,
+  "text": "BETA UPT 10 Par.•",
+  "variants": [
+   "BETA UPT 10 Par.•",
+   "BETH LIPE OD PG1TR"
+  ],
+  "start": 9.67,
+  "end": 10.33,
+  "box": [
+   0.8194,
+   0.5083,
+   0.9434,
+   0.5279
+  ],
+  "height": 0.0196,
+  "suspect_words": [
+   "LIPE",
+   "UPT"
+  ],
+  "crop": "post/text_audit/65a0c520_56.png"
+ },
+ {
+  "n": 59,
+  "text": "SPF",
+  "variants": [
+   "SPF"
+  ],
+  "start": 16.0,
+  "end": 17.33,
+  "box": [
+   0.3208,
+   0.37,
+   0.5333,
+   0.4215
+  ],
+  "height": 0.0515,
+  "suspect_words": []
+ },
+ {
+  "n": 60,
+  "text": "50",
+  "variants": [
+   "50"
+  ],
+  "start": 16.0,
+  "end": 17.33,
+  "box": [
+   0.3042,
+   0.4215,
+   0.6792,
+   0.548
+  ],
+  "height": 0.1265,
+  "suspect_words": []
+ },
+ {
+  "n": 61,
+  "text": "PA+++",
+  "variants": [
+   "PA+++"
+  ],
+  "start": 16.0,
+  "end": 17.33,
+  "box": [
+   0.3042,
+   0.5316,
+   0.7083,
+   0.6183
+  ],
+  "height": 0.0867,
+  "suspect_words": []
+ }
+]

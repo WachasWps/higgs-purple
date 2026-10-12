@@ -1,0 +1,292 @@
+08:09:03 145 render(s) queued, 3 in parallel
+08:09:03 start 00b304b4_bn (17.00s + outro) -> deliver/Bengali/10_uv-sunscreen_personification_skin-protection-department_00b304b4.mp4
+08:09:03 start 00b304b4_ta (17.00s + outro) -> deliver/Tamil/10_uv-sunscreen_personification_skin-protection-department_00b304b4.mp4
+08:09:03 start 00b304b4_te (17.00s + outro) -> deliver/Telugu/10_uv-sunscreen_personification_skin-protection-department_00b304b4.mp4
+08:09:08 ok     00b304b4_bn  5.3s
+08:09:08 start 00b304b4_ml (17.00s + outro) -> deliver/Malayalam/10_uv-sunscreen_personification_skin-protection-department_00b304b4.mp4
+08:09:11 ok     00b304b4_ta  6.6s
+08:09:11 start 00b304b4_or (17.00s + outro) -> deliver/Odia/10_uv-sunscreen_personification_skin-protection-department_00b304b4.mp4
+08:09:12 ok     00b304b4_te  7.2s
+08:09:12 start 02bad3b3_bn (20.00s + outro) -> deliver/Bengali/26_kojic-night-cream_ugc_look-at-that-thick-rich-texture_02bad3b3.mp4
+08:09:16 ok     00b304b4_ml  7.2s
+08:09:16 start 02bad3b3_ta (20.00s + outro) -> deliver/Tamil/26_kojic-night-cream_ugc_look-at-that-thick-rich-texture_02bad3b3.mp4
+08:09:18 ok     00b304b4_or  7.1s
+08:09:18 start 02bad3b3_te (20.00s + outro) -> deliver/Telugu/26_kojic-night-cream_ugc_look-at-that-thick-rich-texture_02bad3b3.mp4
+08:09:21 ok     02bad3b3_bn  8.4s
+08:09:21 start 02bad3b3_ml (20.00s + outro) -> deliver/Malayalam/26_kojic-night-cream_ugc_look-at-that-thick-rich-texture_02bad3b3.mp4
+08:09:24 ok     02bad3b3_ta  8.4s
+08:09:24 start 02bad3b3_or (20.00s + outro) -> deliver/Odia/26_kojic-night-cream_ugc_look-at-that-thick-rich-texture_02bad3b3.mp4
+08:09:26 ok     02bad3b3_te  7.7s
+08:09:26 start 23850d94_bn (17.00s + outro) -> deliver/Bengali/03_kojic-night-cream_personification_three-step-night-class_23850d94.mp4
+08:09:29 ok     02bad3b3_ml  8.4s
+08:09:29 start 23850d94_ta (17.00s + outro) -> deliver/Tamil/03_kojic-night-cream_personification_three-step-night-class_23850d94.mp4
+08:09:32 ok     02bad3b3_or  8.0s
+08:09:32 start 23850d94_te (17.00s + outro) -> deliver/Telugu/03_kojic-night-cream_personification_three-step-night-class_23850d94.mp4
+08:09:33 ok     23850d94_bn  7.7s
+08:09:33 start 23850d94_ml (17.00s + outro) -> deliver/Malayalam/03_kojic-night-cream_personification_three-step-night-class_23850d94.mp4
+08:09:37 ok     23850d94_ta  7.3s
+08:09:37 start 23850d94_or (17.00s + outro) -> deliver/Odia/03_kojic-night-cream_personification_three-step-night-class_23850d94.mp4
+08:09:40 ok     23850d94_te  8.0s
+08:09:40 start 291827ba_bn (17.00s + outro) -> deliver/Bengali/09_uv-sunscreen_personification_the-sunscreen-courtroom_291827ba.mp4
+08:09:43 ok     23850d94_ml  9.5s
+08:09:43 start 291827ba_ta (17.00s + outro) -> deliver/Tamil/09_uv-sunscreen_personification_the-sunscreen-courtroom_291827ba.mp4
+08:09:48 ok     23850d94_or  11.8s
+08:09:48 start 291827ba_te (17.00s + outro) -> deliver/Telugu/09_uv-sunscreen_personification_the-sunscreen-courtroom_291827ba.mp4
+08:09:48 ok     291827ba_bn  8.2s
+08:09:48 start 291827ba_ml (17.00s + outro) -> deliver/Malayalam/09_uv-sunscreen_personification_the-sunscreen-courtroom_291827ba.mp4
+08:09:50 ok     291827ba_ta  6.6s
+08:09:50 start 291827ba_or (17.00s + outro) -> deliver/Odia/09_uv-sunscreen_personification_the-sunscreen-courtroom_291827ba.mp4
+08:09:55 ok     291827ba_te  6.4s
+08:09:55 start 33c29291_bn (20.00s + outro) -> deliver/Bengali/13_uv-sunscreen_product_avatar_purple-tint_33c29291.mp4
+08:09:56 ok     291827ba_ml  6.8s
+08:09:56 start 33c29291_ta (20.00s + outro) -> deliver/Tamil/13_uv-sunscreen_product_avatar_purple-tint_33c29291.mp4
+08:09:58 ok     291827ba_or  7.1s
+08:09:58 start 33c29291_te (20.00s + outro) -> deliver/Telugu/13_uv-sunscreen_product_avatar_purple-tint_33c29291.mp4
+08:10:03 ok     33c29291_bn  8.3s
+08:10:03 start 33c29291_ml (20.00s + outro) -> deliver/Malayalam/13_uv-sunscreen_product_avatar_purple-tint_33c29291.mp4
+08:10:05 ok     33c29291_ta  9.0s
+08:10:05 start 33c29291_or (20.00s + outro) -> deliver/Odia/13_uv-sunscreen_product_avatar_purple-tint_33c29291.mp4
+08:10:07 ok     33c29291_te  8.9s
+08:10:07 start 390113f1_bn (17.00s + outro) -> deliver/Bengali/05_kojic-night-cream_personification_shhh-she-s-sleeping_390113f1.mp4
+08:10:11 ok     33c29291_ml  7.9s
+08:10:11 start 390113f1_ta (17.00s + outro) -> deliver/Tamil/05_kojic-night-cream_personification_shhh-she-s-sleeping_390113f1.mp4
+08:10:13 ok     33c29291_or  7.5s
+08:10:13 start 390113f1_te (17.00s + outro) -> deliver/Telugu/05_kojic-night-cream_personification_shhh-she-s-sleeping_390113f1.mp4
+08:10:15 ok     390113f1_bn  8.4s
+08:10:15 start 390113f1_ml (17.00s + outro) -> deliver/Malayalam/05_kojic-night-cream_personification_shhh-she-s-sleeping_390113f1.mp4
+08:10:21 ok     390113f1_ta  9.9s
+08:10:21 start 390113f1_or (17.00s + outro) -> deliver/Odia/05_kojic-night-cream_personification_shhh-she-s-sleeping_390113f1.mp4
+08:10:23 ok     390113f1_te  9.7s
+08:10:23 start 3d01d9fc_bn (20.00s + outro) -> deliver/Bengali/23_uv-sunscreen_ugc_but-the-real-test-is-how-it-blends_3d01d9fc.mp4
+08:10:25 ok     390113f1_ml  9.7s
+08:10:25 start 3d01d9fc_ta (20.00s + outro) -> deliver/Tamil/23_uv-sunscreen_ugc_but-the-real-test-is-how-it-blends_3d01d9fc.mp4
+08:10:30 ok     390113f1_or  8.8s
+08:10:30 start 3d01d9fc_te (20.00s + outro) -> deliver/Telugu/23_uv-sunscreen_ugc_but-the-real-test-is-how-it-blends_3d01d9fc.mp4
+08:10:31 ok     3d01d9fc_bn  7.8s
+08:10:31 start 3d01d9fc_ml (20.00s + outro) -> deliver/Malayalam/23_uv-sunscreen_ugc_but-the-real-test-is-how-it-blends_3d01d9fc.mp4
+08:10:33 ok     3d01d9fc_ta  7.6s
+08:10:33 start 3d01d9fc_or (20.00s + outro) -> deliver/Odia/23_uv-sunscreen_ugc_but-the-real-test-is-how-it-blends_3d01d9fc.mp4
+08:10:39 ok     3d01d9fc_te  9.0s
+08:10:39 start 46d965c9_bn (20.00s + outro) -> deliver/Bengali/27_kojic-night-cream_ugc_so-my-nighttime-reset-starts-with-this_46d965c9.mp4
+08:10:41 ok     3d01d9fc_ml  9.4s
+08:10:41 start 46d965c9_ta (20.00s + outro) -> deliver/Tamil/27_kojic-night-cream_ugc_so-my-nighttime-reset-starts-with-this_46d965c9.mp4
+08:10:42 ok     3d01d9fc_or  9.5s
+08:10:42 start 46d965c9_te (20.00s + outro) -> deliver/Telugu/27_kojic-night-cream_ugc_so-my-nighttime-reset-starts-with-this_46d965c9.mp4
+08:10:51 ok     46d965c9_bn  11.3s
+08:10:51 start 46d965c9_ml (20.00s + outro) -> deliver/Malayalam/27_kojic-night-cream_ugc_so-my-nighttime-reset-starts-with-this_46d965c9.mp4
+08:10:53 ok     46d965c9_ta  11.9s
+08:10:53 start 46d965c9_or (20.00s + outro) -> deliver/Odia/27_kojic-night-cream_ugc_so-my-nighttime-reset-starts-with-this_46d965c9.mp4
+08:10:54 ok     46d965c9_te  11.8s
+08:10:54 start 51440b1f_bn (20.00s + outro) -> deliver/Bengali/25_uv-sunscreen_ugc_now-watch-both-hands_51440b1f.mp4
+08:11:02 ok     46d965c9_ml  10.9s
+08:11:02 start 51440b1f_ta (20.00s + outro) -> deliver/Tamil/25_uv-sunscreen_ugc_now-watch-both-hands_51440b1f.mp4
+08:11:04 ok     46d965c9_or  11.3s
+08:11:04 start 51440b1f_te (20.00s + outro) -> deliver/Telugu/25_uv-sunscreen_ugc_now-watch-both-hands_51440b1f.mp4
+08:11:04 ok     51440b1f_bn  10.1s
+08:11:04 start 51440b1f_ml (20.00s + outro) -> deliver/Malayalam/25_uv-sunscreen_ugc_now-watch-both-hands_51440b1f.mp4
+08:11:14 ok     51440b1f_ta  12.4s
+08:11:14 start 51440b1f_or (20.00s + outro) -> deliver/Odia/25_uv-sunscreen_ugc_now-watch-both-hands_51440b1f.mp4
+08:11:27 ok     51440b1f_te  23.2s
+08:11:27 start 595689d8_bn (20.00s + outro) -> deliver/Bengali/17_kojic-night-cream_product_avatar_3xpert-control-panel_595689d8.mp4
+08:11:31 ok     51440b1f_ml  25.3s
+08:11:31 start 595689d8_ta (20.00s + outro) -> deliver/Tamil/17_kojic-night-cream_product_avatar_3xpert-control-panel_595689d8.mp4
+08:11:46 ok     51440b1f_or  31.8s
+08:11:46 start 595689d8_te (20.00s + outro) -> deliver/Telugu/17_kojic-night-cream_product_avatar_3xpert-control-panel_595689d8.mp4
+08:11:56 ok     595689d8_bn  28.6s
+08:11:56 start 595689d8_ml (20.00s + outro) -> deliver/Malayalam/17_kojic-night-cream_product_avatar_3xpert-control-panel_595689d8.mp4
+08:11:58 ok     595689d8_ta  26.8s
+08:11:58 start 595689d8_or (20.00s + outro) -> deliver/Odia/17_kojic-night-cream_product_avatar_3xpert-control-panel_595689d8.mp4
+08:12:12 ok     595689d8_te  25.5s
+08:12:12 start 5fd50ab8_bn (20.00s + outro) -> deliver/Bengali/11_uv-sunscreen_product_avatar_morning-skin-drama-again_5fd50ab8.mp4
+08:12:15 ok     595689d8_ml  18.7s
+08:12:15 start 5fd50ab8_ta (20.00s + outro) -> deliver/Tamil/11_uv-sunscreen_product_avatar_morning-skin-drama-again_5fd50ab8.mp4
+08:12:15 ok     595689d8_or  17.7s
+08:12:15 start 5fd50ab8_te (20.00s + outro) -> deliver/Telugu/11_uv-sunscreen_product_avatar_morning-skin-drama-again_5fd50ab8.mp4
+08:12:23 ok     5fd50ab8_bn  10.9s
+08:12:23 start 5fd50ab8_ml (20.00s + outro) -> deliver/Malayalam/11_uv-sunscreen_product_avatar_morning-skin-drama-again_5fd50ab8.mp4
+08:12:27 ok     5fd50ab8_ta  11.2s
+08:12:27 start 5fd50ab8_or (20.00s + outro) -> deliver/Odia/11_uv-sunscreen_product_avatar_morning-skin-drama-again_5fd50ab8.mp4
+08:12:27 ok     5fd50ab8_te  10.9s
+08:12:27 start 655a1328_bn (20.00s + outro) -> deliver/Bengali/12_uv-sunscreen_product_avatar_purple-tint_655a1328.mp4
+08:12:34 ok     5fd50ab8_ml  10.7s
+08:12:34 start 655a1328_ta (20.00s + outro) -> deliver/Tamil/12_uv-sunscreen_product_avatar_purple-tint_655a1328.mp4
+08:12:37 ok     655a1328_bn  9.3s
+08:12:37 start 655a1328_te (20.00s + outro) -> deliver/Telugu/12_uv-sunscreen_product_avatar_purple-tint_655a1328.mp4
+08:12:38 ok     5fd50ab8_or  10.7s
+08:12:38 start 655a1328_ml (20.00s + outro) -> deliver/Malayalam/12_uv-sunscreen_product_avatar_purple-tint_655a1328.mp4
+08:12:43 ok     655a1328_ta  8.8s
+08:12:43 start 655a1328_or (20.00s + outro) -> deliver/Odia/12_uv-sunscreen_product_avatar_purple-tint_655a1328.mp4
+08:12:46 ok     655a1328_te  8.7s
+08:12:46 start 65a0c520_bn (20.00s + outro) -> deliver/Bengali/24_uv-sunscreen_ugc_let-s-test-it-on-one-side_65a0c520.mp4
+08:12:47 ok     655a1328_ml  8.9s
+08:12:47 start 65a0c520_ta (20.00s + outro) -> deliver/Tamil/24_uv-sunscreen_ugc_let-s-test-it-on-one-side_65a0c520.mp4
+08:12:51 ok     655a1328_or  8.4s
+08:12:51 start 65a0c520_te (20.00s + outro) -> deliver/Telugu/24_uv-sunscreen_ugc_let-s-test-it-on-one-side_65a0c520.mp4
+08:12:55 ok     65a0c520_bn  9.4s
+08:12:55 start 65a0c520_ml (20.00s + outro) -> deliver/Malayalam/24_uv-sunscreen_ugc_let-s-test-it-on-one-side_65a0c520.mp4
+08:12:57 ok     65a0c520_ta  9.2s
+08:12:57 start 65a0c520_or (20.00s + outro) -> deliver/Odia/24_uv-sunscreen_ugc_let-s-test-it-on-one-side_65a0c520.mp4
+08:13:01 ok     65a0c520_te  9.4s
+08:13:01 start 715b1b5c_bn (20.00s + outro) -> deliver/Bengali/20_kojic-night-cream_product_avatar_glow-fusion-night-patrol_715b1b5c.mp4
+08:13:06 ok     65a0c520_ml  10.3s
+08:13:06 start 715b1b5c_ta (20.00s + outro) -> deliver/Tamil/20_kojic-night-cream_product_avatar_glow-fusion-night-patrol_715b1b5c.mp4
+08:13:07 ok     65a0c520_or  10.4s
+08:13:07 start 715b1b5c_te (20.00s + outro) -> deliver/Telugu/20_kojic-night-cream_product_avatar_glow-fusion-night-patrol_715b1b5c.mp4
+08:13:09 ok     715b1b5c_bn  8.1s
+08:13:09 start 715b1b5c_ml (20.00s + outro) -> deliver/Malayalam/20_kojic-night-cream_product_avatar_glow-fusion-night-patrol_715b1b5c.mp4
+08:13:15 ok     715b1b5c_ta  8.5s
+08:13:15 start 715b1b5c_or (20.00s + outro) -> deliver/Odia/20_kojic-night-cream_product_avatar_glow-fusion-night-patrol_715b1b5c.mp4
+08:13:16 ok     715b1b5c_te  8.5s
+08:13:16 start 71e0977a_bn (17.00s + outro) -> deliver/Bengali/04_kojic-night-cream_personification_the-two-week-face-off_71e0977a.mp4
+08:13:18 ok     715b1b5c_ml  8.5s
+08:13:18 start 71e0977a_ta (17.00s + outro) -> deliver/Tamil/04_kojic-night-cream_personification_the-two-week-face-off_71e0977a.mp4
+08:13:22 ok     715b1b5c_or  7.6s
+08:13:22 start 71e0977a_te (17.00s + outro) -> deliver/Telugu/04_kojic-night-cream_personification_the-two-week-face-off_71e0977a.mp4
+08:13:24 ok     71e0977a_bn  8.6s
+08:13:24 start 71e0977a_ml (17.00s + outro) -> deliver/Malayalam/04_kojic-night-cream_personification_the-two-week-face-off_71e0977a.mp4
+08:13:27 ok     71e0977a_ta  8.4s
+08:13:27 start 71e0977a_or (17.00s + outro) -> deliver/Odia/04_kojic-night-cream_personification_the-two-week-face-off_71e0977a.mp4
+08:13:31 ok     71e0977a_te  8.2s
+08:13:31 start 74495eba_bn (20.00s + outro) -> deliver/Bengali/14_uv-sunscreen_product_avatar_purple-tint_74495eba.mp4
+08:13:33 ok     71e0977a_ml  8.4s
+08:13:33 start 74495eba_ta (20.00s + outro) -> deliver/Tamil/14_uv-sunscreen_product_avatar_purple-tint_74495eba.mp4
+08:13:35 ok     71e0977a_or  8.4s
+08:13:35 start 74495eba_te (20.00s + outro) -> deliver/Telugu/14_uv-sunscreen_product_avatar_purple-tint_74495eba.mp4
+08:13:40 ok     74495eba_bn  9.1s
+08:13:40 start 74495eba_ml (20.00s + outro) -> deliver/Malayalam/14_uv-sunscreen_product_avatar_purple-tint_74495eba.mp4
+08:13:42 ok     74495eba_ta  9.0s
+08:13:42 start 74495eba_or (20.00s + outro) -> deliver/Odia/14_uv-sunscreen_product_avatar_purple-tint_74495eba.mp4
+08:13:44 ok     74495eba_te  8.6s
+08:13:44 start 7558fbf1_bn (20.00s + outro) -> deliver/Bengali/18_kojic-night-cream_product_avatar_we-re-moving-in-permanently_7558fbf1.mp4
+08:13:49 ok     74495eba_ml  8.8s
+08:13:49 start 7558fbf1_ta (20.00s + outro) -> deliver/Tamil/18_kojic-night-cream_product_avatar_we-re-moving-in-permanently_7558fbf1.mp4
+08:13:51 ok     74495eba_or  8.9s
+08:13:51 start 7558fbf1_te (20.00s + outro) -> deliver/Telugu/18_kojic-night-cream_product_avatar_we-re-moving-in-permanently_7558fbf1.mp4
+08:13:53 ok     7558fbf1_bn  9.0s
+08:13:53 start 7558fbf1_ml (20.00s + outro) -> deliver/Malayalam/18_kojic-night-cream_product_avatar_we-re-moving-in-permanently_7558fbf1.mp4
+08:13:58 ok     7558fbf1_ta  9.5s
+08:13:58 start 7558fbf1_or (20.00s + outro) -> deliver/Odia/18_kojic-night-cream_product_avatar_we-re-moving-in-permanently_7558fbf1.mp4
+08:14:01 ok     7558fbf1_te  9.4s
+08:14:01 start 784c77c5_bn (20.00s + outro) -> deliver/Bengali/28_kojic-night-cream_ugc_dermdoc-2-kojic-acid-night-cream_784c77c5.mp4
+08:14:03 ok     7558fbf1_ml  10.1s
+08:14:03 start 784c77c5_ta (20.00s + outro) -> deliver/Tamil/28_kojic-night-cream_ugc_dermdoc-2-kojic-acid-night-cream_784c77c5.mp4
+08:14:08 ok     7558fbf1_or  9.0s
+08:14:08 start 784c77c5_te (20.00s + outro) -> deliver/Telugu/28_kojic-night-cream_ugc_dermdoc-2-kojic-acid-night-cream_784c77c5.mp4
+08:14:12 ok     784c77c5_bn  11.5s
+08:14:12 start 784c77c5_ml (20.00s + outro) -> deliver/Malayalam/28_kojic-night-cream_ugc_dermdoc-2-kojic-acid-night-cream_784c77c5.mp4
+08:14:15 ok     784c77c5_ta  11.6s
+08:14:15 start 784c77c5_or (20.00s + outro) -> deliver/Odia/28_kojic-night-cream_ugc_dermdoc-2-kojic-acid-night-cream_784c77c5.mp4
+08:14:19 ok     784c77c5_te  11.7s
+08:14:19 start 7ea55172_bn (20.00s + outro) -> deliver/Bengali/15_uv-sunscreen_product_avatar_purple-tint_7ea55172.mp4
+08:14:25 ok     784c77c5_ml  12.3s
+08:14:25 start 7ea55172_ta (20.00s + outro) -> deliver/Tamil/15_uv-sunscreen_product_avatar_purple-tint_7ea55172.mp4
+08:14:28 ok     784c77c5_or  13.3s
+08:14:28 start 7ea55172_te (20.00s + outro) -> deliver/Telugu/15_uv-sunscreen_product_avatar_purple-tint_7ea55172.mp4
+08:14:30 ok     7ea55172_bn  10.8s
+08:14:30 start 7ea55172_ml (20.00s + outro) -> deliver/Malayalam/15_uv-sunscreen_product_avatar_purple-tint_7ea55172.mp4
+08:14:35 ok     7ea55172_ta  9.9s
+08:14:35 start 7ea55172_or (20.00s + outro) -> deliver/Odia/15_uv-sunscreen_product_avatar_purple-tint_7ea55172.mp4
+08:14:38 ok     7ea55172_te  9.5s
+08:14:38 start 89697c77_bn (20.00s + outro) -> deliver/Bengali/19_kojic-night-cream_product_avatar_sleep-to-glow_89697c77.mp4
+08:14:39 ok     7ea55172_ml  9.0s
+08:14:39 start 89697c77_ta (20.00s + outro) -> deliver/Tamil/19_kojic-night-cream_product_avatar_sleep-to-glow_89697c77.mp4
+08:14:44 ok     7ea55172_or  9.1s
+08:14:44 start 89697c77_te (20.00s + outro) -> deliver/Telugu/19_kojic-night-cream_product_avatar_sleep-to-glow_89697c77.mp4
+08:14:47 ok     89697c77_bn  8.3s
+08:14:47 start 89697c77_ml (20.00s + outro) -> deliver/Malayalam/19_kojic-night-cream_product_avatar_sleep-to-glow_89697c77.mp4
+08:14:48 ok     89697c77_ta  8.5s
+08:14:48 start 89697c77_or (20.00s + outro) -> deliver/Odia/19_kojic-night-cream_product_avatar_sleep-to-glow_89697c77.mp4
+08:14:53 ok     89697c77_te  8.3s
+08:14:53 start 906fbf3c_bn (20.00s + outro) -> deliver/Bengali/16_kojic-night-cream_product_avatar_night-time-my-time_906fbf3c.mp4
+08:14:55 ok     89697c77_ml  8.6s
+08:14:55 start 906fbf3c_ta (20.00s + outro) -> deliver/Tamil/16_kojic-night-cream_product_avatar_night-time-my-time_906fbf3c.mp4
+08:14:57 ok     89697c77_or  8.5s
+08:14:57 start 906fbf3c_te (20.00s + outro) -> deliver/Telugu/16_kojic-night-cream_product_avatar_night-time-my-time_906fbf3c.mp4
+08:15:02 ok     906fbf3c_bn  8.9s
+08:15:02 start 906fbf3c_ml (20.00s + outro) -> deliver/Malayalam/16_kojic-night-cream_product_avatar_night-time-my-time_906fbf3c.mp4
+08:15:07 ok     906fbf3c_ta  11.6s
+08:15:07 start 906fbf3c_or (20.00s + outro) -> deliver/Odia/16_kojic-night-cream_product_avatar_night-time-my-time_906fbf3c.mp4
+08:15:11 ok     906fbf3c_te  14.0s
+08:15:11 start bd3b8af7_bn (15.00s + outro) -> deliver/Bengali/01_kojic-night-cream_personification_the-night-team-clocks-in_bd3b8af7.mp4
+08:15:18 ok     906fbf3c_ml  15.8s
+08:15:18 start bd3b8af7_ta (15.00s + outro) -> deliver/Tamil/01_kojic-night-cream_personification_the-night-team-clocks-in_bd3b8af7.mp4
+08:15:19 ok     bd3b8af7_bn  7.6s
+08:15:19 start bd3b8af7_te (15.00s + outro) -> deliver/Telugu/01_kojic-night-cream_personification_the-night-team-clocks-in_bd3b8af7.mp4
+08:15:20 ok     906fbf3c_or  12.2s
+08:15:20 start bd3b8af7_ml (15.00s + outro) -> deliver/Malayalam/01_kojic-night-cream_personification_the-night-team-clocks-in_bd3b8af7.mp4
+08:15:25 ok     bd3b8af7_ta  7.3s
+08:15:25 start bd3b8af7_or (15.00s + outro) -> deliver/Odia/01_kojic-night-cream_personification_the-night-team-clocks-in_bd3b8af7.mp4
+08:15:26 ok     bd3b8af7_te  7.2s
+08:15:26 start c51221b6_bn (17.00s + outro) -> deliver/Bengali/07_uv-sunscreen_personification_purple-tint_c51221b6.mp4
+08:15:27 ok     bd3b8af7_ml  7.1s
+08:15:27 start c51221b6_ta (17.00s + outro) -> deliver/Tamil/07_uv-sunscreen_personification_purple-tint_c51221b6.mp4
+08:15:32 ok     bd3b8af7_or  6.8s
+08:15:32 start c51221b6_te (17.00s + outro) -> deliver/Telugu/07_uv-sunscreen_personification_purple-tint_c51221b6.mp4
+08:15:37 ok     c51221b6_bn  10.5s
+08:15:37 start c51221b6_ml (17.00s + outro) -> deliver/Malayalam/07_uv-sunscreen_personification_purple-tint_c51221b6.mp4
+08:15:37 ok     c51221b6_ta  10.0s
+08:15:37 start c51221b6_or (17.00s + outro) -> deliver/Odia/07_uv-sunscreen_personification_purple-tint_c51221b6.mp4
+08:15:42 ok     c51221b6_te  9.6s
+08:15:42 start caf29456_bn (20.00s + outro) -> deliver/Bengali/22_uv-sunscreen_ugc_and-no-it-doesn-t-stay-purple_caf29456.mp4
+08:15:46 ok     c51221b6_ml  9.5s
+08:15:46 start caf29456_ta (20.00s + outro) -> deliver/Tamil/22_uv-sunscreen_ugc_and-no-it-doesn-t-stay-purple_caf29456.mp4
+08:15:47 ok     c51221b6_or  9.6s
+08:15:47 start caf29456_te (20.00s + outro) -> deliver/Telugu/22_uv-sunscreen_ugc_and-no-it-doesn-t-stay-purple_caf29456.mp4
+08:15:51 ok     caf29456_bn  9.1s
+08:15:51 start caf29456_ml (20.00s + outro) -> deliver/Malayalam/22_uv-sunscreen_ugc_and-no-it-doesn-t-stay-purple_caf29456.mp4
+08:15:56 ok     caf29456_ta  9.4s
+08:15:56 start caf29456_or (20.00s + outro) -> deliver/Odia/22_uv-sunscreen_ugc_and-no-it-doesn-t-stay-purple_caf29456.mp4
+08:15:57 ok     caf29456_te  9.2s
+08:15:57 start cd5a6fe8_bn (20.00s + outro) -> deliver/Bengali/29_kojic-night-cream_ugc_so-this-became-part-of-every-night_cd5a6fe8.mp4
+08:16:00 ok     caf29456_ml  8.9s
+08:16:00 start cd5a6fe8_ta (20.00s + outro) -> deliver/Tamil/29_kojic-night-cream_ugc_so-this-became-part-of-every-night_cd5a6fe8.mp4
+08:16:05 ok     caf29456_or  9.1s
+08:16:05 start cd5a6fe8_te (20.00s + outro) -> deliver/Telugu/29_kojic-night-cream_ugc_so-this-became-part-of-every-night_cd5a6fe8.mp4
+08:16:07 ok     cd5a6fe8_bn  10.0s
+08:16:07 start cd5a6fe8_ml (20.00s + outro) -> deliver/Malayalam/29_kojic-night-cream_ugc_so-this-became-part-of-every-night_cd5a6fe8.mp4
+08:16:10 ok     cd5a6fe8_ta  9.9s
+08:16:10 start cd5a6fe8_or (20.00s + outro) -> deliver/Odia/29_kojic-night-cream_ugc_so-this-became-part-of-every-night_cd5a6fe8.mp4
+08:16:15 ok     cd5a6fe8_te  10.1s
+08:16:15 start ce849d3f_bn (17.00s + outro) -> deliver/Bengali/08_uv-sunscreen_personification_purple-tint_ce849d3f.mp4
+08:16:18 ok     cd5a6fe8_ml  10.7s
+08:16:18 start ce849d3f_ta (17.00s + outro) -> deliver/Tamil/08_uv-sunscreen_personification_purple-tint_ce849d3f.mp4
+08:16:20 ok     cd5a6fe8_or  10.4s
+08:16:20 start ce849d3f_te (17.00s + outro) -> deliver/Telugu/08_uv-sunscreen_personification_purple-tint_ce849d3f.mp4
+08:16:24 ok     ce849d3f_bn  8.2s
+08:16:24 start ce849d3f_ml (17.00s + outro) -> deliver/Malayalam/08_uv-sunscreen_personification_purple-tint_ce849d3f.mp4
+08:16:27 ok     ce849d3f_ta  8.5s
+08:16:27 start ce849d3f_or (17.00s + outro) -> deliver/Odia/08_uv-sunscreen_personification_purple-tint_ce849d3f.mp4
+08:16:29 ok     ce849d3f_te  8.6s
+08:16:29 start dad2130b_bn (20.00s + outro) -> deliver/Bengali/21_uv-sunscreen_ugc_the-tint-is-made-for-indian-skin_dad2130b.mp4
+08:16:33 ok     ce849d3f_ml  9.2s
+08:16:33 start dad2130b_ta (20.00s + outro) -> deliver/Tamil/21_uv-sunscreen_ugc_the-tint-is-made-for-indian-skin_dad2130b.mp4
+08:16:35 ok     ce849d3f_or  8.5s
+08:16:35 start dad2130b_te (20.00s + outro) -> deliver/Telugu/21_uv-sunscreen_ugc_the-tint-is-made-for-indian-skin_dad2130b.mp4
+08:16:40 ok     dad2130b_bn  10.5s
+08:16:40 start dad2130b_ml (20.00s + outro) -> deliver/Malayalam/21_uv-sunscreen_ugc_the-tint-is-made-for-indian-skin_dad2130b.mp4
+08:16:43 ok     dad2130b_ta  10.2s
+08:16:43 start dad2130b_or (20.00s + outro) -> deliver/Odia/21_uv-sunscreen_ugc_the-tint-is-made-for-indian-skin_dad2130b.mp4
+08:16:45 ok     dad2130b_te  9.7s
+08:16:45 start e7e42eaf_bn (17.00s + outro) -> deliver/Bengali/06_uv-sunscreen_personification_uv-villain-attack_e7e42eaf.mp4
+08:16:50 ok     dad2130b_ml  10.0s
+08:16:50 start e7e42eaf_ta (17.00s + outro) -> deliver/Tamil/06_uv-sunscreen_personification_uv-villain-attack_e7e42eaf.mp4
+08:16:53 ok     e7e42eaf_bn  8.0s
+08:16:53 start e7e42eaf_te (17.00s + outro) -> deliver/Telugu/06_uv-sunscreen_personification_uv-villain-attack_e7e42eaf.mp4
+08:16:53 ok     dad2130b_or  10.0s
+08:16:53 start e7e42eaf_ml (17.00s + outro) -> deliver/Malayalam/06_uv-sunscreen_personification_uv-villain-attack_e7e42eaf.mp4
+08:16:57 ok     e7e42eaf_ta  7.2s
+08:16:57 start e7e42eaf_or (17.00s + outro) -> deliver/Odia/06_uv-sunscreen_personification_uv-villain-attack_e7e42eaf.mp4
+08:17:01 ok     e7e42eaf_te  7.9s
+08:17:01 start f7ce58d4_bn (17.00s + outro) -> deliver/Bengali/02_kojic-night-cream_personification_spot-meeting-cancelled_f7ce58d4.mp4
+08:17:04 ok     e7e42eaf_ml  9.2s
+08:17:04 start f7ce58d4_ta (17.00s + outro) -> deliver/Tamil/02_kojic-night-cream_personification_spot-meeting-cancelled_f7ce58d4.mp4
+08:17:06 ok     e7e42eaf_or  8.8s
+08:17:06 start f7ce58d4_te (17.00s + outro) -> deliver/Telugu/02_kojic-night-cream_personification_spot-meeting-cancelled_f7ce58d4.mp4
+08:17:13 ok     f7ce58d4_bn  11.3s
+08:17:13 start f7ce58d4_ml (17.00s + outro) -> deliver/Malayalam/02_kojic-night-cream_personification_spot-meeting-cancelled_f7ce58d4.mp4
+08:17:14 ok     f7ce58d4_ta  10.8s
+08:17:14 start f7ce58d4_or (17.00s + outro) -> deliver/Odia/02_kojic-night-cream_personification_spot-meeting-cancelled_f7ce58d4.mp4
+08:17:17 ok     f7ce58d4_te  10.5s
+08:17:22 ok     f7ce58d4_ml  9.5s
+08:17:23 ok     f7ce58d4_or  8.5s
+08:17:23 done: 145 ok, 0 failed; avg 10.1s/render

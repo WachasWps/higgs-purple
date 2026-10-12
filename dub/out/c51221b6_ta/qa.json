@@ -1,0 +1,41 @@
+[
+ {
+  "id": 2,
+  "speaker": "white_cast",
+  "cer": 0.15,
+  "heard": "Ав Fau Bock<|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|><|ta|>"
+ },
+ {
+  "id": 3,
+  "speaker": "sunscreen_tube",
+  "cer": 0.15,
+  "heard": "ГдеONA wypshaw"
+ },
+ {
+  "id": 4,
+  "speaker": "purple_tint",
+  "cer": 0.21,
+  "heard": "ஓடு காலர் வீல்ல நான் மஞ்சலுக்கு நேர்யதிர் அது நால் தல்லைசு கேன்சல் பண்டுறேன்",
+  "redub": true
+ },
+ {
+  "id": 5,
+  "speaker": "spf_shield",
+  "cer": 0.17,
+  "heard": "வேல நான் பாத்துகிறேன்.",
+  "redub": true
+ },
+ {
+  "id": 6,
+  "speaker": "niacinamide",
+  "cer": 0.15,
+  "heard": "אםzeperktiscilla wid<|ta|>"
+ },
+ {
+  "id": 7,
+  "speaker": "sunscreen_tube",
+  "cer": 0.18,
+  "heard": "அப்படியே கலந்துடு. இன்ச்சின்ட் கலவோப் பாரங்க சன்ஸ்கரின் அல்ல.",
+  "redub": true
+ }
+]

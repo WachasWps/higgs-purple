@@ -1,0 +1,88 @@
+{
+ "video_id": "fe7174d4",
+ "product": "uv_sunscreen",
+ "caption_y": 0.9,
+ "elements": [
+  {
+   "type": "hook_mono",
+   "start": 0.15,
+   "end": 2.15,
+   "lines": [
+    "WHITE CAST?",
+    "LIGHT TEST"
+   ],
+   "position": "top",
+   "anim": "type"
+  },
+  {
+   "type": "hud",
+   "variant": "scan",
+   "start": 4.45,
+   "end": 5.5
+  },
+  {
+   "type": "claim_bold",
+   "start": 8.45,
+   "end": 10.0,
+   "lines": [
+    "PURPLE TINT"
+   ],
+   "sub": "BLENDS INTO INDIAN SKIN",
+   "x": 0.38,
+   "y": 0.15,
+   "anim": "fade"
+  },
+  {
+   "type": "hud",
+   "variant": "corners",
+   "start": 10.45,
+   "end": 11.5
+  },
+  {
+   "type": "pill",
+   "start": 12.45,
+   "end": 14.5,
+   "lines": [
+    "4% NIACINAMIDE",
+    "SPF 50 PA+++"
+   ],
+   "anim": "pop",
+   "x": 0.5,
+   "y": 0.125
+  },
+  {
+   "type": "label",
+   "start": 14.6,
+   "end": 17.4,
+   "lines": [
+    "WHITE CAST"
+   ],
+   "x": 0.25,
+   "y": 0.13,
+   "anim": "pop"
+  },
+  {
+   "type": "label",
+   "start": 14.6,
+   "end": 17.4,
+   "lines": [
+    "NO WHITE CAST"
+   ],
+   "x": 0.75,
+   "y": 0.13,
+   "anim": "pop"
+  },
+  {
+   "type": "claim_bold",
+   "start": 17.85,
+   "end": 19.95,
+   "lines": [
+    "RADIANT GLOW"
+   ],
+   "sub": "NATURAL SKIN TONE STAYS",
+   "position": "top",
+   "anim": "fade"
+  }
+ ],
+ "notes": "Zero-cast optical test: typed hook above the tube hero ('white cast ko light mein test karo'); scan hud on the light-beam sample test; purple-tint blend claim in the blurred background above the blending hand as it is said; corners hud on the residue-free skin macro; 4% niacinamide + SPF pill on the hairline of the split face as it is said, then cast / no-cast comparison tags (left chalky, right cast-free) during 'no chalky residue'; radiant-glow sign-off above the end tube. Typo audit: tracks 17 (upside-down tube label during squeeze) and 26 (end tube label) are packaging -> ignored, no covers. | AD pass: hud ends pulled inside the 5.6/11.6 s cuts; niacinamide+SPF pill raised to the hairline (y .125, same band as the cast tags) to clear the forehead."
+}

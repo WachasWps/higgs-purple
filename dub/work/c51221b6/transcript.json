@@ -1,0 +1,245 @@
+{
+ "language": "en",
+ "segments": [
+  {
+   "seg": 0,
+   "start": 0.0,
+   "end": 2.66,
+   "text": "Haha! Now everyone can see your sunscreen!",
+   "f0_median_hz": 311,
+   "words": [
+    [
+     "Haha!",
+     0.0,
+     0.48
+    ],
+    [
+     "Now",
+     1.08,
+     1.26
+    ],
+    [
+     "everyone",
+     1.26,
+     1.6
+    ],
+    [
+     "can",
+     1.6,
+     1.8
+    ],
+    [
+     "see",
+     1.8,
+     1.98
+    ],
+    [
+     "your",
+     1.98,
+     2.14
+    ],
+    [
+     "sunscreen!",
+     2.14,
+     2.66
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 1,
+   "start": 3.04,
+   "end": 4.7,
+   "text": "Wrong sunscreen, buddy!",
+   "f0_median_hz": 221,
+   "words": [
+    [
+     "Wrong",
+     3.04,
+     3.52
+    ],
+    [
+     "sunscreen,",
+     3.52,
+     4.28
+    ],
+    [
+     "buddy!",
+     4.54,
+     4.7
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 2,
+   "start": 5.06,
+   "end": 8.1,
+   "text": "I blend with her skin. You just make it ashy.",
+   "f0_median_hz": 266,
+   "words": [
+    [
+     "I",
+     5.06,
+     5.42
+    ],
+    [
+     "blend",
+     5.42,
+     5.7
+    ],
+    [
+     "with",
+     5.7,
+     5.86
+    ],
+    [
+     "her",
+     5.86,
+     6.0
+    ],
+    [
+     "skin.",
+     6.0,
+     6.32
+    ],
+    [
+     "You",
+     6.62,
+     6.94
+    ],
+    [
+     "just",
+     6.94,
+     7.34
+    ],
+    [
+     "make",
+     7.34,
+     7.54
+    ],
+    [
+     "it",
+     7.54,
+     7.7
+    ],
+    [
+     "ashy.",
+     7.7,
+     8.1
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 3,
+   "start": 8.74,
+   "end": 10.68,
+   "text": "And I handle the sun.",
+   "f0_median_hz": 98,
+   "words": [
+    [
+     "And",
+     8.74,
+     9.34
+    ],
+    [
+     "I",
+     9.34,
+     9.64
+    ],
+    [
+     "handle",
+     9.64,
+     10.06
+    ],
+    [
+     "the",
+     10.06,
+     10.26
+    ],
+    [
+     "sun.",
+     10.26,
+     10.68
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 4,
+   "start": 11.06,
+   "end": 13.14,
+   "text": "Dullness? Not on this team.",
+   "f0_median_hz": 205,
+   "words": [
+    [
+     "Dullness?",
+     11.06,
+     11.66
+    ],
+    [
+     "Not",
+     11.88,
+     12.4
+    ],
+    [
+     "on",
+     12.4,
+     12.58
+    ],
+    [
+     "this",
+     12.58,
+     12.8
+    ],
+    [
+     "team.",
+     12.8,
+     13.14
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 5,
+   "start": 13.4,
+   "end": 15.16,
+   "text": "See the glow, not the sunscreen.",
+   "f0_median_hz": 200,
+   "words": [
+    [
+     "See",
+     13.4,
+     13.68
+    ],
+    [
+     "the",
+     13.68,
+     13.84
+    ],
+    [
+     "glow,",
+     13.84,
+     14.12
+    ],
+    [
+     "not",
+     14.34,
+     14.54
+    ],
+    [
+     "the",
+     14.54,
+     14.7
+    ],
+    [
+     "sunscreen.",
+     14.7,
+     15.16
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  }
+ ]
+}

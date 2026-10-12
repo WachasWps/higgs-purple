@@ -1,0 +1,137 @@
+{
+  "video_id": "caf29456",
+  "style": "ugc",
+  "duration": 20.039,
+  "cast": [
+    {
+      "id": "creator",
+      "name": "Creator",
+      "role": "creator",
+      "description": "Young Indian woman with curly hair in a blue top, filming selfie-style on a sunny balcony; warm, friendly, conversational female voice, mildly annoyed at the open then upbeat and reassuring.",
+      "ref_ranges": [
+        [
+          0.0,
+          2.44
+        ],
+        [
+          2.62,
+          4.36
+        ],
+        [
+          8.16,
+          10.46
+        ]
+      ],
+      "fx": "none",
+      "pitch_semitones": 0
+    }
+  ],
+  "lines": [
+    {
+      "id": 1,
+      "speaker": "creator",
+      "start": 0.0,
+      "end": 2.44,
+      "max_end": 2.58,
+      "en": "Why does sunlight expose every bit of dullness?",
+      "tag": "disgust",
+      "keep_original": false,
+      "bn": "উফ, রোদে সব ডালনেস কেন ধরা পড়ে?",
+      "ta": "வெயில்ல ஏன் எல்லா டல்னஸும் தெரியுது?",
+      "te": "ఎండలో ప్రతీ డల్‌నెస్ ఎందుకిలా కనిపిస్తది?",
+      "ml": "വെയിലത്ത് എന്താ ഡൾനെസ് മുഴുവൻ കാണുന്നേ?",
+      "or": "ଖରାରେ ସବୁ ଡଲନେସ କାହିଁକି ଦିଶେ?"
+    },
+    {
+      "id": 2,
+      "speaker": "creator",
+      "start": 2.62,
+      "end": 4.36,
+      "max_end": 4.52,
+      "en": "That's where this purple tint makes sense.",
+      "tag": null,
+      "keep_original": false,
+      "bn": "এই জন্যই তো পার্পল টিন্ট।",
+      "ta": "அதுக்குத்தான் இந்த பர்பிள் டின்ட்.",
+      "te": "అందుకే ఈ పర్పుల్ టింట్.",
+      "ml": "അതിനാണ് ഈ പർപ്പിൾ ടിന്റ്.",
+      "or": "ସେଇଥିପାଇଁ ତ ଏଇ ପର୍ପଲ ଟିଣ୍ଟ।"
+    },
+    {
+      "id": 3,
+      "speaker": "creator",
+      "start": 4.56,
+      "end": 6.52,
+      "max_end": 6.62,
+      "en": "Violet helps correct yellow-looking dullness.",
+      "tag": null,
+      "keep_original": false,
+      "bn": "ভায়োলেট হলদেটে ডালনেস কারেক্ট করে।",
+      "ta": "வயலட், மஞ்சள் டல்னஸை கரெக்ட் பண்ணும்.",
+      "te": "వయొలెట్ పసుపు డల్‌నెస్‌ని సరిచేస్తది.",
+      "ml": "വയലറ്റ് മഞ്ഞ ഡൾനെസ് കറക്റ്റ് ചെയ്യും.",
+      "or": "ଭାୟୋଲେଟ ହଳଦିଆ ଡଲନେସକୁ କରେକ୍ଟ କରେ।"
+    },
+    {
+      "id": 4,
+      "speaker": "creator",
+      "start": 6.66,
+      "end": 8.02,
+      "max_end": 8.12,
+      "en": "And no, it doesn't stay purple.",
+      "tag": "happy",
+      "keep_original": false,
+      "bn": "আর না, এটা পার্পল থাকে না!",
+      "ta": "இல்ல, பர்பிளா இருக்காது!",
+      "te": "లేదు, పర్పుల్‌గా ఉండిపోదు!",
+      "ml": "ഇല്ല, പർപ്പിളായി നിൽക്കില്ല!",
+      "or": "ଆଉ ନା, ଏଇଟା ପର୍ପଲ ରହେନି!"
+    },
+    {
+      "id": 5,
+      "speaker": "creator",
+      "start": 8.16,
+      "end": 10.46,
+      "max_end": 10.66,
+      "en": "It blends clear on Indian skin, no white cast.",
+      "tag": "happy",
+      "keep_original": false,
+      "bn": "ইন্ডিয়ান স্কিনে মেশে, নো হোয়াইট কাস্ট।",
+      "ta": "இந்தியன் ஸ்கின்ல க்ளியரா மறையும், நோ வைட் காஸ்ட்.",
+      "te": "ఇండియన్ స్కిన్‌లో క్లియర్ బ్లెండ్, నో వైట్ కాస్ట్.",
+      "ml": "ഇന്ത്യൻ സ്കിനിൽ ക്ലിയറാകും, നോ വൈറ്റ് കാസ്റ്റ്.",
+      "or": "ଇଣ୍ଡିଆନ ସ୍କିନରେ ମିଶେ, ନୋ ହ୍ୱାଇଟ କାଷ୍ଟ।"
+    },
+    {
+      "id": 6,
+      "speaker": "creator",
+      "start": 10.7,
+      "end": 16.22,
+      "max_end": 16.38,
+      "en": "You also get 4% Niacinamide for brighter, more even-looking skin, without changing your natural skin tone.",
+      "tag": null,
+      "keep_original": false,
+      "bn": "সাথে চার পার্সেন্ট নায়াসিনামাইড, ন্যাচারাল টোন না বদলেই স্কিন আরও ব্রাইট আর ইভেন।",
+      "ta": "கூட நாலு பர்சென்ட் நியாசினமைட், நேச்சுரல் ஸ்கின் டோன் மாறாம, ப்ரைட்டா, ஈவனா தெரியும்.",
+      "te": "ఇంకా నాలుగు పర్సెంట్ నియాసినమైడ్, నాచురల్ స్కిన్ టోన్ మార్చకుండా, బ్రైట్‌గా ఈవెన్‌గా కనిపిస్తది.",
+      "ml": "കൂടെ നാല് പെർസെന്റ് നിയാസിനമൈഡ്, നാച്ചുറൽ സ്കിൻ ടോൺ മാറാതെ ബ്രൈറ്റും ഈവനുമായ ലുക്ക്.",
+      "or": "ପୁଣି ଚାରି ପର୍ସେଣ୍ଟ ନିଆସିନାମାଇଡ, ନ୍ୟାଚୁରାଲ ଟୋନ ନ ବଦଳାଇ ସ୍କିନ ଆହୁରି ବ୍ରାଇଟ, ଇଭେନ।"
+    },
+    {
+      "id": 7,
+      "speaker": "creator",
+      "start": 16.42,
+      "end": 19.86,
+      "max_end": 19.64,
+      "en": "And SPF 50 PA+++ keeps my daytime protection covered.",
+      "tag": "happy",
+      "keep_original": false,
+      "bn": "আর এসপিএফ ফিফটি পিএ ট্রিপল প্লাস, ডে প্রোটেকশন কভার্ড।",
+      "ta": "எஸ்பிஎஃப் ஃபிஃப்டி பிஏ ட்ரிபிள் ப்ளஸ், டேடைம் ப்ரொடெக்ஷன் கவர்!",
+      "te": "ఎస్‌పీఎఫ్ ఫిఫ్టీ పీఏ ట్రిపుల్ ప్లస్, డేటైమ్ ప్రొటెక్షన్ కవర్డ్.",
+      "ml": "എസ്പിഎഫ് ഫിഫ്റ്റി പിഎ ട്രിപ്പിൾ പ്ലസ്, ഡേ പ്രൊട്ടക്ഷൻ സെറ്റ്!",
+      "or": "ଆଉ ଏସପିଏଫ ଫିଫ୍ଟି ପିଏ ଟ୍ରିପଲ ପ୍ଲସ, ଡେ ପ୍ରୋଟେକ୍ସନ କଭର୍ଡ।"
+    }
+  ],
+  "notes": "Single female creator throughout (all segments ~227-266 Hz, one voice, matches prompt). Transcript segments 5 and 6 merged into line 6 (one continuous sentence, no gap at 14.42) so the target languages can reorder the 'without changing your natural skin tone' clause. Whisper 'PA Pluppurl' is 'PA+++' (PA triple plus). Line 7 ends at 19.86, slightly past max_end 19.64 (within tolerance). 0:06-0:08 hand comparison has no speech."
+}

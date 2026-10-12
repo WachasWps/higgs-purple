@@ -1,0 +1,65 @@
+[
+ {
+  "id": 1,
+  "speaker": "creator",
+  "cer": 0.23,
+  "heard": "രാവിലേ തന് ന് സകിന ഡർലായ്.",
+  "redub": true
+ },
+ {
+  "id": 2,
+  "speaker": "creator",
+  "cer": 0.58,
+  "heard": "അരന്. കല്റര വിലില്. പര്പല മനയയുടേ ആപോസിറ്.",
+  "redub": true
+ },
+ {
+  "id": 3,
+  "speaker": "creator",
+  "cer": 0.64,
+  "heard": "സ് തിന്ന്യാദന്ന്സക്രക്യ്ന സായക്യമാം.",
+  "redub": true
+ },
+ {
+  "id": 4,
+  "speaker": "creator",
+  "cer": 0.62,
+  "heard": "വീ കർാകർിച്യുയുന്.",
+  "redub": true
+ },
+ {
+  "id": 5,
+  "speaker": "creator",
+  "cer": 0.41,
+  "heard": "ഇന് സകിന് നായ ബരയ്ട്ട്ട്ക അതേ ടോന.",
+  "redub": true
+ },
+ {
+  "id": 6,
+  "speaker": "creator",
+  "cer": 0.15,
+  "heard": "Clear eye, no white caster, instant glow.",
+  "redub": true
+ },
+ {
+  "id": 7,
+  "speaker": "creator",
+  "cer": 0.5,
+  "heard": "ഇത്ർ ഫർ്റപ്ര്ന്ന്ന്യോ നിയാസനാമയ്ട.",
+  "redub": true
+ },
+ {
+  "id": 8,
+  "speaker": "creator",
+  "cer": 1.0,
+  "heard": "കൂടാ എസിയാ� 50 പിയടിയടിയടിയടിയടിയടിയടിയടിയടിയടിയടിയടിയടിയടിയടിയടിയടിയടിയടിയടിയടിയടിയടിയടിയടിയടിയടിയടിയടിയടിയടിയടിയ�",
+  "redub": true
+ },
+ {
+  "id": 9,
+  "speaker": "creator",
+  "cer": 0.67,
+  "heard": "ദല്ന്ന് കര൵് ഇന്സ്ട് ഗ്റ് ദിയ് സേഫ്.",
+  "redub": true
+ }
+]

@@ -1,0 +1,152 @@
+{
+ "video_id": "02bad3b3",
+ "style": "ugc",
+ "duration": 20.039,
+ "cast": [
+  {
+   "id": "creator",
+   "name": "Creator",
+   "role": "creator",
+   "description": "young Indian woman in pink pyjamas doing her night skincare routine at a vanity, warm friendly conversational female voice, soft and real",
+   "ref_ranges": [
+    [
+     0.0,
+     2.54
+    ],
+    [
+     2.72,
+     5.78
+    ],
+    [
+     5.96,
+     8.66
+    ]
+   ],
+   "fx": "none",
+   "pitch_semitones": 0
+  }
+ ],
+ "lines": [
+  {
+   "id": 1,
+   "speaker": "creator",
+   "start": 0.0,
+   "end": 2.54,
+   "max_end": 2.68,
+   "en": "Lately, my dark spots were making my whole complexion look uneven.",
+   "tag": "sad",
+   "keep_original": false,
+   "bn": "ডার্ক স্পটে মুখটা আনইভেন লাগছিল।",
+   "ta": "டார்க் ஸ்பாட்ஸால ஸ்கின் டோனே சீரா இல்ல.",
+   "te": "డార్క్ స్పాట్స్‌తో ఫేస్ అన్ఈవెన్‌గా ఉండేది.",
+   "ml": "ഡാർക്ക് സ്പോട്സ് കാരണം മുഖം അൺഈവൻ ആയി.",
+   "or": "ଡାର୍କ ସ୍ପଟରେ ମୁହଁ ଅନଇଭେନ ଲାଗୁଥିଲା।"
+  },
+  {
+   "id": 2,
+   "speaker": "creator",
+   "start": 2.72,
+   "end": 5.78,
+   "max_end": 5.92,
+   "en": "So I added DERMDOC 2% Kojic Acid Night Cream to my bedtime routine.",
+   "tag": null,
+   "keep_original": false,
+   "bn": "রাতে ডার্মডক টু পার্সেন্ট কোজিক অ্যাসিড নাইট ক্রিম।",
+   "ta": "அதான் டெர்ம்டாக் டூ பர்சன்ட் கோஜிக் ஆசிட் நைட் க்ரீம்.",
+   "te": "డెర్మ్‌డాక్ టూ పర్సెంట్ కోజిక్ యాసిడ్ నైట్ క్రీమ్ తెచ్చా.",
+   "ml": "ഡെർമ്ഡോക് ടൂ പേഴ്സന്റ് കോജിക് ആസിഡ് നൈറ്റ് ക്രീം തുടങ്ങി.",
+   "or": "ଡର୍ମଡକ ଟୁ ପର୍ସେଣ୍ଟ କୋଜିକ ଏସିଡ ନାଇଟ କ୍ରିମ ଲଗାଏ।"
+  },
+  {
+   "id": 3,
+   "speaker": "creator",
+   "start": 5.96,
+   "end": 8.66,
+   "max_end": 8.7,
+   "en": "It combines 2% Kojic Acid, Niacinamide and Alpha Arbutin.",
+   "tag": null,
+   "keep_original": false,
+   "bn": "এতে কোজিক, নিয়াসিনামাইড আর আলফা আরবুটিন।",
+   "ta": "இதுல கோஜிக் ஆசிட், நியாசினமைட், ஆல்ஃபா அர்புடின்.",
+   "te": "ఇందులో కోజిక్ యాసిడ్, నియాసినమైడ్, ఆల్ఫా అర్బుటిన్.",
+   "ml": "ഇതിൽ കോജിക് ആസിഡ്, നിയാസിനാമൈഡ്, ആൽഫ അർബുട്ടിൻ.",
+   "or": "ଏଥିରେ କୋଜିକ, ନିଆସିନାମାଇଡ ଆଉ ଆଲଫା ଆରବୁଟିନ।"
+  },
+  {
+   "id": 4,
+   "speaker": "creator",
+   "start": 8.74,
+   "end": 10.04,
+   "max_end": 10.2,
+   "en": "Look at that thick, rich texture.",
+   "tag": "surprise",
+   "keep_original": false,
+   "bn": "কী থিক রিচ টেক্সচার!",
+   "ta": "பாரு, திக் ரிச் டெக்ஸ்சர்!",
+   "te": "చూడు, థిక్ రిచ్ టెక్స్చర్!",
+   "ml": "കണ്ടോ, തിക്ക് റിച്ച് ക്രീം!",
+   "or": "କି ଥିକ ରିଚ ଟେକ୍ସଚର!"
+  },
+  {
+   "id": 5,
+   "speaker": "creator",
+   "start": 10.24,
+   "end": 13.4,
+   "max_end": 13.54,
+   "en": "I use a small amount at night and massage it in until it disappears completely.",
+   "tag": null,
+   "keep_original": false,
+   "bn": "একটু নিয়ে, পুরো মিশে যাওয়া অবধি ম্যাসাজ করি।",
+   "ta": "கொஞ்சமா எடுத்து, முழுசா மறையுற வரை மசாஜ்.",
+   "te": "కొంచెం రాసి, ఇంకిపోయే వరకు మసాజ్ చేస్తా.",
+   "ml": "രാത്രി കുറച്ച്, മുഴുവൻ അലിയും വരെ മസാജ് ചെയ്യും.",
+   "or": "ଅଳ୍ପ ନେଇ, ପୂରା ମିଶିବା ଯାଏଁ ମସାଜ କରେ।"
+  },
+  {
+   "id": 6,
+   "speaker": "creator",
+   "start": 13.58,
+   "end": 15.4,
+   "max_end": 15.6,
+   "en": "Then I let the Glow Fusion Formula work overnight.",
+   "tag": null,
+   "keep_original": false,
+   "bn": "গ্লো ফিউশন ফর্মুলা রাতভর কাজ করে।",
+   "ta": "க்ளோ ஃப்யூஷன் ஃபார்முலா நைட் ஃபுல்லா!",
+   "te": "గ్లో ఫ్యూజన్ ఫార్ములా రాత్రంతా వర్క్!",
+   "ml": "ഗ്ലോ ഫ്യൂഷൻ ഫോർമുല രാത്രി മുഴുവൻ!",
+   "or": "ଗ୍ଲୋ ଫ୍ୟୁଜନ ଫର୍ମୁଲା ଶୋଇଲେ କାମ କରେ।"
+  },
+  {
+   "id": 7,
+   "speaker": "creator",
+   "start": 15.64,
+   "end": 18.18,
+   "max_end": 18.3,
+   "en": "After two weeks, my dark spots look reduced and my skin looks more even.",
+   "tag": "happy",
+   "keep_original": false,
+   "bn": "দু সপ্তাহে ডার্ক স্পট কম, স্কিনও ইভেন!",
+   "ta": "ரெண்டு வீக்ல ஸ்பாட்ஸ் கம்மியா, ஸ்கின் ஈவனா தெரியுது!",
+   "te": "రెండు వారాల్లో స్పాట్స్ తగ్గినట్టు, స్కిన్ ఈవెన్!",
+   "ml": "രണ്ടാഴ്ചയിൽ സ്പോട്സ് കുറഞ്ഞപോലെ, സ്കിൻ ഈവനായി.",
+   "or": "ଦୁଇ ସପ୍ତାହରେ ଡାର୍କ ସ୍ପଟ କମ, ସ୍କିନ ଇଭେନ!"
+  },
+  {
+   "id": 8,
+   "speaker": "creator",
+   "start": 18.34,
+   "end": 19.8,
+   "max_end": 19.64,
+   "en": "Now this is my sleep-to-glow essential.",
+   "tag": "happy",
+   "keep_original": false,
+   "bn": "এ আমার স্লিপ টু গ্লো!",
+   "ta": "இதுதான் என் ஸ்லீப் டு க்ளோ!",
+   "te": "ఇదే నా స్లీప్ టు గ్లో!",
+   "ml": "ഇതാണ് എന്റെ സ്ലീപ് ടു ഗ്ലോ!",
+   "or": "ଏଇଟା ମୋ ସ୍ଲିପ ଟୁ ଗ୍ଲୋ!"
+  }
+ ],
+ "notes": "Single on-camera creator (f0 ~215-265 Hz throughout), mix of on-camera and VO per prompt but same voice. Whisper spelled the brand 'Dermdok' (it is DERMDOC). Prompt beats 0:08-0:13 were spoken as one continuous sentence, kept as one line. Last line ends at 19.80, slightly past max_end 19.64 (within tolerance). Line 2 slot is tight for the full product name, so 'bedtime routine' is conveyed as 'at night' or dropped; line 3 omits the repeated '2%' since line 2 states it."
+}

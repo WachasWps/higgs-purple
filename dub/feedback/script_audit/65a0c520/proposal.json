@@ -1,0 +1,163 @@
+{
+ "video": "65a0c520",
+ "shots": [
+  {
+   "n": 1,
+   "start": 0,
+   "end": 2.27,
+   "on_screen": "Bob-haired student on a sunny campus frowns at her phone."
+  },
+  {
+   "n": 2,
+   "start": 2.27,
+   "end": 4.73,
+   "on_screen": "Full-screen colour wheel, purple top, yellow bottom lit."
+  },
+  {
+   "n": 3,
+   "start": 4.73,
+   "end": 6.93,
+   "on_screen": "Ultra Violet tube with lavender swirl; finger dips in."
+  },
+  {
+   "n": 4,
+   "start": 6.93,
+   "end": 8.27,
+   "on_screen": "Student dots lavender cream on cheek, holding the tube."
+  },
+  {
+   "n": 5,
+   "start": 8.27,
+   "end": 10.6,
+   "on_screen": "Student blends cream on cheek, holding tube, looks at camera."
+  },
+  {
+   "n": 6,
+   "start": 10.6,
+   "end": 13.23,
+   "on_screen": "Before/after split of the student, after looks brighter."
+  },
+  {
+   "n": 7,
+   "start": 13.23,
+   "end": 17.4,
+   "on_screen": "Purple molecule graphic, then 'SPF 50 PA+++' glass shield."
+  },
+  {
+   "n": 8,
+   "start": 17.4,
+   "end": 20.04,
+   "on_screen": "Student walks across a sunny campus cafe smiling, holding the tube."
+  }
+ ],
+ "lines": [
+  {
+   "id": 1,
+   "start": 0.0,
+   "slot_s": 2.15,
+   "speaker": "creator",
+   "current": "My skin looked dull before my day had even started.",
+   "on_screen_during": "S1 frowning at phone outdoors",
+   "verdict": "rewrite",
+   "new": "My skin looked so dull.",
+   "words": 5,
+   "reason": "over length (10w vs 5)"
+  },
+  {
+   "id": 2,
+   "start": 2.3,
+   "slot_s": 2.27,
+   "speaker": "creator",
+   "current": "Then I learned purple sits opposite yellow on the colour wheel.",
+   "on_screen_during": "S2 colour wheel",
+   "verdict": "rewrite",
+   "new": "Purple sits opposite yellow.",
+   "words": 4,
+   "reason": "over length; wheel shows the rest"
+  },
+  {
+   "id": 3,
+   "start": 4.72,
+   "slot_s": 2.11,
+   "speaker": "creator",
+   "current": "So the tint helps cancel yellow-looking dullness.",
+   "on_screen_during": "S3 lavender texture swirl, finger dips",
+   "verdict": "rewrite",
+   "new": "This tint cancels yellow-looking dullness.",
+   "words": 5,
+   "reason": "over length; links tint on screen to wheel"
+  },
+  {
+   "id": 4,
+   "start": 6.98,
+   "slot_s": 1.15,
+   "speaker": "creator",
+   "current": "Let's put it to the test.",
+   "on_screen_during": "S4 dotting cream on cheek",
+   "verdict": "rewrite",
+   "new": "Testing it.",
+   "words": 2,
+   "reason": "over length for 1.15s slot"
+  },
+  {
+   "id": 5,
+   "start": 8.28,
+   "slot_s": 2.17,
+   "speaker": "creator",
+   "current": "Made for Indian skin: brighter-looking, still my skin tone.",
+   "on_screen_during": "S5 blending on cheek",
+   "verdict": "rewrite",
+   "new": "Blends into Indian skin tones.",
+   "words": 5,
+   "reason": "blending on screen; over length"
+  },
+  {
+   "id": 6,
+   "start": 10.6,
+   "slot_s": 2.53,
+   "speaker": "creator",
+   "current": "It blends clear: no white cast, just an Instant Glow.",
+   "on_screen_during": "S6 before/after split",
+   "verdict": "rewrite",
+   "new": "No white cast, just instant glow.",
+   "words": 6,
+   "reason": "over length; result on split"
+  },
+  {
+   "id": 7,
+   "start": 13.28,
+   "slot_s": 1.59,
+   "speaker": "creator",
+   "current": "Inside, 4% niacinamide.",
+   "on_screen_during": "S7 molecule graphic",
+   "verdict": "keep",
+   "new": "Inside, 4% niacinamide.",
+   "words": 3,
+   "reason": "fits"
+  },
+  {
+   "id": 8,
+   "start": 15.02,
+   "slot_s": 2.33,
+   "speaker": "creator",
+   "current": "Outside, SPF 50 PA+++ protection.",
+   "on_screen_during": "S7 SPF 50 PA+++ shield",
+   "verdict": "keep",
+   "new": "Outside, SPF 50 PA+++ protection.",
+   "words": 5,
+   "reason": "fits"
+  },
+  {
+   "id": 9,
+   "start": 17.5,
+   "slot_s": 2.88,
+   "speaker": "creator",
+   "current": "Dullness corrected, Instant Glow, day protected.",
+   "on_screen_during": "S8 walking in sunny campus",
+   "verdict": "keep",
+   "new": "Dullness corrected, Instant Glow, day protected.",
+   "words": 6,
+   "reason": "fits"
+  }
+ ]
+}

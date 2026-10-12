@@ -1,0 +1,70 @@
+426b77bb: source_fixed.mp4 18.00s (source 18.00s), 7 shots replaced
+a9be56d9: source_fixed.mp4 18.00s (source 18.00s), 7 shots replaced
+b4c787e1: source_fixed.mp4 17.80s (source 17.80s), 7 shots replaced
+c01adcce: source_fixed.mp4 17.80s (source 17.80s), 7 shots replaced
+ce52c347: source_fixed.mp4 17.80s (source 17.80s), 7 shots replaced
+e9528636: source_fixed.mp4 17.80s (source 17.80s), 7 shots replaced
+eab38211: source_fixed.mp4 18.00s (source 18.00s), 7 shots replaced
+fb3fa838: source_fixed.mp4 17.80s (source 17.80s), 7 shots replaced
+fe7174d4: source_fixed.mp4 17.60s (source 17.60s), 7 shots replaced
+21:15:46 ADS ASSEMBLED
+[426b77bb] 1 langs in 20s | worst line CER 0.15 | retried 0
+  "heard": "One active is good. Three together."
+  "heard": "Meet Therm Doct Dew% Colgic Acid Night Cream."
+  "heard": "Pogic acid, niacinamide, and alpha-arbutin in one glow fusion formula."
+  "heard": "Apply at night. It melts right in."
+  "heard": "Wake up to brighter looking skin."
+  "heard": "One jar, three actives."
+[a9be56d9] 1 langs in 24s | worst line CER 0.15 | retried 0
+  "heard": "Covering dark spots isn't the solution."
+  "heard": "Meet Dumb Doc, the Vidi's D% Kojic Acid Night Cream."
+  "heard": "Its glow fusion formula, kojic acid, niacinamide and alpha-arbutin."
+  "heard": "It helps reduce the look of dark spots."
+  "heard": "Apply at night. Wake up glowing."
+  "heard": "Brighter, more even looking skin."
+[b4c787e1] 1 langs in 19s | worst line CER 0.15 | retried 0
+  "heard": "Dark spots, upgrade your night routine."
+  "heard": "Dermdog Nubo scent Kojic Acid Night Cream brings together."
+  "heard": "Kojic acid, niacinamide, and alpha-arbutin."
+  "heard": "Its glow fusion formula helps reduce the look of dark spots."
+  "heard": "Every night one step closer to brighter, even-looking skin."
+[c01adcce] 1 langs in 20s | worst line CER 0.15 | retried 0
+  "heard": "You can see the sun, not your protection."
+  "heard": "DimDoc Ultraviolet, SPF580 with 4% Niaginamide."
+  "heard": "Its purple tint sits opposite yellow, so it helps cancel dullness."
+  "heard": "It blends in completely. No white cast."
+  "heard": "Invisible protection, visible instant glow."
+[ce52c347] 1 langs in 19s | worst line CER 0.15 | retried 0
+  "heard": "One sunscreen, two smart actions."
+  "heard": "1. SPF 50 Pa++++ for UVA and UVB protection."
+  "heard": "2. 4% niacinamide with a purple tint."
+  "heard": "Purple sits opposite yellow, so it helps cancel yellow, looking dullness."
+  "heard": "It blends in with no white cast, just instant glow."
+[e9528636] 1 langs in 20s | worst line CER 0.15 | retried 0
+  "heard": "A rich night cream, never heavy."
+  "heard": "Them dog 2% kojic acid night cream melts right in."
+  "heard": "With kojic acid, niacinamide and alpha-arbutin."
+  "heard": "Its glow fusion formula helps reduce the look of dark spots."
+  "heard": "Apply at night, wake up to glow."
+[eab38211] 1 langs in 19s | worst line CER 0.15 | retried 0
+  "heard": "While you sleep, your night routine keeps working."
+  "heard": "Daradoc, 2% Kojic Acid Nitcreek."
+  "heard": "Its glow fusion formula, kojic acid, niacinamide, and alpha-arbutin."
+  "heard": "It helps reduce the look of dark spots."
+  "heard": "Apply. Sleep. Wake up glowing."
+[fb3fa838] 1 langs in 19s | worst line CER 0.15 | retried 0
+  "heard": "Balcony to commute, the sun follows you."
+  "heard": "SPF FDPA++++ with 4% niacinamide."
+  "heard": "Purple sits opposite yellow, so its tint helps cancel dullness."
+  "heard": "It blends in with no white cast for an instant glow."
+  "heard": "Dermdee Ultraviolet, made for everyday Indian sun."
+[fe7174d4] 1 langs in 20s | worst line CER 0.15 | retried 0
+  "heard": "White cast, put it to the light test."
+  "heard": "Derm Dock Ultraviolet melts in, no white cast, no residue."
+  "heard": "With 40% niacinamide and SPF 50 Pa+++."
+  "heard": "Its purple tint sits opposite yellow, helping cancel dullness."
+  "heard": "Your natural skin tone stays with an instant glow."
+21:19:06 ADS VOICED
+21:19:06 done: 0 ok, 0 failed
+cp: deliver_music/English/*.mp4: No such file or directory
+21:19:07 ADS EN CHAIN DONE

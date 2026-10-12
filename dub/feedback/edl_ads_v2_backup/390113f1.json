@@ -1,0 +1,58 @@
+{
+  "video_id": "390113f1",
+  "product": "knc",
+  "category": "ingredient_personified",
+  "shots": [
+    {
+      "n": 1, "start": 0.0, "end": 3.6,
+      "content": "Fair woman asleep in bed at night; cartoon brown and grey dark-spot villain faces stamping on her cheek.",
+      "issues": ["model_not_dusky", "cartoon_spots_on_real_skin"],
+      "action": "replace", "replace_with": "KN05_sleep", "custom": null,
+      "note": "L1 villain whisper 'Quick, she's asleep.' plays over ANANYA sleeping in moonlight with the exact closed jar on the bedside. Use the moonlit first 3.6 s, before the dawn warm-up. The woman is replaced, so her S3 is replaced too."
+    },
+    {
+      "n": 2, "start": 3.6, "end": 6.93,
+      "content": "Exact jar mascot on the bedside table, lid off, with gold, silver and pink ingredient characters popping out of the cream; woman asleep far out of focus behind.",
+      "issues": ["background_sleeper_soft_focus"],
+      "action": "keep", "replace_with": null, "custom": null,
+      "note": "Label is correct (2% KOJIC ACID visible) and the cute night team matches L2 'So is my night team' and L3 'Keep it down. We're working.' The sleeper behind is heavily defocused. If continuity QA still flags her, swap in KNA2_avatar_ingredients."
+    },
+    {
+      "n": 3, "start": 6.93, "end": 14.57,
+      "content": "Long sequence on the fair woman's sleeping cheek: Kojic, Niacinamide and Alpha Arbutin characters fight dot-like spots (baked captions). Then a finger dabs thick unblended cream on the spotty cheek, then a sunlit morning shot still has the cream blob on her cheek under a garbled 'After 2 Weeks / Taa hps even skin tone'.",
+      "issues": ["model_not_dusky", "unrealistic_dark_spots", "cream_not_blended", "dark_spots_after_application", "residue_in_morning", "two_weeks_text_on_morning_frame", "no_ba_split", "skin_macro_without_face"],
+      "action": "replace", "replace_with": "KNA2_avatar_ingredients", "custom": null,
+      "segments": [
+        {"start": 6.93, "end": 11.4, "replace_with": "KNA2_avatar_ingredients"},
+        {"start": 11.4, "end": 12.9, "replace_with": "KN06_morning_wake"},
+        {"start": 12.9, "end": 14.57, "replace_with": "GRAPHIC_BA_SPLIT"}
+      ],
+      "note": "There is no VO from 6.93 to 11.4: three orbs rise from the open jar (4.47 s of KNA2), each with its own pill (gold = 2% KOJIC ACID, icy = NIACINAMIDE, pink = ALPHA ARBUTIN). L4 narrator 'Working through the night for brighter, even-looking skin' then runs over ANANYA waking in daylight with spotless glowing skin (morning super) and the B/A split (KN08 | KN07, AFTER 2 WEEKS)."
+    },
+    {
+      "n": 4, "start": 14.57, "end": 17.02,
+      "content": "Packshot: exact jar mascot asleep on the bedside with the three sleeping ingredient characters; baked 'DERMDOC 2% Kojic Acid Night Cream' and 'Target Dark Spots While You Sleep'.",
+      "issues": [],
+      "action": "keep", "replace_with": null, "custom": null,
+      "note": "Jar and label are correct and the baked text is spelled right. Matches L5 'Dark spots don't get the night off.'"
+    }
+  ],
+  "script_changes": [],
+  "new_lines": [],
+  "supers": [
+    {"action": "remove", "match": "DARK SPOT GANG", "text": "", "start": 1.65, "end": 3.3, "why": "No villains on screen in KN05; the tag would point at her sleeping face."},
+    {"action": "remove", "match": "[hud scan 7.1-10.6]", "text": "", "start": 7.1, "end": 10.6, "why": "The face scan no longer fits; the orbs carry this beat."},
+    {"action": "add", "match": null, "text": "2% KOJIC ACID / TARGETS DARK SPOTS", "start": 7.0, "end": 8.5, "why": "The three ingredients get separate labels in the same style over the KNA2 orbs (gold orb)."},
+    {"action": "add", "match": null, "text": "NIACINAMIDE / BRIGHTENS DULL-LOOKING SKIN", "start": 8.5, "end": 9.95, "why": "Separate, consistent ingredient label (icy orb)."},
+    {"action": "add", "match": null, "text": "ALPHA ARBUTIN / HELPS EVEN SKIN TONE", "start": 9.95, "end": 11.35, "why": "Separate, consistent ingredient label (pink orb)."},
+    {"action": "remove", "match": "AFTER 2 WEEKS / HELPS EVEN SKIN TONE", "text": "", "start": 11.32, "end": 15.02, "why": "The garbled baked caption is gone, and '2 weeks' must not sit on the morning frame."},
+    {"action": "add", "match": null, "text": "BRIGHTER, CLEARER-LOOKING SKIN BY MORNING", "start": 11.45, "end": 12.9, "why": "Client: the morning wake-up frame text must be this style, not '2 weeks'."},
+    {"action": "add", "match": null, "text": "BEFORE", "start": 12.9, "end": 14.57, "why": "B/A split label under the left half."},
+    {"action": "add", "match": null, "text": "AFTER 2 WEEKS", "start": 12.9, "end": 14.57, "why": "Client: 'AFTER 2 WEEKS' under the after image."}
+  ],
+  "voice_changes": [
+    {"speaker": "dark_spot", "to": "female", "why": "Villain fx at -2 st on a hissing whisper reads male and scary; use a female villain voice at pitch 0."},
+    {"speaker": "knc_jar", "to": "female", "why": "The source line 2 is ~145 Hz and the jar gets -2 st, so it sounds male; use a female voice at pitch 0 or higher."}
+  ],
+  "summary": "The fair sleeper is replaced with KN05, the ingredient beats become KNA2 orbs with three consistent pills, and the unblended-cream 'After 2 Weeks' morning becomes KN06 morning wake with the 'by morning' super plus a proper B/A split. The jar/team shot and the sleeping packshot are kept; villain and jar voices go female."
+}

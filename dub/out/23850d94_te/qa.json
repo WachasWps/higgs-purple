@@ -1,0 +1,42 @@
+[
+ {
+  "id": 1,
+  "speaker": "professor_jar",
+  "cer": 0.54,
+  "heard": "ఇరాత రిలిసన, బెరిర, ఇవనుం కిం."
+ },
+ {
+  "id": 2,
+  "speaker": "professor_jar",
+  "cer": 0.11,
+  "heard": "మోడసమస్యలు ముగరు స్పేశలిస్టలు."
+ },
+ {
+  "id": 3,
+  "speaker": "kojic_acid",
+  "cer": 0.33,
+  "heard": "లేస్ వన్ మోనేదా క్పా స్టర్గేట.",
+  "repaired": true
+ },
+ {
+  "id": 4,
+  "speaker": "niacinamide",
+  "cer": 0.15,
+  "heard": "Lesson 2. Brighter skin. 3. Even looking tone.",
+  "redub": true
+ },
+ {
+  "id": 5,
+  "speaker": "professor_jar",
+  "cer": 0.13,
+  "heard": "రిచ్ క్రిమ్ నాఇటా ప్లయో చేయో మిగతాది టిమ్ చోస్ కుంటుదే.",
+  "redub": true
+ },
+ {
+  "id": 6,
+  "speaker": "narrator",
+  "cer": 0.33,
+  "heard": "రిండువారలు స్పర్స్తగినటునాయ్. క్లాస్ కత్తవ్.",
+  "redub": true
+ }
+]

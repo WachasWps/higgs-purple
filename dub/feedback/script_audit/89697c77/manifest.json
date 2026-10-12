@@ -1,0 +1,299 @@
+{
+ "video": "89697c77",
+ "style": "product_avatar",
+ "cast": [
+  {
+   "id": "snooze",
+   "name": "Snooze",
+   "description": "purple smoky cartoon villain called Snooze who tempts the woman to skip skincare; playful, sly, teasing villain voice"
+  },
+  {
+   "id": "jar",
+   "name": "DERMDOC Kojic Night Cream Jar",
+   "description": "talking DERMDOC 2% Kojic Acid Night Cream jar with eyes, cape, little arms and sneakers; assured, friendly, bouncy cartoon voice"
+  },
+  {
+   "id": "woman",
+   "name": "Woman",
+   "description": "adult Indian woman in orange pyjamas, real person; soft, content, sleepy-happy morning voice"
+  }
+ ],
+ "lines": [
+  {
+   "id": 1,
+   "start": 0.0,
+   "end": 2.62,
+   "speaker": "snooze",
+   "en": "Skip skincare. Go straight to sleep."
+  },
+  {
+   "id": 2,
+   "start": 2.82,
+   "end": 4.52,
+   "speaker": "jar",
+   "en": "Sleep, yes. Skip me, no."
+  },
+  {
+   "id": 3,
+   "start": 4.72,
+   "end": 6.4,
+   "speaker": "jar",
+   "en": "I turn bedtime into brightening time."
+  },
+  {
+   "id": 4,
+   "start": 6.66,
+   "end": 8.78,
+   "speaker": "jar",
+   "en": "My 3Xpert formula works while you rest."
+  },
+  {
+   "id": 5,
+   "start": 8.92,
+   "end": 10.46,
+   "speaker": "snooze",
+   "en": "That looks seriously rich."
+  },
+  {
+   "id": 6,
+   "start": 10.7,
+   "end": 12.32,
+   "speaker": "jar",
+   "en": "Smooth on my rich night-cream texture."
+  },
+  {
+   "id": 7,
+   "start": 12.54,
+   "end": 14.38,
+   "speaker": "jar",
+   "en": "Fully absorbed. Now get your beauty sleep."
+  },
+  {
+   "id": 8,
+   "start": 15.2,
+   "end": 17.38,
+   "speaker": "woman",
+   "en": "I slept. My glow showed up."
+  },
+  {
+   "id": 9,
+   "start": 17.52,
+   "end": 19.92,
+   "speaker": "jar",
+   "en": "DERMDOC 2% Kojic Acid Night Cream."
+  }
+ ],
+ "shots": [
+  {
+   "n": 1,
+   "start": 0,
+   "end": 2.8,
+   "what": "STORY_89697c77_S1",
+   "frames": [
+    "s01_0.jpg",
+    "s01_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 1,
+     "start": 0.0,
+     "end": 2.62,
+     "speaker": "snooze",
+     "en": "Skip skincare. Go straight to sleep."
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "start": 2.8,
+   "end": 4.6,
+   "what": "original footage",
+   "frames": [
+    "s02_0.jpg",
+    "s02_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 2,
+     "start": 2.82,
+     "end": 4.52,
+     "speaker": "jar",
+     "en": "Sleep, yes. Skip me, no."
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "start": 4.6,
+   "end": 6.5,
+   "what": "original footage",
+   "frames": [
+    "s03_0.jpg",
+    "s03_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 3,
+     "start": 4.72,
+     "end": 6.4,
+     "speaker": "jar",
+     "en": "I turn bedtime into brightening time."
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "start": 6.5,
+   "end": 9.0,
+   "what": "original footage",
+   "frames": [
+    "s04_0.jpg",
+    "s04_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 4,
+     "start": 6.66,
+     "end": 8.78,
+     "speaker": "jar",
+     "en": "My 3Xpert formula works while you rest."
+    },
+    {
+     "id": 5,
+     "start": 8.92,
+     "end": 10.46,
+     "speaker": "snooze",
+     "en": "That looks seriously rich."
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "start": 9.0,
+   "end": 10.6,
+   "what": "original footage",
+   "frames": [
+    "s05_0.jpg",
+    "s05_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 5,
+     "start": 8.92,
+     "end": 10.46,
+     "speaker": "snooze",
+     "en": "That looks seriously rich."
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "start": 10.6,
+   "end": 12.3,
+   "what": "original footage",
+   "frames": [
+    "s06_0.jpg",
+    "s06_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 6,
+     "start": 10.7,
+     "end": 12.32,
+     "speaker": "jar",
+     "en": "Smooth on my rich night-cream texture."
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "start": 12.3,
+   "end": 14.4,
+   "what": "STORY_89697c77_S7",
+   "frames": [
+    "s07_0.jpg",
+    "s07_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 6,
+     "start": 10.7,
+     "end": 12.32,
+     "speaker": "jar",
+     "en": "Smooth on my rich night-cream texture."
+    },
+    {
+     "id": 7,
+     "start": 12.54,
+     "end": 14.38,
+     "speaker": "jar",
+     "en": "Fully absorbed. Now get your beauty sleep."
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "start": 14.4,
+   "end": 15.5,
+   "what": "original footage",
+   "frames": [
+    "s08_0.jpg",
+    "s08_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 8,
+     "start": 15.2,
+     "end": 17.38,
+     "speaker": "woman",
+     "en": "I slept. My glow showed up."
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "start": 15.5,
+   "end": 17.37,
+   "what": "BA_89697c77_AFTER",
+   "frames": [
+    "s09_0.jpg",
+    "s09_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 8,
+     "start": 15.2,
+     "end": 17.38,
+     "speaker": "woman",
+     "en": "I slept. My glow showed up."
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "start": 17.37,
+   "end": 20.04,
+   "what": "GRAPHIC_BA_SPLIT",
+   "frames": [
+    "s10_0.jpg",
+    "s10_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 8,
+     "start": 15.2,
+     "end": 17.38,
+     "speaker": "woman",
+     "en": "I slept. My glow showed up."
+    },
+    {
+     "id": 9,
+     "start": 17.52,
+     "end": 19.92,
+     "speaker": "jar",
+     "en": "DERMDOC 2% Kojic Acid Night Cream."
+    }
+   ]
+  }
+ ]
+}

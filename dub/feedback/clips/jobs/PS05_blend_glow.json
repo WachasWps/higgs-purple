@@ -1,0 +1,31 @@
+[
+  {
+    "created_at": "2026-10-09T13:10:37.2789Z",
+    "display_name": "Wan 3.0",
+    "id": "4507c420-12f4-43d7-8ad7-fe766224af12",
+    "job_type": "wan3_0",
+    "min_result_url": null,
+    "params": {
+      "aspect_ratio": "9:16",
+      "duration": 5,
+      "generate_audio": false,
+      "height": 1344,
+      "medias": [
+        {
+          "data": {
+            "id": "06111987-5b03-4c75-8d64-2d74301286f9",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3A6ZxB95Mnf55lwPBqzkePnTfzA/06111987-5b03-4c75-8d64-2d74301286f9.png"
+          },
+          "role": "start_image"
+        }
+      ],
+      "prompt": "She finishes blending; the lavender completely disappears into the skin leaving no cast or residue; her skin turns visibly even, smooth and dewy with a healthy instant glow; she lowers her hand and smiles. Photorealistic, natural motion, stable identity, product packaging stays exactly as in the first frame, no text appears.",
+      "resolution": "480p",
+      "width": 768
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3A6ZxB95Mnf55lwPBqzkePnTfzA/hf_20261009_131037_4507c420-12f4-43d7-8ad7-fe766224af12.mp4",
+    "status": "completed",
+    "thumbnail_url": "https://cdn.higgsfield.ai/user_3A6ZxB95Mnf55lwPBqzkePnTfzA/hf_20261009_131037_4507c420-12f4-43d7-8ad7-fe766224af12_thumbnail.webp"
+  }
+]

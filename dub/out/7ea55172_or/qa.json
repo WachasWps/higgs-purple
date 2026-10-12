@@ -1,0 +1,54 @@
+[
+ {
+  "id": 1,
+  "speaker": "greasiness",
+  "cer": 0.23,
+  "heard": "সটিকে সাইনো ডুটিরে হাজিদো।"
+ },
+ {
+  "id": 2,
+  "speaker": "dullness",
+  "cer": 0.2,
+  "heard": "আও মো আইলি ডলনেস্",
+  "redub": true
+ },
+ {
+  "id": 3,
+  "speaker": "sunscreen",
+  "cer": 0.25,
+  "heard": "তুমে দুরে ফায়ে আড্?"
+ },
+ {
+  "id": 4,
+  "speaker": "sunscreen",
+  "cer": 0.2,
+  "heard": "কালার হোইল নে পর্পল হলদ্য়ের ভিপারিত তেনো ডলা নেস কানা সল।",
+  "redub": true
+ },
+ {
+  "id": 5,
+  "speaker": "sunscreen",
+  "cer": 0.15,
+  "heard": "Purple Tint Indian Skinnopine Theory"
+ },
+ {
+  "id": 6,
+  "speaker": "sunscreen",
+  "cer": 0.25,
+  "heard": "ফোর পরাসেন্ট নেযা সিনামাইড আও ইন্সটান্ট লো ?",
+  "redub": true
+ },
+ {
+  "id": 7,
+  "speaker": "sunscreen",
+  "cer": 0.29,
+  "heard": "এস্পি এক্পি পিয়ে ট্রিপল পলস খরাকো সম্ভালিদা।"
+ },
+ {
+  "id": 8,
+  "speaker": "sunscreen",
+  "cer": 0.15,
+  "heard": "Instant Glow, Protected, Sokkae No Drama",
+  "redub": true
+ }
+]

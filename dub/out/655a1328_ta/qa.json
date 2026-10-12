@@ -1,0 +1,48 @@
+[
+ {
+  "id": 1,
+  "speaker": "dullness",
+  "cer": 0.13,
+  "heard": "வா, இவுச்கின்ன டலாக்கிடலாம்.",
+  "redub": true
+ },
+ {
+  "id": 2,
+  "speaker": "sunscreen",
+  "cer": 0.14,
+  "heard": "நான் இருக்கும் போது நாற்காது."
+ },
+ {
+  "id": 3,
+  "speaker": "sunscreen",
+  "cer": 0.14,
+  "heard": "வீல பாருங்க போய்பில மஞ்சிலுக்கு நேர் எதிரி டல்னிசை கேன்சல பண்ணிடும்.",
+  "redub": true
+ },
+ {
+  "id": 4,
+  "speaker": "sunscreen",
+  "cer": 0.19,
+  "heard": "என் பர்பில் தின்ட இந்தியன் சகின்னுக் காகவே சின்டது."
+ },
+ {
+  "id": 5,
+  "speaker": "sunscreen",
+  "cer": 0.15,
+  "heard": "இப்போ instant, even looking low,",
+  "redub": true
+ },
+ {
+  "id": 6,
+  "speaker": "sunscreen",
+  "cer": 0.15,
+  "heard": "ιhelm"
+ },
+ {
+  "id": 7,
+  "speaker": "sunscreen",
+  "cer": 0.44,
+  "heard": "அதை சκιன்டோன் கூடவே இன்ச்சின்ட்ட்டும்.",
+  "redub": true
+ }
+]

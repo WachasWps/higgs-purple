@@ -1,0 +1,145 @@
+{
+ "video_id": "e7e42eaf",
+ "style": "personification",
+ "duration": 17.02,
+ "cast": [
+  {
+   "id": "uv_villain",
+   "name": "UV Villain",
+   "role": "villain",
+   "description": "gang of spiky golden UVA and red-orange UVB star villains streaking toward her face; gleeful, gravelly, menacing gremlin voice",
+   "ref_ranges": [[1.08, 3.14]],
+   "fx": "villain",
+   "pitch_semitones": -3
+  },
+  {
+   "id": "sunscreen_tube",
+   "name": "DERMDOC Sunscreen Tube",
+   "role": "product_mascot",
+   "description": "the white DERMDOC Ultra Violet sunscreen tube with eyes, mouth and tiny limbs, team leader; firm, confident, protective cartoon voice",
+   "ref_ranges": [[3.46, 4.8], [14.24, 16.28]],
+   "fx": "cartoon",
+   "pitch_semitones": 0
+  },
+  {
+   "id": "spf_shield",
+   "name": "SPF 50 PA+++ Shield",
+   "role": "hero",
+   "description": "cobalt-blue shield hero that throws up a force field against the UV rays; deep, strong, calm bodyguard voice",
+   "ref_ranges": [[5.54, 8.12]],
+   "fx": "cartoon",
+   "pitch_semitones": 0
+  },
+  {
+   "id": "purple_tint",
+   "name": "Purple Tint",
+   "role": "hero",
+   "description": "smooth lavender droplet hero that pushes the White Cast villain away; bright, bubbly, sassy cartoon voice",
+   "ref_ranges": [[9.04, 11.1]],
+   "fx": "cartoon",
+   "pitch_semitones": 3
+  },
+  {
+   "id": "niacinamide",
+   "name": "4% Niacinamide",
+   "role": "hero",
+   "description": "silver-lavender molecule hero that clears the grey Dullness villain; perky, cocky, upbeat cartoon voice",
+   "ref_ranges": [[11.46, 13.72]],
+   "fx": "cartoon",
+   "pitch_semitones": 2
+  }
+ ],
+ "lines": [
+  {
+   "id": 1,
+   "speaker": "uv_villain",
+   "start": 1.08,
+   "end": 3.14,
+   "max_end": 3.42,
+   "en": "Sun's out. Let's get her!",
+   "tag": "angry",
+   "keep_original": false,
+   "bn": "রোদ উঠেছে! চল, ওকে ধর!",
+   "ta": "வெயில் அடிக்குது! போய் அவள புடிங்கடா!",
+   "te": "ఎండ వచ్చింది! పదండ్రా, ఆమెని పట్టేద్దాం!",
+   "ml": "വെയിൽ വന്നു! വാടാ, അവളെ പിടിക്കാം!",
+   "or": "ଖରା ଆସିଗଲା! ଚାଲ, ତାକୁ ଧରିବା!"
+  },
+  {
+   "id": 2,
+   "speaker": "sunscreen_tube",
+   "start": 3.46,
+   "end": 4.8,
+   "max_end": 5.5,
+   "en": "Not on my watch.",
+   "tag": null,
+   "keep_original": false,
+   "bn": "আমি থাকতে? একদম না!",
+   "ta": "நான் இருக்கும்போதா? நோ சான்ஸ்!",
+   "te": "నేనుండగా? నో ఛాన్స్!",
+   "ml": "ഞാനുള്ളപ്പോഴോ? നടക്കില്ല!",
+   "or": "ମୁଁ ଥାଉ ଥାଉ? ଏକଦମ ନାହିଁ!"
+  },
+  {
+   "id": 3,
+   "speaker": "spf_shield",
+   "start": 5.54,
+   "end": 8.12,
+   "max_end": 9.0,
+   "en": "UVA and UVB? Blocked.",
+   "tag": null,
+   "keep_original": false,
+   "bn": "ইউভিএ আর ইউভিবি? ব্লকড!",
+   "ta": "யூவிஏவும் யூவிபியும்? ப்ளாக்ட்!",
+   "te": "యూవీఏ, యూవీబీ? రెండూ బ్లాక్డ్!",
+   "ml": "യുവിഎയും യുവിബിയും? ബ്ലോക്ക്ഡ്!",
+   "or": "ୟୁଭିଏ ଆଉ ୟୁଭିବି? ବ୍ଲକଡ!"
+  },
+  {
+   "id": 4,
+   "speaker": "purple_tint",
+   "start": 9.04,
+   "end": 11.1,
+   "max_end": 11.42,
+   "en": "No white, ashy finish here.",
+   "tag": "happy",
+   "keep_original": false,
+   "bn": "এখানে সাদা ছাইরঙা ফিনিশ চলবে না!",
+   "ta": "இங்க வெள்ளை சாம்பல் ஃபினிஷ் கிடையாது!",
+   "te": "ఇక్కడ తెల్లటి బూడిద ఫినిష్ లేదు!",
+   "ml": "ഇവിടെ വെള്ള ചാരനിറ ഫിനിഷ് ഇല്ല!",
+   "or": "ଏଠି ଧଳା ପାଉଁଶିଆ ଫିନିଶ ନାହିଁ!"
+  },
+  {
+   "id": 5,
+   "speaker": "niacinamide",
+   "start": 11.46,
+   "end": 13.72,
+   "max_end": 14.2,
+   "en": "And dullness? You're done too.",
+   "tag": "happy",
+   "keep_original": false,
+   "bn": "আর ডালনেস? তোরও খেল খতম!",
+   "ta": "டல்னஸ்ஸா? உனக்கும் கதை முடிஞ்சது!",
+   "te": "ఇక డల్‌నెస్? నీ పని కూడా అయిపోయింది!",
+   "ml": "ഇനി ഡൾനെസ്സോ? നിന്റെ കളിയും കഴിഞ്ഞു!",
+   "or": "ଆଉ ଡଲନେସ? ତୋ ଖେଳ ବି ଖତମ!"
+  },
+  {
+   "id": 6,
+   "speaker": "sunscreen_tube",
+   "start": 14.24,
+   "end": 16.28,
+   "max_end": 16.62,
+   "en": "Come out, sun. We're ready.",
+   "tag": "happy",
+   "keep_original": false,
+   "bn": "আয় রে রোদ! আমরা রেডি!",
+   "ta": "வா வெயிலே! நாங்க ரெடி!",
+   "te": "రా ఎండా! మేం రెడీ!",
+   "ml": "വാ വെയിലേ! ഞങ്ങൾ റെഡി!",
+   "or": "ଆ ରେ ଖରା! ଆମେ ରେଡି!"
+  }
+ ],
+ "notes": "Six lines by five characters, matching the prompt's speaker labels. The prompt's 'Protection and brightening, in one.' line is NOT spoken in the video (cut at 17 s), so it is omitted. The White Cast and Dullness villains appear on screen but are silent. The UV villain's original voice is fairly high (~248 Hz), so it gets villain fx plus -3 st to sound menacing. Tube, Purple Tint and Niacinamide all sit around 190-220 Hz in the original, so Purple Tint gets +3 and Niacinamide +2 to keep the three voices apart. The SPF Shield is the only deep voice (~121 Hz). The tube's two lines differ in pitch (221 vs 188 Hz) but the prompt labels both as SUNSCREEN. Whisper's voice_cluster_hint was ignored."
+}

@@ -1,0 +1,41 @@
+[
+ {
+  "id": 2,
+  "speaker": "white_cast",
+  "cer": 0.38,
+  "heard": "এবে সমান্য়ে তুস নস করা দেকে একেে"
+ },
+ {
+  "id": 3,
+  "speaker": "sunscreen_tube",
+  "cer": 0.0,
+  "heard": "ভুল সনসকরিন ভাই।"
+ },
+ {
+  "id": 4,
+  "speaker": "purple_tint",
+  "cer": 0.33,
+  "heard": "জাও জা কলোরা হিলে মুহলদের ভিপারিতা তেয়ো ডলেস কিয়া নসাল করে।",
+  "redub": true
+ },
+ {
+  "id": 5,
+  "speaker": "spf_shield",
+  "cer": 0.33,
+  "heard": "আও খরা মুসম�ালি ভি",
+  "redub": true
+ },
+ {
+  "id": 6,
+  "speaker": "niacinamide",
+  "cer": 0.27,
+  "heard": "দালা এস এটিম্র চলি ঵নি।"
+ },
+ {
+  "id": 7,
+  "speaker": "sunscreen_tube",
+  "cer": 0.23,
+  "heard": "এককদাম মিসি জায় ইন্সটান্ট গ্লো দেখা সানসকরিনা নুহে।",
+  "redub": true
+ }
+]

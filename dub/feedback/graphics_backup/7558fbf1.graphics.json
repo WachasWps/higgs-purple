@@ -1,0 +1,103 @@
+{
+ "video_id": "7558fbf1",
+ "product": "kojic_night_cream",
+ "caption_y": 0.9,
+ "caption_moves": [
+  {
+   "start": 14.9,
+   "end": 16.93,
+   "y": 0.58
+  }
+ ],
+ "elements": [
+  {
+   "type": "hook_mono",
+   "start": 0.1,
+   "end": 1.75,
+   "lines": [
+    "DARK SPOTS",
+    "MOVING IN?"
+   ],
+   "position": "top",
+   "anim": "slide_up"
+  },
+  {
+   "type": "pill",
+   "start": 4.4,
+   "end": 5.9,
+   "lines": [
+    "2% KOJIC ACID"
+   ],
+   "x": 0.5,
+   "y": 0.17,
+   "anim": "pop"
+  },
+  {
+   "type": "pill",
+   "start": 5.9,
+   "end": 7.1,
+   "lines": [
+    "NIACINAMIDE"
+   ],
+   "x": 0.3,
+   "y": 0.27,
+   "anim": "pop"
+  },
+  {
+   "type": "pill",
+   "start": 7.1,
+   "end": 8.3,
+   "lines": [
+    "ALPHA ARBUTIN"
+   ],
+   "x": 0.7,
+   "y": 0.27,
+   "anim": "pop"
+  },
+  {
+   "type": "claim_bold",
+   "start": 11.4,
+   "end": 12.9,
+   "lines": [
+    "OVERNIGHT",
+    "BRIGHTENER"
+   ],
+   "position": "top",
+   "anim": "fade"
+  },
+  {
+   "type": "claim_bold",
+   "start": 13.2,
+   "end": 14.85,
+   "lines": [
+    "BRIGHTER, CLEARER-LOOKING",
+    "SKIN BY MORNING"
+   ],
+   "position": "top",
+   "anim": "fade"
+  },
+  {
+   "type": "label",
+   "start": 14.9,
+   "end": 16.93,
+   "lines": [
+    "BEFORE"
+   ],
+   "x": 0.5,
+   "y": 0.455,
+   "anim": "pop"
+  },
+  {
+   "type": "label",
+   "start": 14.9,
+   "end": 16.93,
+   "lines": [
+    "AFTER 2 WEEKS"
+   ],
+   "x": 0.5,
+   "y": 0.955,
+   "anim": "pop"
+  }
+ ],
+ "notes": "Text pass (client EDL): eviction hook kept on KN03; DARK-SPOT LEADER tag and the macro scan HUD removed; the three actives as separate same-style pills on their spoken names over the KNA2 orbs; OVERNIGHT BRIGHTENER kept on the night application; 'by morning' claim on the KN06 wake; B/A split labels with captions at 0.58. The requested GLOW FUSION FORMULA claim on KN01 is not added: the exact jar label in that shot already prints 'GLOW FUSION FORMULA with Niacinamide & Alpha Arbutin', and a 9th text element would exceed the validator's 8."
+}

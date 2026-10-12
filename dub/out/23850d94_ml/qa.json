@@ -1,0 +1,43 @@
+[
+ {
+  "id": 1,
+  "speaker": "professor_jar",
+  "cer": 0.15,
+  "heard": "Klaas Toreni, in that lesson, brighter, even looking skin.",
+  "repaired": true
+ },
+ {
+  "id": 2,
+  "speaker": "professor_jar",
+  "cer": 0.15,
+  "heard": "Måne brisne, Måne specialist.",
+  "repaired": true
+ },
+ {
+  "id": 3,
+  "speaker": "kojic_acid",
+  "cer": 0.57,
+  "heard": "ലെസന വന മുരറിന ടാര്ക സപർര്ററിട്."
+ },
+ {
+  "id": 4,
+  "speaker": "niacinamide",
+  "cer": 0.15,
+  "heard": "Lesson 2. Brighter skin. 3. Evil looking tone.",
+  "redub": true
+ },
+ {
+  "id": 5,
+  "speaker": "professor_jar",
+  "cer": 1.0,
+  "heard": "റററററററററററററററററററററററററററററററററററററററററററററററററററററററററററററററററററററററററററററററററററററററററററററററററററററററററററററററ",
+  "redub": true
+ },
+ {
+  "id": 6,
+  "speaker": "narrator",
+  "cer": 0.4,
+  "heard": "രണ്ടായചില സപർട്സകുരണ്പ്ല് കലാസകാരിണ്.",
+  "redub": true
+ }
+]

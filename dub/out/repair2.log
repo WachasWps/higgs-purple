@@ -1,0 +1,18 @@
+19 flagged lines in 15 videos
+models ready in 5.2s
+[00b304b4] repaired 2 flagged -> improved in ['bn'] (75s)
+[23850d94] repaired 1 flagged -> improved in ['ml'] (30s)
+[291827ba] repaired 2 flagged -> improved in ['te'] (75s)
+[33c29291] repaired 1 flagged -> improved in ['ml'] (37s)
+[390113f1] repaired 1 flagged -> improved in ['ml'] (34s)
+[3d01d9fc] repaired 1 flagged -> improved in ['ml'] (33s)
+[46d965c9] repaired 1 flagged -> improved in ['ml'] (40s)
+[51440b1f] repaired 2 flagged -> improved in ['ml', 'ta'] (41s)
+[595689d8] repaired 2 flagged -> improved in ['bn'] (54s)
+[5fd50ab8] repaired 1 flagged -> improved in ['te'] (31s)
+[65a0c520] repaired 1 flagged -> improved in ['te'] (56s)
+[71e0977a] repaired 1 flagged -> improved in ['ta'] (34s)
+[74495eba] repaired 1 flagged -> improved in ['ta'] (17s)
+[7ea55172] repaired 1 flagged -> improved in ['te'] (8s)
+[89697c77] repaired 1 flagged -> improved in ['te'] (41s)
+REPAIR DONE: improved 16/19 lines

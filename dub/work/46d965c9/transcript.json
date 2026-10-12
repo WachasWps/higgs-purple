@@ -1,0 +1,470 @@
+{
+ "language": "en",
+ "segments": [
+  {
+   "seg": 0,
+   "start": 0.0,
+   "end": 2.46,
+   "text": "By the end of the day, my skin always look tired and uneven.",
+   "f0_median_hz": 216,
+   "words": [
+    [
+     "By",
+     0.0,
+     0.14
+    ],
+    [
+     "the",
+     0.14,
+     0.26
+    ],
+    [
+     "end",
+     0.26,
+     0.4
+    ],
+    [
+     "of",
+     0.4,
+     0.5
+    ],
+    [
+     "the",
+     0.5,
+     0.62
+    ],
+    [
+     "day,",
+     0.62,
+     0.78
+    ],
+    [
+     "my",
+     0.88,
+     0.98
+    ],
+    [
+     "skin",
+     0.98,
+     1.18
+    ],
+    [
+     "always",
+     1.18,
+     1.5
+    ],
+    [
+     "look",
+     1.5,
+     1.72
+    ],
+    [
+     "tired",
+     1.72,
+     1.98
+    ],
+    [
+     "and",
+     1.98,
+     2.16
+    ],
+    [
+     "uneven.",
+     2.16,
+     2.46
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 1,
+   "start": 2.68,
+   "end": 4.5,
+   "text": "So my nighttime reset starts with this.",
+   "f0_median_hz": 209,
+   "words": [
+    [
+     "So",
+     2.68,
+     2.86
+    ],
+    [
+     "my",
+     2.86,
+     3.02
+    ],
+    [
+     "nighttime",
+     3.02,
+     3.3
+    ],
+    [
+     "reset",
+     3.3,
+     3.7
+    ],
+    [
+     "starts",
+     3.7,
+     4.06
+    ],
+    [
+     "with",
+     4.06,
+     4.2
+    ],
+    [
+     "this.",
+     4.2,
+     4.5
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 2,
+   "start": 4.72,
+   "end": 6.7,
+   "text": "Dermdoc 2% Kojic Acid Night Cream.",
+   "f0_median_hz": 226,
+   "words": [
+    [
+     "Dermdoc",
+     4.72,
+     5.12
+    ],
+    [
+     "2",
+     5.12,
+     5.34
+    ],
+    [
+     "%",
+     5.34,
+     5.66
+    ],
+    [
+     "Kojic",
+     5.66,
+     6.0
+    ],
+    [
+     "Acid",
+     6.0,
+     6.3
+    ],
+    [
+     "Night",
+     6.3,
+     6.46
+    ],
+    [
+     "Cream.",
+     6.46,
+     6.7
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 3,
+   "start": 6.86,
+   "end": 8.82,
+   "text": "It has a rich, non-watery night cream texture.",
+   "f0_median_hz": 202,
+   "words": [
+    [
+     "It",
+     6.86,
+     7.02
+    ],
+    [
+     "has",
+     7.02,
+     7.16
+    ],
+    [
+     "a",
+     7.16,
+     7.26
+    ],
+    [
+     "rich,",
+     7.26,
+     7.48
+    ],
+    [
+     "non",
+     7.58,
+     7.72
+    ],
+    [
+     "-watery",
+     7.72,
+     8.1
+    ],
+    [
+     "night",
+     8.1,
+     8.26
+    ],
+    [
+     "cream",
+     8.26,
+     8.48
+    ],
+    [
+     "texture.",
+     8.48,
+     8.82
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 4,
+   "start": 9.04,
+   "end": 10.58,
+   "text": "I apply a small amount before sleeping.",
+   "f0_median_hz": 206,
+   "words": [
+    [
+     "I",
+     9.04,
+     9.16
+    ],
+    [
+     "apply",
+     9.16,
+     9.38
+    ],
+    [
+     "a",
+     9.38,
+     9.52
+    ],
+    [
+     "small",
+     9.52,
+     9.72
+    ],
+    [
+     "amount",
+     9.72,
+     9.98
+    ],
+    [
+     "before",
+     9.98,
+     10.2
+    ],
+    [
+     "sleeping.",
+     10.2,
+     10.58
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 5,
+   "start": 10.82,
+   "end": 13.28,
+   "text": "The Glow Fusion formula combines three brightening actives.",
+   "f0_median_hz": 204,
+   "words": [
+    [
+     "The",
+     10.82,
+     10.94
+    ],
+    [
+     "Glow",
+     10.94,
+     11.14
+    ],
+    [
+     "Fusion",
+     11.14,
+     11.38
+    ],
+    [
+     "formula",
+     11.38,
+     11.76
+    ],
+    [
+     "combines",
+     11.76,
+     12.18
+    ],
+    [
+     "three",
+     12.18,
+     12.42
+    ],
+    [
+     "brightening",
+     12.42,
+     12.82
+    ],
+    [
+     "actives.",
+     12.82,
+     13.28
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 6,
+   "start": 13.44,
+   "end": 17.56,
+   "text": "Together, they help reduce the appearance of dark spots and support a more even-looking complexion.",
+   "f0_median_hz": 207,
+   "words": [
+    [
+     "Together,",
+     13.44,
+     13.74
+    ],
+    [
+     "they",
+     13.9,
+     14.06
+    ],
+    [
+     "help",
+     14.06,
+     14.24
+    ],
+    [
+     "reduce",
+     14.24,
+     14.52
+    ],
+    [
+     "the",
+     14.52,
+     14.68
+    ],
+    [
+     "appearance",
+     14.68,
+     14.98
+    ],
+    [
+     "of",
+     14.98,
+     15.16
+    ],
+    [
+     "dark",
+     15.16,
+     15.36
+    ],
+    [
+     "spots",
+     15.36,
+     15.7
+    ],
+    [
+     "and",
+     15.7,
+     15.88
+    ],
+    [
+     "support",
+     15.88,
+     16.14
+    ],
+    [
+     "a",
+     16.14,
+     16.28
+    ],
+    [
+     "more",
+     16.28,
+     16.42
+    ],
+    [
+     "even",
+     16.42,
+     16.72
+    ],
+    [
+     "-looking",
+     16.72,
+     16.98
+    ],
+    [
+     "complexion.",
+     16.98,
+     17.56
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 7,
+   "start": 17.7,
+   "end": 19.84,
+   "text": "After two weeks, my skin looks brighter and more even.",
+   "f0_median_hz": 206,
+   "words": [
+    [
+     "After",
+     17.7,
+     17.98
+    ],
+    [
+     "two",
+     17.98,
+     18.12
+    ],
+    [
+     "weeks,",
+     18.12,
+     18.36
+    ],
+    [
+     "my",
+     18.48,
+     18.58
+    ],
+    [
+     "skin",
+     18.58,
+     18.76
+    ],
+    [
+     "looks",
+     18.76,
+     18.96
+    ],
+    [
+     "brighter",
+     18.96,
+     19.24
+    ],
+    [
+     "and",
+     19.24,
+     19.46
+    ],
+    [
+     "more",
+     19.46,
+     19.6
+    ],
+    [
+     "even.",
+     19.6,
+     19.84
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  }
+ ]
+}

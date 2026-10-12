@@ -1,0 +1,63 @@
+[
+ {
+  "id": 1,
+  "speaker": "creator",
+  "cer": 0.31,
+  "heard": "പരപ്പ് സന്സക്രിന് മുഖമ പരപ്പ് ആഗുമിന്ന് കയരതി."
+ },
+ {
+  "id": 2,
+  "speaker": "creator",
+  "cer": 0.42,
+  "heard": "അതുകുണ് തെസ്ടു ചേദു നിയാസിനാമായിട്റു പയരിചെയും."
+ },
+ {
+  "id": 3,
+  "speaker": "creator",
+  "cer": 0.5,
+  "heard": "ട്റിക്ക്ക്ക് ദാണ കളര് വിലില് പര്പൽ മന്യ കാന്സില ചെയും."
+ },
+ {
+  "id": 4,
+  "speaker": "creator",
+  "cer": 0.4,
+  "heard": "ലവെന്ടര ആയി ഇടു ബ്ലെന്ട് ചേദു പോയ പര്പൽ ഒട്ടു മില്യ."
+ },
+ {
+  "id": 5,
+  "speaker": "creator",
+  "cer": 0.15,
+  "heard": "Niasina made strong barrier."
+ },
+ {
+  "id": 6,
+  "speaker": "creator",
+  "cer": 0.15,
+  "heard": "SPF 50 P8 triple plus."
+ },
+ {
+  "id": 7,
+  "speaker": "creator",
+  "cer": 0.15,
+  "heard": "i polskin norke fresh instant glow"
+ },
+ {
+  "id": 8,
+  "speaker": "creator",
+  "cer": 0.15,
+  "heard": "Mumbo.."
+ },
+ {
+  "id": 9,
+  "speaker": "creator",
+  "cer": 0.46,
+  "heard": "ഇ്ന് സക്ന് വ�്ണ�്ടർി."
+ },
+ {
+  "id": 10,
+  "speaker": "creator",
+  "cer": 0.5,
+  "heard": "ടേസ്ട്പാസ പരൺല ഡർട്കോമലവാം.",
+  "redub": true
+ }
+]

@@ -1,0 +1,318 @@
+[
+ {
+  "n": 12,
+  "text": "2% KOJIC ACID",
+  "variants": [
+   "2% KOJIC ACID"
+  ],
+  "start": 6.0,
+  "end": 6.67,
+  "box": [
+   0.4416,
+   0.4252,
+   0.7246,
+   0.4588
+  ],
+  "height": 0.0336,
+  "suspect_words": []
+ },
+ {
+  "n": 23,
+  "text": "DERMDOC",
+  "variants": [
+   "DERMDOC",
+   "ERMDOC"
+  ],
+  "start": 6.67,
+  "end": 7.67,
+  "box": [
+   -0.0335,
+   0.8066,
+   0.4325,
+   0.9922
+  ],
+  "height": 0.1857,
+  "suspect_words": [
+   "ERMDOC"
+  ],
+  "crop": "post/text_audit/a9be56d9_23.png"
+ },
+ {
+  "n": 24,
+  "text": "Honest Science",
+  "variants": [
+   "Honest Science"
+  ],
+  "start": 6.67,
+  "end": 7.67,
+  "box": [
+   -0.0252,
+   0.8733,
+   0.3555,
+   1.0269
+  ],
+  "height": 0.1536,
+  "suspect_words": []
+ },
+ {
+  "n": 25,
+  "text": "2% KOJIC ACID",
+  "variants": [
+   "2% KOJIC ACID"
+  ],
+  "start": 6.67,
+  "end": 7.67,
+  "box": [
+   0.4376,
+   0.7942,
+   0.9273,
+   0.9163
+  ],
+  "height": 0.1221,
+  "suspect_words": []
+ },
+ {
+  "n": 26,
+  "text": "Erightens and ropales sibin",
+  "variants": [
+   "Erightens and ropales sibin",
+   "Erightens and ropales sinin"
+  ],
+  "start": 6.67,
+  "end": 7.33,
+  "box": [
+   0.4465,
+   0.8483,
+   0.8253,
+   0.9152
+  ],
+  "height": 0.0669,
+  "suspect_words": [
+   "Erightens",
+   "ropales",
+   "sibin",
+   "sinin"
+  ],
+  "crop": "post/text_audit/a9be56d9_26.png"
+ },
+ {
+  "n": 28,
+  "text": "GLOW FUSION FORMULA",
+  "variants": [
+   "GLOW FUSION FORMULA"
+  ],
+  "start": 6.67,
+  "end": 7.67,
+  "box": [
+   0.4405,
+   0.8823,
+   0.9361,
+   1.0123
+  ],
+  "height": 0.13,
+  "suspect_words": []
+ },
+ {
+  "n": 29,
+  "text": "with Niadinemide & Aietu Actrcin",
+  "variants": [
+   "with Nadinemide & Alotu Admin",
+   "with Niadinemide & Aietu Actrcin"
+  ],
+  "start": 6.67,
+  "end": 7.33,
+  "box": [
+   0.4417,
+   0.9044,
+   0.912,
+   0.9961
+  ],
+  "height": 0.0917,
+  "suspect_words": [
+   "Actrcin",
+   "Aietu",
+   "Alotu",
+   "Nadinemide",
+   "Niadinemide"
+  ],
+  "crop": "post/text_audit/a9be56d9_29.png"
+ },
+ {
+  "n": 38,
+  "text": "DERMDOC",
+  "variants": [
+   "DERMDOC"
+  ],
+  "start": 18.67,
+  "end": 20.0,
+  "box": [
+   0.2333,
+   0.5191,
+   0.4336,
+   0.5458
+  ],
+  "height": 0.0267,
+  "suspect_words": []
+ },
+ {
+  "n": 39,
+  "text": "Honest Science",
+  "variants": [
+   "Honest Science"
+  ],
+  "start": 18.67,
+  "end": 20.0,
+  "box": [
+   0.2458,
+   0.5453,
+   0.4168,
+   0.5667
+  ],
+  "height": 0.0214,
+  "suspect_words": []
+ },
+ {
+  "n": 40,
+  "text": "2% KOJIC ACID",
+  "variants": [
+   "2% KOJIC ACID"
+  ],
+  "start": 18.67,
+  "end": 20.0,
+  "box": [
+   0.45,
+   0.4847,
+   0.6708,
+   0.5082
+  ],
+  "height": 0.0235,
+  "suspect_words": []
+ },
+ {
+  "n": 41,
+  "text": "Eighters and repers sain",
+  "variants": [
+   "Dr groans and rogers din",
+   "Eighters and repers sain",
+   "Erightens and repairs cin",
+   "Extens and regairs clin"
+  ],
+  "start": 18.67,
+  "end": 20.0,
+  "box": [
+   0.4542,
+   0.5105,
+   0.6375,
+   0.5246
+  ],
+  "height": 0.0141,
+  "suspect_words": [
+   "Eighters",
+   "Erightens",
+   "Extens",
+   "cin",
+   "clin",
+   "regairs",
+   "repers"
+  ],
+  "crop": "post/text_audit/a9be56d9_41.png"
+ },
+ {
+  "n": 42,
+  "text": "GLOW FUSION FORMULA",
+  "variants": [
+   "GLOW FUSION FORMULA"
+  ],
+  "start": 18.67,
+  "end": 20.0,
+  "box": [
+   0.4538,
+   0.5363,
+   0.6796,
+   0.5553
+  ],
+  "height": 0.019,
+  "suspect_words": []
+ },
+ {
+  "n": 43,
+  "text": "NIGHT CREAM",
+  "variants": [
+   "NIGHT CREAM"
+  ],
+  "start": 18.67,
+  "end": 20.0,
+  "box": [
+   0.4542,
+   0.5667,
+   0.6167,
+   0.5855
+  ],
+  "height": 0.0187,
+  "suspect_words": []
+ },
+ {
+  "n": 44,
+  "text": "ALL SKIN TYPES",
+  "variants": [
+   "ALL SKIN TYPES"
+  ],
+  "start": 18.67,
+  "end": 20.0,
+  "box": [
+   0.4542,
+   0.5831,
+   0.5875,
+   0.5995
+  ],
+  "height": 0.0164,
+  "suspect_words": []
+ },
+ {
+  "n": 45,
+  "text": "conplarian",
+  "variants": [
+   "complien",
+   "conplarian"
+  ],
+  "start": 19.0,
+  "end": 20.0,
+  "box": [
+   0.4542,
+   0.5222,
+   0.5417,
+   0.5363
+  ],
+  "height": 0.0141,
+  "suspect_words": [
+   "complien",
+   "conplarian"
+  ],
+  "crop": "post/text_audit/a9be56d9_45.png"
+ },
+ {
+  "n": 46,
+  "text": "with Niecentle & Apte Attain",
+  "variants": [
+   "with Nadanate & Alpts Actudin",
+   "with Niecentle & Apte Attain"
+  ],
+  "start": 19.0,
+  "end": 20.0,
+  "box": [
+   0.4542,
+   0.548,
+   0.6792,
+   0.5644
+  ],
+  "height": 0.0164,
+  "suspect_words": [
+   "Actudin",
+   "Alpts",
+   "Apte",
+   "Nadanate",
+   "Niecentle"
+  ],
+  "crop": "post/text_audit/a9be56d9_46.png"
+ }
+]

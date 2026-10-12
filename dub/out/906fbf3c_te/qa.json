@@ -1,0 +1,55 @@
+[
+ {
+  "id": 1,
+  "speaker": "dark_spot",
+  "cer": 0.09,
+  "heard": "రాత్రెంది ఇప్పడు నా టయం.",
+  "redub": true
+ },
+ {
+  "id": 2,
+  "speaker": "jar",
+  "cer": 0.17,
+  "heard": "అక్చుయ్ల్లి ఇదిన శిఫ్ట్ నేను ఓవర్నిట్ బ్రయటనర్."
+ },
+ {
+  "id": 3,
+  "speaker": "jar",
+  "cer": 0.15,
+  "heard": "3. X-PET formula, mode brightening actives.",
+  "redub": true
+ },
+ {
+  "id": 4,
+  "speaker": "dark_spot",
+  "cer": 0.3,
+  "heard": "ముగురు వుకడుపైనా.",
+  "redub": true
+ },
+ {
+  "id": 5,
+  "speaker": "jar",
+  "cer": 0.08,
+  "heard": "నినరచ క్రంది నిట కోసమే."
+ },
+ {
+  "id": 6,
+  "speaker": "jar",
+  "cer": 0.06,
+  "heard": "అప్లా చేయో.మాసాచేయో.మిగతా పనినాది."
+ },
+ {
+  "id": 7,
+  "speaker": "woman",
+  "cer": 0.21,
+  "heard": "రెండువారలో స్పాట్స్తగి నిటునయి.",
+  "redub": true
+ },
+ {
+  "id": 8,
+  "speaker": "jar",
+  "cer": 1.0,
+  "heard": "దిలిన్ర్టో పారుట్క చోరుగు అసిన్ర్రుక అసిన్రుగుంలుగుకుకుకుకుకుకుకుకుకుకుకుకుకుకుకుకుకుకుకుకుకుకుకుకుకుకుకుకుకుకుకు",
+  "redub": true
+ }
+]

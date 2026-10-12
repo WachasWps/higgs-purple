@@ -1,0 +1,74 @@
+{
+ "video_id": "a5c00002",
+ "product": "kojic_night_cream",
+ "caption_y": 0.9,
+ "caption_moves": [
+  {
+   "start": 8.0,
+   "end": 10.45,
+   "y": 0.58
+  }
+ ],
+ "elements": [
+  {
+   "type": "hook_mono",
+   "start": 0.2,
+   "end": 2.2,
+   "lines": [
+    "FORGOT YOUR",
+    "NIGHT SKINCARE?"
+   ],
+   "position": "lower",
+   "anim": "slide_up"
+  },
+  {
+   "type": "label",
+   "start": 8.0,
+   "end": 10.45,
+   "lines": [
+    "BEFORE"
+   ],
+   "x": 0.5,
+   "y": 0.455,
+   "anim": "pop"
+  },
+  {
+   "type": "label",
+   "start": 8.0,
+   "end": 10.45,
+   "lines": [
+    "AFTER 2 WEEKS"
+   ],
+   "x": 0.5,
+   "y": 0.955,
+   "anim": "pop"
+  },
+  {
+   "type": "claim_bold",
+   "start": 11.5,
+   "end": 13.4,
+   "lines": [
+    "DERMDOC",
+    "2% KOJIC ACID"
+   ],
+   "sub": "NIGHT CREAM",
+   "x": 0.5,
+   "y": 0.72,
+   "anim": "fade"
+  },
+  {
+   "type": "claim_bold",
+   "start": 16.2,
+   "end": 18.0,
+   "lines": [
+    "LIGHTS OFF"
+   ],
+   "sub": "LET SKIN DO ITS WORK",
+   "position": "top",
+   "anim": "fade"
+  }
+ ],
+ "notes": "Hook low on the KN03 bedtime opener; B/A split BEFORE / AFTER 2 WEEKS on the 'slowly fading' line with captions under the divider; full product name on the KN04 application (starts at the cut so the KN02 jar label stays clear); LIGHTS OFF over the dark wall of KN05 (moved up off her face); endcard 18.03-23.03 untouched. The 'DARK SPOTS LOOK REDUCED' claim was removed (it would sit on the after face of the split and cross its cut).",
+ "no_logo": true,
+ "no_outro": true
+}

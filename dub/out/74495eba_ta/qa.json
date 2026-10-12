@@ -1,0 +1,43 @@
+[
+ {
+  "id": 1,
+  "speaker": "uv_boss",
+  "cer": 0.2,
+  "heard": "இந்தின் வியில்டா, பரிசர் ஏதரின்பாரு.",
+  "redub": true
+ },
+ {
+  "id": 2,
+  "speaker": "sunscreen",
+  "cer": 0.15,
+  "heard": "orders",
+  "repaired": true
+ },
+ {
+  "id": 3,
+  "speaker": "sunscreen",
+  "cer": 0.15,
+  "heard": "SBF 50, BA2-Bless, UVA, UVP 2-லருந்தும் காபாத்தும்"
+ },
+ {
+  "id": 4,
+  "speaker": "sunscreen",
+  "cer": 0.16,
+  "heard": "கலர் வீல்ல பர்புல் மஞ்சலுக்கு நேரிதிர் அது நால் டல்னேசை கான்சல பண்ணும்.",
+  "redub": true
+ },
+ {
+  "id": 5,
+  "speaker": "sunscreen",
+  "cer": 0.15,
+  "heard": "4 बसன் யாசனமை டோட, instant, even looking glow.",
+  "redub": true
+ },
+ {
+  "id": 6,
+  "speaker": "sunscreen",
+  "cer": 0.15,
+  "heard": "instant glow, producted ready.",
+  "redub": true
+ }
+]

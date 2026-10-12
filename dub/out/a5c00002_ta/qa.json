@@ -1,0 +1,58 @@
+[
+ {
+  "id": 1,
+  "speaker": "creator",
+  "cer": 0.04,
+  "heard": "நேத்திராத்திரி துங்கப் போனேன் திடீர்னு ஞாபகம் பந்தது.",
+  "redub": true
+ },
+ {
+  "id": 2,
+  "speaker": "creator",
+  "cer": 0.14,
+  "heard": "ஐயோ! சகின்கேர் பணவே இல்லை!",
+  "redub": true
+ },
+ {
+  "id": 3,
+  "speaker": "creator",
+  "cer": 0.2,
+  "heard": "இதை நான் சகிப்ப் பண்டவி மாட்டேன்.",
+  "redub": true
+ },
+ {
+  "id": 4,
+  "speaker": "creator",
+  "cer": 0.15,
+  "heard": "கண்ணத்திலே step one spots இருந்தது.",
+  "redub": true
+ },
+ {
+  "id": 5,
+  "speaker": "creator",
+  "cer": 0.26,
+  "heard": "இப்போ மதுவா பாட்ட்டாகிற மாதிரி இருக்கிறேன்.",
+  "redub": true
+ },
+ {
+  "id": 6,
+  "speaker": "creator",
+  "cer": 0.32,
+  "heard": "Δெல்ம் ٹாக்டு بரசென்ட கோசிக் அசிட் நாய்ட் கிரிம்",
+  "redub": true
+ },
+ {
+  "id": 7,
+  "speaker": "creator",
+  "cer": 0.11,
+  "heard": "போடங்க லைட்டோப் பண்ணங்க தூங்குங்க.",
+  "redub": true
+ },
+ {
+  "id": 8,
+  "speaker": "creator",
+  "cer": 0.15,
+  "heard": "στην τα εν Minne Murder School .",
+  "redub": true
+ }
+]

@@ -1,0 +1,56 @@
+[
+ {
+  "id": 1,
+  "speaker": "greasiness",
+  "cer": 0.31,
+  "heard": "আরু চক চকে আরু চেট ছেটে।",
+  "redub": true
+ },
+ {
+  "id": 2,
+  "speaker": "tube",
+  "cer": 0.15,
+  "heard": "তোয আমার ফিিশের অশোনোস।"
+ },
+ {
+  "id": 3,
+  "speaker": "purple_tint",
+  "cer": 0.04,
+  "heard": "কালার হুইল বল ছে হুল দেটে ডালুনেস আমি কান্সেল করি",
+  "redub": true
+ },
+ {
+  "id": 4,
+  "speaker": "greasiness",
+  "cer": 0.25,
+  "heard": "আরে স�্তিকি লোর্ক ইগারো।",
+  "redub": true
+ },
+ {
+  "id": 5,
+  "speaker": "tube",
+  "cer": 0.15,
+  "heard": "3. Fyatt"
+ },
+ {
+  "id": 6,
+  "speaker": "spf_shield",
+  "cer": 0.55,
+  "heard": "কোমফ্য়াল ফিনিশ সেডেস প্রাক্য়া মালে পেন্য়।",
+  "redub": true
+ },
+ {
+  "id": 7,
+  "speaker": "niacinamide",
+  "cer": 0.29,
+  "heard": "আরা মি ইন্স্টা গ্লা আন্তে হ১টকরি",
+  "redub": true
+ },
+ {
+  "id": 8,
+  "speaker": "tube",
+  "cer": 0.09,
+  "heard": "পোটেকশন আরাম ইন্ডিযন্স কিনের জন্নাই",
+  "redub": true
+ }
+]

@@ -1,0 +1,17 @@
+08:48:09 5 render(s) queued, 3 in parallel
+08:48:09 start a5c00002_bn (22.93s + outro) -> deliver/Bengali/40_dermdoc_ugc_ugc_a5c00002.mp4
+08:48:09 start a5c00002_ta (22.93s + outro) -> deliver/Tamil/40_dermdoc_ugc_ugc_a5c00002.mp4
+08:48:09 start a5c00002_te (22.93s + outro) -> deliver/Telugu/40_dermdoc_ugc_ugc_a5c00002.mp4
+08:48:10 FAILED (log: post/logs/a5c00002_bn.log) a5c00002_bn  1.0s
+08:48:10 start a5c00002_ml (22.93s + outro) -> deliver/Malayalam/40_dermdoc_ugc_ugc_a5c00002.mp4
+08:48:11 FAILED (log: post/logs/a5c00002_te.log) a5c00002_te  1.0s
+08:48:11 start a5c00002_or (22.93s + outro) -> deliver/Odia/40_dermdoc_ugc_ugc_a5c00002.mp4
+08:48:12 FAILED (log: post/logs/a5c00002_ta.log) a5c00002_ta  1.0s
+08:48:13 FAILED (log: post/logs/a5c00002_ml.log) a5c00002_ml  1.0s
+08:48:14 FAILED (log: post/logs/a5c00002_or.log) a5c00002_or  1.0s
+08:48:14 done: 0 ok, 5 failed
+08:48:14    a5c00002_bn FAILED (log: post/logs/a5c00002_bn.log)
+08:48:14    a5c00002_te FAILED (log: post/logs/a5c00002_te.log)
+08:48:14    a5c00002_ta FAILED (log: post/logs/a5c00002_ta.log)
+08:48:14    a5c00002_ml FAILED (log: post/logs/a5c00002_ml.log)
+08:48:14    a5c00002_or FAILED (log: post/logs/a5c00002_or.log)

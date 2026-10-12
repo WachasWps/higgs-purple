@@ -1,0 +1,101 @@
+{
+ "video_id": "51440b1f",
+ "product": "uv_sunscreen",
+ "caption_y": 0.9,
+ "caption_moves": [
+  {
+   "start": 18.0,
+   "end": 20.0,
+   "y": 0.58
+  }
+ ],
+ "elements": [
+  {
+   "type": "hook_mono",
+   "start": 0.2,
+   "end": 1.95,
+   "lines": [
+    "WHERE'S MY",
+    "INSTANT GLOW?"
+   ],
+   "position": "lower",
+   "anim": "slide_up"
+  },
+  {
+   "type": "hud",
+   "variant": "corners",
+   "start": 6.75,
+   "end": 8.7
+  },
+  {
+   "type": "pill",
+   "start": 8.9,
+   "end": 10.45,
+   "lines": [
+    "ZERO WHITE CAST",
+    "ZERO PURPLE RESIDUE"
+   ],
+   "x": 0.5,
+   "y": 0.12,
+   "anim": "pop"
+  },
+  {
+   "type": "pill",
+   "start": 10.75,
+   "end": 12.0,
+   "lines": [
+    "4% NIACINAMIDE",
+    "FOR INDIAN SKIN"
+   ],
+   "x": 0.5,
+   "y": 0.12,
+   "anim": "pop"
+  },
+  {
+   "type": "claim_bold",
+   "start": 12.9,
+   "end": 14.2,
+   "lines": [
+    "INSTANT GLOW"
+   ],
+   "x": 0.5,
+   "y": 0.72,
+   "anim": "fade"
+  },
+  {
+   "type": "claim_bold",
+   "start": 15.9,
+   "end": 17.75,
+   "lines": [
+    "SPF 50 PA+++"
+   ],
+   "sub": "DAILY PROTECTION",
+   "x": 0.5,
+   "y": 0.76,
+   "anim": "fade"
+  },
+  {
+   "type": "label",
+   "start": 18.0,
+   "end": 20.0,
+   "lines": [
+    "BEFORE"
+   ],
+   "x": 0.5,
+   "y": 0.455,
+   "anim": "pop"
+  },
+  {
+   "type": "label",
+   "start": 18.0,
+   "end": 20.0,
+   "lines": [
+    "INSTANT GLOW"
+   ],
+   "x": 0.5,
+   "y": 0.955,
+   "anim": "pop"
+  }
+ ],
+ "notes": "Hook on MEERA's chest (PS07); colour-wheel window 2.17-5.6 left to the wheel graphic; corners + zero-cast pill on the PS08 hand blend; niacinamide/Indian-skin pill over the PS04 dots (ends at the cut to PS05); INSTANT GLOW as the PS05 cream disappears; SPF below her face on PS02; end B/A split BEFORE / INSTANT GLOW (new L8) with captions under the divider. Mid-application BEFORE/AFTER labels removed."
+}

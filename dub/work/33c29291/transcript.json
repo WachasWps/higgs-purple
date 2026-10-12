@@ -1,0 +1,295 @@
+{
+ "language": "en",
+ "segments": [
+  {
+   "seg": 0,
+   "start": 0.0,
+   "end": 2.22,
+   "text": "I'll make this sunscreen impossible to miss.",
+   "f0_median_hz": 258,
+   "words": [
+    [
+     "I'll",
+     0.0,
+     0.22
+    ],
+    [
+     "make",
+     0.22,
+     0.42
+    ],
+    [
+     "this",
+     0.42,
+     0.62
+    ],
+    [
+     "sunscreen",
+     0.62,
+     1.1
+    ],
+    [
+     "impossible",
+     1.1,
+     1.62
+    ],
+    [
+     "to",
+     1.62,
+     1.9
+    ],
+    [
+     "miss.",
+     1.9,
+     2.22
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 1,
+   "start": 2.36,
+   "end": 3.12,
+   "text": "Wrong shade.",
+   "f0_median_hz": 251,
+   "words": [
+    [
+     "Wrong",
+     2.36,
+     2.72
+    ],
+    [
+     "shade.",
+     2.72,
+     3.12
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 2,
+   "start": 3.32,
+   "end": 4.22,
+   "text": "Wrong sunscreen.",
+   "f0_median_hz": 209,
+   "words": [
+    [
+     "Wrong",
+     3.32,
+     3.68
+    ],
+    [
+     "sunscreen.",
+     3.68,
+     4.22
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 3,
+   "start": 4.58,
+   "end": 7.38,
+   "text": "Purple visually balances yellow-looking dullness.",
+   "f0_median_hz": 231,
+   "words": [
+    [
+     "Purple",
+     4.58,
+     5.02
+    ],
+    [
+     "visually",
+     5.02,
+     5.46
+    ],
+    [
+     "balances",
+     5.46,
+     6.04
+    ],
+    [
+     "yellow",
+     6.04,
+     6.48
+    ],
+    [
+     "-looking",
+     6.48,
+     6.82
+    ],
+    [
+     "dullness.",
+     6.82,
+     7.38
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 4,
+   "start": 7.54,
+   "end": 9.64,
+   "text": "Purple tint made for Indian skin.",
+   "f0_median_hz": 248,
+   "words": [
+    [
+     "Purple",
+     7.54,
+     8.0
+    ],
+    [
+     "tint",
+     8.0,
+     8.28
+    ],
+    [
+     "made",
+     8.28,
+     8.74
+    ],
+    [
+     "for",
+     8.74,
+     8.96
+    ],
+    [
+     "Indian",
+     8.96,
+     9.22
+    ],
+    [
+     "skin.",
+     9.22,
+     9.64
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 5,
+   "start": 10.26,
+   "end": 12.7,
+   "text": "4% niacinamide helps brighten.",
+   "f0_median_hz": 233,
+   "words": [
+    [
+     "4",
+     10.26,
+     10.98
+    ],
+    [
+     "%",
+     10.98,
+     11.34
+    ],
+    [
+     "niacinamide",
+     11.34,
+     12.06
+    ],
+    [
+     "helps",
+     12.06,
+     12.34
+    ],
+    [
+     "brighten.",
+     12.34,
+     12.7
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 6,
+   "start": 12.98,
+   "end": 15.66,
+   "text": "And SPF 50 PA++ protects.",
+   "f0_median_hz": 264,
+   "words": [
+    [
+     "And",
+     12.98,
+     13.28
+    ],
+    [
+     "SPF",
+     13.28,
+     13.82
+    ],
+    [
+     "50",
+     13.82,
+     14.16
+    ],
+    [
+     "PA++",
+     14.16,
+     14.96
+    ],
+    [
+     "protects.",
+     14.96,
+     15.66
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 7,
+   "start": 15.9,
+   "end": 16.78,
+   "text": "No ashiness.",
+   "f0_median_hz": 222,
+   "words": [
+    [
+     "No",
+     15.9,
+     16.24
+    ],
+    [
+     "ashiness.",
+     16.24,
+     16.78
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 8,
+   "start": 17.1,
+   "end": 19.48,
+   "text": "Just protected, brighter-looking skin.",
+   "f0_median_hz": 240,
+   "words": [
+    [
+     "Just",
+     17.1,
+     17.54
+    ],
+    [
+     "protected,",
+     17.54,
+     18.12
+    ],
+    [
+     "brighter",
+     18.34,
+     18.76
+    ],
+    [
+     "-looking",
+     18.76,
+     19.06
+    ],
+    [
+     "skin.",
+     19.06,
+     19.48
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  }
+ ]
+}

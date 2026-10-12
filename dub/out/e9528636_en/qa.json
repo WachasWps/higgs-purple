@@ -1,0 +1,32 @@
+[
+ {
+  "id": 1,
+  "speaker": "narrator",
+  "cer": 0.0,
+  "heard": "A rich night cream, never heavy."
+ },
+ {
+  "id": 2,
+  "speaker": "narrator",
+  "cer": 0.02,
+  "heard": "DERM DOC 2% COJIC Acid Night Cream melts right in."
+ },
+ {
+  "id": 3,
+  "speaker": "narrator",
+  "cer": 0.0,
+  "heard": "With kojic acid, niacinamide and alpha-arbutin."
+ },
+ {
+  "id": 4,
+  "speaker": "narrator",
+  "cer": 0.0,
+  "heard": "Its glow fusion formula helps reduce the look of dark spots."
+ },
+ {
+  "id": 5,
+  "speaker": "narrator",
+  "cer": 0.0,
+  "heard": "Apply at night, wake up to glow."
+ }
+]

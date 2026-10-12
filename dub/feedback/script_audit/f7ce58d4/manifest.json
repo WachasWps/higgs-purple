@@ -1,0 +1,226 @@
+{
+ "video": "f7ce58d4",
+ "style": "personification",
+ "cast": [
+  {
+   "id": "kojic_jar",
+   "name": "KNC Jar",
+   "description": "The talking DERMDOC 2% Kojic Acid Night Cream jar (cobalt-blue base, white lid, cartoon face, little arms). Team captain of the ingredients: sassy, bossy, playful cartoon voice, bright mid-high female pitch (~255 Hz)."
+  },
+  {
+   "id": "kojic_acid",
+   "name": "Kojic Acid",
+   "description": "Golden spiky Kojic Acid ingredient hero that zaps dark spots with golden light. Brave, determined, punchy action-hero cartoon voice, the lowest and strongest of the three ingredients (~235 Hz)."
+  },
+  {
+   "id": "niacinamide",
+   "name": "Niacinamide",
+   "description": "Silver-white Niacinamide ingredient hero with a little brush that sweeps away the grey dullness haze. Cool, breezy, cheerful cartoon voice, a bit brighter than Kojic Acid."
+  },
+  {
+   "id": "alpha_arbutin",
+   "name": "Alpha Arbutin",
+   "description": "Small pink droplet Alpha Arbutin ingredient hero who evens out the two-tone villain. Cute, sweet, confident, squeakiest voice of the team (~250 Hz)."
+  },
+  {
+   "id": "narrator",
+   "name": "Narrator",
+   "description": "Off-screen brand voiceover over the application shot, before/after and end frame. Warm, confident, premium female narrator, natural human voice (~225 Hz)."
+  }
+ ],
+ "lines": [
+  {
+   "id": 1,
+   "start": 0.0,
+   "end": 1.82,
+   "speaker": "kojic_jar",
+   "en": "Dark spots, having another meeting?"
+  },
+  {
+   "id": 2,
+   "start": 2.32,
+   "end": 4.68,
+   "speaker": "kojic_jar",
+   "en": "Night team, meeting cancelled!"
+  },
+  {
+   "id": 3,
+   "start": 5.04,
+   "end": 6.66,
+   "speaker": "kojic_acid",
+   "en": "I'll take the stubborn dark spots."
+  },
+  {
+   "id": 4,
+   "start": 6.74,
+   "end": 8.16,
+   "speaker": "niacinamide",
+   "en": "And I'll clear the dullness."
+  },
+  {
+   "id": 5,
+   "start": 8.38,
+   "end": 9.78,
+   "speaker": "alpha_arbutin",
+   "en": "Uneven tone? Leave it to me."
+  },
+  {
+   "id": 6,
+   "start": 10.24,
+   "end": 13.36,
+   "speaker": "narrator",
+   "en": "Three targeted ingredients. One powerful night cream."
+  },
+  {
+   "id": 7,
+   "start": 13.74,
+   "end": 16.28,
+   "speaker": "narrator",
+   "en": "DERMDOC two percent Kojic Acid Night Cream."
+  }
+ ],
+ "shots": [
+  {
+   "n": 1,
+   "start": 0,
+   "end": 2.3,
+   "what": "original footage",
+   "frames": [
+    "s01_0.jpg",
+    "s01_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 1,
+     "start": 0.0,
+     "end": 1.82,
+     "speaker": "kojic_jar",
+     "en": "Dark spots, having another meeting?"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "start": 2.3,
+   "end": 5.1,
+   "what": "original footage",
+   "frames": [
+    "s02_0.jpg",
+    "s02_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 2,
+     "start": 2.32,
+     "end": 4.68,
+     "speaker": "kojic_jar",
+     "en": "Night team, meeting cancelled!"
+    },
+    {
+     "id": 3,
+     "start": 5.04,
+     "end": 6.66,
+     "speaker": "kojic_acid",
+     "en": "I'll take the stubborn dark spots."
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "start": 5.1,
+   "end": 9.9,
+   "what": "original footage",
+   "frames": [
+    "s03_0.jpg",
+    "s03_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 3,
+     "start": 5.04,
+     "end": 6.66,
+     "speaker": "kojic_acid",
+     "en": "I'll take the stubborn dark spots."
+    },
+    {
+     "id": 4,
+     "start": 6.74,
+     "end": 8.16,
+     "speaker": "niacinamide",
+     "en": "And I'll clear the dullness."
+    },
+    {
+     "id": 5,
+     "start": 8.38,
+     "end": 9.78,
+     "speaker": "alpha_arbutin",
+     "en": "Uneven tone? Leave it to me."
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "start": 9.9,
+   "end": 12.1,
+   "what": "KN02_scoop",
+   "frames": [
+    "s04_0.jpg",
+    "s04_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 6,
+     "start": 10.24,
+     "end": 13.36,
+     "speaker": "narrator",
+     "en": "Three targeted ingredients. One powerful night cream."
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "start": 12.1,
+   "end": 13.77,
+   "what": "GRAPHIC_BA_SPLIT",
+   "frames": [
+    "s05_0.jpg",
+    "s05_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 6,
+     "start": 10.24,
+     "end": 13.36,
+     "speaker": "narrator",
+     "en": "Three targeted ingredients. One powerful night cream."
+    },
+    {
+     "id": 7,
+     "start": 13.74,
+     "end": 16.28,
+     "speaker": "narrator",
+     "en": "DERMDOC two percent Kojic Acid Night Cream."
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "start": 13.77,
+   "end": 17.0,
+   "what": "original footage",
+   "frames": [
+    "s06_0.jpg",
+    "s06_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 7,
+     "start": 13.74,
+     "end": 16.28,
+     "speaker": "narrator",
+     "en": "DERMDOC two percent Kojic Acid Night Cream."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,49 @@
+[
+ {
+  "id": 1,
+  "speaker": "white_cast",
+  "cer": 0.22,
+  "heard": "ఇసంస్క్రీను వూరంతా కన్వించల చసతా.",
+  "redub": true
+ },
+ {
+  "id": 2,
+  "speaker": "sunscreen",
+  "cer": 0.36,
+  "heard": "తపు శిడ్ తపు సంస్క్రీం."
+ },
+ {
+  "id": 3,
+  "speaker": "sunscreen",
+  "cer": 0.12,
+  "heard": "పర్పుల్ పసుపకి ఆపోసిట్ అందికే డల్నిస్ కాంసిల్.",
+  "redub": true
+ },
+ {
+  "id": 4,
+  "speaker": "sunscreen",
+  "cer": 0.05,
+  "heard": "పూర్తి గా కలిస్పోర్తింది ఇండియన్ స్కిన్ కోసమే.",
+  "redub": true
+ },
+ {
+  "id": 5,
+  "speaker": "sunscreen",
+  "cer": 0.15,
+  "heard": "4% niacinamide instant glows తుంది.",
+  "redub": true
+ },
+ {
+  "id": 6,
+  "speaker": "sunscreen",
+  "cer": 0.15,
+  "heard": "Inca SPF 50 PA triple plus protection."
+ },
+ {
+  "id": 7,
+  "speaker": "sunscreen",
+  "cer": 0.18,
+  "heard": "వీడ్ కస్ట్ లేదు. జస్ట్ ప్ర్ట్ట్ స్కిన్ ఇంకా ఇంస్టుండుగ్లో.",
+  "redub": true
+ }
+]

@@ -1,0 +1,133 @@
+{
+ "video": "33c29291",
+ "shots": [
+  {
+   "n": 1,
+   "start": 0,
+   "end": 4.6,
+   "on_screen": "White Cast villain smearing grey-white on her cheek; talking tube fights it with a purple sponge."
+  },
+  {
+   "n": 2,
+   "start": 4.6,
+   "end": 7.6,
+   "on_screen": "Talking tube points at a colour wheel with arrow purple-to-yellow and skin-tone swatches; White Cast looks sad."
+  },
+  {
+   "n": 3,
+   "start": 7.6,
+   "end": 10.8,
+   "on_screen": "Lavender cream swatch rubbed on a hand in sunlight until it vanishes."
+  },
+  {
+   "n": 4,
+   "start": 10.8,
+   "end": 11.45,
+   "on_screen": "Woman spreading lavender cream on her cheek."
+  },
+  {
+   "n": 5,
+   "start": 11.45,
+   "end": 13.05,
+   "on_screen": "Before/after split, same woman, brighter-looking skin below."
+  },
+  {
+   "n": 6,
+   "start": 13.05,
+   "end": 15.9,
+   "on_screen": "Woman in sunlight; a shield deflects UVA and UVB."
+  },
+  {
+   "n": 7,
+   "start": 15.9,
+   "end": 20.04,
+   "on_screen": "Smiling woman; colour wheel and swatches beside her, confused White Cast with '??'."
+  }
+ ],
+ "lines": [
+  {
+   "id": 1,
+   "start": 0.0,
+   "slot_s": 2.21,
+   "speaker": "white_cast",
+   "current": "I'll make this sunscreen impossible to miss!",
+   "on_screen_during": "White Cast smearing her cheek.",
+   "verdict": "keep",
+   "new": "I'll make this sunscreen impossible to miss!",
+   "words": 7,
+   "reason": "Villain on screen; fits. Kept although 7 words exceeds the 5.3-word budget (pre-existing timing)."
+  },
+  {
+   "id": 2,
+   "start": 2.36,
+   "slot_s": 2.07,
+   "speaker": "sunscreen",
+   "current": "Wrong shade. Wrong sunscreen.",
+   "on_screen_during": "Tube fighting White Cast.",
+   "verdict": "keep",
+   "new": "Wrong shade. Wrong sunscreen.",
+   "words": 4,
+   "reason": "Fits."
+  },
+  {
+   "id": 3,
+   "start": 4.58,
+   "slot_s": 2.81,
+   "speaker": "sunscreen",
+   "current": "Purple sits opposite yellow, so it cancels dullness.",
+   "on_screen_during": "Tube pointing to the colour wheel.",
+   "verdict": "keep",
+   "new": "Purple sits opposite yellow, so it cancels dullness.",
+   "words": 8,
+   "reason": "Explains the wheel; fits. Kept although 8 words exceeds the 6.7-word budget (pre-existing timing)."
+  },
+  {
+   "id": 4,
+   "start": 7.54,
+   "slot_s": 2.57,
+   "speaker": "sunscreen",
+   "current": "Purple Tint, made for Indian skin.",
+   "on_screen_during": "Lavender cream blending into hand.",
+   "verdict": "rewrite",
+   "new": "Blends fully into Indian skin tones.",
+   "words": 6,
+   "reason": "Swatch on screen; talk blending."
+  },
+  {
+   "id": 5,
+   "start": 10.26,
+   "slot_s": 2.57,
+   "speaker": "sunscreen",
+   "current": "Four percent niacinamide helps brighten.",
+   "on_screen_during": "Cheek application, then before/after split.",
+   "verdict": "rewrite",
+   "new": "4% Niacinamide: instant, radiant-looking glow.",
+   "words": 5,
+   "reason": "Before/after needs the result."
+  },
+  {
+   "id": 6,
+   "start": 12.98,
+   "slot_s": 2.77,
+   "speaker": "sunscreen",
+   "current": "And SPF 50 PA+++ protects.",
+   "on_screen_during": "UVA/UVB shield in sunlight.",
+   "verdict": "keep",
+   "new": "And SPF 50 PA+++ protects.",
+   "words": 5,
+   "reason": "Fits."
+  },
+  {
+   "id": 7,
+   "start": 15.9,
+   "slot_s": 4.08,
+   "speaker": "sunscreen",
+   "current": "No white cast. Just protected skin and instant glow.",
+   "on_screen_during": "Smiling woman, confused White Cast.",
+   "verdict": "keep",
+   "new": "No white cast. Just protected skin and instant glow.",
+   "words": 9,
+   "reason": "Fits."
+  }
+ ]
+}

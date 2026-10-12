@@ -1,0 +1,94 @@
+{
+  "video_id": "715b1b5c",
+  "product": "knc",
+  "category": "product_avatar",
+  "shots": [
+    {
+      "n": 1, "start": 0.0, "end": 2.27,
+      "content": "Medium-fair woman in orange pyjamas, worried, with chicken-pox-like dots on her cheek and smoky cartoon villains (Dark Spot + Uneven Tone, baked 'UNEVEN TONE') on her face.",
+      "issues": ["model_not_dusky", "unrealistic_dark_spots", "cartoon_spots_on_real_skin"],
+      "action": "replace", "replace_with": "KN03_before_night", "custom": null,
+      "note": "L1 villain 'Tonight, we take over.' plus the hook 'DARK SPOTS TAKING OVER?' over ANANYA at the mirror at night with realistic soft brown spots. The woman is replaced, so all her shots (S1, S6 hand, S7, S8, S9) are replaced."
+    },
+    {
+      "n": 2, "start": 2.6, "end": 4.47,
+      "content": "Exact jar mascot (face on the lid) standing on a bed, saluting, with two fuzzy cartoon dark-spot balls in front.",
+      "issues": [],
+      "action": "keep", "replace_with": null, "custom": null,
+      "note": "Label is correct and the villains are cartoon-only. Matches L2 'Glow Fusion Night Patrol, reporting for duty.'"
+    },
+    {
+      "n": 3, "start": 4.47, "end": 6.27,
+      "content": "Single jar mascot under a big golden ring with baked '2% KOJIC ACID'; our pill 'FOR DARK SPOTS'.",
+      "issues": ["mixed_text_styles"],
+      "action": "keep", "replace_with": null, "custom": null,
+      "note": "Matches L3 'Kojic acid, target dark spots.' Cover the baked ring text with our 2% KOJIC ACID / TARGETS DARK SPOTS pill, so all three ingredients share one style and Kojic does not appear twice."
+    },
+    {
+      "n": 4, "start": 6.27, "end": 8.83,
+      "content": "Split frame with TWO jar mascots: a big 2% KOJIC ACID orb on the left and NIACINAMIDE + ALPHA ARBUTIN orbs on the right, with the pill 'EVEN-LOOKING TONE'.",
+      "issues": ["two_products_in_frame", "vo_misaligned_with_labels", "third_ingredient_not_separate"],
+      "action": "replace", "replace_with": "KNA2_avatar_ingredients", "custom": null,
+      "note": "Client: 'keep the third ingredient written separately and align VO with video'. S4 and S5 become ONE 5.0 s KNA2 clip (6.27-11.27, the native length): one exact open jar with three text-free orbs. The NIACINAMIDE pill sits on L4 (6.42-8.66) as the icy orb rises, and the ALPHA ARBUTIN pill on L5 (9.0-10.94) as the pink orb rises."
+    },
+    {
+      "n": 5, "start": 8.83, "end": 11.27,
+      "content": "Jar mascot on a bed with three orbiting orbs carrying tiny garbled text.",
+      "issues": ["garbled_baked_text", "third_ingredient_not_separate"],
+      "action": "replace", "replace_with": "KNA2_avatar_ingredients", "custom": null,
+      "note": "Second half of the same KNA2 clip; the ALPHA ARBUTIN pill lands exactly on L5 'Alpha arbutin, join the brightening patrol.'"
+    },
+    {
+      "n": 6, "start": 11.27, "end": 12.47,
+      "content": "Macro of a fair fingertip scooping thick white cream from the exact jar.",
+      "issues": ["hand_skin_tone_mismatch"],
+      "action": "replace", "replace_with": "KN02_scoop", "custom": null,
+      "note": "This is the woman's hand, so it must match ANANYA's dusky skin. L6 'Three actives. One powerful night formula.' plays over a 1.2 s slice of KN02."
+    },
+    {
+      "n": 7, "start": 12.47, "end": 13.8,
+      "content": "Woman applying a white cream blob on her spotty cheek; our '3 ACTIVES' claim.",
+      "issues": ["model_not_dusky", "cream_not_blended", "unrealistic_dark_spots"],
+      "action": "replace", "replace_with": "KN04_apply_night", "custom": null,
+      "note": "Night application, massaged until fully absorbed (1.33 s; use the absorbing part of KN04). The end of L6 plays here."
+    },
+    {
+      "n": 8, "start": 13.8, "end": 14.97,
+      "content": "Woman asleep in bed; the sleeping jar mascot on the nightstand and the smoky villain retreating near her face.",
+      "issues": ["model_not_dusky"],
+      "action": "replace", "replace_with": "KN05_sleep", "custom": null,
+      "note": "L7 villain 'Retreat!' plays as VO over ANANYA sleeping with the exact jar on the bedside. Use the later part of KN05 where moonlight warms toward dawn."
+    },
+    {
+      "n": 9, "start": 14.97, "end": 17.17,
+      "content": "Woman in pyjamas smiling and talking to camera in a bright room; baked 'AFTER 2 WEEKS'.",
+      "issues": ["model_not_dusky", "lip_sync_talking", "no_ba_split", "baked_after_text"],
+      "action": "replace", "replace_with": "GRAPHIC_BA_SPLIT", "custom": null,
+      "note": "Vertical half/half KN08_before_day | KN07_after_day with AFTER 2 WEEKS under the after half. L8 woman 'Brighter, more even-looking, ready to glow.' plays as VO, so lip-sync is no longer an issue."
+    },
+    {
+      "n": 10, "start": 17.17, "end": 20.04,
+      "content": "Packshot: exact open jar on night clouds under a crescent moon.",
+      "issues": [],
+      "action": "keep", "replace_with": null, "custom": null,
+      "note": "Jar and label are correct. The VO now says the full product name here."
+    }
+  ],
+  "script_changes": [
+    {"line_id": 8, "old_en": "Brighter, more even, ready to glow.", "new_en": "Brighter, more even-looking, ready to glow.", "reason": "Hedged claim ('-looking')."},
+    {"line_id": 9, "old_en": "DERMDOC Glow Fusion Formula, the overnight brightener.", "new_en": "DERMDOC 2% Kojic Acid Night Cream.", "reason": "Say the full product name. The dubs already had to cut words from the old line, so keep this short; 'overnight brightener' moves to a super."}
+  ],
+  "new_lines": [],
+  "supers": [
+    {"action": "change", "match": "FOR DARK SPOTS", "text": "2% KOJIC ACID / TARGETS DARK SPOTS", "start": 4.5, "end": 6.27, "why": "Opaque card over the baked '2% KOJIC ACID' ring text: one label style for all three ingredients and no double Kojic."},
+    {"action": "change", "match": "EVEN-LOOKING TONE", "text": "NIACINAMIDE / BRIGHTENS DULL-LOOKING SKIN", "start": 6.42, "end": 8.75, "why": "Name each ingredient separately and in sync with L4 (the baked orb names are gone)."},
+    {"action": "add", "match": null, "text": "ALPHA ARBUTIN / HELPS EVEN SKIN TONE", "start": 9.0, "end": 11.0, "why": "The third ingredient gets its own label, in sync with L5."},
+    {"action": "add", "match": null, "text": "BEFORE", "start": 14.97, "end": 17.17, "why": "B/A split label under the left half."},
+    {"action": "add", "match": null, "text": "AFTER 2 WEEKS", "start": 14.97, "end": 17.17, "why": "Client: 'AFTER 2 WEEKS' under the after image."},
+    {"action": "add", "match": null, "text": "THE OVERNIGHT BRIGHTENER", "start": 17.3, "end": 19.9, "why": "The claim moved from the VO to the screen so the VO can say the full product name."}
+  ],
+  "voice_changes": [
+    {"speaker": "villain", "to": "female", "why": "Low male growl (~127 Hz); female VO only."}
+  ],
+  "summary": "The two-jar ingredient split and the garbled orbs become one KNA2 clip with Kojic, Niacinamide and Alpha Arbutin labels that each land on their own VO line. The woman is replaced throughout (KN03, KN02, KN04, KN05) and the 'AFTER 2 WEEKS' talking shot becomes a B/A split. The end line is now the full product name and the villain voice goes female."
+}

@@ -1,0 +1,68 @@
+{
+  "video_id": "71e0977a",
+  "product": "knc",
+  "category": "ingredient_personified",
+  "shots": [
+    {
+      "n": 1, "start": 0.0, "end": 3.0,
+      "content": "Fair woman's face close-up with cartoon dark-spot villains on her freckled cheek, holding the jar mascot (face on lid) beside her face.",
+      "issues": ["model_not_dusky", "unrealistic_dark_spots", "cartoon_spots_on_real_skin"],
+      "action": "replace", "replace_with": "KN03_before_night", "custom": null,
+      "note": "L1 villain 'You can't fade us!' and L2 jar 'Want to test that theory?' play over ANANYA at the mirror at night with realistic soft brown spots (3.0 s). The jar mascot appears right after in S2. The woman is replaced, so S1, S3, S4 and S5 are all replaced."
+    },
+    {
+      "n": 2, "start": 3.0, "end": 5.87,
+      "content": "Exact jar mascot (face on lid) on a marble table; the lid opens with a cream swirl and the gold Kojic, silver Niacinamide and pink Alpha Arbutin characters; baked 'The KNC Team'.",
+      "issues": ["baked_KNC_text"],
+      "action": "keep", "replace_with": null, "custom": null,
+      "note": "Jar and label are correct and the characters are fine. Matches L3 Kojic 'Challenge accepted.' Cover the baked 'The KNC Team' with our card, because the product must never be called 'KNC'."
+    },
+    {
+      "n": 3, "start": 5.87, "end": 9.6,
+      "content": "Fair woman's cheek with cartoon villains and the Niacinamide character sweeping; baked 'Niacinamide / Brightens dull-looking skin' (only one ingredient labelled).",
+      "issues": ["model_not_dusky", "unrealistic_dark_spots", "ingredients_not_all_labelled", "skin_macro_without_face"],
+      "action": "replace", "replace_with": "KNA2_avatar_ingredients", "custom": null,
+      "note": "There is no VO here (5.6 to 9.32). Use 3.73 s of KNA2 with three separate pills in one style as the gold, icy and pink orbs rise, so all three actives are named before L4 'Powered by three targeted ingredients'."
+    },
+    {
+      "n": 4, "start": 9.6, "end": 12.57,
+      "content": "Macro of a fair finger dabbing thick, unblended cream on a spotty cheek; our '3 BRIGHTENING ACTIVES' claim.",
+      "issues": ["model_not_dusky", "cream_not_blended", "unrealistic_dark_spots", "skin_macro_without_face"],
+      "action": "replace", "replace_with": "KN04_apply_night", "custom": null,
+      "note": "L4 narrator 'Powered by three targeted ingredients in one night cream.' plays over ANANYA applying at night until fully absorbed (2.97 s)."
+    },
+    {
+      "n": 5, "start": 12.57, "end": 13.57,
+      "content": "AI before/after split of the fair woman with dotty spots on BOTH halves; baked BEFORE / AFTER 2 WEEKS.",
+      "issues": ["model_not_dusky", "dark_spots_in_after", "unrealistic_dark_spots"],
+      "action": "replace", "replace_with": "GRAPHIC_BA_SPLIT", "custom": null,
+      "note": "KN08_before_day | KN07_after_day split with AFTER 2 WEEKS under the after half. Extend it to 14.3 (1.73 s, readable) by trimming the head of S6; the narrator brand line starts at 13.68 over it."
+    },
+    {
+      "n": 6, "start": 13.57, "end": 17.02,
+      "content": "Packshot: exact jar on a marble table with the three ingredient characters and defeated smoke villains; baked 'For Brighter, Even-Looking Skin / DERMDOC Honest Science'.",
+      "issues": [],
+      "action": "keep", "replace_with": null, "custom": null,
+      "note": "Keep it, trimmed to 14.3-17.02 so the B/A split gets more time. The label is exact and the baked text is spelled right."
+    }
+  ],
+  "script_changes": [
+    {"line_id": 5, "old_en": "DERMDOC KNC Night Cream. Make every night count.", "new_en": "DERMDOC 2% Kojic Acid Night Cream. Every night counts.", "reason": "Say the full product name, never 'KNC'. The tagline is shortened to hold timing (0.46 s spare before the end)."}
+  ],
+  "new_lines": [],
+  "supers": [
+    {"action": "change", "match": "DARK SPOT GANG", "text": "DARK SPOTS", "start": 0.15, "end": 1.65, "why": "The cartoon gang is gone; tag the realistic spots on her cheek."},
+    {"action": "add", "match": null, "text": "THE NIGHT TEAM", "start": 3.0, "end": 5.87, "why": "Opaque cover card over the baked 'The KNC Team' (never 'KNC')."},
+    {"action": "remove", "match": "[hud corners 6.1-9.3]", "text": "", "start": 6.1, "end": 9.3, "why": "The pills carry this beat now."},
+    {"action": "add", "match": null, "text": "2% KOJIC ACID / TARGETS DARK SPOTS", "start": 5.95, "end": 7.15, "why": "Label all three ingredients separately and consistently (gold orb)."},
+    {"action": "add", "match": null, "text": "NIACINAMIDE / BRIGHTENS DULL-LOOKING SKIN", "start": 7.15, "end": 8.35, "why": "Separate, consistent label (icy orb)."},
+    {"action": "add", "match": null, "text": "ALPHA ARBUTIN / HELPS EVEN SKIN TONE", "start": 8.35, "end": 9.55, "why": "Separate, consistent label (pink orb)."},
+    {"action": "change", "match": "3 BRIGHTENING ACTIVES", "text": "3 BRIGHTENING ACTIVES", "start": 9.7, "end": 12.45, "why": "Move it to the top so it stays off her face and fingers in KN04."},
+    {"action": "add", "match": null, "text": "BEFORE", "start": 12.57, "end": 14.3, "why": "B/A split label under the left half."},
+    {"action": "add", "match": null, "text": "AFTER 2 WEEKS", "start": 12.57, "end": 14.3, "why": "Client: 'AFTER 2 WEEKS' under the after image."}
+  ],
+  "voice_changes": [
+    {"speaker": "dark_spot", "to": "female", "why": "Villain fx at -3 st makes it a menacing male-sounding baddie; female VO only."}
+  ],
+  "summary": "The fair woman is replaced (KN03 hook, KNA2 orbs with all three ingredient pills, KN04 night application, and a proper B/A split held to 14.3). The jar/team shot and the end packshot are kept, with 'The KNC Team' covered. The end line is now the full product name and the villain voice goes female."
+}

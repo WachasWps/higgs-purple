@@ -1,0 +1,58 @@
+[
+ {
+  "id": 1,
+  "speaker": "creator",
+  "cer": 0.44,
+  "heard": "എന്ന് ടാവലേ സകിന ടളായിന്ദ്ന്.",
+  "redub": true
+ },
+ {
+  "id": 2,
+  "speaker": "creator",
+  "cer": 0.49,
+  "heard": "കളര് വിലില പര്പൽ മന്യയുടേ ആപോസിട് ഡലന്ന്സ കുരക്യാന സഹായികും.",
+  "redub": true
+ },
+ {
+  "id": 3,
+  "speaker": "creator",
+  "cer": 1.0,
+  "heard": "വീന്.ന്.ന്.ന്.ന്.ന്.ന്.ന്.ന്.ന്.ന്.ന്.ന്.ന്.ന്.ന്.ന്.ന്.ന്.ന്.ന്.ന്.ന്.ന്.ന്.ന്.ന്.ന്.ന്.ന്.ന്.ന്.ന്.ന്.ന്.ന്.�",
+  "redub": true
+ },
+ {
+  "id": 4,
+  "speaker": "creator",
+  "cer": 0.15,
+  "heard": "Lavenderiline full clear.",
+  "redub": true
+ },
+ {
+  "id": 5,
+  "speaker": "creator",
+  "cer": 0.57,
+  "heard": "നവടികൾച്, നവപ്പ്ല.",
+  "redub": true
+ },
+ {
+  "id": 6,
+  "speaker": "creator",
+  "cer": 0.41,
+  "heard": "ഇന്ടിന് സകിന് നാലിശ അദമാന് നിയാസിന് മയട് ബരയട് ഫിന്ശ.",
+  "redub": true
+ },
+ {
+  "id": 7,
+  "speaker": "creator",
+  "cer": 0.15,
+  "heard": "SPF 50, PA++++ daily protection done.",
+  "redub": true
+ },
+ {
+  "id": 8,
+  "speaker": "creator",
+  "cer": 0.61,
+  "heard": "ദരമടാ കന്ററവയലത്. ഇന്സ്ടിന്ഗ്.",
+  "redub": true
+ }
+]

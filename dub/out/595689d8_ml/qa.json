@@ -1,0 +1,61 @@
+[
+ {
+  "id": 1,
+  "speaker": "dullness",
+  "cer": 0.42,
+  "heard": "ഇന്ന്രാത്രി ഇസകിന് എന്ട്റന്ട്റിയോ.",
+  "redub": true
+ },
+ {
+  "id": 2,
+  "speaker": "jar",
+  "cer": 0.47,
+  "heard": "കന്ടർളിന്ന് മാരിനിലക്."
+ },
+ {
+  "id": 3,
+  "speaker": "jar",
+  "cer": 0.15,
+  "heard": "1. 3. Experteformula on",
+  "redub": true
+ },
+ {
+  "id": 4,
+  "speaker": "jar",
+  "cer": 0.37,
+  "heard": "കർജിക ആസിട് ടാക സപർട്സന എദിരെ."
+ },
+ {
+  "id": 5,
+  "speaker": "jar",
+  "cer": 0.15,
+  "heard": "niacinamide even taunting."
+ },
+ {
+  "id": 6,
+  "speaker": "jar",
+  "cer": 0.58,
+  "heard": "ആല്പാരിയോടിന് ബ്രയിടിന്യങ് ടേമത്."
+ },
+ {
+  "id": 7,
+  "speaker": "jar",
+  "cer": 0.61,
+  "heard": "രിച് ക്റിമ നായിച്റിപ്റ തർടങട്ടെ.",
+  "redub": true
+ },
+ {
+  "id": 8,
+  "speaker": "woman",
+  "cer": 1.0,
+  "heard": "റഞടാകിചിചകകിചകചകചകചകചചചചചചചചചചചചചചചചചചചചചചചചചചചചചചചചചചചചചചചചചചചചചചചചചചചചചചചചചചചചചചചചചചചചചചചചചചചചചചചചചചചചചചചചചചച",
+  "redub": true
+ },
+ {
+  "id": 9,
+  "speaker": "jar",
+  "cer": 0.5,
+  "heard": "ഡരന് ട�് കോജിക ആസിദനേടിക്രിമ.",
+  "redub": true
+ }
+]

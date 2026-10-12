@@ -1,0 +1,190 @@
+{
+ "video": "74495eba",
+ "style": "product_avatar",
+ "cast": [
+  {
+   "id": "uv_boss",
+   "name": "UV Boss",
+   "description": "Large playful golden cartoon sun (UV Boss) firing UVA/UVB rays at the woman; cocky, theatrical, mock-menacing boss voice"
+  },
+  {
+   "id": "sunscreen",
+   "name": "DERMDOC Ultra Violet Sunscreen",
+   "description": "Talking white DERMDOC Ultra Violet sunscreen tube with lavender cap, eyes, purple arms and shoes; bright, bouncy, confident cartoon voice with a sassy edge"
+  }
+ ],
+ "lines": [
+  {
+   "id": 1,
+   "start": 0.0,
+   "end": 2.8,
+   "speaker": "uv_boss",
+   "en": "Indian sun! Let's turn up the pressure!"
+  },
+  {
+   "id": 2,
+   "start": 3.08,
+   "end": 4.0,
+   "speaker": "sunscreen",
+   "en": "Pressure denied."
+  },
+  {
+   "id": 3,
+   "start": 4.74,
+   "end": 9.04,
+   "speaker": "sunscreen",
+   "en": "SPF 50 PA+++ protects against UVA and UVB."
+  },
+  {
+   "id": 4,
+   "start": 9.26,
+   "end": 12.1,
+   "speaker": "sunscreen",
+   "en": "Purple sits opposite yellow, so it helps cancel dullness."
+  },
+  {
+   "id": 5,
+   "start": 12.86,
+   "end": 15.96,
+   "speaker": "sunscreen",
+   "en": "Made for Indian skin, with four percent niacinamide."
+  },
+  {
+   "id": 6,
+   "start": 16.16,
+   "end": 18.64,
+   "speaker": "sunscreen",
+   "en": "Instant glow, protected and ready."
+  }
+ ],
+ "shots": [
+  {
+   "n": 1,
+   "start": 0,
+   "end": 4.6,
+   "what": "original footage",
+   "frames": [
+    "s01_0.jpg",
+    "s01_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 1,
+     "start": 0.0,
+     "end": 2.8,
+     "speaker": "uv_boss",
+     "en": "Indian sun! Let's turn up the pressure!"
+    },
+    {
+     "id": 2,
+     "start": 3.08,
+     "end": 4.0,
+     "speaker": "sunscreen",
+     "en": "Pressure denied."
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "start": 4.6,
+   "end": 8.2,
+   "what": "original footage",
+   "frames": [
+    "s02_0.jpg",
+    "s02_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 3,
+     "start": 4.74,
+     "end": 9.04,
+     "speaker": "sunscreen",
+     "en": "SPF 50 PA+++ protects against UVA and UVB."
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "start": 8.2,
+   "end": 12.2,
+   "what": "GRAPHIC_COLOUR_WHEEL",
+   "frames": [
+    "s03_0.jpg",
+    "s03_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 3,
+     "start": 4.74,
+     "end": 9.04,
+     "speaker": "sunscreen",
+     "en": "SPF 50 PA+++ protects against UVA and UVB."
+    },
+    {
+     "id": 4,
+     "start": 9.26,
+     "end": 12.1,
+     "speaker": "sunscreen",
+     "en": "Purple sits opposite yellow, so it helps cancel dullness."
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "start": 12.2,
+   "end": 14.6,
+   "what": "original footage",
+   "frames": [
+    "s04_0.jpg",
+    "s04_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 5,
+     "start": 12.86,
+     "end": 15.96,
+     "speaker": "sunscreen",
+     "en": "Made for Indian skin, with four percent niacinamide."
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "start": 14.6,
+   "end": 16.05,
+   "what": "GRAPHIC_BA_SPLIT",
+   "frames": [
+    "s05_0.jpg",
+    "s05_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 5,
+     "start": 12.86,
+     "end": 15.96,
+     "speaker": "sunscreen",
+     "en": "Made for Indian skin, with four percent niacinamide."
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "start": 16.05,
+   "end": 20.04,
+   "what": "original footage",
+   "frames": [
+    "s06_0.jpg",
+    "s06_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 6,
+     "start": 16.16,
+     "end": 18.64,
+     "speaker": "sunscreen",
+     "en": "Instant glow, protected and ready."
+    }
+   ]
+  }
+ ]
+}

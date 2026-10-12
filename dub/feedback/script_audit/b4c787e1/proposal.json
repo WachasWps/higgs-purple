@@ -1,0 +1,121 @@
+{
+ "video": "b4c787e1",
+ "shots": [
+  {
+   "n": 1,
+   "start": 0,
+   "end": 1.4,
+   "on_screen": "Macro of skin texture with dark spots."
+  },
+  {
+   "n": 2,
+   "start": 1.4,
+   "end": 2.9,
+   "on_screen": "Woman in daylight, spots visible, neutral expression."
+  },
+  {
+   "n": 3,
+   "start": 2.9,
+   "end": 4.4,
+   "on_screen": "Hand placing the jar on a blue reflective surface."
+  },
+  {
+   "n": 4,
+   "start": 4.4,
+   "end": 6.1,
+   "on_screen": "Open jar on a lamp-lit bedside table at night."
+  },
+  {
+   "n": 5,
+   "start": 6.1,
+   "end": 10.1,
+   "on_screen": "Jar with three glowing orbs circling (the three actives)."
+  },
+  {
+   "n": 6,
+   "start": 10.1,
+   "end": 11.6,
+   "on_screen": "Skin cross-section: serum streams reaching dark pigment clusters."
+  },
+  {
+   "n": 7,
+   "start": 11.6,
+   "end": 13.4,
+   "on_screen": "Woman applying cream dots to cheeks at night."
+  },
+  {
+   "n": 8,
+   "start": 13.4,
+   "end": 15.3,
+   "on_screen": "Morning: woman smiling in bright bedroom."
+  },
+  {
+   "n": 9,
+   "start": 15.3,
+   "end": 17.8,
+   "on_screen": "Before/after split: spots on top, clearer skin below."
+  }
+ ],
+ "lines": [
+  {
+   "id": 1,
+   "start": 0.2,
+   "slot_s": 2.65,
+   "speaker": "narrator",
+   "current": "Dark spots? Upgrade your night routine.",
+   "on_screen_during": "Spot macro, woman with spots",
+   "verdict": "keep",
+   "new": "Dark spots? Upgrade your night routine.",
+   "words": 6,
+   "reason": "Fits"
+  },
+  {
+   "id": 2,
+   "start": 3.0,
+   "slot_s": 2.95,
+   "speaker": "narrator",
+   "current": "DERMDOC 2% Kojic Acid Night Cream brings together",
+   "on_screen_during": "Hero jar, then jar at bedside night",
+   "verdict": "rewrite",
+   "new": "Meet DERMDOC 2% Kojic Acid Night Cream.",
+   "words": 7,
+   "reason": "Old dangling clause overran slot; standalone intro over jar"
+  },
+  {
+   "id": 3,
+   "start": 6.1,
+   "slot_s": 3.95,
+   "speaker": "narrator",
+   "current": "Kojic Acid, Niacinamide and Alpha Arbutin.",
+   "on_screen_during": "Three glowing actives",
+   "verdict": "rewrite",
+   "new": "Three actives: Kojic Acid, Niacinamide, Alpha Arbutin.",
+   "words": 7,
+   "reason": "Name the orbs as three actives"
+  },
+  {
+   "id": 4,
+   "start": 10.2,
+   "slot_s": 3.25,
+   "speaker": "narrator",
+   "current": "Its Glow Fusion Formula helps reduce the look of dark spots.",
+   "on_screen_during": "Science graphic, then night application",
+   "verdict": "rewrite",
+   "new": "Targets the look of spots. Apply nightly.",
+   "words": 7,
+   "reason": "Covers both shots; old line 11 words"
+  },
+  {
+   "id": 5,
+   "start": 13.6,
+   "slot_s": 4.3,
+   "speaker": "narrator",
+   "current": "Every night, one step closer to brighter, even-looking skin.",
+   "on_screen_during": "Morning wake, then before/after split",
+   "verdict": "rewrite",
+   "new": "Wake up glowing. After two weeks, spots look reduced.",
+   "words": 9,
+   "reason": "Morning wording over morning shot; B/A result"
+  }
+ ]
+}

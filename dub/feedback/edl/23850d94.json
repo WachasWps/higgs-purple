@@ -1,0 +1,82 @@
+{
+  "video_id": "23850d94",
+  "product": "knc",
+  "category": "ingredient_personified",
+  "shots": [
+    {
+      "n": 1, "start": 0.0, "end": 3.63,
+      "content": "Fair-skinned woman in cream pyjamas at night holding the Professor Jar mascot (glasses) next to her face; small cartoon dark-spot / dullness faces stuck on her cheek.",
+      "issues": ["model_not_dusky", "cartoon_spots_on_real_skin"],
+      "action": "replace", "replace_with": "KNA1_avatar_talk", "custom": null,
+      "note": "L1 is Professor Jar speaking ('Class is in session. Tonight's lesson...'), so use the exact jar mascot talking on the bedside table at night (first 3.63 s). Because the woman is replaced here, all her shots (S1, S3, S5, S6, S7) move to the ANANYA library clips."
+    },
+    {
+      "n": 2, "start": 3.63, "end": 5.6,
+      "content": "Open exact KNC jar (little arms) in a miniature classroom; gold Kojic, silver Niacinamide and pink Alpha Arbutin characters pop out of the cream; chalkboard with spot/cloud/face icons.",
+      "issues": [],
+      "action": "keep", "replace_with": null, "custom": null,
+      "note": "Jar and label are correct, no skin, no woman, cartoon ingredients are fine. Matches L2 'Three concerns. Three specialists.'"
+    },
+    {
+      "n": 3, "start": 5.6, "end": 8.1,
+      "content": "Macro of the fair woman's cheek (freckle-dot spots) with the golden Kojic Acid character attacking cartoon dark-spot faces.",
+      "issues": ["model_not_dusky", "unrealistic_dark_spots", "skin_macro_without_face"],
+      "action": "replace", "replace_with": "KN03_before_night", "custom": null,
+      "note": "L3 'Lesson one: target stubborn dark spots' plays over ANANYA at night studying realistic soft brown spots in the mirror (2.5 s). The 2% KOJIC ACID / TARGETS DARK SPOTS pill stays, but without its cover mask."
+    },
+    {
+      "n": 4, "start": 8.1, "end": 9.1,
+      "content": "Silver Niacinamide character sweeping a grey dullness cloud off the woman's blurred skin.",
+      "issues": ["continuity_replaced_woman_in_background"],
+      "action": "replace", "replace_with": "KNA2_avatar_ingredients", "custom": null,
+      "note": "S4 and S5 become one continuous 2.57 s run of KNA2 (8.1-10.67). Start the clip about 1.5 s in so the icy white-blue orb is rising under the NIACINAMIDE pill and the pink orb under the ALPHA ARBUTIN pill. The clip has no baked text."
+    },
+    {
+      "n": 5, "start": 9.1, "end": 10.67,
+      "content": "Close-up of the fair woman's cheek with the pink Alpha Arbutin character holding a two-tone patch.",
+      "issues": ["model_not_dusky", "skin_macro_without_face", "ingredient_shown_without_vo"],
+      "action": "replace", "replace_with": "KNA2_avatar_ingredients", "custom": null,
+      "note": "Continues the KNA2 clip from S4 (pink orb rising). Alpha Arbutin used to appear with no line; the new L4 now says 'Three: even-looking tone' here."
+    },
+    {
+      "n": 6, "start": 10.67, "end": 13.6,
+      "content": "Fair woman at night applying cream to her cheek with her fingertips, holding the open jar.",
+      "issues": ["model_not_dusky"],
+      "action": "replace", "replace_with": "KN04_apply_night", "custom": null,
+      "note": "L5 'Now apply at night, and let the team get to work' plays over ANANYA applying at night and massaging until the cream is fully absorbed with no residue (2.93 s)."
+    },
+    {
+      "n": 7, "start": 13.6, "end": 15.17,
+      "content": "AI before/after split of the fair woman with dotty spots on BOTH halves; baked 'After 2 Weeks / DERMDOC KNC'.",
+      "issues": ["model_not_dusky", "dark_spots_in_after", "unrealistic_dark_spots", "baked_KNC_text"],
+      "action": "replace", "replace_with": "GRAPHIC_BA_SPLIT", "custom": null,
+      "note": "Vertical half/half: KN08_before_day (left) and KN07_after_day (right), faces not cropped, BEFORE under the left half and AFTER 2 WEEKS under the right. Plays under the narrator's brand line."
+    },
+    {
+      "n": 8, "start": 15.17, "end": 17.02,
+      "content": "Packshot: exact jar as a sleepy Professor Jar (face and glasses on the lid) with gold Kojic and pink Arbutin characters on a marble table; baked '3 Ingredients. 1 Night Cream'.",
+      "issues": [],
+      "action": "keep", "replace_with": null, "custom": null,
+      "note": "Jar and label are correct and the face stays on the lid. The narrator now says the full product name here."
+    }
+  ],
+  "script_changes": [
+    {"line_id": 4, "old_en": "Lesson two: brighten dull-looking skin.", "new_en": "Lesson two: brighter skin. Three: even-looking tone.", "reason": "Each of the three ingredients needs its own beat. Alpha Arbutin had a label but no line; now the VO matches the NIACINAMIDE and ALPHA ARBUTIN pills over the KNA2 orbs (spills into the 0.34 s gap before L5)."},
+    {"line_id": 6, "old_en": "DERMDOC KNC Night Cream. Night class dismissed.", "new_en": "DERMDOC 2% Kojic Acid Night Cream. Class dismissed.", "reason": "Say the full product name, never 'KNC'."}
+  ],
+  "new_lines": [],
+  "supers": [
+    {"action": "change", "match": "PROFESSOR JAR", "text": "PROFESSOR JAR", "start": 0.3, "end": 2.0, "why": "Move the tag onto the jar mascot in KNA1; the jar is no longer in the woman's hand."},
+    {"action": "change", "match": "2% KOJIC ACID / TARGETS DARK SPOTS", "text": "2% KOJIC ACID / TARGETS DARK SPOTS", "start": 5.98, "end": 8.1, "why": "Plain pill without the cover mask (the new clip has no baked card). Same style as the other two."},
+    {"action": "change", "match": "NIACINAMIDE / BRIGHTENS DULL-LOOKING SKIN", "text": "NIACINAMIDE / BRIGHTENS DULL-LOOKING SKIN", "start": 8.34, "end": 9.4, "why": "Retime to the new L4 'Lesson two: brighter skin' and drop the mask."},
+    {"action": "change", "match": "ALPHA ARBUTIN / HELPS EVEN SKIN TONE", "text": "ALPHA ARBUTIN / HELPS EVEN SKIN TONE", "start": 9.4, "end": 10.66, "why": "Retime to the new L4 'Three: even-looking tone' and drop the mask."},
+    {"action": "remove", "match": "[blur 5.98-10.8]", "text": "", "start": 5.98, "end": 10.8, "why": "Nothing baked to hide on KN03/KNA2."},
+    {"action": "change", "match": "BEFORE", "text": "BEFORE", "start": 13.6, "end": 15.17, "why": "Place it UNDER the left half of the B/A split."},
+    {"action": "change", "match": "AFTER", "text": "AFTER 2 WEEKS", "start": 13.6, "end": 15.17, "why": "Client: 'AFTER 2 WEEKS' under the after image."},
+    {"action": "remove", "match": "[blur 14.85-15.25]", "text": "", "start": 14.85, "end": 15.25, "why": "It covered the baked 'After 2 Weeks / DERMDOC KNC', which is gone with the graphic."}
+  ],
+  "voice_changes": [
+    {"speaker": "narrator", "to": "female", "why": "The source segment 10.84-16.5 is low (~162 Hz) and may read as male; force a warm female narrator."}
+  ],
+  "summary": "Woman replaced everywhere: KNA1 jar talk, KN03 for the dark-spot lesson, KNA2 orbs for Niacinamide and Alpha Arbutin, KN04 night application, and a proper B/A split with AFTER 2 WEEKS. The classroom and end packshot are kept; L4 now covers the third ingredient and the end line says the full product name (no 'KNC')."
+}

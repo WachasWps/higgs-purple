@@ -1,0 +1,32 @@
+[
+ {
+  "id": 1,
+  "speaker": "narrator",
+  "cer": 0.03,
+  "heard": "Balcony 2 Commute, the sun follows you."
+ },
+ {
+  "id": 2,
+  "speaker": "narrator",
+  "cer": 0.0,
+  "heard": "SPF 50 PA++++ with 4% niacinamide."
+ },
+ {
+  "id": 3,
+  "speaker": "narrator",
+  "cer": 0.0,
+  "heard": "Purple sits opposite yellow so its tint helps cancel dullness."
+ },
+ {
+  "id": 4,
+  "speaker": "narrator",
+  "cer": 0.0,
+  "heard": "It blends in with no white cast for an instant glow."
+ },
+ {
+  "id": 5,
+  "speaker": "narrator",
+  "cer": 0.0,
+  "heard": "DERMDOC Ultraviolet Made for everyday Indian sun."
+ }
+]

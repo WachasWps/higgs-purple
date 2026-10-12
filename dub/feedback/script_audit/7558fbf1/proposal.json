@@ -1,0 +1,163 @@
+{
+ "video": "7558fbf1",
+ "shots": [
+  {
+   "n": 1,
+   "start": 0,
+   "end": 2.0,
+   "on_screen": "Cheek close-up: tiny dark-spot gang with suitcases moving in."
+  },
+  {
+   "n": 2,
+   "start": 2.0,
+   "end": 4.3,
+   "on_screen": "Stern jar character confronts the spot villains on the vanity at night."
+  },
+  {
+   "n": 3,
+   "start": 4.3,
+   "end": 6.4,
+   "on_screen": "Jar opens; golden '2% Kojic Acid' ring rises from the cream."
+  },
+  {
+   "n": 4,
+   "start": 6.4,
+   "end": 8.3,
+   "on_screen": "Three glowing rings (gold, blue, pink) above the jar character."
+  },
+  {
+   "n": 5,
+   "start": 8.3,
+   "end": 10.7,
+   "on_screen": "Jar winks under the three rings."
+  },
+  {
+   "n": 6,
+   "start": 10.7,
+   "end": 11.3,
+   "on_screen": "Close-up of white cream peak in jar."
+  },
+  {
+   "n": 7,
+   "start": 11.3,
+   "end": 13.1,
+   "on_screen": "Woman spreads white cream on her cheek."
+  },
+  {
+   "n": 8,
+   "start": 13.1,
+   "end": 14.9,
+   "on_screen": "Spot villain with suitcases fades into the absorbed cream."
+  },
+  {
+   "n": 9,
+   "start": 14.9,
+   "end": 16.93,
+   "on_screen": "Before/after split, after is clearer and glowing."
+  },
+  {
+   "n": 10,
+   "start": 16.93,
+   "end": 20.0,
+   "on_screen": "Jar on night vanity; text '2% Kojic Acid Night Cream', 'Dark spots look reduced'."
+  }
+ ],
+ "lines": [
+  {
+   "id": 1,
+   "start": 0.0,
+   "slot_s": 1.85,
+   "speaker": "dark_spot_leader",
+   "current": "We're moving in permanently.",
+   "on_screen_during": "S1 spot gang moving in",
+   "verdict": "keep",
+   "new": "We're moving in permanently.",
+   "words": 4,
+   "reason": "fits"
+  },
+  {
+   "id": 2,
+   "start": 2.0,
+   "slot_s": 2.23,
+   "speaker": "jar",
+   "current": "Your two-week notice starts tonight.",
+   "on_screen_during": "S2 jar confronting villains",
+   "verdict": "keep",
+   "new": "Your two-week notice starts tonight.",
+   "words": 5,
+   "reason": "fits"
+  },
+  {
+   "id": 3,
+   "start": 4.38,
+   "slot_s": 3.87,
+   "speaker": "jar",
+   "current": "I'm powered by two percent kojic acid, with niacinamide and alpha arbutin.",
+   "on_screen_during": "S3 Kojic Acid ring, S4 three rings",
+   "verdict": "rewrite",
+   "new": "Two percent Kojic Acid, plus Niacinamide and Alpha Arbutin.",
+   "words": 9,
+   "reason": "over length (12w vs 9)"
+  },
+  {
+   "id": 4,
+   "start": 8.4,
+   "slot_s": 2.83,
+   "speaker": "jar",
+   "current": "Together, we're the Glow Fusion Formula.",
+   "on_screen_during": "S5 three rings, jar winking",
+   "verdict": "keep",
+   "new": "Together, we're the Glow Fusion Formula.",
+   "words": 6,
+   "reason": "fits"
+  },
+  {
+   "id": 5,
+   "start": 11.38,
+   "slot_s": 1.77,
+   "speaker": "jar",
+   "current": "Massage me in before you sleep.",
+   "on_screen_during": "S7 applying cream to cheek",
+   "verdict": "rewrite",
+   "new": "Massage me in tonight.",
+   "words": 4,
+   "reason": "over length"
+  },
+  {
+   "id": 6,
+   "start": 13.3,
+   "slot_s": 1.37,
+   "speaker": "dark_spot_leader",
+   "current": "Eviction already?",
+   "on_screen_during": "S8 villain fading into cream",
+   "verdict": "keep",
+   "new": "Eviction already?",
+   "words": 2,
+   "reason": "fits"
+  },
+  {
+   "id": 7,
+   "start": 14.82,
+   "slot_s": 2.17,
+   "speaker": "woman",
+   "current": "Looks like they finally moved out.",
+   "on_screen_during": "S8 end, S9 before/after split",
+   "verdict": "rewrite",
+   "new": "Two weeks: spots look reduced!",
+   "words": 5,
+   "reason": "split: hedged after-two-weeks result"
+  },
+  {
+   "id": 8,
+   "start": 17.14,
+   "slot_s": 2.84,
+   "speaker": "jar",
+   "current": "DERMDOC 2% Kojic Acid Night Cream.",
+   "on_screen_during": "S10 night packshot",
+   "verdict": "keep",
+   "new": "DERMDOC 2% Kojic Acid Night Cream.",
+   "words": 6,
+   "reason": "fits"
+  }
+ ]
+}

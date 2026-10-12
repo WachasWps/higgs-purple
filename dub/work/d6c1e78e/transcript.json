@@ -1,0 +1,300 @@
+{
+ "language": "en",
+ "segments": [
+  {
+   "seg": 0,
+   "start": 0.0,
+   "end": 2.36,
+   "text": "I've been trying this purple sunscreen from Dermdok",
+   "f0_median_hz": 212,
+   "words": [
+    [
+     "I've",
+     0.0,
+     0.22
+    ],
+    [
+     "been",
+     0.22,
+     0.3
+    ],
+    [
+     "trying",
+     0.3,
+     0.52
+    ],
+    [
+     "this",
+     0.52,
+     0.74
+    ],
+    [
+     "purple",
+     0.74,
+     1.08
+    ],
+    [
+     "sunscreen",
+     1.08,
+     1.46
+    ],
+    [
+     "from",
+     1.46,
+     1.86
+    ],
+    [
+     "Dermdok",
+     1.86,
+     2.36
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 1,
+   "start": 7.92,
+   "end": 10.14,
+   "text": "But when you blend it, just see",
+   "f0_median_hz": 213,
+   "words": [
+    [
+     "But",
+     7.92,
+     8.48
+    ],
+    [
+     "when",
+     8.48,
+     8.8
+    ],
+    [
+     "you",
+     8.8,
+     8.9
+    ],
+    [
+     "blend",
+     8.9,
+     9.2
+    ],
+    [
+     "it,",
+     9.2,
+     9.48
+    ],
+    [
+     "just",
+     9.62,
+     9.88
+    ],
+    [
+     "see",
+     9.88,
+     10.14
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 2,
+   "start": 14.7,
+   "end": 18.32,
+   "text": "No white cast at all, my skin instantly looks brighter",
+   "f0_median_hz": 203,
+   "words": [
+    [
+     "No",
+     14.7,
+     15.26
+    ],
+    [
+     "white",
+     15.26,
+     15.54
+    ],
+    [
+     "cast",
+     15.54,
+     15.84
+    ],
+    [
+     "at",
+     15.84,
+     16.12
+    ],
+    [
+     "all,",
+     16.12,
+     16.44
+    ],
+    [
+     "my",
+     16.66,
+     16.72
+    ],
+    [
+     "skin",
+     16.72,
+     17.0
+    ],
+    [
+     "instantly",
+     17.0,
+     17.58
+    ],
+    [
+     "looks",
+     17.58,
+     17.9
+    ],
+    [
+     "brighter",
+     17.9,
+     18.32
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 3,
+   "start": 22.94,
+   "end": 25.74,
+   "text": "It's got SPF 50, Niacinamide, light",
+   "f0_median_hz": 198,
+   "words": [
+    [
+     "It's",
+     22.94,
+     23.5
+    ],
+    [
+     "got",
+     23.5,
+     23.6
+    ],
+    [
+     "SPF",
+     23.6,
+     24.08
+    ],
+    [
+     "50,",
+     24.08,
+     24.44
+    ],
+    [
+     "Niacinamide,",
+     24.64,
+     25.48
+    ],
+    [
+     "light",
+     25.52,
+     25.74
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 4,
+   "start": 25.74,
+   "end": 29.18,
+   "text": "Struggling with white cast, just try the purple sunscreen, your skin will thank you",
+   "f0_median_hz": 186,
+   "words": [
+    [
+     "Struggling",
+     25.74,
+     26.02
+    ],
+    [
+     "with",
+     26.02,
+     26.18
+    ],
+    [
+     "white",
+     26.18,
+     26.42
+    ],
+    [
+     "cast,",
+     26.42,
+     26.76
+    ],
+    [
+     "just",
+     26.94,
+     27.1
+    ],
+    [
+     "try",
+     27.1,
+     27.28
+    ],
+    [
+     "the",
+     27.28,
+     27.42
+    ],
+    [
+     "purple",
+     27.42,
+     27.7
+    ],
+    [
+     "sunscreen,",
+     27.7,
+     28.18
+    ],
+    [
+     "your",
+     28.46,
+     28.52
+    ],
+    [
+     "skin",
+     28.52,
+     28.72
+    ],
+    [
+     "will",
+     28.72,
+     28.88
+    ],
+    [
+     "thank",
+     28.88,
+     29.08
+    ],
+    [
+     "you",
+     29.08,
+     29.18
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 5,
+   "start": 30.0,
+   "end": 33.44,
+   "text": "Thank you.",
+   "f0_median_hz": null,
+   "words": [
+    [
+     "Thank",
+     30.0,
+     30.32
+    ],
+    [
+     "you.",
+     30.32,
+     33.44
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  }
+ ]
+}

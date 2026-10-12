@@ -1,0 +1,118 @@
+{
+ "video_id": "a135c7dc",
+ "product": "uv_sunscreen",
+ "caption_y": 0.9,
+ "no_outro": true,
+ "caption_moves": [
+  {
+   "start": 21.9,
+   "end": 25.0,
+   "y": 0.497,
+   "ext": 1
+  }
+ ],
+ "elements": [
+  {
+   "type": "hook_mono",
+   "start": 0.2,
+   "end": 2.2,
+   "lines": [
+    "SUNSCREEN",
+    "PROBLEMS?"
+   ],
+   "position": "lower",
+   "anim": "slide_up"
+  },
+  {
+   "type": "pill",
+   "start": 5.1,
+   "end": 8.4,
+   "lines": [
+    "WHITE CAST?",
+    "STICKY?"
+   ],
+   "x": 0.5,
+   "y": 0.12,
+   "anim": "pop"
+  },
+  {
+   "type": "pill",
+   "start": 15.6,
+   "end": 17.5,
+   "lines": [
+    "ZERO WHITE CAST"
+   ],
+   "x": 0.5,
+   "y": 0.12,
+   "anim": "pop"
+  },
+  {
+   "type": "claim_bold",
+   "start": 20.35,
+   "end": 22.45,
+   "lines": [
+    "SPF 50 PA+++"
+   ],
+   "sub": "4% NIACINAMIDE",
+   "x": 0.5,
+   "y": 0.76,
+   "anim": "fade"
+  },
+  {
+   "type": "label",
+   "start": 22.55,
+   "end": 24.95,
+   "lines": [
+    "BEFORE"
+   ],
+   "x": 0.5,
+   "y": 0.455,
+   "anim": "pop"
+  },
+  {
+   "type": "label",
+   "start": 22.55,
+   "end": 24.95,
+   "lines": [
+    "AFTER"
+   ],
+   "x": 0.5,
+   "y": 0.895,
+   "anim": "pop"
+  },
+  {
+   "type": "label",
+   "start": 22.55,
+   "end": 24.95,
+   "lines": [
+    "INSTANT GLOW"
+   ],
+   "x": 0.5,
+   "y": 0.955,
+   "anim": "pop"
+  },
+  {
+   "type": "pill",
+   "start": 25.1,
+   "end": 27.2,
+   "lines": [
+    "SHOP AT PURPLLE.COM"
+   ],
+   "x": 0.5,
+   "y": 0.12,
+   "anim": "pop"
+  }
+ ],
+ "notes": "user UGC, cutaway cut; own end card",
+ "cut_sfx": [
+  8.6,
+  13.05,
+  15.55,
+  17.55,
+  20.3,
+  22.5,
+  25.0,
+  27.3
+ ],
+ "logo_until": 27.45
+}

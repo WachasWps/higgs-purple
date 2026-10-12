@@ -1,0 +1,96 @@
+{
+ "video_id": "c51221b6",
+ "product": "uv_sunscreen",
+ "caption_y": 0.9,
+ "elements": [
+  {
+   "type": "hook_mono",
+   "start": 0.2,
+   "end": 2.6,
+   "lines": [
+    "TIRED OF",
+    "WHITE CAST?"
+   ],
+   "x": 0.6,
+   "y": 0.085,
+   "anim": "slide_up"
+  },
+  {
+   "type": "claim_bold",
+   "start": 8.6,
+   "end": 10.8,
+   "lines": [
+    "SPF 50 PA+++"
+   ],
+   "sub": "UVA + UVB PROTECTION",
+   "x": 0.5,
+   "y": 0.12,
+   "anim": "fade"
+  },
+  {
+   "type": "pill",
+   "start": 9.8,
+   "end": 11.0,
+   "lines": [
+    "4% NIACINAMIDE"
+   ],
+   "x": 0.5,
+   "y": 0.45,
+   "anim": "pop"
+  },
+  {
+   "type": "pill",
+   "start": 11.15,
+   "end": 12.8,
+   "lines": [
+    "4% NIACINAMIDE",
+    "BRIGHTENS DULL-LOOKING SKIN"
+   ],
+   "x": 0.5,
+   "y": 0.76,
+   "anim": "pop"
+  },
+  {
+   "type": "label",
+   "start": 14.25,
+   "end": 15.35,
+   "lines": [
+    "BEFORE"
+   ],
+   "x": 0.5,
+   "y": 0.455,
+   "anim": "pop"
+  },
+  {
+   "type": "label",
+   "start": 14.25,
+   "end": 15.35,
+   "lines": [
+    "AFTER"
+   ],
+   "x": 0.5,
+   "y": 0.895,
+   "anim": "pop"
+  },
+  {
+   "type": "label",
+   "start": 14.25,
+   "end": 15.35,
+   "lines": [
+    "INSTANT GLOW"
+   ],
+   "x": 0.5,
+   "y": 0.955,
+   "anim": "pop"
+  }
+ ],
+ "notes": "Text pass (EDL): hook kept, over the hair of the shared villain-hook clip; no supers in the colour-wheel window 5.13-8.3 (PURPLE TINT pill removed; the EDL's MADE FOR INDIAN SKIN TONES card there moved into the after claim's sub); SPF claim over the hair on PS04; 5 blur boxes and the hand-shot HUD removed; 4% NIACINAMIDE pill below the chin on PS05; INSTANT GLOW / NO WHITE CAST + MADE FOR INDIAN SKIN TONES below the chin on PS06. | baked AI text inside former blur boxes erased by inpainting (feedback/detext.py) | baked AI text inside former blur boxes erased by inpainting (feedback/detext.py)",
+ "caption_moves": [
+  {
+   "start": 13.6,
+   "end": 15.4,
+   "y": 0.497,
+   "ext": 1
+  }
+ ]
+}

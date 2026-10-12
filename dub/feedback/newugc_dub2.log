@@ -1,0 +1,139 @@
+[2026-10-12 03:41:21,662] WARNING miocodec: FlashAttention is not installed. Falling back to PyTorch SDPA implementation. There is no warranty that the model will work correctly.
+Fetching 10 files:   0%|          | 0/10 [00:00<?, ?it/s]Fetching 10 files: 100%|██████████| 10/10 [00:00<00:00, 5347.15it/s]
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+[2026-10-12 03:41:28,152] INFO miocodec: Loaded weights from safetensors file: /Users/wachas/.cache/huggingface/hub/models--Aratako--MioCodec-25Hz-24kHz/snapshots/3a737f0de2c6324cb2fe40c1fbd1056c7add423d/model.safetensors
+Fetching 4 files:   0%|          | 0/4 [00:00<?, ?it/s]Fetching 4 files: 100%|██████████| 4/4 [00:00<00:00, 2990.06it/s]
+models ready in 6.4s
+uniform tempo x1.00  |  voice ends at 31.47s  |  max late start +0.31s
+line  orig_cue  new_start  shift   length
+   1      0.15       0.15  +0.00    3.05s
+   2      4.05       3.90  -0.15    3.19s
+   3      7.45       7.30  -0.15    2.38s
+   4     10.45      10.30  -0.15    4.02s
+   5     16.25      16.10  -0.15    2.22s
+   6     18.60      18.45  -0.15    2.41s
+   7     20.65      20.96  +0.31    2.97s
+   8     24.55      24.40  -0.15    1.76s
+   9     27.05      26.90  -0.15    1.81s
+  10     29.35      29.20  -0.15    2.27s
+wrote out/b876bd3c_bn.mp4
+uniform tempo x1.00  |  voice ends at 30.90s  |  max late start +0.14s
+line  orig_cue  new_start  shift   length
+   1      0.15       0.15  +0.00    2.66s
+   2      4.05       3.90  -0.15    2.58s
+   3      7.45       7.30  -0.15    3.19s
+   4     10.45      10.59  +0.14    3.11s
+   5     16.25      16.10  -0.15    1.70s
+   6     18.60      18.45  -0.15    2.22s
+   7     20.65      20.77  +0.12    2.21s
+   8     24.55      24.40  -0.15    1.90s
+   9     27.05      26.90  -0.15    1.29s
+  10     29.35      29.20  -0.15    1.70s
+wrote out/b876bd3c_ta.mp4
+uniform tempo x1.00  |  voice ends at 31.02s  |  max late start +0.08s
+line  orig_cue  new_start  shift   length
+   1      0.15       0.15  +0.00    2.81s
+   2      4.05       3.90  -0.15    3.18s
+   3      7.45       7.30  -0.15    3.06s
+   4     10.45      10.46  +0.01    3.78s
+   5     16.25      16.10  -0.15    2.15s
+   6     18.60      18.45  -0.15    2.18s
+   7     20.65      20.73  +0.08    2.29s
+   8     24.55      24.40  -0.15    1.80s
+   9     27.05      26.90  -0.15    1.22s
+  10     29.35      29.20  -0.15    1.82s
+wrote out/b876bd3c_te.mp4
+uniform tempo x1.00  |  voice ends at 31.48s  |  max late start +0.33s
+line  orig_cue  new_start  shift   length
+   1      0.15       0.15  +0.00    2.91s
+   2      4.05       3.90  -0.15    2.92s
+   3      7.45       7.30  -0.15    3.05s
+   4     10.45      10.45  +0.00    4.49s
+   5     16.25      16.10  -0.15    2.19s
+   6     18.60      18.45  -0.15    2.43s
+   7     20.65      20.98  +0.33    2.53s
+   8     24.55      24.40  -0.15    2.17s
+   9     27.05      26.90  -0.15    1.13s
+  10     29.35      29.20  -0.15    2.28s
+wrote out/b876bd3c_ml.mp4
+uniform tempo x1.00  |  voice ends at 31.02s  |  max late start +0.20s
+line  orig_cue  new_start  shift   length
+   1      0.15       0.15  +0.00    3.60s
+   2      4.05       3.90  -0.15    2.51s
+   3      7.45       7.30  -0.15    2.56s
+   4     10.45      10.30  -0.15    3.97s
+   5     16.25      16.10  -0.15    1.87s
+   6     18.60      18.45  -0.15    2.30s
+   7     20.65      20.85  +0.20    3.01s
+   8     24.55      24.40  -0.15    1.86s
+   9     27.05      26.90  -0.15    1.94s
+  10     29.35      29.20  -0.15    1.82s
+wrote out/b876bd3c_or.mp4
+[b876bd3c] 5 langs in 323s | worst line CER 0.50 | retried 1
+uniform tempo x1.11  |  voice ends at 28.56s  |  max late start +0.92s
+line  orig_cue  new_start  shift   length
+   1      0.10       0.10  +0.00    2.80s
+   2      2.55       3.00  +0.45    2.10s
+   3      5.30       5.20  -0.10    3.39s
+   4      8.35       8.69  +0.34    4.50s
+   5     12.90      13.30  +0.40    2.63s
+   6     15.10      16.02  +0.92    2.85s
+   7     18.50      18.98  +0.48    2.01s
+   8     20.80      21.09  +0.29    1.63s
+   9     23.30      23.15  -0.15    1.87s
+  10     25.90      25.75  -0.15    2.81s
+wrote out/d6c1e78e_bn.mp4
+uniform tempo x1.00  |  voice ends at 28.62s  |  max late start +0.61s
+line  orig_cue  new_start  shift   length
+   1      0.10       0.10  +0.00    1.93s
+   2      2.55       2.40  -0.15    3.25s
+   3      5.30       5.75  +0.45    3.11s
+   4      8.35       8.96  +0.61    3.75s
+   5     12.90      12.82  -0.08    1.70s
+   6     15.10      14.95  -0.15    3.00s
+   7     18.50      18.35  -0.15    1.55s
+   8     20.80      20.65  -0.15    2.01s
+   9     23.30      23.15  -0.15    1.47s
+  10     25.90      25.75  -0.15    2.87s
+wrote out/d6c1e78e_ta.mp4
+uniform tempo x1.00  |  voice ends at 28.90s  |  max late start +0.92s
+line  orig_cue  new_start  shift   length
+   1      0.10       0.10  +0.00    2.21s
+   2      2.55       2.41  -0.14    3.06s
+   3      5.30       5.56  +0.26    3.59s
+   4      8.35       9.25  +0.90    4.37s
+   5     12.90      13.72  +0.82    2.21s
+   6     15.10      16.02  +0.92    3.13s
+   7     18.50      19.25  +0.75    2.11s
+   8     20.80      21.45  +0.65    2.05s
+   9     23.30      23.60  +0.30    1.80s
+  10     25.90      25.75  -0.15    3.15s
+wrote out/d6c1e78e_te.mp4
+uniform tempo x1.00  |  voice ends at 28.15s  |  max late start +0.50s
+line  orig_cue  new_start  shift   length
+   1      0.10       0.10  +0.00    1.72s
+   2      2.55       2.40  -0.15    3.13s
+   3      5.30       5.63  +0.33    3.12s
+   4      8.35       8.85  +0.50    3.91s
+   5     12.90      12.86  -0.04    1.84s
+   6     15.10      14.95  -0.15    2.40s
+   7     18.50      18.35  -0.15    1.37s
+   8     20.80      20.65  -0.15    1.85s
+   9     23.30      23.15  -0.15    1.98s
+  10     25.90      25.75  -0.15    2.40s
+wrote out/d6c1e78e_ml.mp4
+uniform tempo x1.16  |  voice ends at 27.72s  |  max late start +0.92s
+line  orig_cue  new_start  shift   length
+   1      0.10       0.10  +0.00    1.97s
+   2      2.55       2.40  -0.15    2.67s
+   3      5.30       5.17  -0.13    3.49s
+   4      8.35       8.76  +0.41    4.96s
+   5     12.90      13.82  +0.92    2.01s
+   6     15.10      15.93  +0.83    2.00s
+   7     18.50      18.35  -0.15    1.82s
+   8     20.80      20.65  -0.15    1.47s
+   9     23.30      23.15  -0.15    1.70s
+  10     25.90      25.75  -0.15    1.97s
+wrote out/d6c1e78e_or.mp4
+[d6c1e78e] 5 langs in 493s | worst line CER 0.69 | retried 4
+DUB DONE: 2 videos

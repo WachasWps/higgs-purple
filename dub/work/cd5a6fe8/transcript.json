@@ -1,0 +1,490 @@
+{
+ "language": "en",
+ "segments": [
+  {
+   "seg": 0,
+   "start": 0.0,
+   "end": 3.12,
+   "text": "My skin looked dull and these dark spots were impossible to ignore.",
+   "f0_median_hz": 220,
+   "words": [
+    [
+     "My",
+     0.0,
+     0.18
+    ],
+    [
+     "skin",
+     0.18,
+     0.4
+    ],
+    [
+     "looked",
+     0.4,
+     0.64
+    ],
+    [
+     "dull",
+     0.64,
+     0.92
+    ],
+    [
+     "and",
+     0.92,
+     1.16
+    ],
+    [
+     "these",
+     1.16,
+     1.36
+    ],
+    [
+     "dark",
+     1.36,
+     1.58
+    ],
+    [
+     "spots",
+     1.58,
+     1.9
+    ],
+    [
+     "were",
+     1.9,
+     2.08
+    ],
+    [
+     "impossible",
+     2.08,
+     2.52
+    ],
+    [
+     "to",
+     2.52,
+     2.8
+    ],
+    [
+     "ignore.",
+     2.8,
+     3.12
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 1,
+   "start": 3.28,
+   "end": 4.74,
+   "text": "So this became part of every night.",
+   "f0_median_hz": 237,
+   "words": [
+    [
+     "So",
+     3.28,
+     3.44
+    ],
+    [
+     "this",
+     3.44,
+     3.62
+    ],
+    [
+     "became",
+     3.62,
+     3.9
+    ],
+    [
+     "part",
+     3.9,
+     4.16
+    ],
+    [
+     "of",
+     4.16,
+     4.28
+    ],
+    [
+     "every",
+     4.28,
+     4.52
+    ],
+    [
+     "night.",
+     4.52,
+     4.74
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 2,
+   "start": 4.88,
+   "end": 8.02,
+   "text": "Its glow fusion formula combines kojic acid, niad and alpha arbutin.",
+   "f0_median_hz": 205,
+   "words": [
+    [
+     "Its",
+     4.88,
+     5.02
+    ],
+    [
+     "glow",
+     5.02,
+     5.18
+    ],
+    [
+     "fusion",
+     5.18,
+     5.44
+    ],
+    [
+     "formula",
+     5.44,
+     5.82
+    ],
+    [
+     "combines",
+     5.82,
+     6.24
+    ],
+    [
+     "kojic",
+     6.24,
+     6.6
+    ],
+    [
+     "acid,",
+     6.6,
+     6.9
+    ],
+    [
+     "niad",
+     7.0,
+     7.22
+    ],
+    [
+     "and",
+     7.22,
+     7.34
+    ],
+    [
+     "alpha",
+     7.34,
+     7.64
+    ],
+    [
+     "arbutin.",
+     7.64,
+     8.02
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 3,
+   "start": 8.04,
+   "end": 9.78,
+   "text": "And the night cream texture is properly rich.",
+   "f0_median_hz": 222,
+   "words": [
+    [
+     "And",
+     8.04,
+     8.1
+    ],
+    [
+     "the",
+     8.1,
+     8.2
+    ],
+    [
+     "night",
+     8.2,
+     8.38
+    ],
+    [
+     "cream",
+     8.38,
+     8.58
+    ],
+    [
+     "texture",
+     8.58,
+     8.88
+    ],
+    [
+     "is",
+     8.88,
+     9.1
+    ],
+    [
+     "properly",
+     9.1,
+     9.48
+    ],
+    [
+     "rich.",
+     9.48,
+     9.78
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 4,
+   "start": 9.96,
+   "end": 10.96,
+   "text": "A small amount is enough.",
+   "f0_median_hz": 255,
+   "words": [
+    [
+     "A",
+     9.96,
+     10.08
+    ],
+    [
+     "small",
+     10.08,
+     10.32
+    ],
+    [
+     "amount",
+     10.32,
+     10.58
+    ],
+    [
+     "is",
+     10.58,
+     10.72
+    ],
+    [
+     "enough.",
+     10.72,
+     10.96
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 5,
+   "start": 11.14,
+   "end": 13.08,
+   "text": "I blend it completely into my face and neck.",
+   "f0_median_hz": 224,
+   "words": [
+    [
+     "I",
+     11.14,
+     11.28
+    ],
+    [
+     "blend",
+     11.28,
+     11.52
+    ],
+    [
+     "it",
+     11.52,
+     11.62
+    ],
+    [
+     "completely",
+     11.62,
+     12.04
+    ],
+    [
+     "into",
+     12.04,
+     12.28
+    ],
+    [
+     "my",
+     12.28,
+     12.46
+    ],
+    [
+     "face",
+     12.46,
+     12.72
+    ],
+    [
+     "and",
+     12.72,
+     12.86
+    ],
+    [
+     "neck.",
+     12.86,
+     13.08
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 6,
+   "start": 13.24,
+   "end": 14.8,
+   "text": "Then I let my sleep to glow routine begin.",
+   "f0_median_hz": 230,
+   "words": [
+    [
+     "Then",
+     13.24,
+     13.38
+    ],
+    [
+     "I",
+     13.38,
+     13.48
+    ],
+    [
+     "let",
+     13.48,
+     13.64
+    ],
+    [
+     "my",
+     13.64,
+     13.78
+    ],
+    [
+     "sleep",
+     13.78,
+     14.0
+    ],
+    [
+     "to",
+     14.0,
+     14.12
+    ],
+    [
+     "glow",
+     14.12,
+     14.28
+    ],
+    [
+     "routine",
+     14.28,
+     14.58
+    ],
+    [
+     "begin.",
+     14.58,
+     14.8
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 7,
+   "start": 14.98,
+   "end": 17.66,
+   "text": "My dark spots look reduced without changing my natural skin tone.",
+   "f0_median_hz": 216,
+   "words": [
+    [
+     "My",
+     14.98,
+     15.08
+    ],
+    [
+     "dark",
+     15.08,
+     15.28
+    ],
+    [
+     "spots",
+     15.28,
+     15.58
+    ],
+    [
+     "look",
+     15.58,
+     15.74
+    ],
+    [
+     "reduced",
+     15.74,
+     16.08
+    ],
+    [
+     "without",
+     16.08,
+     16.32
+    ],
+    [
+     "changing",
+     16.32,
+     16.7
+    ],
+    [
+     "my",
+     16.7,
+     16.86
+    ],
+    [
+     "natural",
+     16.86,
+     17.18
+    ],
+    [
+     "skin",
+     17.18,
+     17.4
+    ],
+    [
+     "tone.",
+     17.4,
+     17.66
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 8,
+   "start": 17.82,
+   "end": 19.92,
+   "text": "Dermdoc Night Cream, my overnight brightening step.",
+   "f0_median_hz": 220,
+   "words": [
+    [
+     "Dermdoc",
+     17.82,
+     18.16
+    ],
+    [
+     "Night",
+     18.16,
+     18.42
+    ],
+    [
+     "Cream,",
+     18.42,
+     18.68
+    ],
+    [
+     "my",
+     18.78,
+     18.98
+    ],
+    [
+     "overnight",
+     18.98,
+     19.32
+    ],
+    [
+     "brightening",
+     19.32,
+     19.74
+    ],
+    [
+     "step.",
+     19.74,
+     19.92
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  }
+ ]
+}

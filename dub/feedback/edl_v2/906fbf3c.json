@@ -1,0 +1,76 @@
+{
+ "video_id": "906fbf3c",
+ "product": "knc",
+ "category": "product_avatar",
+ "approach": "v2_original_story",
+ "shots": [
+  {
+   "start": 0,
+   "end": 2.3,
+   "action": "keep",
+   "n": 1
+  },
+  {
+   "start": 2.3,
+   "end": 4.0,
+   "action": "keep",
+   "n": 2
+  },
+  {
+   "start": 4.0,
+   "end": 5.5,
+   "action": "keep",
+   "n": 3
+  },
+  {
+   "start": 5.5,
+   "end": 8.3,
+   "action": "replace",
+   "replace_with": "KNA2_avatar_ingredients",
+   "n": 4
+  },
+  {
+   "start": 8.3,
+   "end": 9.6,
+   "action": "keep",
+   "n": 5
+  },
+  {
+   "start": 9.6,
+   "end": 11.3,
+   "action": "keep",
+   "n": 6
+  },
+  {
+   "start": 11.3,
+   "end": 13.3,
+   "action": "replace",
+   "replace_with": "KN02_scoop",
+   "n": 7
+  },
+  {
+   "start": 13.3,
+   "end": 14.9,
+   "action": "keep",
+   "n": 8
+  },
+  {
+   "start": 14.9,
+   "end": 16.6,
+   "action": "replace",
+   "replace_with": "GRAPHIC_BA_SPLIT",
+   "ba_pair": [
+    "BA_906fbf3c_BEFORE",
+    "BA_906fbf3c_AFTER"
+   ],
+   "ba_face_y": 0.12,
+   "n": 9
+  },
+  {
+   "start": 16.6,
+   "end": 20.0,
+   "action": "keep",
+   "n": 10
+  }
+ ]
+}

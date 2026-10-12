@@ -1,0 +1,137 @@
+{
+  "video_id": "dad2130b",
+  "style": "ugc",
+  "duration": 20.039,
+  "cast": [
+    {
+      "id": "creator",
+      "name": "Creator",
+      "role": "creator",
+      "description": "Indian woman in her mid-20s, dark hair in a low ponytail, lavender top; casual smartphone UGC indoors then outdoors. Natural, friendly female voice: skeptical and surprised at the open, then explaining, ending pleased and convinced.",
+      "ref_ranges": [
+        [
+          2.8,
+          5.94
+        ],
+        [
+          6.22,
+          8.06
+        ],
+        [
+          8.28,
+          10.44
+        ]
+      ],
+      "fx": "none",
+      "pitch_semitones": 0
+    }
+  ],
+  "lines": [
+    {
+      "id": 1,
+      "speaker": "creator",
+      "start": 0.0,
+      "end": 2.62,
+      "max_end": 2.76,
+      "en": "Purple sunscreen? I thought it would make me look purple.",
+      "tag": "surprise",
+      "keep_original": false,
+      "bn": "পার্পল সানস্ক্রিন? ভাবলাম পার্পল হয়ে যাব!",
+      "ta": "பர்பிள் சன்ஸ்க்ரீனா? பர்பிளா ஆயிடுவேன்னு நெனச்சேன்!",
+      "te": "పర్పుల్ సన్‌స్క్రీనా? ఫేస్ పర్పుల్ అవుతుందనుకున్నా!",
+      "ml": "പർപ്പിൾ സൺസ്ക്രീനോ? പർപ്പിളാകുമെന്ന് കരുതി!",
+      "or": "ପର୍ପଲ ସନସ୍କ୍ରିନ? ଭାବିଲି ପର୍ପଲ ଦିଶିବି!"
+    },
+    {
+      "id": 2,
+      "speaker": "creator",
+      "start": 2.8,
+      "end": 5.94,
+      "max_end": 6.18,
+      "en": "But look at the colour wheel. Purple helps correct yellow-looking dullness.",
+      "tag": null,
+      "keep_original": false,
+      "bn": "কিন্তু কালার হুইল দেখো, পার্পল হলদেটে ডালনেস কাটায়।",
+      "ta": "கலர் வீல பாருங்க, பர்பிள் மஞ்சள் டல்னஸை கரெக்ட் பண்ணும்.",
+      "te": "కలర్ వీల్ చూడండి, పర్పుల్ పసుపు డల్‌నెస్‌ని సరిచేస్తది.",
+      "ml": "കളർ വീൽ നോക്ക്, പർപ്പിൾ മഞ്ഞ ഡൾനെസ് കറക്റ്റ് ചെയ്യും.",
+      "or": "କିନ୍ତୁ କଲର ହୁଇଲ ଦେଖ, ପର୍ପଲ ହଳଦିଆ ଡଲନେସ ଦୂର କରେ।"
+    },
+    {
+      "id": 3,
+      "speaker": "creator",
+      "start": 6.22,
+      "end": 8.06,
+      "max_end": 8.24,
+      "en": "The tint is made for Indian skin.",
+      "tag": null,
+      "keep_original": false,
+      "bn": "টিন্ট ইন্ডিয়ান স্কিনের জন্য তৈরি।",
+      "ta": "இந்த டின்ட் இந்தியன் ஸ்கின்னுக்காக.",
+      "te": "ఈ టింట్ ఇండియన్ స్కిన్ కోసమే.",
+      "ml": "ഇന്ത്യൻ സ്കിന്നിനുള്ള ടിന്റാണ്.",
+      "or": "ଏଇ ଟିଣ୍ଟ ଇଣ୍ଡିଆନ ସ୍କିନ ପାଇଁ ତିଆରି।"
+    },
+    {
+      "id": 4,
+      "speaker": "creator",
+      "start": 8.28,
+      "end": 10.44,
+      "max_end": 10.58,
+      "en": "It blends in completely, no white cast.",
+      "tag": "happy",
+      "keep_original": false,
+      "bn": "পুরো মিশে যায়, নো হোয়াইট কাস্ট।",
+      "ta": "முழுசா ப்ளெண்ட் ஆகும், நோ வைட் காஸ்ட்.",
+      "te": "పూర్తిగా బ్లెండ్ అయిపోతది, నో వైట్ కాస్ట్.",
+      "ml": "ഫുള്ളായി ബ്ലെൻഡാകും, നോ വൈറ്റ് കാസ്റ്റ്.",
+      "or": "ପୁରାପୁରି ମିଶିଯାଏ, ନୋ ହ୍ୱାଇଟ କାଷ୍ଟ।"
+    },
+    {
+      "id": 5,
+      "speaker": "creator",
+      "start": 10.62,
+      "end": 14.12,
+      "max_end": 14.28,
+      "en": "Plus 4% Niacinamide and SPF 50 PA+++.",
+      "tag": "happy",
+      "keep_original": false,
+      "bn": "চার পার্সেন্ট নায়াসিনামাইড, এসপিএফ ফিফটি, পিএ ট্রিপল প্লাস!",
+      "ta": "நாலு பர்சென்ட் நியாசினமைட், எஸ்பிஎஃப் ஃபிஃப்டி பிஏ ட்ரிபிள் ப்ளஸ்.",
+      "te": "ఇంకా నాలుగు పర్సెంట్ నియాసినమైడ్, ఎస్‌పీఎఫ్ ఫిఫ్టీ పీఏ ట్రిపుల్ ప్లస్.",
+      "ml": "നാല് പെർസെന്റ് നിയാസിനമൈഡും, എസ്പിഎഫ് ഫിഫ്റ്റി പിഎ ട്രിപ്പിൾ പ്ലസും.",
+      "or": "ଆଉ ଚାରି ପର୍ସେଣ୍ଟ ନିଆସିନାମାଇଡ, ଏସପିଏଫ ଫିଫ୍ଟି, ପିଏ ଟ୍ରିପଲ ପ୍ଲସ।"
+    },
+    {
+      "id": 6,
+      "speaker": "creator",
+      "start": 14.32,
+      "end": 17.22,
+      "max_end": 17.46,
+      "en": "Before: dull. After: even-looking, protected glow.",
+      "tag": "happy",
+      "keep_original": false,
+      "bn": "আগে ডাল, এখন ইভেন, প্রোটেক্টেড গ্লো!",
+      "ta": "முன்ன டல், இப்போ ஈவன் லுக், ப்ரொடெக்டட் க்ளோ!",
+      "te": "ముందు డల్, ఇప్పుడు ఈవెన్ లుక్, ప్రొటెక్టెడ్ గ్లో!",
+      "ml": "മുമ്പ് ഡൾ, ഇപ്പോ ഈവൻ ലുക്ക്, പ്രൊട്ടക്റ്റഡ് ഗ്ലോ!",
+      "or": "ଆଗରୁ ଡଲ, ଏବେ ଇଭେନ, ପ୍ରୋଟେକ୍ଟେଡ ଗ୍ଲୋ!"
+    },
+    {
+      "id": 7,
+      "speaker": "creator",
+      "start": 17.5,
+      "end": 19.84,
+      "max_end": 19.64,
+      "en": "Okay, purple tint makes perfect sense now.",
+      "tag": "happy",
+      "keep_original": false,
+      "bn": "ওকে, এবার পার্পল টিন্ট পুরো বুঝলাম!",
+      "ta": "ஓகே, இப்போ பர்பிள் டின்ட் புரிஞ்சுது!",
+      "te": "ఓకే, ఇప్పుడు పర్పుల్ టింట్ అర్థమైంది!",
+      "ml": "ഓക്കെ, ഇപ്പോ പർപ്പിൾ ടിന്റ് കത്തി!",
+      "or": "ଓକେ, ଏବେ ପର୍ପଲ ଟିଣ୍ଟ ପୁରା ବୁଝିଗଲି!"
+    }
+  ],
+  "notes": "Single female creator throughout (one voice; f0 213-292 Hz, the 292 Hz opener is just her surprised delivery). Script was written for 15 s but the video runs 20 s; transcript matches the prompt lines exactly. Whisper 'PA platzka' is 'PA+++' (PA triple plus). Transcript segment 2 split into lines 3 and 4 at the sentence break (8.06/8.28). Line 7 ends 19.84, slightly past max_end 19.64 (within tolerance). Ref ranges taken from the indoor middle section (cleanest, no outdoor FX). Malayalam line 7 uses Kerala slang 'kathi' (got it)."
+}

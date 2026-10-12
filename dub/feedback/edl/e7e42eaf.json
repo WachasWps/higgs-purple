@@ -1,0 +1,73 @@
+{
+  "video_id": "e7e42eaf",
+  "product": "ps",
+  "category": "ingredient_personified",
+  "shots": [
+    {
+      "n": 1, "start": 0.0, "end": 3.27,
+      "content": "Medium-skinned woman shading her eyes in harsh sun while spiky UVA/UVB star villains streak toward her face. Hook 'STEPPING OUT UNPROTECTED?'.",
+      "issues": ["model_not_dusky"],
+      "action": "replace", "replace_with": "CUSTOM",
+      "custom": {
+        "shared_id": "PS_CUSTOM_VILLAIN_HOOK",
+        "generate": false,
+        "reuse_from": "291827ba shot 1",
+        "keyframe": "Same as PS_CUSTOM_VILLAIN_HOOK in 291827ba.json: dusky MEERA close-up, dull matte before-skin with no residue, hair in a bun, four small cartoon villains (UV sun, White Cast blob with dry roller, oil-droplet on skateboard, grey-yellow dullness cloud) beside her cheek, no product, no text.",
+        "motion": "Same as in 291827ba.json.",
+        "base_frame_time": null
+      },
+      "note": "Reuse the shared villain-hook clip; no new generation. L1 'Sun's out. Let's get her!' plays with the UV sun villain firing light streaks at her cheek, and the hook text kept. Use 0-3.27 s."
+    },
+    {
+      "n": 2, "start": 3.27, "end": 5.27,
+      "content": "The same woman smiling and holding up the tube mascot (wide cap OK) outdoors.",
+      "issues": ["model_not_dusky (continuity: her other shots are replaced)"],
+      "action": "replace", "replace_with": "PS02_hold_balcony", "custom": null,
+      "note": "L2 'Not on my watch.' (the tube) plays as Meera on a sunny balcony lifts the exact tube toward camera. Same composition and outdoor setting as the original. Use 0-2.0 s."
+    },
+    {
+      "n": 3, "start": 5.27, "end": 8.27,
+      "content": "Woman's face behind the SPF shield's bubble as UV star villains bounce off.",
+      "issues": ["model_not_dusky"],
+      "action": "replace", "replace_with": "PS04_dot_face", "custom": null,
+      "note": "L3 'UVA and UVB? Blocked.' (SPF shield) plays as Meera's face shows five lavender sunscreen dots and she starts blending: the protection goes on. Application step 1, with the SPF super on top. Use 0-3.0 s."
+    },
+    {
+      "n": 4, "start": 8.27, "end": 11.13,
+      "content": "Woman with a thick UNBLENDED lavender smear on her cheek, the purple droplet hero, and a White Cast villain being pushed away. Baked text 'Purple Tint / No Ashy White Cast'.",
+      "issues": ["not_blended_residue", "model_not_dusky", "purple_why_not_explained"],
+      "action": "replace", "replace_with": "GRAPHIC_COLOUR_WHEEL", "custom": null,
+      "note": "New L4 'I'm opposite yellow, so I cancel dullness.' (purple tint) plays over PSA2_avatar_point with a CORRECT animated wheel on the right (purple directly opposite yellow; arrow; yellow dims). Use 0-2.86 s."
+    },
+    {
+      "n": 5, "start": 11.13, "end": 14.0,
+      "content": "Extreme close-up of eye and forehead. The niacinamide molecule hero clears a grey Dullness cloud. Baked text '4% Niacinamide / Brightens Dull-Looking Skin'.",
+      "issues": ["skin_macro_partial_face", "model_not_dusky", "no_instant_glow_shown"],
+      "action": "replace", "replace_with": "PS05_blend_glow", "custom": null,
+      "note": "New L5 'Made for Indian skin. Hello, instant glow!' plays as the lavender blends invisibly into Meera's dusky skin, with no cast, and it turns dewy with an Instant Glow. Use 0-2.87 s, or 2.1-5.0 s to land on the finished glow."
+    },
+    {
+      "n": 6, "start": 14.0, "end": 17.02,
+      "content": "Correct tube (wide translucent cap, accurate label) on a podium with the SPF shield, purple droplet and niacinamide heroes. Correct baked product-name text.",
+      "issues": [],
+      "action": "keep", "replace_with": null, "custom": null,
+      "note": "Exact packaging and cartoon characters only. Matches L6 'Come out, sun. We're ready.'"
+    }
+  ],
+  "script_changes": [
+    {"line_id": 4, "old_en": "No white, ashy finish here.", "new_en": "I'm opposite yellow, so I cancel dullness.", "reason": "Explain WHY purple (colour wheel). There is 0.35 s of slack before L5. 'No white cast' stays in a super."},
+    {"line_id": 5, "old_en": "And dullness? You're done too.", "new_en": "Made for Indian skin. Hello, instant glow!", "reason": "'Made for Indian skin' + 'Instant Glow' in the VO on the blend-to-glow shot. Same length."}
+  ],
+  "new_lines": [],
+  "supers": [
+    {"action": "add", "match": null, "text": "SPF 50 PA+++ / UVA + UVB PROTECTION", "start": 5.5, "end": 8.2, "why": "Replaces the AI-baked SPF text lost with S3."},
+    {"action": "add", "match": null, "text": "COLOUR CORRECTION / PURPLE SITS OPPOSITE YELLOW > CANCELS YELLOW-LOOKING DULLNESS", "start": 8.4, "end": 11.1, "why": "Text explanation for the corrected wheel. Replaces the baked 'Purple Tint' text."},
+    {"action": "add", "match": null, "text": "4% NIACINAMIDE / INSTANT GLOW", "start": 11.3, "end": 12.6, "why": "Ingredient label (replaces the baked text) + Instant Glow."},
+    {"action": "add", "match": null, "text": "MADE FOR INDIAN SKIN TONES / NO WHITE CAST", "start": 12.6, "end": 13.95, "why": "Completes the purple > yellow > Indian skin > no cast chain over the fully blended skin."}
+  ],
+  "voice_changes": [
+    {"speaker": "uv_villain", "to": "female", "why": "Villain pitched -3 st, 'gravelly menacing gremlin'. Sounds male/scary."},
+    {"speaker": "spf_shield", "to": "female", "why": "Written as a 'deep, strong, calm bodyguard voice', which is male."}
+  ],
+  "summary": "Keep the correct-tube podium ending. Replace the non-dusky woman in every shot. Sequence: shared villain-hook CUSTOM, PS02 Meera holds tube, PS04 dots, colour-wheel graphic, PS05 blend to instant glow. L4 explains purple vs yellow, L5 says made for Indian skin + instant glow, and the lost baked ingredient texts become supers."
+}

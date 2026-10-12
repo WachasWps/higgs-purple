@@ -1,0 +1,325 @@
+{
+ "language": "en",
+ "segments": [
+  {
+   "seg": 0,
+   "start": 0.0,
+   "end": 1.58,
+   "text": "We're moving in permanently.",
+   "f0_median_hz": 457,
+   "words": [
+    [
+     "We're",
+     0.0,
+     0.36
+    ],
+    [
+     "moving",
+     0.36,
+     0.68
+    ],
+    [
+     "in",
+     0.68,
+     0.92
+    ],
+    [
+     "permanently.",
+     0.92,
+     1.58
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 1,
+   "start": 2.0,
+   "end": 3.9,
+   "text": "Your two-week notice starts tonight.",
+   "f0_median_hz": 225,
+   "words": [
+    [
+     "Your",
+     2.0,
+     2.36
+    ],
+    [
+     "two",
+     2.36,
+     2.58
+    ],
+    [
+     "-week",
+     2.58,
+     2.82
+    ],
+    [
+     "notice",
+     2.82,
+     3.16
+    ],
+    [
+     "starts",
+     3.16,
+     3.54
+    ],
+    [
+     "tonight.",
+     3.54,
+     3.9
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 2,
+   "start": 4.38,
+   "end": 8.2,
+   "text": "I'm powered by 2% kojic acid with niacinamide and alpha-arbutin.",
+   "f0_median_hz": 210,
+   "words": [
+    [
+     "I'm",
+     4.38,
+     4.46
+    ],
+    [
+     "powered",
+     4.46,
+     4.76
+    ],
+    [
+     "by",
+     4.76,
+     4.94
+    ],
+    [
+     "2",
+     4.94,
+     5.16
+    ],
+    [
+     "%",
+     5.16,
+     5.48
+    ],
+    [
+     "kojic",
+     5.48,
+     5.86
+    ],
+    [
+     "acid",
+     5.86,
+     6.22
+    ],
+    [
+     "with",
+     6.22,
+     6.5
+    ],
+    [
+     "niacinamide",
+     6.5,
+     7.22
+    ],
+    [
+     "and",
+     7.22,
+     7.38
+    ],
+    [
+     "alpha",
+     7.38,
+     7.68
+    ],
+    [
+     "-arbutin.",
+     7.68,
+     8.2
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 3,
+   "start": 8.4,
+   "end": 10.46,
+   "text": "Together, we're the Glow Fusion formula.",
+   "f0_median_hz": 229,
+   "words": [
+    [
+     "Together,",
+     8.4,
+     8.72
+    ],
+    [
+     "we're",
+     8.92,
+     9.18
+    ],
+    [
+     "the",
+     9.18,
+     9.3
+    ],
+    [
+     "Glow",
+     9.3,
+     9.6
+    ],
+    [
+     "Fusion",
+     9.6,
+     9.98
+    ],
+    [
+     "formula.",
+     9.98,
+     10.46
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 4,
+   "start": 11.38,
+   "end": 13.14,
+   "text": "Massage me in before you sleep.",
+   "f0_median_hz": 235,
+   "words": [
+    [
+     "Massage",
+     11.38,
+     12.02
+    ],
+    [
+     "me",
+     12.02,
+     12.16
+    ],
+    [
+     "in",
+     12.16,
+     12.34
+    ],
+    [
+     "before",
+     12.34,
+     12.58
+    ],
+    [
+     "you",
+     12.58,
+     12.78
+    ],
+    [
+     "sleep.",
+     12.78,
+     13.14
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 5,
+   "start": 13.3,
+   "end": 14.38,
+   "text": "Eviction already?",
+   "f0_median_hz": 511,
+   "words": [
+    [
+     "Eviction",
+     13.3,
+     13.92
+    ],
+    [
+     "already?",
+     13.92,
+     14.38
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 6,
+   "start": 14.82,
+   "end": 16.78,
+   "text": "Looks like they finally moved out.",
+   "f0_median_hz": 254,
+   "words": [
+    [
+     "Looks",
+     14.82,
+     15.36
+    ],
+    [
+     "like",
+     15.36,
+     15.58
+    ],
+    [
+     "they",
+     15.58,
+     15.74
+    ],
+    [
+     "finally",
+     15.74,
+     16.14
+    ],
+    [
+     "moved",
+     16.14,
+     16.5
+    ],
+    [
+     "out.",
+     16.5,
+     16.78
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 7,
+   "start": 17.14,
+   "end": 19.48,
+   "text": "Dermdoc Night Cream, the overnight brightener.",
+   "f0_median_hz": 228,
+   "words": [
+    [
+     "Dermdoc",
+     17.14,
+     17.54
+    ],
+    [
+     "Night",
+     17.54,
+     17.82
+    ],
+    [
+     "Cream,",
+     17.82,
+     18.12
+    ],
+    [
+     "the",
+     18.3,
+     18.52
+    ],
+    [
+     "overnight",
+     18.52,
+     18.96
+    ],
+    [
+     "brightener.",
+     18.96,
+     19.48
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  }
+ ]
+}

@@ -1,0 +1,480 @@
+{
+ "language": "en",
+ "segments": [
+  {
+   "seg": 0,
+   "start": 0.0,
+   "end": 4.66,
+   "text": "I started tracking the dark spots that made my skin look uneven, and this became the most important part of my night routine.",
+   "f0_median_hz": 203,
+   "words": [
+    [
+     "I",
+     0.0,
+     0.08
+    ],
+    [
+     "started",
+     0.08,
+     0.3
+    ],
+    [
+     "tracking",
+     0.3,
+     0.62
+    ],
+    [
+     "the",
+     0.62,
+     0.8
+    ],
+    [
+     "dark",
+     0.8,
+     0.98
+    ],
+    [
+     "spots",
+     0.98,
+     1.26
+    ],
+    [
+     "that",
+     1.26,
+     1.44
+    ],
+    [
+     "made",
+     1.44,
+     1.58
+    ],
+    [
+     "my",
+     1.58,
+     1.7
+    ],
+    [
+     "skin",
+     1.7,
+     1.9
+    ],
+    [
+     "look",
+     1.9,
+     2.08
+    ],
+    [
+     "uneven,",
+     2.08,
+     2.36
+    ],
+    [
+     "and",
+     2.36,
+     2.68
+    ],
+    [
+     "this",
+     2.68,
+     2.82
+    ],
+    [
+     "became",
+     2.82,
+     3.06
+    ],
+    [
+     "the",
+     3.06,
+     3.2
+    ],
+    [
+     "most",
+     3.2,
+     3.4
+    ],
+    [
+     "important",
+     3.4,
+     3.72
+    ],
+    [
+     "part",
+     3.72,
+     3.92
+    ],
+    [
+     "of",
+     3.92,
+     4.06
+    ],
+    [
+     "my",
+     4.06,
+     4.16
+    ],
+    [
+     "night",
+     4.16,
+     4.32
+    ],
+    [
+     "routine.",
+     4.32,
+     4.66
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 1,
+   "start": 4.8,
+   "end": 6.64,
+   "text": "DermDoc 2% Kojic Acid Night Cream.",
+   "f0_median_hz": 222,
+   "words": [
+    [
+     "DermDoc",
+     4.8,
+     5.18
+    ],
+    [
+     "2",
+     5.18,
+     5.36
+    ],
+    [
+     "%",
+     5.36,
+     5.66
+    ],
+    [
+     "Kojic",
+     5.66,
+     6.0
+    ],
+    [
+     "Acid",
+     6.0,
+     6.26
+    ],
+    [
+     "Night",
+     6.26,
+     6.42
+    ],
+    [
+     "Cream.",
+     6.42,
+     6.64
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 2,
+   "start": 6.78,
+   "end": 9.28,
+   "text": "The texture is rich and creamy, not watery or stringy.",
+   "f0_median_hz": 211,
+   "words": [
+    [
+     "The",
+     6.78,
+     6.9
+    ],
+    [
+     "texture",
+     6.9,
+     7.18
+    ],
+    [
+     "is",
+     7.18,
+     7.36
+    ],
+    [
+     "rich",
+     7.36,
+     7.56
+    ],
+    [
+     "and",
+     7.56,
+     7.68
+    ],
+    [
+     "creamy,",
+     7.68,
+     7.96
+    ],
+    [
+     "not",
+     8.16,
+     8.32
+    ],
+    [
+     "watery",
+     8.32,
+     8.66
+    ],
+    [
+     "or",
+     8.66,
+     8.86
+    ],
+    [
+     "stringy.",
+     8.86,
+     9.28
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 3,
+   "start": 9.4,
+   "end": 11.36,
+   "text": "I massage it in until my skin absorbs everything.",
+   "f0_median_hz": 209,
+   "words": [
+    [
+     "I",
+     9.4,
+     9.52
+    ],
+    [
+     "massage",
+     9.52,
+     9.86
+    ],
+    [
+     "it",
+     9.86,
+     10.0
+    ],
+    [
+     "in",
+     10.0,
+     10.14
+    ],
+    [
+     "until",
+     10.14,
+     10.36
+    ],
+    [
+     "my",
+     10.36,
+     10.5
+    ],
+    [
+     "skin",
+     10.5,
+     10.68
+    ],
+    [
+     "absorbs",
+     10.68,
+     11.0
+    ],
+    [
+     "everything.",
+     11.0,
+     11.36
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 4,
+   "start": 11.5,
+   "end": 15.06,
+   "text": "Kojic Acid, Niinamide, and Alpha Arbutin help reduce the appearance of dark spots.",
+   "f0_median_hz": 200,
+   "words": [
+    [
+     "Kojic",
+     11.5,
+     11.8
+    ],
+    [
+     "Acid,",
+     11.8,
+     12.06
+    ],
+    [
+     "Niinamide,",
+     12.14,
+     12.68
+    ],
+    [
+     "and",
+     12.7,
+     12.8
+    ],
+    [
+     "Alpha",
+     12.8,
+     13.04
+    ],
+    [
+     "Arbutin",
+     13.04,
+     13.48
+    ],
+    [
+     "help",
+     13.48,
+     13.7
+    ],
+    [
+     "reduce",
+     13.7,
+     13.98
+    ],
+    [
+     "the",
+     13.98,
+     14.12
+    ],
+    [
+     "appearance",
+     14.12,
+     14.4
+    ],
+    [
+     "of",
+     14.4,
+     14.56
+    ],
+    [
+     "dark",
+     14.56,
+     14.74
+    ],
+    [
+     "spots.",
+     14.74,
+     15.06
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 5,
+   "start": 15.22,
+   "end": 16.72,
+   "text": "I use it consistently every night.",
+   "f0_median_hz": 218,
+   "words": [
+    [
+     "I",
+     15.22,
+     15.34
+    ],
+    [
+     "use",
+     15.34,
+     15.52
+    ],
+    [
+     "it",
+     15.52,
+     15.6
+    ],
+    [
+     "consistently",
+     15.6,
+     16.14
+    ],
+    [
+     "every",
+     16.14,
+     16.48
+    ],
+    [
+     "night.",
+     16.48,
+     16.72
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 6,
+   "start": 16.9,
+   "end": 19.82,
+   "text": "Two weeks later, my spots look reduced and my skin looks naturally brighter.",
+   "f0_median_hz": 201,
+   "words": [
+    [
+     "Two",
+     16.9,
+     17.02
+    ],
+    [
+     "weeks",
+     17.02,
+     17.22
+    ],
+    [
+     "later,",
+     17.22,
+     17.46
+    ],
+    [
+     "my",
+     17.5,
+     17.66
+    ],
+    [
+     "spots",
+     17.66,
+     17.94
+    ],
+    [
+     "look",
+     17.94,
+     18.12
+    ],
+    [
+     "reduced",
+     18.12,
+     18.46
+    ],
+    [
+     "and",
+     18.46,
+     18.66
+    ],
+    [
+     "my",
+     18.66,
+     18.78
+    ],
+    [
+     "skin",
+     18.78,
+     18.98
+    ],
+    [
+     "looks",
+     18.98,
+     19.18
+    ],
+    [
+     "naturally",
+     19.18,
+     19.5
+    ],
+    [
+     "brighter.",
+     19.5,
+     19.82
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  }
+ ]
+}

@@ -1,0 +1,256 @@
+{
+ "video": "784c77c5",
+ "style": "ugc",
+ "cast": [
+  {
+   "id": "creator",
+   "name": "Creator",
+   "description": "Indian woman, early thirties, curly black hair, lavender satin pajamas; calm, sincere, diary-style creator voice, mid-pitch female"
+  }
+ ],
+ "lines": [
+  {
+   "id": 1,
+   "start": 0.0,
+   "end": 4.66,
+   "speaker": "creator",
+   "en": "I started tracking the dark spots that made my skin look uneven, and this became the most important part of my night routine."
+  },
+  {
+   "id": 2,
+   "start": 4.8,
+   "end": 6.64,
+   "speaker": "creator",
+   "en": "DERMDOC 2% Kojic Acid Night Cream."
+  },
+  {
+   "id": 3,
+   "start": 6.78,
+   "end": 9.28,
+   "speaker": "creator",
+   "en": "The texture is rich and creamy, not watery or stringy."
+  },
+  {
+   "id": 4,
+   "start": 9.4,
+   "end": 11.36,
+   "speaker": "creator",
+   "en": "I massage it in until my skin absorbs everything."
+  },
+  {
+   "id": 5,
+   "start": 11.5,
+   "end": 15.06,
+   "speaker": "creator",
+   "en": "Kojic Acid, Niacinamide and Alpha Arbutin help reduce the appearance of dark spots."
+  },
+  {
+   "id": 6,
+   "start": 15.22,
+   "end": 16.72,
+   "speaker": "creator",
+   "en": "I use it consistently every night."
+  },
+  {
+   "id": 7,
+   "start": 16.9,
+   "end": 19.82,
+   "speaker": "creator",
+   "en": "Two weeks later, my spots look reduced and my skin looks naturally brighter."
+  }
+ ],
+ "shots": [
+  {
+   "n": 1,
+   "start": 0,
+   "end": 2.6,
+   "what": "original footage",
+   "frames": [
+    "s01_0.jpg",
+    "s01_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 1,
+     "start": 0.0,
+     "end": 4.66,
+     "speaker": "creator",
+     "en": "I started tracking the dark spots that made my skin look uneven, and this became the most important part of my night routine."
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "start": 2.6,
+   "end": 4.77,
+   "what": "original footage",
+   "frames": [
+    "s02_0.jpg",
+    "s02_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 1,
+     "start": 0.0,
+     "end": 4.66,
+     "speaker": "creator",
+     "en": "I started tracking the dark spots that made my skin look uneven, and this became the most important part of my night routine."
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "start": 4.77,
+   "end": 6.8,
+   "what": "original footage",
+   "frames": [
+    "s03_0.jpg",
+    "s03_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 2,
+     "start": 4.8,
+     "end": 6.64,
+     "speaker": "creator",
+     "en": "DERMDOC 2% Kojic Acid Night Cream."
+    },
+    {
+     "id": 3,
+     "start": 6.78,
+     "end": 9.28,
+     "speaker": "creator",
+     "en": "The texture is rich and creamy, not watery or stringy."
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "start": 6.8,
+   "end": 8.43,
+   "what": "original footage",
+   "frames": [
+    "s04_0.jpg",
+    "s04_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 3,
+     "start": 6.78,
+     "end": 9.28,
+     "speaker": "creator",
+     "en": "The texture is rich and creamy, not watery or stringy."
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "start": 8.43,
+   "end": 9.43,
+   "what": "original footage",
+   "frames": [
+    "s05_0.jpg",
+    "s05_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 3,
+     "start": 6.78,
+     "end": 9.28,
+     "speaker": "creator",
+     "en": "The texture is rich and creamy, not watery or stringy."
+    },
+    {
+     "id": 4,
+     "start": 9.4,
+     "end": 11.36,
+     "speaker": "creator",
+     "en": "I massage it in until my skin absorbs everything."
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "start": 9.43,
+   "end": 11.27,
+   "what": "original footage",
+   "frames": [
+    "s06_0.jpg",
+    "s06_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 4,
+     "start": 9.4,
+     "end": 11.36,
+     "speaker": "creator",
+     "en": "I massage it in until my skin absorbs everything."
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "start": 11.27,
+   "end": 15.17,
+   "what": "KNA2_avatar_ingredients",
+   "frames": [
+    "s07_0.jpg",
+    "s07_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 4,
+     "start": 9.4,
+     "end": 11.36,
+     "speaker": "creator",
+     "en": "I massage it in until my skin absorbs everything."
+    },
+    {
+     "id": 5,
+     "start": 11.5,
+     "end": 15.06,
+     "speaker": "creator",
+     "en": "Kojic Acid, Niacinamide and Alpha Arbutin help reduce the appearance of dark spots."
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "start": 15.17,
+   "end": 16.9,
+   "what": "original footage",
+   "frames": [
+    "s08_0.jpg",
+    "s08_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 6,
+     "start": 15.22,
+     "end": 16.72,
+     "speaker": "creator",
+     "en": "I use it consistently every night."
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "start": 16.9,
+   "end": 20.04,
+   "what": "GRAPHIC_BA_SPLIT",
+   "frames": [
+    "s09_0.jpg",
+    "s09_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 7,
+     "start": 16.9,
+     "end": 19.82,
+     "speaker": "creator",
+     "en": "Two weeks later, my spots look reduced and my skin looks naturally brighter."
+    }
+   ]
+  }
+ ]
+}

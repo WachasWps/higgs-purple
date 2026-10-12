@@ -1,0 +1,52 @@
+{
+ "video_id": "291827ba",
+ "product": "uv_sunscreen",
+ "caption_y": 0.9,
+ "elements": [
+  {
+   "type": "hook_mono",
+   "start": 0.15,
+   "end": 1.85,
+   "lines": [
+    "SKIN UNDER",
+    "ATTACK?"
+   ],
+   "anim": "slide_up",
+   "x": 0.6,
+   "y": 0.085
+  },
+  {
+   "type": "pill",
+   "start": 10.5,
+   "end": 12.4,
+   "lines": [
+    "4% NIACINAMIDE",
+    "BRIGHTENS DULL-LOOKING SKIN"
+   ],
+   "x": 0.5,
+   "y": 0.76,
+   "anim": "pop"
+  },
+  {
+   "type": "claim_bold",
+   "start": 12.9,
+   "end": 15.4,
+   "lines": [
+    "THE VERDICT:",
+    "INSTANT GLOW"
+   ],
+   "sub": "MADE FOR INDIAN SKIN TONES",
+   "x": 0.5,
+   "y": 0.75,
+   "anim": "fade"
+  }
+ ],
+ "notes": "Text pass (EDL): hook over hair on the shared villain-hook clip; no supers in the colour-wheel window 7.6-10.3 (old NO WHITE CAST pill removed); 4% NIACINAMIDE pill below the chin on PS05; verdict claim INSTANT GLOW + MADE FOR INDIAN SKIN TONES below the chin on PS06. Caption lift kept for the kept courtroom shot's baked SPF text.",
+ "caption_moves": [
+  {
+   "start": 4.95,
+   "end": 7.6,
+   "y": 0.93
+  }
+ ]
+}

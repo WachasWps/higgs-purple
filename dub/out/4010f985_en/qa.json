@@ -1,0 +1,32 @@
+[
+ {
+  "id": 1,
+  "speaker": "narrator",
+  "cer": 0.0,
+  "heard": "Dull yellow looking skin."
+ },
+ {
+  "id": 2,
+  "speaker": "narrator",
+  "cer": 0.0,
+  "heard": "Purple sits opposite yellow, so it helps cancel it out."
+ },
+ {
+  "id": 3,
+  "speaker": "narrator",
+  "cer": 0.0,
+  "heard": "DERMDOC Ultraviolet with 4% niacinamide and SPF 50."
+ },
+ {
+  "id": 4,
+  "speaker": "narrator",
+  "cer": 0.0,
+  "heard": "It blends in fully, no white cast, just instant glow."
+ },
+ {
+  "id": 5,
+  "speaker": "narrator",
+  "cer": 0.0,
+  "heard": "Made for Indian skin tones."
+ }
+]

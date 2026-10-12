@@ -1,0 +1,31 @@
+[
+  {
+    "created_at": "2026-10-09T13:14:24.229057Z",
+    "display_name": "Wan 3.0",
+    "id": "00c422a5-e6ba-4f7f-8f17-d70b689deb2a",
+    "job_type": "wan3_0",
+    "min_result_url": null,
+    "params": {
+      "aspect_ratio": "9:16",
+      "duration": 5,
+      "generate_audio": false,
+      "height": 1344,
+      "medias": [
+        {
+          "data": {
+            "id": "23e255f4-e613-45a5-8ce3-b2713f82984a",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3A6ZxB95Mnf55lwPBqzkePnTfzA/23e255f4-e613-45a5-8ce3-b2713f82984a.png"
+          },
+          "role": "start_image"
+        }
+      ],
+      "prompt": "The tube mascot talks cheerfully to camera, blinking and gesturing with one hand; the label, cap and shape stay exactly the same; gentle camera drift. Photorealistic, natural motion, stable identity, product packaging stays exactly as in the first frame, no text appears.",
+      "resolution": "480p",
+      "width": 768
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3A6ZxB95Mnf55lwPBqzkePnTfzA/hf_20261009_131424_00c422a5-e6ba-4f7f-8f17-d70b689deb2a.mp4",
+    "status": "completed",
+    "thumbnail_url": "https://cdn.higgsfield.ai/user_3A6ZxB95Mnf55lwPBqzkePnTfzA/hf_20261009_131424_00c422a5-e6ba-4f7f-8f17-d70b689deb2a_thumbnail.webp"
+  }
+]

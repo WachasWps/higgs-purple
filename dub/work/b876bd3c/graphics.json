@@ -1,0 +1,115 @@
+{
+ "video_id": "b876bd3c",
+ "product": "uv_sunscreen",
+ "caption_y": 0.9,
+ "no_outro": true,
+ "no_logo": true,
+ "caption_moves": [
+  {
+   "start": 23.82,
+   "end": 26.92,
+   "y": 0.497,
+   "ext": 1
+  }
+ ],
+ "elements": [
+  {
+   "type": "hook_mono",
+   "start": 0.2,
+   "end": 2.6,
+   "lines": [
+    "WILL IT TURN",
+    "ME PURPLE?"
+   ],
+   "position": "lower",
+   "anim": "slide_up"
+  },
+  {
+   "type": "hud",
+   "variant": "corners",
+   "start": 10.5,
+   "end": 12.5
+  },
+  {
+   "type": "pill",
+   "start": 13.2,
+   "end": 16.0,
+   "lines": [
+    "ZERO WHITE CAST"
+   ],
+   "x": 0.5,
+   "y": 0.12,
+   "anim": "pop"
+  },
+  {
+   "type": "claim_bold",
+   "start": 18.45,
+   "end": 20.5,
+   "lines": [
+    "SPF 50 PA+++"
+   ],
+   "sub": "UVA + UVB",
+   "x": 0.5,
+   "y": 0.76,
+   "anim": "fade"
+  },
+  {
+   "type": "pill",
+   "start": 20.8,
+   "end": 23.8,
+   "lines": [
+    "INSTANT GLOW"
+   ],
+   "x": 0.5,
+   "y": 0.12,
+   "anim": "pop"
+  },
+  {
+   "type": "label",
+   "start": 24.47,
+   "end": 26.87,
+   "lines": [
+    "BEFORE"
+   ],
+   "x": 0.5,
+   "y": 0.455,
+   "anim": "pop"
+  },
+  {
+   "type": "label",
+   "start": 24.47,
+   "end": 26.87,
+   "lines": [
+    "AFTER"
+   ],
+   "x": 0.5,
+   "y": 0.895,
+   "anim": "pop"
+  },
+  {
+   "type": "label",
+   "start": 24.47,
+   "end": 26.87,
+   "lines": [
+    "INSTANT GLOW"
+   ],
+   "x": 0.5,
+   "y": 0.955,
+   "anim": "pop"
+  }
+ ],
+ "notes": "Re-cut timeline (creator + PS General Ad B-roll + wheel + Codex B/A). Baked-text B-roll shots left clean; own logo + end card.",
+ "cut_sfx": [
+  3.9,
+  7.3,
+  10.3,
+  16.17,
+  18.37,
+  20.57,
+  24.42,
+  26.92,
+  29.22,
+  32.49
+ ],
+ "logo_until": 32.47
+}

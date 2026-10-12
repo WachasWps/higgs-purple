@@ -1,0 +1,115 @@
+{
+ "video_id": "c01adcce",
+ "product": "uv_sunscreen",
+ "caption_y": 0.9,
+ "elements": [
+  {
+   "type": "hook_mono",
+   "start": 0.2,
+   "end": 2.6,
+   "lines": [
+    "SUN IS VISIBLE.",
+    "PROTECTION ISN'T."
+   ],
+   "anim": "slide_up",
+   "x": 0.5,
+   "y": 0.115
+  },
+  {
+   "type": "label",
+   "start": 3.0,
+   "end": 6.4,
+   "lines": [
+    "SPF 50 PA+++"
+   ],
+   "x": 0.7,
+   "y": 0.34,
+   "anim": "pop"
+  },
+  {
+   "type": "label",
+   "start": 4.0,
+   "end": 6.4,
+   "lines": [
+    "4% NIACINAMIDE"
+   ],
+   "x": 0.3,
+   "y": 0.24,
+   "anim": "pop"
+  },
+  {
+   "type": "label",
+   "start": 5.0,
+   "end": 6.4,
+   "lines": [
+    "PURPLE TINT"
+   ],
+   "x": 0.5,
+   "y": 0.52,
+   "anim": "pop"
+  },
+  {
+   "type": "claim_bold",
+   "start": 12.45,
+   "end": 13.5,
+   "lines": [
+    "NO WHITE CAST"
+   ],
+   "sub": "INSTANT GLOW",
+   "position": "lower",
+   "anim": "fade"
+  },
+  {
+   "type": "label",
+   "start": 13.55,
+   "end": 15.55,
+   "lines": [
+    "BEFORE"
+   ],
+   "x": 0.5,
+   "y": 0.455,
+   "anim": "pop"
+  },
+  {
+   "type": "label",
+   "start": 13.55,
+   "end": 15.55,
+   "lines": [
+    "AFTER"
+   ],
+   "x": 0.5,
+   "y": 0.895,
+   "anim": "pop"
+  },
+  {
+   "type": "label",
+   "start": 13.55,
+   "end": 15.55,
+   "lines": [
+    "INSTANT GLOW"
+   ],
+   "x": 0.5,
+   "y": 0.955,
+   "anim": "pop"
+  },
+  {
+   "type": "claim_bold",
+   "start": 15.7,
+   "end": 17.7,
+   "lines": [
+    "INVISIBLE PROTECTION.",
+    "VISIBLE INSTANT GLOW."
+   ],
+   "position": "lower",
+   "anim": "fade"
+  }
+ ],
+ "caption_moves": [
+  {
+   "start": 13.5,
+   "end": 15.6,
+   "y": 0.58
+  }
+ ],
+ "notes": "Hook in the strip above the PS01 tube; three separate labels on the macro in VO order; PS07 and the colour wheel carry no super (the wheel has its own YELLOW DULLNESS text); no-white-cast claim low on PS05; B/A BEFORE / INSTANT GLOW; tagline low on PS09."
+}

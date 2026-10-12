@@ -1,0 +1,41 @@
+[
+ {
+  "id": 1,
+  "speaker": "professor_jar",
+  "cer": 0.07,
+  "heard": "কলাস শুরু আজে রাতের লেসন ব্রাইটার আই঵ন লুকিং সকিন।"
+ },
+ {
+  "id": 2,
+  "speaker": "professor_jar",
+  "cer": 0.12,
+  "heard": "তিন্টে সোমস্যা, তিন্য়ন সেশালিস্ট."
+ },
+ {
+  "id": 3,
+  "speaker": "kojic_acid",
+  "cer": 0.18,
+  "heard": "লেসেন ঵ান জধি ডাক স্পাট্দের টারগেট করো।"
+ },
+ {
+  "id": 4,
+  "speaker": "niacinamide",
+  "cer": 0.9,
+  "heard": "লাবে মেতে পোবেবে পেবেে পেবেে পেবেেবেেবেেবেেেবে",
+  "redub": true
+ },
+ {
+  "id": 5,
+  "speaker": "professor_jar",
+  "cer": 0.15,
+  "heard": "Ritz cream, rate lagao, baqi ka ছিিমের.",
+  "redub": true
+ },
+ {
+  "id": 6,
+  "speaker": "narrator",
+  "cer": 0.11,
+  "heard": "দুই সবতা এস পটকম লাগছে কলাস ছুটি।",
+  "redub": true
+ }
+]

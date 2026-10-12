@@ -1,0 +1,61 @@
+[
+ {
+  "id": 1,
+  "speaker": "dullness",
+  "cer": 0.12,
+  "heard": "আজ রাতে এস কিন আম্য কন্টরোলে।",
+  "redub": true
+ },
+ {
+  "id": 2,
+  "speaker": "jar",
+  "cer": 0.27,
+  "heard": "কন্চর্য় থেকে স�োরে দারা।"
+ },
+ {
+  "id": 3,
+  "speaker": "jar",
+  "cer": 0.15,
+  "heard": "a martree expert formula 1",
+  "redub": true
+ },
+ {
+  "id": 4,
+  "speaker": "jar",
+  "cer": 0.09,
+  "heard": "কজিক এসিড ডারক সপটের লুক টারগেট করে।"
+ },
+ {
+  "id": 5,
+  "speaker": "jar",
+  "cer": 0.17,
+  "heard": "নাযাসিনাইড ইহেন টুন।"
+ },
+ {
+  "id": 6,
+  "speaker": "jar",
+  "cer": 0.11,
+  "heard": "আর আলফা আরভুটিন ব্রাইটনিংটিমে"
+ },
+ {
+  "id": 7,
+  "speaker": "jar",
+  "cer": 0.15,
+  "heard": "Let's claim night shift through.",
+  "redub": true
+ },
+ {
+  "id": 8,
+  "speaker": "woman",
+  "cer": 0.25,
+  "heard": "দুইশব তহে ডাক স্পাট্স কম লাকছে আমার গ্লোশ্যিচেন।",
+  "redub": true
+ },
+ {
+  "id": 9,
+  "speaker": "jar",
+  "cer": 0.0,
+  "heard": "ডারমডাক কোজিক এসিড নইট ক্রিম।",
+  "redub": true
+ }
+]

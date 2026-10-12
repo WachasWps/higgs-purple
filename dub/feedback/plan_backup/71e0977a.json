@@ -1,0 +1,91 @@
+{
+  "video_id": "71e0977a",
+  "style": "personification",
+  "duration": 17.02,
+  "cast": [
+    {
+      "id": "dark_spot",
+      "name": "Dark Spot Villain",
+      "role": "villain",
+      "description": "small flat brown Dark Spot villain (leading the Dullness and Uneven Tone gang) standing on the woman's cheek; smug, taunting, menacing cartoon-baddie voice",
+      "ref_ranges": [[0.0, 1.62]],
+      "fx": "villain",
+      "pitch_semitones": -3
+    },
+    {
+      "id": "jar",
+      "name": "KNC Jar",
+      "role": "product_mascot",
+      "description": "talking DERMDOC Kojic Acid night cream jar with cartoon eyes, arms and feet; sassy, cocky, bouncy cartoon voice",
+      "ref_ranges": [[1.68, 3.3]],
+      "fx": "cartoon",
+      "pitch_semitones": 2
+    },
+    {
+      "id": "kojic_acid",
+      "name": "Kojic Acid",
+      "role": "hero",
+      "description": "golden spiky Kojic Acid ingredient hero leading the KNC Team (with Niacinamide and Alpha Arbutin); bright, confident, upbeat heroic cartoon voice",
+      "ref_ranges": [[4.3, 5.9]],
+      "fx": "cartoon",
+      "pitch_semitones": 0
+    },
+    {
+      "id": "narrator",
+      "name": "Narrator",
+      "role": "narrator",
+      "description": "off-screen brand voiceover; warm, clear, polished female ad narrator",
+      "ref_ranges": [[9.32, 12.54], [13.68, 16.56]],
+      "fx": "none",
+      "pitch_semitones": 0
+    }
+  ],
+  "lines": [
+    {
+      "id": 1, "speaker": "dark_spot", "start": 0.0, "end": 1.5, "max_end": 1.66,
+      "en": "You can't fade us!", "tag": "angry", "keep_original": false,
+      "bn": "আমাদের ফেড করা তোর কম্ম নয়!",
+      "ta": "எங்களை ஃபேட் பண்ணவே முடியாது!",
+      "te": "మమ్మల్ని ఎవరూ ఫేడ్ చేయలేరు!",
+      "ml": "ഞങ്ങളെ ഫേഡ് ആക്കാൻ പറ്റില്ല!",
+      "or": "ଆମକୁ ଫେଡ୍ କରିପାରିବୁ ନାହିଁ!"
+    },
+    {
+      "id": 2, "speaker": "jar", "start": 1.7, "end": 2.76, "max_end": 4.36,
+      "en": "Want to test that theory?", "tag": "happy", "keep_original": false,
+      "bn": "তাই নাকি? একবার টেস্ট করে দেখবি?",
+      "ta": "அப்படியா? டெஸ்ட் பண்ணி பார்க்கலாமா?",
+      "te": "అవునా? ఒకసారి టెస్ట్ చేసి చూద్దామా?",
+      "ml": "ആണോ? ഒന്ന് ടെസ്റ്റ് ചെയ്ത് നോക്കിയാലോ?",
+      "or": "ସତରେ? ଥରେ ଟେଷ୍ଟ କରି ଦେଖିବା କି?"
+    },
+    {
+      "id": 3, "speaker": "kojic_acid", "start": 4.4, "end": 5.6, "max_end": 9.28,
+      "en": "Challenge accepted.", "tag": "happy", "keep_original": false,
+      "bn": "চ্যালেঞ্জ অ্যাকসেপ্টেড!",
+      "ta": "சேலஞ்ச் அக்செப்டட்!",
+      "te": "ఛాలెంజ్ యాక్సెప్టెడ్!",
+      "ml": "ചലഞ്ച് അക്സെപ്റ്റഡ്!",
+      "or": "ଚ୍ୟାଲେଞ୍ଜ ଆକ୍ସେପ୍ଟେଡ୍!"
+    },
+    {
+      "id": 4, "speaker": "narrator", "start": 9.32, "end": 12.54, "max_end": 13.64,
+      "en": "Powered by three targeted ingredients in one night cream.", "tag": null, "keep_original": false,
+      "bn": "তিনটে টার্গেটেড ইনগ্রেডিয়েন্টের পাওয়ার, একটাই নাইট ক্রিমে।",
+      "ta": "மூணு டார்கெட்டட் இன்கிரீடியன்ட்ஸ் பவர், ஒரே நைட் க்ரீம்ல.",
+      "te": "మూడు టార్గెటెడ్ ఇంగ్రీడియెంట్స్ పవర్, ఒకే నైట్ క్రీమ్‌లో.",
+      "ml": "മൂന്ന് ടാർഗെറ്റഡ് ഇൻഗ്രീഡിയന്റ്സിന്റെ പവർ, ഒരൊറ്റ നൈറ്റ് ക്രീമിൽ.",
+      "or": "ତିନୋଟି ଟାର୍ଗେଟେଡ୍ ଇନଗ୍ରେଡିଏଣ୍ଟର ପାୱାର, ଗୋଟିଏ ନାଇଟ୍ କ୍ରିମରେ।"
+    },
+    {
+      "id": 5, "speaker": "narrator", "start": 13.68, "end": 16.56, "max_end": 16.62,
+      "en": "DERMDOC KNC Night Cream. Make every night count.", "tag": "happy", "keep_original": false,
+      "bn": "ডার্মডক কে এন সি নাইট ক্রিম। প্রতিটা রাত কাজে লাগাও!",
+      "ta": "டெர்ம்டாக் கே என் சி நைட் க்ரீம். ஒவ்வொரு நைட்டும் வொர்த்!",
+      "te": "డెర్మ్‌డాక్ కె ఎన్ సి నైట్ క్రీమ్. ప్రతి నైట్‌ని వర్త్ చేయండి!",
+      "ml": "ഡെർമ്ഡോക് കെ എൻ സി നൈറ്റ് ക്രീം. ഓരോ രാത്രിയും മുതലാക്കൂ!",
+      "or": "ଡର୍ମଡକ କେ ଏନ ସି ନାଇଟ କ୍ରିମ। ପ୍ରତି ରାତିକୁ କାମରେ ଲଗାଅ!"
+    }
+  ],
+  "notes": "Four voices: Dark Spot villain (f0 ~178 Hz), KNC jar (f0 ~193 Hz), Kojic Acid hero (f0 ~267 Hz), narrator (f0 ~205 Hz). Villain and jar sit close in original pitch, so villain gets -3 st + villain fx and jar +2 st + cartoon fx to keep them clearly apart. Short ref clips: villain speech is 0.0-1.5 s, jar speech only 1.7-2.76 s and Kojic speech only 4.4-5.6 s; their ref_ranges are padded into the adjacent silence (jar to 3.3 s, Kojic 4.3-5.9 s) to reach the 1.5 s minimum, so the actual voiced audio inside them is ~1.1-1.2 s. Niacinamide and Alpha Arbutin do not speak. Video is 17.02 s (prompt planned 20 s); the 'Before / After 2 weeks' section has no dialogue. KNC kept as spelled-out letters."
+}

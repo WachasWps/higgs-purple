@@ -1,0 +1,31 @@
+[
+  {
+    "created_at": "2026-10-09T18:21:16.987305Z",
+    "display_name": "Wan 3.0",
+    "id": "88d30442-0a3b-42d9-a52c-0a1c7c70d428",
+    "job_type": "wan3_0",
+    "min_result_url": null,
+    "params": {
+      "aspect_ratio": "9:16",
+      "duration": 5,
+      "generate_audio": false,
+      "height": 1344,
+      "medias": [
+        {
+          "data": {
+            "id": "e35e304e-37e9-4119-84b7-0a4af8dd9106",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3A6ZxB95Mnf55lwPBqzkePnTfzA/e35e304e-37e9-4119-84b7-0a4af8dd9106.png"
+          },
+          "role": "start_image"
+        }
+      ],
+      "prompt": "The woman looks at her dull skin in the mirror and sighs; the tube mascot on the counter waves to get her attention; the grey cloud drifts; the tube stays exactly as in the first frame. Keep the exact look of the first frame: same real woman and skin tone, same cartoon characters, product label and cap exactly as in the first frame (cap on, no nozzle); smooth natural motion; no text appears.",
+      "resolution": "480p",
+      "width": 768
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3A6ZxB95Mnf55lwPBqzkePnTfzA/hf_20261009_182116_88d30442-0a3b-42d9-a52c-0a1c7c70d428.mp4",
+    "status": "completed",
+    "thumbnail_url": "https://cdn.higgsfield.ai/user_3A6ZxB95Mnf55lwPBqzkePnTfzA/hf_20261009_182116_88d30442-0a3b-42d9-a52c-0a1c7c70d428_thumbnail.webp"
+  }
+]

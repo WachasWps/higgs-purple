@@ -1,0 +1,49 @@
+[
+ {
+  "id": 1,
+  "speaker": "white_cast",
+  "cer": 0.05,
+  "heard": "இந்த சன்ஸ்கரின ஊரே பாக்க வைப்பான்",
+  "redub": true
+ },
+ {
+  "id": 2,
+  "speaker": "sunscreen",
+  "cer": 0.19,
+  "heard": "தப்பானு செட்ட, தப்பானு சென் ச்க்ரின்"
+ },
+ {
+  "id": 3,
+  "speaker": "sunscreen",
+  "cer": 0.31,
+  "heard": "பர்புளை மஜலிக்கு நேர் ஏதர் அது நால் டல்னச் செய்க்கியல் பொண்ணும்.",
+  "redub": true
+ },
+ {
+  "id": 4,
+  "speaker": "sunscreen",
+  "cer": 0.04,
+  "heard": "அப்படியை கலந்தடோம் இந்தியன் சகின்னுக்காக வே.",
+  "redub": true
+ },
+ {
+  "id": 5,
+  "speaker": "sunscreen",
+  "cer": 0.15,
+  "heard": "4% நியாசினமைட் instant cloth the room.",
+  "redub": true
+ },
+ {
+  "id": 6,
+  "speaker": "sunscreen",
+  "cer": 0.15,
+  "heard": "கோடவே SPF of 50, பிய் triple plus காக்கும்."
+ },
+ {
+  "id": 7,
+  "speaker": "sunscreen",
+  "cer": 0.26,
+  "heard": "வைட் காஸ்ட் இல்லு, ஜஸ்டு பிரட்டுக்த் சகின் கூடவே இன்ச்சன் கலோ.",
+  "redub": true
+ }
+]

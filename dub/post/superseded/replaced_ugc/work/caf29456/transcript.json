@@ -1,0 +1,405 @@
+{
+ "language": "en",
+ "segments": [
+  {
+   "seg": 0,
+   "start": 0.0,
+   "end": 2.44,
+   "text": "Why does sunlight expose every bit of dullness?",
+   "f0_median_hz": 260,
+   "words": [
+    [
+     "Why",
+     0.0,
+     0.26
+    ],
+    [
+     "does",
+     0.26,
+     0.44
+    ],
+    [
+     "sunlight",
+     0.44,
+     0.8
+    ],
+    [
+     "expose",
+     0.8,
+     1.32
+    ],
+    [
+     "every",
+     1.32,
+     1.66
+    ],
+    [
+     "bit",
+     1.66,
+     1.88
+    ],
+    [
+     "of",
+     1.88,
+     2.0
+    ],
+    [
+     "dullness?",
+     2.0,
+     2.44
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 1,
+   "start": 2.62,
+   "end": 4.36,
+   "text": "That's where this purple tint makes sense.",
+   "f0_median_hz": 256,
+   "words": [
+    [
+     "That's",
+     2.62,
+     2.9
+    ],
+    [
+     "where",
+     2.9,
+     3.02
+    ],
+    [
+     "this",
+     3.02,
+     3.22
+    ],
+    [
+     "purple",
+     3.22,
+     3.54
+    ],
+    [
+     "tint",
+     3.54,
+     3.78
+    ],
+    [
+     "makes",
+     3.78,
+     4.04
+    ],
+    [
+     "sense.",
+     4.04,
+     4.36
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 2,
+   "start": 4.56,
+   "end": 6.52,
+   "text": "Violet helps correct yellow-looking dullness.",
+   "f0_median_hz": 235,
+   "words": [
+    [
+     "Violet",
+     4.56,
+     4.88
+    ],
+    [
+     "helps",
+     4.88,
+     5.08
+    ],
+    [
+     "correct",
+     5.08,
+     5.4
+    ],
+    [
+     "yellow",
+     5.4,
+     5.74
+    ],
+    [
+     "-looking",
+     5.74,
+     6.02
+    ],
+    [
+     "dullness.",
+     6.02,
+     6.52
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 3,
+   "start": 6.66,
+   "end": 8.02,
+   "text": "And no, it doesn't stay purple.",
+   "f0_median_hz": 266,
+   "words": [
+    [
+     "And",
+     6.66,
+     6.8
+    ],
+    [
+     "no,",
+     6.8,
+     7.0
+    ],
+    [
+     "it",
+     7.16,
+     7.22
+    ],
+    [
+     "doesn't",
+     7.22,
+     7.5
+    ],
+    [
+     "stay",
+     7.5,
+     7.68
+    ],
+    [
+     "purple.",
+     7.68,
+     8.02
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 4,
+   "start": 8.16,
+   "end": 10.46,
+   "text": "It blends clear on Indian skin, no white cast.",
+   "f0_median_hz": 240,
+   "words": [
+    [
+     "It",
+     8.16,
+     8.28
+    ],
+    [
+     "blends",
+     8.28,
+     8.56
+    ],
+    [
+     "clear",
+     8.56,
+     8.82
+    ],
+    [
+     "on",
+     8.82,
+     9.02
+    ],
+    [
+     "Indian",
+     9.02,
+     9.26
+    ],
+    [
+     "skin,",
+     9.26,
+     9.6
+    ],
+    [
+     "no",
+     9.72,
+     9.92
+    ],
+    [
+     "white",
+     9.92,
+     10.18
+    ],
+    [
+     "cast.",
+     10.18,
+     10.46
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 5,
+   "start": 10.7,
+   "end": 14.42,
+   "text": "You also get 4% Niacinamide for brighter, more even-looking skin",
+   "f0_median_hz": 264,
+   "words": [
+    [
+     "You",
+     10.7,
+     10.82
+    ],
+    [
+     "also",
+     10.82,
+     11.04
+    ],
+    [
+     "get",
+     11.04,
+     11.26
+    ],
+    [
+     "4",
+     11.26,
+     11.54
+    ],
+    [
+     "%",
+     11.54,
+     11.86
+    ],
+    [
+     "Niacinamide",
+     11.86,
+     12.58
+    ],
+    [
+     "for",
+     12.58,
+     12.74
+    ],
+    [
+     "brighter,",
+     12.74,
+     13.18
+    ],
+    [
+     "more",
+     13.36,
+     13.52
+    ],
+    [
+     "even",
+     13.52,
+     13.82
+    ],
+    [
+     "-looking",
+     13.82,
+     14.12
+    ],
+    [
+     "skin",
+     14.12,
+     14.42
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 6,
+   "start": 14.42,
+   "end": 16.22,
+   "text": "without changing your natural skin tone.",
+   "f0_median_hz": 227,
+   "words": [
+    [
+     "without",
+     14.42,
+     14.7
+    ],
+    [
+     "changing",
+     14.7,
+     15.16
+    ],
+    [
+     "your",
+     15.16,
+     15.36
+    ],
+    [
+     "natural",
+     15.36,
+     15.68
+    ],
+    [
+     "skin",
+     15.68,
+     15.94
+    ],
+    [
+     "tone.",
+     15.94,
+     16.22
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 7,
+   "start": 16.42,
+   "end": 19.86,
+   "text": "And SPF 50 PA Pluppurl keeps my daytime protection covered.",
+   "f0_median_hz": 264,
+   "words": [
+    [
+     "And",
+     16.42,
+     16.54
+    ],
+    [
+     "SPF",
+     16.54,
+     17.02
+    ],
+    [
+     "50",
+     17.02,
+     17.34
+    ],
+    [
+     "PA",
+     17.34,
+     17.7
+    ],
+    [
+     "Pluppurl",
+     17.7,
+     18.28
+    ],
+    [
+     "keeps",
+     18.28,
+     18.5
+    ],
+    [
+     "my",
+     18.5,
+     18.72
+    ],
+    [
+     "daytime",
+     18.72,
+     18.98
+    ],
+    [
+     "protection",
+     18.98,
+     19.48
+    ],
+    [
+     "covered.",
+     19.48,
+     19.86
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  }
+ ]
+}

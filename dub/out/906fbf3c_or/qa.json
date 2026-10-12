@@ -1,0 +1,55 @@
+[
+ {
+  "id": 1,
+  "speaker": "dark_spot",
+  "cer": 0.0,
+  "heard": "রাতি হিলা এবে মোটাইম",
+  "redub": true
+ },
+ {
+  "id": 2,
+  "speaker": "jar",
+  "cer": 0.14,
+  "heard": "আসলরি এমসিফ্ট মো অবরনাইট ব্রাইটিন নে?"
+ },
+ {
+  "id": 3,
+  "speaker": "jar",
+  "cer": 0.24,
+  "heard": "থরি একসবট মানে তেনে ভাইটিনে একটিভা।",
+  "redub": true
+ },
+ {
+  "id": 4,
+  "speaker": "dark_spot",
+  "cer": 0.43,
+  "heard": "দিন মান মাকো.",
+  "redub": true
+ },
+ {
+  "id": 5,
+  "speaker": "jar",
+  "cer": 0.1,
+  "heard": "মুরি চক্রে মে রাতে পাইম।"
+ },
+ {
+  "id": 6,
+  "speaker": "jar",
+  "cer": 0.15,
+  "heard": "Lo ga masa accordingly भो कममूरू"
+ },
+ {
+  "id": 7,
+  "speaker": "woman",
+  "cer": 0.12,
+  "heard": "দুই সপতা হেস পাটস কমদী সূছে।",
+  "redub": true
+ },
+ {
+  "id": 8,
+  "speaker": "jar",
+  "cer": 0.13,
+  "heard": "দারমাডা কটু পারসেট কটুজিকা এসিড নইট করিমা।",
+  "redub": true
+ }
+]

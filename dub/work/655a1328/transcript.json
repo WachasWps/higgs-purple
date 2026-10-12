@@ -1,0 +1,280 @@
+{
+ "language": "en",
+ "segments": [
+  {
+   "seg": 0,
+   "start": 0.0,
+   "end": 1.98,
+   "text": "Let's steal that morning glow.",
+   "f0_median_hz": 98,
+   "words": [
+    [
+     "Let's",
+     0.0,
+     0.5
+    ],
+    [
+     "steal",
+     0.5,
+     0.8
+    ],
+    [
+     "that",
+     0.8,
+     1.12
+    ],
+    [
+     "morning",
+     1.12,
+     1.52
+    ],
+    [
+     "glow.",
+     1.52,
+     1.98
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 1,
+   "start": 2.4,
+   "end": 3.64,
+   "text": "Not while I'm here.",
+   "f0_median_hz": 217,
+   "words": [
+    [
+     "Not",
+     2.4,
+     2.74
+    ],
+    [
+     "while",
+     2.74,
+     3.02
+    ],
+    [
+     "I'm",
+     3.02,
+     3.36
+    ],
+    [
+     "here.",
+     3.36,
+     3.64
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 2,
+   "start": 4.46,
+   "end": 5.58,
+   "text": "Yellow looking dullness?",
+   "f0_median_hz": 293,
+   "words": [
+    [
+     "Yellow",
+     4.46,
+     4.72
+    ],
+    [
+     "looking",
+     4.72,
+     5.0
+    ],
+    [
+     "dullness?",
+     5.0,
+     5.58
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 3,
+   "start": 5.78,
+   "end": 7.0,
+   "text": "Violet sits opposite.",
+   "f0_median_hz": 195,
+   "words": [
+    [
+     "Violet",
+     5.78,
+     6.34
+    ],
+    [
+     "sits",
+     6.34,
+     6.58
+    ],
+    [
+     "opposite.",
+     6.58,
+     7.0
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 4,
+   "start": 8.36,
+   "end": 10.58,
+   "text": "My purple tint is made for Indian skin.",
+   "f0_median_hz": 222,
+   "words": [
+    [
+     "My",
+     8.12,
+     8.48
+    ],
+    [
+     "purple",
+     8.48,
+     8.84
+    ],
+    [
+     "tint",
+     8.84,
+     9.1
+    ],
+    [
+     "is",
+     9.1,
+     9.38
+    ],
+    [
+     "made",
+     9.38,
+     9.64
+    ],
+    [
+     "for",
+     9.64,
+     9.86
+    ],
+    [
+     "Indian",
+     9.86,
+     10.16
+    ],
+    [
+     "skin.",
+     10.16,
+     10.58
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 5,
+   "start": 11.12,
+   "end": 13.22,
+   "text": "4% niacinamide helps brighten.",
+   "f0_median_hz": 209,
+   "words": [
+    [
+     "4",
+     11.12,
+     11.34
+    ],
+    [
+     "%",
+     11.34,
+     11.72
+    ],
+    [
+     "niacinamide",
+     11.72,
+     12.56
+    ],
+    [
+     "helps",
+     12.56,
+     12.86
+    ],
+    [
+     "brighten.",
+     12.86,
+     13.22
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 6,
+   "start": 14.02,
+   "end": 16.16,
+   "text": "SPF 50 PA Plus protects.",
+   "f0_median_hz": 254,
+   "words": [
+    [
+     "SPF",
+     14.02,
+     14.52
+    ],
+    [
+     "50",
+     14.52,
+     14.84
+    ],
+    [
+     "PA",
+     14.84,
+     15.22
+    ],
+    [
+     "Plus",
+     15.22,
+     15.6
+    ],
+    [
+     "protects.",
+     15.6,
+     16.16
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 7,
+   "start": 16.6,
+   "end": 18.9,
+   "text": "Same skin tone, fresher looking glow.",
+   "f0_median_hz": 211,
+   "words": [
+    [
+     "Same",
+     16.6,
+     17.04
+    ],
+    [
+     "skin",
+     17.04,
+     17.3
+    ],
+    [
+     "tone,",
+     17.3,
+     17.64
+    ],
+    [
+     "fresher",
+     18.0,
+     18.28
+    ],
+    [
+     "looking",
+     18.28,
+     18.52
+    ],
+    [
+     "glow.",
+     18.52,
+     18.9
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  }
+ ]
+}

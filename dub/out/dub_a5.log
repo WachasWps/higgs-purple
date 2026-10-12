@@ -1,0 +1,63 @@
+[2026-10-09 08:45:23,087] WARNING miocodec: FlashAttention is not installed. Falling back to PyTorch SDPA implementation. There is no warranty that the model will work correctly.
+Fetching 10 files:   0%|          | 0/10 [00:00<?, ?it/s]Fetching 10 files: 100%|██████████| 10/10 [00:00<00:00, 3691.19it/s]
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+[2026-10-09 08:45:28,224] INFO miocodec: Loaded weights from safetensors file: /Users/wachas/.cache/huggingface/hub/models--Aratako--MioCodec-25Hz-24kHz/snapshots/3a737f0de2c6324cb2fe40c1fbd1056c7add423d/model.safetensors
+Fetching 4 files:   0%|          | 0/4 [00:00<?, ?it/s]Fetching 4 files: 100%|██████████| 4/4 [00:00<00:00, 2494.01it/s]
+models ready in 5.2s
+uniform tempo x1.12  |  voice ends at 17.73s  |  max late start +0.99s
+line  orig_cue  new_start  shift   length
+   1      0.00       0.05  +0.05    2.32s
+   2      2.72       2.57  -0.15    2.61s
+   3      4.34       5.28  +0.94    1.67s
+   4      6.06       7.05  +0.99    1.17s
+   5      8.16       8.31  +0.15    1.97s
+   6     10.70      10.55  -0.15    2.34s
+   7     13.16      13.01  -0.15    1.80s
+   8     15.66      15.51  -0.15    2.22s
+wrote out/a5c00002_bn.mp4
+uniform tempo x1.00  |  voice ends at 17.70s  |  max late start +0.74s
+line  orig_cue  new_start  shift   length
+   1      0.00       0.05  +0.05    3.16s
+   2      2.72       3.31  +0.59    1.67s
+   3      4.34       5.08  +0.74    1.35s
+   4      6.06       6.53  +0.47    1.70s
+   5      8.16       8.33  +0.17    2.31s
+   6     10.70      10.75  +0.05    2.40s
+   7     13.16      13.25  +0.09    2.41s
+   8     15.66      15.76  +0.10    1.94s
+wrote out/a5c00002_ta.mp4
+uniform tempo x1.12  |  voice ends at 18.40s  |  max late start +0.99s
+line  orig_cue  new_start  shift   length
+   1      0.00       0.05  +0.05    3.08s
+   2      2.72       3.23  +0.51    1.79s
+   3      4.34       5.12  +0.78    1.36s
+   4      6.06       6.58  +0.52    1.91s
+   5      8.16       8.58  +0.42    2.51s
+   6     10.70      11.20  +0.50    2.85s
+   7     13.16      14.15  +0.99    2.05s
+   8     15.66      16.30  +0.64    2.11s
+wrote out/a5c00002_te.mp4
+uniform tempo x1.00  |  voice ends at 17.72s  |  max late start +0.84s
+line  orig_cue  new_start  shift   length
+   1      0.00       0.05  +0.05    3.26s
+   2      2.72       3.41  +0.69    1.42s
+   3      4.34       4.93  +0.59    1.87s
+   4      6.06       6.90  +0.84    1.56s
+   5      8.16       8.56  +0.40    1.56s
+   6     10.70      10.55  -0.15    3.17s
+   7     13.16      13.82  +0.66    2.24s
+   8     15.66      16.16  +0.50    1.56s
+wrote out/a5c00002_ml.mp4
+uniform tempo x1.13  |  voice ends at 17.93s  |  max late start +0.99s
+line  orig_cue  new_start  shift   length
+   1      0.00       0.05  +0.05    3.35s
+   2      2.72       3.50  +0.78    1.62s
+   3      4.34       5.22  +0.88    1.42s
+   4      6.06       6.73  +0.67    2.32s
+   5      8.16       9.15  +0.99    2.05s
+   6     10.70      11.30  +0.60    2.70s
+   7     13.16      14.10  +0.94    1.62s
+   8     15.66      15.82  +0.16    2.11s
+wrote out/a5c00002_or.mp4
+[a5c00002] 5 langs in 148s | worst line CER 0.64 | retried 1
+DUB DONE: 30 videos

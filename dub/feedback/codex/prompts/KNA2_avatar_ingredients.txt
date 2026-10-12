@@ -1,0 +1,6 @@
+Read CODEX_BRIEF.md in this folder first and follow it strictly.
+Attached reference images: knc_tub_open.png, knc_tub_clean.png. Product photos are the ground truth for packaging; the out/*_model_ref.png image is the identity reference for the woman — keep the SAME face, hair and skin tone.
+TASK: generate ONE photorealistic vertical 9:16 keyframe image:
+The EXACT DERMDOC 2% Kojic Acid Night Cream jar, open (thick white cream visible), on a dark night-blue vanity with soft bokeh; three small glowing light-orbs (one warm gold, one icy white-blue, one soft pink) rising from the cream, NO text anywhere except the jar label.
+
+Use your image generation tool (pass the reference images to it), then copy the generated file to out/KNA2_avatar_ingredients.png. Reply only with the saved path.

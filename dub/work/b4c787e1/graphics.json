@@ -1,0 +1,96 @@
+{
+ "video_id": "b4c787e1",
+ "product": "kojic_night_cream",
+ "caption_y": 0.9,
+ "no_outro": true,
+ "own_music": false,
+ "caption_moves": [
+  {
+   "start": 24.8,
+   "end": 26.6,
+   "y": 0.58
+  }
+ ],
+ "elements": [
+  {
+   "type": "hook_mono",
+   "start": 0.2,
+   "end": 1.8,
+   "lines": [
+    "DARK SPOTS",
+    "AGAIN?"
+   ],
+   "position": "lower",
+   "anim": "slide_up"
+  },
+  {
+   "type": "pill",
+   "start": 6.2,
+   "end": 8.4,
+   "lines": [
+    "ONE SCOOP"
+   ],
+   "x": 0.5,
+   "y": 0.12,
+   "anim": "pop"
+  },
+  {
+   "type": "label",
+   "start": 13.0,
+   "end": 14.6,
+   "lines": [
+    "BEFORE BED"
+   ],
+   "x": 0.5,
+   "y": 0.8,
+   "anim": "pop"
+  },
+  {
+   "type": "claim_bold",
+   "start": 16.0,
+   "end": 18.9,
+   "lines": [
+    "GLOW FUSION",
+    "FORMULA"
+   ],
+   "sub": "KOJIC · NIACINAMIDE · ARBUTIN",
+   "x": 0.5,
+   "y": 0.2,
+   "anim": "fade"
+  },
+  {
+   "type": "label",
+   "start": 24.9,
+   "end": 26.5,
+   "lines": [
+    "BEFORE"
+   ],
+   "x": 0.5,
+   "y": 0.455,
+   "anim": "pop"
+  },
+  {
+   "type": "label",
+   "start": 24.9,
+   "end": 26.5,
+   "lines": [
+    "AFTER 2 WEEKS"
+   ],
+   "x": 0.5,
+   "y": 0.895,
+   "anim": "pop"
+  },
+  {
+   "type": "pill",
+   "start": 27.7,
+   "end": 29.4,
+   "lines": [
+    "ALL SKIN TYPES"
+   ],
+   "x": 0.5,
+   "y": 0.12,
+   "anim": "pop"
+  }
+ ],
+ "notes": "user's General Ad: text only where the footage has none baked in; own end card + music"
+}

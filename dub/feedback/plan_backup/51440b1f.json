@@ -1,0 +1,133 @@
+{
+ "video_id": "51440b1f",
+ "style": "ugc",
+ "duration": 20.04,
+ "cast": [
+  {
+   "id": "creator",
+   "name": "Creator",
+   "role": "creator",
+   "description": "young Indian woman, upbeat UGC creator",
+   "ref_ranges": [
+    [
+     0.0,
+     5.5
+    ],
+    [
+     5.62,
+     10.5
+    ]
+   ],
+   "fx": "none",
+   "pitch_semitones": 0
+  }
+ ],
+ "lines": [
+  {
+   "id": 1,
+   "start": 0.0,
+   "end": 1.94,
+   "max_end": 2.15,
+   "en": "My morning glow was definitely not glowing.",
+   "tag": "surprise",
+   "speaker": "creator",
+   "keep_original": false,
+   "bn": "মর্নিং গ্লো? একদম গায়েব!",
+   "ta": "மார்னிங் க்ளோ? ஆளே காணோம்!",
+   "te": "మార్నింగ్ గ్లో? పత్తా లేదు!",
+   "ml": "മോർണിംഗ് ഗ്ലോ? എവിടെ!",
+   "or": "ମର୍ନିଂ ଗ୍ଲୋ? ଏକଦମ୍ ଗାଏବ!"
+  },
+  {
+   "id": 2,
+   "start": 2.18,
+   "end": 5.44,
+   "max_end": 5.58,
+   "en": "The purple tint is color correction. Violet helps balance yellow-looking dullness.",
+   "tag": null,
+   "speaker": "creator",
+   "keep_original": false,
+   "bn": "এই পার্পল টিন্টটা আসলে কালার কারেকশন, হলদেটে ভাব ব্যালান্স করে।",
+   "ta": "பர்பிள் டின்ட், கலர் கரெக்ஷன்! மஞ்சள் டல்னஸ் பேலன்ஸாகும்.",
+   "te": "పర్పుల్ టింట్ కలర్ కరెక్షన్, పసుపు డల్నెస్ బ్యాలెన్స్!",
+   "ml": "പർപ്പിൾ ടിന്റ് കളർ കറക്ഷനാ, മഞ്ഞ ഡൾനെസ് ബാലൻസ് ചെയ്യും.",
+   "or": "ପର୍ପଲ ଟିଣ୍ଟ ମାନେ କଲର କରେକ୍ସନ, ହଳଦିଆ ଡଲନେସ୍ ବାଲାନ୍ସ କରେ।"
+  },
+  {
+   "id": 3,
+   "start": 5.62,
+   "end": 6.48,
+   "max_end": 6.6,
+   "en": "Now watch both hands.",
+   "tag": "happy",
+   "speaker": "creator",
+   "keep_original": false,
+   "bn": "এবার দুটো হাত দেখো।",
+   "ta": "ரெண்டு கை பாருங்க!",
+   "te": "రెండు చేతులూ చూడు!",
+   "ml": "കൈ രണ്ടും നോക്ക്!",
+   "or": "ଏବେ ଦୁଇ ହାତ ଦେଖ!"
+  },
+  {
+   "id": 4,
+   "start": 6.64,
+   "end": 8.64,
+   "max_end": 8.76,
+   "en": "It starts lavender, then blends completely clear.",
+   "tag": "surprise",
+   "speaker": "creator",
+   "keep_original": false,
+   "bn": "ল্যাভেন্ডার থেকে একদম ক্লিয়ার!",
+   "ta": "லேவண்டர், ப்ளெண்ட் பண்ணா க்ளியர்!",
+   "te": "లావెండర్ నుంచి ఫుల్ క్లియర్!",
+   "ml": "ലാവെൻഡറിൽ നിന്ന് ഫുൾ ക്ലിയർ!",
+   "or": "ଲାଭେଣ୍ଡରରୁ ଏକଦମ୍ କ୍ଲିୟର!"
+  },
+  {
+   "id": 5,
+   "start": 8.8,
+   "end": 10.5,
+   "max_end": 10.66,
+   "en": "Zero white cast, zero purple residue.",
+   "tag": "happy",
+   "speaker": "creator",
+   "keep_original": false,
+   "bn": "হোয়াইট কাস্ট জিরো, পার্পল দাগও জিরো।",
+   "ta": "வைட் காஸ்ட் ஜீரோ, பர்பிள் கறை ஜீரோ!",
+   "te": "వైట్ కాస్ట్ జీరో, పర్పుల్ మరక జీరో!",
+   "ml": "നോ വൈറ്റ് കാസ്റ്റ്, നോ പർപ്പിൾ!",
+   "or": "ହ୍ୱାଇଟ କାଷ୍ଟ ଜିରୋ, ପର୍ପଲ ଦାଗ ଜିରୋ।"
+  },
+  {
+   "id": 6,
+   "start": 10.72,
+   "end": 14.1,
+   "max_end": 14.26,
+   "en": "It's made for Indian skin, with 4% niacinamide for a brighter-looking finish.",
+   "tag": "happy",
+   "speaker": "creator",
+   "keep_original": false,
+   "bn": "ইন্ডিয়ান স্কিনের জন্য, চার পার্সেন্ট নিয়াসিনামাইডে ব্রাইট ফিনিশ।",
+   "ta": "இந்தியன் ஸ்கின்னுக்கு, நாலு பர்சென்ட் நியாசினமைட், செம க்ளோ!",
+   "te": "ఇండియన్ స్కిన్ కోసం, ఫోర్ పర్సెంట్ నియాసినమైడ్, బ్రైట్ ఫినిష్!",
+   "ml": "ഇന്ത്യൻ സ്കിന്നിന്, നാല് ശതമാനം നിയാസിനമൈഡ്, ബ്രൈറ്റ് ഫിനിഷ്.",
+   "or": "ଇଣ୍ଡିଆନ ସ୍କିନ ପାଇଁ, ଚାରି ପର୍ସେଣ୍ଟ ନିଆସିନାମାଇଡରେ ବ୍ରାଇଟ ଫିନିଶ।"
+  },
+  {
+   "id": 7,
+   "start": 14.34,
+   "end": 17.92,
+   "max_end": 18.4,
+   "en": "And SPF 50 PA+++ gives me the daily protection I actually need.",
+   "tag": "happy",
+   "speaker": "creator",
+   "keep_original": false,
+   "bn": "আর এসপিএফ ফিফটি, পিএ ট্রিপল প্লাস, রোজকার প্রোটেকশন, ঠিক যেটা দরকার।",
+   "ta": "எஸ்பிஎஃப் ஃபிஃப்டி, பிஏ ட்ரிபிள் ப்ளஸ், டெய்லி ப்ரொடெக்ஷன்!",
+   "te": "ఇక ఎస్పీఎఫ్ ఫిఫ్టీ, పీఏ ట్రిపుల్ ప్లస్, నా డైలీ ప్రొటెక్షన్ పక్కా!",
+   "ml": "എസ്പിഎഫ് ഫിഫ്റ്റി, പിഎ ട്രിപ്പിൾ പ്ലസ്, ഡെയിലി പ്രൊട്ടക്ഷൻ ഡൺ!",
+   "or": "ଆଉ ଏସପିଏଫ ଫିଫ୍ଟି, ପିଏ ଟ୍ରିପଲ ପ୍ଲସ, ଡେଲି ପ୍ରୋଟେକ୍ସନ, ଯାହା ମୋର ଦରକାର।"
+  }
+ ],
+ "notes": "morning-glow; bn/te/or already rendered"
+}

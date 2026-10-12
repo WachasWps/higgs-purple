@@ -1,0 +1,151 @@
+{
+ "video_id": "bd3b8af7",
+ "style": "personification",
+ "duration": 15.02,
+ "cast": [
+  {
+   "id": "kojic_jar",
+   "name": "KNC Jar",
+   "role": "product_mascot",
+   "description": "The talking DERMDOC 2% Kojic Acid Night Cream jar (cobalt-blue base, white lid, small cartoon eyes, mouth, tiny arms and legs). Warm, caring, playful team-boss voice that tucks the woman in and introduces its night team; bright mid-high pitch (~265 Hz).",
+   "ref_ranges": [
+    [
+     0.0,
+     2.3
+    ],
+    [
+     12.8,
+     14.92
+    ]
+   ],
+   "fx": "cartoon",
+   "pitch_semitones": 1
+  },
+  {
+   "id": "kojic_acid",
+   "name": "Kojic Acid",
+   "role": "hero",
+   "description": "Golden molecular Kojic Acid hero with a tiny precision scanner/magnifier, targets individual dark spots. Male-coded (Hindi 'karta hoon'): confident, smart, slightly cocky action-hero voice; should sound deeper than the two female ingredients.",
+   "ref_ranges": [
+    [
+     0.0,
+     5.5
+    ],
+    [
+     5.62,
+     10.5
+    ]
+   ],
+   "fx": "cartoon",
+   "pitch_semitones": 0,
+   "ref_file": "work/51440b1f/stems/vocals.wav",
+   "recast": "female hero (was f0≈224 Hz)"
+  },
+  {
+   "id": "niacinamide",
+   "name": "Niacinamide",
+   "role": "hero",
+   "description": "Pearly silver-white molecular Niacinamide heroine with a glow-diffusion wand, works on dullness. Female-coded ('karti hoon'): calm, polished, elegant and cheerful, premium not childish (~255 Hz).",
+   "ref_ranges": [
+    [
+     6.35,
+     8.4
+    ]
+   ],
+   "fx": "cartoon",
+   "pitch_semitones": 0
+  },
+  {
+   "id": "alpha_arbutin",
+   "name": "Alpha Arbutin",
+   "role": "hero",
+   "description": "Polished soft-pink droplet Alpha Arbutin heroine with a tiny tone-balancing tool, evens out uneven tone. Female-coded: sweet, gentle, a little sing-song, the lightest and brightest voice of the team.",
+   "ref_ranges": [
+    [
+     8.46,
+     9.98
+    ]
+   ],
+   "fx": "cartoon",
+   "pitch_semitones": 3
+  }
+ ],
+ "lines": [
+  {
+   "id": 1,
+   "speaker": "kojic_jar",
+   "start": 0.0,
+   "end": 2.36,
+   "max_end": 2.32,
+   "en": "You go to sleep. My night team is clocking in.",
+   "tag": "happy",
+   "keep_original": false,
+   "bn": "তুমি ঘুমোও, আমার নাইট টিম কাজে।",
+   "ta": "நீ தூங்கு, நைட் டீம் டியூட்டில!",
+   "te": "నువ్వు పడుకో, నైట్ టీమ్ వచ్చేసింది.",
+   "ml": "നീ ഉറങ്ങിക്കോ, നൈറ്റ് ടീം ഡ്യൂട്ടിയിൽ.",
+   "or": "ତୁମେ ଶୋଇପଡ଼, ମୋ ନାଇଟ ଟିମ କାମରେ।"
+  },
+  {
+   "id": 2,
+   "speaker": "kojic_acid",
+   "start": 2.36,
+   "end": 6.3,
+   "max_end": 6.26,
+   "en": "I'm two percent Kojic Acid. I work on the look of dark spots and pigmentation.",
+   "tag": "happy",
+   "keep_original": false,
+   "bn": "আমি টু পারসেন্ট কোজিক অ্যাসিড, টার্গেট ডার্ক স্পট, পিগমেন্টেশন।",
+   "ta": "நான் டூ பர்சென்ட் கோஜிக் ஆசிட். டார்க் ஸ்பாட், பிக்மென்டேஷன் என் வேலை.",
+   "te": "నేను టూ పర్సెంట్ కోజిక్ యాసిడ్. డార్క్ స్పాట్, పిగ్మెంటేషన్ నా పని.",
+   "ml": "ഞാൻ ടു പെർസന്റ് കോജിക് ആസിഡ്. ഡാർക്ക് സ്പോട്ട്, പിഗ്മെന്റേഷൻ എന്റെ പണി.",
+   "or": "ମୁଁ ଟୁ ପର୍ସେଣ୍ଟ କୋଜିକ ଏସିଡ, ଟାର୍ଗେଟ ଡାର୍କ ସ୍ପଟ, ପିଗମେଣ୍ଟେସନ।"
+  },
+  {
+   "id": 3,
+   "speaker": "niacinamide",
+   "start": 6.3,
+   "end": 8.46,
+   "max_end": 8.42,
+   "en": "I help make dull-looking skin look brighter.",
+   "tag": "happy",
+   "keep_original": false,
+   "bn": "ডাল স্কিনকে ব্রাইট লুক দিই।",
+   "ta": "டல் ஸ்கின்ன ப்ரைட்டா காட்டுவேன்.",
+   "te": "డల్ స్కిన్‌కి బ్రైట్ లుక్ ఇస్తా.",
+   "ml": "ഡൾ സ്കിന് ബ്രൈറ്റ് ലുക്ക് തരാം.",
+   "or": "ମୁଁ ଡଲ ସ୍କିନକୁ ବ୍ରାଇଟ ଲୁକ ଦିଏ।"
+  },
+  {
+   "id": 4,
+   "speaker": "alpha_arbutin",
+   "start": 8.46,
+   "end": 9.98,
+   "max_end": 9.94,
+   "en": "And I help even out uneven-looking tone.",
+   "tag": "happy",
+   "keep_original": false,
+   "bn": "আর আমি টোন ইভেন করি।",
+   "ta": "அன்ஈவன் டோன ஈவன் ஆக்குவேன்.",
+   "te": "అన్ఈవెన్ టోన్ ఈవెన్ చేస్తా.",
+   "ml": "അൺഈവൻ ടോൺ ഈവൻ ആക്കാം.",
+   "or": "ଆଉ ମୁଁ ଟୋନ ଇଭେନ କରେ।"
+  },
+  {
+   "id": 5,
+   "speaker": "kojic_jar",
+   "start": 9.98,
+   "end": 14.92,
+   "max_end": 14.62,
+   "en": "Rich night cream. After two weeks, spots look reduced. DERMDOC two percent Kojic Acid Night Cream.",
+   "tag": null,
+   "keep_original": false,
+   "bn": "রিচ ক্রিম। দুই সপ্তাহে স্পট কম লাগছে। ডার্মডক টু পারসেন্ট কোজিক অ্যাসিড নাইট ক্রিম।",
+   "ta": "ரிச் க்ரீம். ரெண்டு வாரத்துல ஸ்பாட்ஸ் கம்மியா தெரியும். டெர்ம்டாக் டூ பர்சென்ட் கோஜிக் ஆசிட் நைட் க்ரீம்.",
+   "te": "రిచ్ క్రీమ్. రెండు వారాల్లో స్పాట్స్ తగ్గినట్టు. డెర్మ్‌డాక్ టూ పర్సెంట్ కోజిక్ యాసిడ్ నైట్ క్రీమ్.",
+   "ml": "റിച്ച് ക്രീം. രണ്ടാഴ്ചയിൽ സ്പോട്ട്സ് കുറഞ്ഞപോലെ. ഡെർമ്ഡോക് ടു പെർസന്റ് കോജിക് ആസിഡ് നൈറ്റ് ക്രീം.",
+   "or": "ରିଚ କ୍ରିମ। ଦୁଇ ସପ୍ତାହରେ ସ୍ପଟ୍ସ କମ ଦିଶେ। ଡର୍ମଡକ ଟୁ ପର୍ସେଣ୍ଟ କୋଜିକ ଏସିଡ ନାଇଟ କ୍ରିମ।"
+  }
+ ],
+ "notes": "Original audio is Hindi/Hinglish; video is 15.02 s (prompt timeline compressed from 20 s). Whisper segments are back-to-back with no gaps, so speaker boundaries are approximate (end > max_end by 0.04 s on lines 1-4 is just the contiguous segmentation). Whisper garbles: 'banane parti hoon' = 'banane mein support karti hoon' (Niacinamide); 'unwin looking mein port karti hoon' = 'uneven-looking tone mein support karti hoon' (Alpha Arbutin); 'Demdoc' = DERMDOC. Kojic Acid uses masculine Hindi verb ('karta hoon'), Niacinamide and Alpha Arbutin feminine ('karti hoon'), so Kojic is pitched -2 and the girls 0/+3 to keep the trio distinct even if the original used one generated voice. Per prompt the JAR speaks 'Rich night cream, apply, absorb and stay consistent' and the end-slate brand line; these two jar lines are merged into line 5 so the full product name fits the length budget. The 'Rich night cream' part was voiced noticeably lower in the original (~216 Hz vs ~265 Hz for the jar), so it is excluded from the jar ref_ranges to keep one consistent jar voice. No villains speak in this video."
+}

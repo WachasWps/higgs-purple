@@ -1,0 +1,65 @@
+[
+ {
+  "id": 1,
+  "speaker": "creator",
+  "cer": 0.15,
+  "heard": "Sockaru-sockaru, skindola lagutila.",
+  "redub": true
+ },
+ {
+  "id": 2,
+  "speaker": "creator",
+  "cer": 0.24,
+  "heard": "জানি লি কল্লর হোইলে পর্পল হলদিআর উলটা।",
+  "redub": true
+ },
+ {
+  "id": 3,
+  "speaker": "creator",
+  "cer": 0.15,
+  "heard": "টিন্টা হলদিয় ডালনেস কমাই বারে হেল্পা করে।",
+  "redub": true
+ },
+ {
+  "id": 4,
+  "speaker": "creator",
+  "cer": 0.25,
+  "heard": "চালো টেস্ট করিভা।",
+  "redub": true
+ },
+ {
+  "id": 5,
+  "speaker": "creator",
+  "cer": 0.15,
+  "heard": "ইনিযন সকিন পাই ব্রাইট লুকা মরিটন।",
+  "redub": true
+ },
+ {
+  "id": 6,
+  "speaker": "creator",
+  "cer": 0.35,
+  "heard": "মিসিজায় নো হ঵াইট কাস্ট ইন্সটান্ট গ্লো।",
+  "redub": true
+ },
+ {
+  "id": 7,
+  "speaker": "creator",
+  "cer": 0.15,
+  "heard": "4% niacinamide",
+  "redub": true
+ },
+ {
+  "id": 8,
+  "speaker": "creator",
+  "cer": 0.15,
+  "heard": "SPF 50 PA++++",
+  "redub": true
+ },
+ {
+  "id": 9,
+  "speaker": "creator",
+  "cer": 0.4,
+  "heard": "দালনেস করেকট ইন্য় দিনো সেফার",
+  "redub": true
+ }
+]

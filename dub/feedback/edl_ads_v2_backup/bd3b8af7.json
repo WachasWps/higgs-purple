@@ -1,0 +1,74 @@
+{
+  "video_id": "bd3b8af7",
+  "product": "knc",
+  "category": "ingredient_personified",
+  "shots": [
+    {
+      "n": 1, "start": 0.0, "end": 2.33,
+      "content": "Fair woman in cream pyjamas at night, cheek on hand, holding the jar mascot by her face; hook 'THE NIGHT TEAM CLOCKS IN'.",
+      "issues": ["model_not_dusky"],
+      "action": "replace", "replace_with": "KN05_sleep", "custom": null,
+      "note": "L1 jar 'You go to sleep. My night team is clocking in.' plays over ANANYA asleep in moonlight with the exact jar on the bedside (first 2.33 s, still night). The woman is replaced, so S1 and S3-S6 are all replaced."
+    },
+    {
+      "n": 2, "start": 2.33, "end": 3.97,
+      "content": "Exact open jar on marble with a cream splash; gold Kojic, silver Niacinamide and pink Alpha Arbutin characters burst out.",
+      "issues": [],
+      "action": "keep", "replace_with": null, "custom": null,
+      "note": "Label correct, cartoon team fine, start of L2 (Kojic)."
+    },
+    {
+      "n": 3, "start": 3.97, "end": 6.3,
+      "content": "Fair woman's cheek macro with freckle-dot spots; the gold Kojic character inspects them with a magnifier; our 2% KOJIC ACID tag.",
+      "issues": ["model_not_dusky", "unrealistic_dark_spots"],
+      "action": "replace", "replace_with": "KN03_before_night", "custom": null,
+      "note": "L2 Kojic 'I work on the look of dark spots and pigmentation.' plays over ANANYA at the mirror at night with realistic soft brown spots (2.33 s). The 2% KOJIC ACID tag sits beside her spots."
+    },
+    {
+      "n": 4, "start": 6.3, "end": 8.47,
+      "content": "Full-face close-up of the fair woman with dotty spots; the silver Niacinamide character shines a glow on her cheek.",
+      "issues": ["model_not_dusky", "unrealistic_dark_spots"],
+      "action": "replace", "replace_with": "KNA2_avatar_ingredients", "custom": null,
+      "note": "S4 and S5 become ONE 3.67 s KNA2 clip (6.3-9.97). Start about 1 s in so the icy orb rises under the NIACINAMIDE tag during L3, then the pink orb under ALPHA ARBUTIN during L4."
+    },
+    {
+      "n": 5, "start": 8.47, "end": 9.97,
+      "content": "The same fair face with dotty spots; the pink Alpha Arbutin character works on a patch with a tool.",
+      "issues": ["model_not_dusky", "unrealistic_dark_spots"],
+      "action": "replace", "replace_with": "KNA2_avatar_ingredients", "custom": null,
+      "note": "Continuation of the KNA2 clip; L4 'And I help even out uneven-looking tone.'"
+    },
+    {
+      "n": 6, "start": 9.97, "end": 13.0,
+      "content": "Fair woman applying a LAVENDER/pink-tinted cream patch on her cheek at night (wrong cream colour; KNC is thick white).",
+      "issues": ["model_not_dusky", "wrong_cream_colour", "cream_not_blended", "no_ba_split"],
+      "action": "replace", "replace_with": "KN04_apply_night", "custom": null,
+      "segments": [
+        {"start": 9.97, "end": 12.0, "replace_with": "KN04_apply_night"},
+        {"start": 12.0, "end": 13.6, "replace_with": "GRAPHIC_BA_SPLIT"}
+      ],
+      "note": "L5 'Rich night cream. Apply, let it absorb' plays over ANANYA massaging white cream until fully absorbed at night. Then 'and stay consistent' plays over the B/A split (KN08 | KN07, AFTER 2 WEEKS). The video had none. The split runs to 13.6, taking 0.6 s from the head of S7."
+    },
+    {
+      "n": 7, "start": 13.0, "end": 15.02,
+      "content": "Packshot: exact jar on a pale blue background with a cream swoosh and the three ingredient characters; our GLOW FUSION FORMULA claim.",
+      "issues": [],
+      "action": "keep", "replace_with": null, "custom": null,
+      "note": "Keep it, trimmed to 13.6-15.02. The label is correct and the full product name is spoken here (end of L5)."
+    }
+  ],
+  "script_changes": [],
+  "new_lines": [],
+  "supers": [
+    {"action": "change", "match": "2% KOJIC ACID", "text": "2% KOJIC ACID", "start": 4.0, "end": 6.2, "why": "Place it beside her realistic spots on KN03 and keep it on through the Kojic line."},
+    {"action": "change", "match": "NIACINAMIDE", "text": "NIACINAMIDE", "start": 6.35, "end": 8.4, "why": "Retime and place it next to the icy orb in KNA2. Same style as the other two tags."},
+    {"action": "change", "match": "ALPHA ARBUTIN", "text": "ALPHA ARBUTIN", "start": 8.5, "end": 9.95, "why": "Retime and place it next to the pink orb in KNA2."},
+    {"action": "add", "match": null, "text": "BEFORE", "start": 12.0, "end": 13.6, "why": "B/A split label under the left half."},
+    {"action": "add", "match": null, "text": "AFTER 2 WEEKS", "start": 12.0, "end": 13.6, "why": "Client: a B/A split with 'AFTER 2 WEEKS' under the after image was missing."},
+    {"action": "change", "match": "GLOW FUSION FORMULA", "text": "GLOW FUSION FORMULA / 2% KOJIC ACID + NIACINAMIDE + ALPHA ARBUTIN", "start": 13.65, "end": 14.95, "why": "Use the three ingredient names consistently ('ARBUTIN' alone becomes 'ALPHA ARBUTIN') and start after the B/A."}
+  ],
+  "voice_changes": [
+    {"speaker": "kojic_acid", "to": "female", "why": "Written male-coded and pitched -2 st (deeper action-hero voice); female VO only."}
+  ],
+  "summary": "The fair woman and freckle-dot faces are replaced (KN05 opening, KN03 for Kojic, KNA2 orbs for Niacinamide and Alpha Arbutin, KN04 with white cream instead of lavender), and a missing B/A split is added before the packshot. The jar burst and the end packshot are kept and the script is unchanged; the Kojic voice goes female."
+}

@@ -1,0 +1,48 @@
+[
+ {
+  "id": 1,
+  "speaker": "uv_rays",
+  "cer": 0.18,
+  "heard": "হা ওরস কিনে এরকে নো চান্সি নেই।",
+  "redub": true
+ },
+ {
+  "id": 2,
+  "speaker": "judge",
+  "cer": 0.17,
+  "heard": "আদাল অতের কার শুরু হচ্ছে।"
+ },
+ {
+  "id": 3,
+  "speaker": "spf_shield",
+  "cer": 0.31,
+  "heard": "প্রমান নম�ো এক, ই঵েএ আর ই঵েপ্রটক্শন."
+ },
+ {
+  "id": 4,
+  "speaker": "purple_tint",
+  "cer": 0.15,
+  "heard": "Proman dui yi párpol oludir uldo tai dalones cancel.",
+  "redub": true
+ },
+ {
+  "id": 5,
+  "speaker": "niacinamide",
+  "cer": 0.14,
+  "heard": "আরামি ডাল সকিন রাইট করতে হয়প করি।",
+  "redub": true
+ },
+ {
+  "id": 6,
+  "speaker": "judge",
+  "cer": 0.16,
+  "heard": "রাই হলো পুরো মিশে জয় ইন্সটান্ট গ্লো",
+  "redub": true
+ },
+ {
+  "id": 7,
+  "speaker": "judge",
+  "cer": 0.33,
+  "heard": "কস কশড্ড্৅৅৅৅৅৅৅৅৅৅৅৅৅৅৅৅৅৅৅৅৅৅৅৅৅৅৅৅৅৅৅৅৅৅৅৅৅৅৅৅৅৅৅৅৅৅৅৅৅৅৅৅৅৅৅৅৅৅৅৅৅৅৅৅৅৅৅�"
+ }
+]

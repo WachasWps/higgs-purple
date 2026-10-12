@@ -1,0 +1,400 @@
+{
+ "language": "en",
+ "segments": [
+  {
+   "seg": 0,
+   "start": 0.0,
+   "end": 1.94,
+   "text": "My morning glow was definitely not glowing.",
+   "f0_median_hz": 252,
+   "words": [
+    [
+     "My",
+     0.0,
+     0.18
+    ],
+    [
+     "morning",
+     0.18,
+     0.48
+    ],
+    [
+     "glow",
+     0.48,
+     0.7
+    ],
+    [
+     "was",
+     0.7,
+     0.92
+    ],
+    [
+     "definitely",
+     0.92,
+     1.32
+    ],
+    [
+     "not",
+     1.32,
+     1.66
+    ],
+    [
+     "glowing.",
+     1.66,
+     1.94
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 1,
+   "start": 2.18,
+   "end": 3.48,
+   "text": "The purple tint is color correction.",
+   "f0_median_hz": 275,
+   "words": [
+    [
+     "The",
+     2.18,
+     2.28
+    ],
+    [
+     "purple",
+     2.28,
+     2.56
+    ],
+    [
+     "tint",
+     2.56,
+     2.72
+    ],
+    [
+     "is",
+     2.72,
+     2.88
+    ],
+    [
+     "color",
+     2.88,
+     3.1
+    ],
+    [
+     "correction.",
+     3.1,
+     3.48
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 2,
+   "start": 3.66,
+   "end": 5.44,
+   "text": "Violet helps balance yellow-looking dullness.",
+   "f0_median_hz": 217,
+   "words": [
+    [
+     "Violet",
+     3.66,
+     3.98
+    ],
+    [
+     "helps",
+     3.98,
+     4.14
+    ],
+    [
+     "balance",
+     4.14,
+     4.48
+    ],
+    [
+     "yellow",
+     4.48,
+     4.78
+    ],
+    [
+     "-looking",
+     4.78,
+     5.02
+    ],
+    [
+     "dullness.",
+     5.02,
+     5.44
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 3,
+   "start": 5.62,
+   "end": 6.48,
+   "text": "Now watch both hands.",
+   "f0_median_hz": 231,
+   "words": [
+    [
+     "Now",
+     5.62,
+     5.74
+    ],
+    [
+     "watch",
+     5.74,
+     5.98
+    ],
+    [
+     "both",
+     5.98,
+     6.18
+    ],
+    [
+     "hands.",
+     6.18,
+     6.48
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 4,
+   "start": 6.64,
+   "end": 8.62,
+   "text": "It starts lavender, then blends completely clear.",
+   "f0_median_hz": 230,
+   "words": [
+    [
+     "It",
+     6.64,
+     6.74
+    ],
+    [
+     "starts",
+     6.74,
+     7.0
+    ],
+    [
+     "lavender,",
+     7.0,
+     7.38
+    ],
+    [
+     "then",
+     7.58,
+     7.68
+    ],
+    [
+     "blends",
+     7.68,
+     7.96
+    ],
+    [
+     "completely",
+     7.96,
+     8.32
+    ],
+    [
+     "clear.",
+     8.32,
+     8.62
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 5,
+   "start": 8.8,
+   "end": 10.5,
+   "text": "Zero white cast, zero purple residue.",
+   "f0_median_hz": 223,
+   "words": [
+    [
+     "Zero",
+     8.8,
+     9.0
+    ],
+    [
+     "white",
+     9.0,
+     9.26
+    ],
+    [
+     "cast,",
+     9.26,
+     9.52
+    ],
+    [
+     "zero",
+     9.74,
+     9.94
+    ],
+    [
+     "purple",
+     9.94,
+     10.24
+    ],
+    [
+     "residue.",
+     10.24,
+     10.5
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 6,
+   "start": 10.72,
+   "end": 14.1,
+   "text": "It's made for Indian skin, with 4% niacinamide for a brighter-looking finish.",
+   "f0_median_hz": 225,
+   "words": [
+    [
+     "It's",
+     10.72,
+     10.88
+    ],
+    [
+     "made",
+     10.88,
+     11.02
+    ],
+    [
+     "for",
+     11.02,
+     11.18
+    ],
+    [
+     "Indian",
+     11.18,
+     11.4
+    ],
+    [
+     "skin,",
+     11.4,
+     11.72
+    ],
+    [
+     "with",
+     11.84,
+     11.98
+    ],
+    [
+     "4",
+     11.98,
+     12.2
+    ],
+    [
+     "%",
+     12.2,
+     12.46
+    ],
+    [
+     "niacinamide",
+     12.46,
+     13.08
+    ],
+    [
+     "for",
+     13.08,
+     13.22
+    ],
+    [
+     "a",
+     13.22,
+     13.32
+    ],
+    [
+     "brighter",
+     13.32,
+     13.56
+    ],
+    [
+     "-looking",
+     13.56,
+     13.78
+    ],
+    [
+     "finish.",
+     13.78,
+     14.1
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 7,
+   "start": 14.34,
+   "end": 17.92,
+   "text": "An SPF 50 PA plopluk gives me the daily protection I actually need.",
+   "f0_median_hz": 235,
+   "words": [
+    [
+     "An",
+     14.34,
+     14.48
+    ],
+    [
+     "SPF",
+     14.48,
+     14.9
+    ],
+    [
+     "50",
+     14.9,
+     15.18
+    ],
+    [
+     "PA",
+     15.18,
+     15.48
+    ],
+    [
+     "plopluk",
+     15.48,
+     15.84
+    ],
+    [
+     "gives",
+     15.84,
+     16.1
+    ],
+    [
+     "me",
+     16.1,
+     16.22
+    ],
+    [
+     "the",
+     16.22,
+     16.34
+    ],
+    [
+     "daily",
+     16.34,
+     16.56
+    ],
+    [
+     "protection",
+     16.56,
+     16.96
+    ],
+    [
+     "I",
+     16.96,
+     17.26
+    ],
+    [
+     "actually",
+     17.26,
+     17.64
+    ],
+    [
+     "need.",
+     17.64,
+     17.92
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  }
+ ]
+}

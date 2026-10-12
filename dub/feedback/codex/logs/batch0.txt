@@ -1,0 +1,4 @@
+ps_model_ref: OK
+knc_model_ref: OK
+KN01_hero_night: OK
+PS10_texture_macro: OK

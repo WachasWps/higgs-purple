@@ -1,0 +1,78 @@
+{
+  "video_id": "291827ba",
+  "product": "ps",
+  "category": "ingredient_personified",
+  "shots": [
+    {
+      "n": 1, "start": 0.0, "end": 2.17,
+      "content": "Light-skinned woman frowning and touching her cheek. A UV sun villain, a white-cast blob and a grey dullness cloud attack her cheek, which has a white powder patch on it. Hook 'SKIN UNDER ATTACK?'.",
+      "issues": ["model_not_dusky", "white_powder_residue_on_skin", "hair_near_cheek"],
+      "action": "replace", "replace_with": "CUSTOM",
+      "custom": {
+        "shared_id": "PS_CUSTOM_VILLAIN_HOOK",
+        "generate": true,
+        "keyframe": "9:16 photoreal beauty close-up of MEERA (same person as ps_model_ref: Indian woman, 27, DUSKY medium-deep brown skin, clearly not fair; dark wavy hair pulled back into a neat low bun with NO loose strands on her face or cheek; soft natural brows; small gold studs; plain white linen top). Framed like the base frame: face turned slightly toward camera-right, a little frown, the fingertips of her left hand lightly touching her left cheek. BEFORE look: real skin texture with pores; skin clean but dull, flat, matte and slightly yellowish-looking and tired, NO glow. NO product, cream, powder, white streak or residue anywhere on her skin. Bright soft morning daylight, plain softly blurred light background. Four small cute 3D Pixar-style cartoon villains hover beside her cheek in the LEFT third of the frame, each about 1/6 of frame width, never covering her eyes, nose or mouth: (1) a spiky golden-orange UV sun villain with angry eyes and tiny fists; (2) a fuzzy chalky-white round 'White Cast' blob with angry eyes holding a small DRY paint roller; (3) a glossy golden oil-droplet 'Greasiness' villain riding a mini skateboard; (4) a puffy grey-yellow haze 'Dullness' cloud villain with a grumpy face. NO sunscreen tube or any product, NO text, NO colour wheel.",
+        "motion": "The villains bob and cackle around her cheek. The sun villain shakes its fists and flicks tiny harmless light streaks, the white blob waves its dry roller in the air, the oil droplet skates a small loop in mid-air, and the dullness cloud puffs. Meera sighs and gently presses her dull cheek. Nothing sticks to her skin. Camera static with a very slow push-in; same face and skin tone throughout.",
+        "base_frame_time": 1.0
+      },
+      "note": "ONE shared CUSTOM clip (PS_CUSTOM_VILLAIN_HOOK). Generate it once from this video's frame at 1.0 s, which has the right pose and villains. It is reused as the villain-speaks hook in 33c29291, 655a1328, 74495eba, 7ea55172, c51221b6, ce849d3f and e7e42eaf. Here it plays under L1 'Her skin doesn't stand a chance!' (uv_rays). Use 0-2.17 s."
+    },
+    {
+      "n": 2, "start": 2.17, "end": 4.93,
+      "content": "Tube on the marble 'court' counter with hero characters. A lavender cap flies off the TOP of the tube while it also has a cap at the bottom.",
+      "issues": ["cap_not_on_top (client 00003231)", "double_cap_wrong_packaging"],
+      "action": "replace", "replace_with": "PSA1_avatar_talk", "custom": null,
+      "note": "L2 'Court is now in session.' is the judge, i.e. the tube. Use the exact talking tube mascot on the marble vanity, which matches this counter. Use 0-2.76 s."
+    },
+    {
+      "n": 3, "start": 4.93, "end": 7.6,
+      "content": "Cartoon SPF shield lawyer raises a glass bubble against sun villains. The judge tube stands behind the wooden bench (crimp up, cap hidden, no nozzle).",
+      "issues": [],
+      "action": "keep", "replace_with": null, "custom": null,
+      "note": "Cartoon characters only and the packaging reads correctly. Matches L3 'Evidence number one: UVA and UVB protection.'"
+    },
+    {
+      "n": 4, "start": 7.6, "end": 10.3,
+      "content": "Extreme macro of fair skin with chalky white powder, and the purple-tint droplet character.",
+      "issues": ["skin_macro_looks_like_terrain (no face)", "white_residue_on_skin", "model_not_dusky", "purple_why_not_explained"],
+      "action": "replace", "replace_with": "GRAPHIC_COLOUR_WHEEL", "custom": null,
+      "note": "New L4 'Evidence two: purple cancels yellow-looking dullness.' plays over PSA2_avatar_point. The mascot points to the right half, where a CORRECT animated wheel appears (purple directly opposite yellow; arrow purple to yellow; yellow segment dims). Use 0-2.7 s."
+    },
+    {
+      "n": 5, "start": 10.3, "end": 12.57,
+      "content": "Macro of cheek and lips (fair skin) with a grey haze and the niacinamide character.",
+      "issues": ["skin_macro_looks_like_terrain", "model_not_dusky"],
+      "action": "replace", "replace_with": "PS05_blend_glow", "custom": null,
+      "note": "L5 'And I help brighten dull-looking skin.' plays over Meera blending the lavender layer: it vanishes with no cast and her skin turns even and luminous. Use 2.7-5.0 s of the clip, where it is fully blended and glowing."
+    },
+    {
+      "n": 6, "start": 12.57, "end": 15.5,
+      "content": "Light-skinned woman smiling with an UNBLENDED lavender cream smear on her cheek. Super 'THE VERDICT: PROTECTED SKIN'.",
+      "issues": ["product_not_blended_residue", "model_not_dusky", "no_instant_glow"],
+      "action": "replace", "replace_with": "PS06_glow_after", "custom": null,
+      "note": "New L6 'The verdict: protected skin with an instant glow.' plays over Meera's visibly dewy, even, glowing skin, the clear after shot. Use 0-2.93 s."
+    },
+    {
+      "n": 7, "start": 15.5, "end": 17.02,
+      "content": "Tube (wide cap, correct label) on the marble counter with the hero team. Villains locked in a glass box.",
+      "issues": [],
+      "action": "keep", "replace_with": null, "custom": null,
+      "note": "Correct packaging and cartoon characters only. Matches L7 'Case closed.'"
+    }
+  ],
+  "script_changes": [
+    {"line_id": 4, "old_en": "Evidence number two: no ashy-looking finish.", "new_en": "Evidence two: purple cancels yellow-looking dullness.", "reason": "Explain WHY purple (colour wheel). Same length."},
+    {"line_id": 6, "old_en": "The verdict: protected, fresh-looking skin.", "new_en": "The verdict: protected skin with an instant glow.", "reason": "Say 'Instant Glow' on the after shot."}
+  ],
+  "new_lines": [],
+  "supers": [
+    {"action": "change", "match": "NO WHITE CAST / FOR INDIAN SKIN", "text": "PURPLE SITS OPPOSITE YELLOW / CANCELS YELLOW-LOOKING DULLNESS", "start": 7.7, "end": 10.25, "why": "Colour-wheel explanation in text over the wheel graphic."},
+    {"action": "change", "match": "BRIGHTENS / DULL-LOOKING SKIN", "text": "4% NIACINAMIDE / BRIGHTENS DULL-LOOKING SKIN", "start": 10.5, "end": 12.4, "why": "Name the ingredient on screen."},
+    {"action": "change", "match": "THE VERDICT: / PROTECTED SKIN", "text": "THE VERDICT: / INSTANT GLOW", "start": 12.9, "end": 15.4, "why": "'Instant Glow' label on the after shot. Add sub 'NO WHITE CAST | MADE FOR INDIAN SKIN TONES'."}
+  ],
+  "voice_changes": [
+    {"speaker": "uv_rays", "to": "female", "why": "Villain pitched -3 st, 'smug, sneering'. Sounds male/scary."},
+    {"speaker": "judge", "to": "female", "why": "Written as a 'deep, grave, authoritative judge voice', which is male."}
+  ],
+  "summary": "Keep the SPF-shield courtroom shot and the 'case closed' team shot. The hook becomes the one shared CUSTOM villain clip on dusky Meera. The double-cap tube becomes PSA1, the skin macros become the colour-wheel graphic and PS05 blend, and the unblended smear becomes PS06 glow. L4 explains purple vs yellow and L6 says 'instant glow'."
+}

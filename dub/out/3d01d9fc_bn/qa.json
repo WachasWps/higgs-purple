@@ -1,0 +1,51 @@
+[
+ {
+  "id": 1,
+  "speaker": "creator",
+  "cer": 0.08,
+  "heard": "স্কিন টা ডাল লাগত আর শান স্করিন কিছুই করটোনা।",
+  "redub": true
+ },
+ {
+  "id": 2,
+  "speaker": "creator",
+  "cer": 0.16,
+  "heard": "পারপল হলুদীর উল্টো হল্দে ডালনেস মেলাংস কডে।",
+  "redub": true
+ },
+ {
+  "id": 3,
+  "speaker": "creator",
+  "cer": 0.25,
+  "heard": "তবে আশোল টেস্ব ব্রান্ডিং",
+  "redub": true
+ },
+ {
+  "id": 4,
+  "speaker": "creator",
+  "cer": 0.0,
+  "heard": "নো চোকিনেস নো পারপল নো হযাইট কাস্ট।",
+  "redub": true
+ },
+ {
+  "id": 5,
+  "speaker": "creator",
+  "cer": 0.05,
+  "heard": "ইন্ডিযান সকিনের জুন্নোই মিশলে হালকা।",
+  "redub": true
+ },
+ {
+  "id": 6,
+  "speaker": "creator",
+  "cer": 0.15,
+  "heard": "4% Niacinamide Even Look Instant Glow Finish",
+  "redub": true
+ },
+ {
+  "id": 7,
+  "speaker": "creator",
+  "cer": 0.15,
+  "heard": "Hpf 50p triple plus instant glow",
+  "redub": true
+ }
+]

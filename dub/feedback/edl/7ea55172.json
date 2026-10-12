@@ -1,0 +1,79 @@
+{
+  "video_id": "7ea55172",
+  "product": "ps",
+  "category": "product_avatar",
+  "shots": [
+    {
+      "n": 1, "start": 0.0, "end": 5.27,
+      "content": "Medium-skinned woman at the bathroom mirror with green Greasiness and grey Dullness villains on her cheek. Small tube mascot in the corner.",
+      "issues": ["model_not_dusky"],
+      "action": "replace", "replace_with": "CUSTOM",
+      "custom": {
+        "shared_id": "PS_CUSTOM_VILLAIN_HOOK",
+        "generate": false,
+        "reuse_from": "291827ba shot 1",
+        "keyframe": "Same as PS_CUSTOM_VILLAIN_HOOK in 291827ba.json: dusky MEERA close-up, dull matte before-skin with no residue, hair in a bun, four small cartoon villains (UV sun, White Cast blob with dry roller, oil-droplet on skateboard, grey-yellow dullness cloud) beside her cheek, no product, no text.",
+        "motion": "Same as in 291827ba.json.",
+        "base_frame_time": null
+      },
+      "split": [
+        {"start": 0.0, "end": 3.85, "clip": "CUSTOM:PS_CUSTOM_VILLAIN_HOOK"},
+        {"start": 3.85, "end": 5.27, "clip": "PSA1_avatar_talk"}
+      ],
+      "note": "Reuse the shared villain-hook clip; no new generation. 0-3.85 uses the 5 s clip at about 1.0x: L1 'Sticky shine reporting for duty!' with the GREASINESS label on the oil droplet, and L2 'And I brought the dullness.' with the DULLNESS label on the cloud. 3.85-5.27: PSA1_avatar_talk, the exact tube talking, for L3 'You're both fired.'"
+    },
+    {
+      "n": 2, "start": 5.27, "end": 8.27,
+      "content": "Big tube mascot holding an AI colour wheel (wrong opposites), with green villains on both sides. 'COLOUR CORRECTION' pill.",
+      "issues": ["wrong_colour_wheel (client 00003263)"],
+      "action": "replace", "replace_with": "GRAPHIC_COLOUR_WHEEL", "custom": null,
+      "note": "New L4 'Purple sits opposite yellow, so it cancels dullness.' plays over PSA2_avatar_point with a CORRECT animated wheel on the right (purple directly opposite yellow; arrow; yellow dims). Use 0-3.0 s."
+    },
+    {
+      "n": 3, "start": 8.27, "end": 11.27,
+      "content": "Tube with a NOZZLE squeezing cream into a palm, then the woman applying a thick unblended lavender patch to her cheek. Greasiness villain on her shoulder.",
+      "issues": ["nozzle (client 00003262)", "not_blended", "model_not_dusky"],
+      "action": "replace", "replace_with": "PS05_blend_glow", "custom": null,
+      "note": "L5 'Purple tint, made for Indian skin.' plays as Meera blends the thin lavender layer until it vanishes into her dusky skin, with no cast, and she starts to glow. Use 0-3.0 s."
+    },
+    {
+      "n": 4, "start": 11.27, "end": 16.23,
+      "content": "The woman's face half-split before/after inside a honeycomb SPF shield, with sun rays. No visible difference.",
+      "issues": ["before_after_no_real_difference", "model_not_dusky"],
+      "action": "replace", "replace_with": "GRAPHIC_BA_SPLIT", "custom": null,
+      "split": [
+        {"start": 11.27, "end": 14.0, "clip": "GRAPHIC_BA_SPLIT"},
+        {"start": 14.0, "end": 16.23, "clip": "PS09_outdoor_glow"}
+      ],
+      "note": "Covered by two library clips. (a) 11.27-14.0 GRAPHIC_BA_SPLIT: vertical half/half with PS07_before_dull on the left and PS06_glow_after on the right, faces uncropped. Labels BEFORE / INSTANT GLOW. It plays under L6 'Four percent niacinamide helps brighten.' (b) 14.0-16.23 PS09_outdoor_glow for L7 'SPF 50 PA+++ handles the sun.', with Meera stepping into midday sun."
+    },
+    {
+      "n": 5, "start": 16.23, "end": 20.04,
+      "content": "Lighter-skinned woman on a city street. The tube mascot holds a shield and a mini AI colour wheel.",
+      "issues": ["wrong_colour_wheel", "model_not_dusky", "after_glow_weak"],
+      "action": "replace", "replace_with": "PSA3_avatar_model", "custom": null,
+      "note": "New L8 'Instant glow, protected, and no morning drama.' plays as glowing Meera laughs with the ONE tube mascot on a sunny balcony and touches her cheek. Use 0-3.81 s."
+    }
+  ],
+  "script_changes": [
+    {"line_id": 4, "old_en": "First, purple balances yellow-looking dullness.", "new_en": "Purple sits opposite yellow, so it cancels dullness.", "reason": "Explain WHY purple (colour wheel). Same length."},
+    {"line_id": 8, "old_en": "Fresh, protected, and no morning drama.", "new_en": "Instant glow, protected, and no morning drama.", "reason": "'Instant Glow' on the final glow shot."}
+  ],
+  "new_lines": [],
+  "supers": [
+    {"action": "change", "match": "GREASINESS", "text": "GREASINESS", "start": 0.15, "end": 1.85, "why": "Same text. Reposition onto the oil-droplet villain in the custom clip."},
+    {"action": "change", "match": "DULLNESS", "text": "DULLNESS", "start": 2.1, "end": 3.7, "why": "Same text. Reposition onto the grey-yellow cloud villain."},
+    {"action": "change", "match": "COLOUR CORRECTION", "text": "COLOUR CORRECTION / PURPLE SITS OPPOSITE YELLOW > CANCELS YELLOW-LOOKING DULLNESS", "start": 5.4, "end": 8.2, "why": "Explains the corrected wheel."},
+    {"action": "add", "match": null, "text": "MADE FOR INDIAN SKIN TONES / NO WHITE CAST", "start": 8.4, "end": 11.1, "why": "Matches L5 over the invisible blend."},
+    {"action": "change", "match": "BEFORE", "text": "BEFORE", "start": 11.3, "end": 13.95, "why": "Retimed to the B/A split."},
+    {"action": "change", "match": "AFTER", "text": "INSTANT GLOW", "start": 11.3, "end": 13.95, "why": "Client: label under the after must read INSTANT GLOW."},
+    {"action": "change", "match": "hud 11.1-13.0", "text": "", "start": 11.3, "end": 13.95, "why": "Retime the HUD to the B/A split."},
+    {"action": "add", "match": null, "text": "4% NIACINAMIDE", "start": 11.3, "end": 12.95, "why": "Ingredient label during L6, top-centre."},
+    {"action": "add", "match": null, "text": "SPF 50 PA+++ / UVA + UVB", "start": 14.0, "end": 16.15, "why": "Matches L7 over the sun shot."},
+    {"action": "change", "match": "FOR INDIAN SKIN / FRESH & PROTECTED", "text": "INSTANT GLOW / FOR INDIAN SKIN TONES | PROTECTED", "start": 16.6, "end": 19.95, "why": "'Instant Glow' as the end claim."}
+  ],
+  "voice_changes": [
+    {"speaker": "dullness", "to": "female", "why": "Written as a 'low lazy smug menacing voice', which is male and scary."}
+  ],
+  "summary": "All five shots are replaced (non-dusky woman, wrong wheel x2, nozzle, no-difference B/A). Sequence: shared villain-hook CUSTOM + PSA1, wheel graphic, PS05 blend, B/A split (BEFORE / INSTANT GLOW) + PS09 sun, then PSA3 with one tube. L4 explains purple vs yellow and L8 says instant glow."
+}

@@ -1,0 +1,139 @@
+{
+ "video": "c51221b6",
+ "shots": [
+  {
+   "n": 1,
+   "start": 0,
+   "end": 2.9,
+   "on_screen": "White Cast villain rolling ashy streaks on worried woman's cheek."
+  },
+  {
+   "n": 2,
+   "start": 2.9,
+   "end": 5.1,
+   "on_screen": "Smiling woman with DERMDOC tube, White Cast villain shocked beside it."
+  },
+  {
+   "n": 3,
+   "start": 5.1,
+   "end": 6.4,
+   "on_screen": "Purple Tint droplet pushes the White Cast villain off her cheek."
+  },
+  {
+   "n": 4,
+   "start": 6.4,
+   "end": 8.3,
+   "on_screen": "Full-screen colour wheel 'Purple Tint Instant Glow for Indian skin tone', purple linked to yellow."
+  },
+  {
+   "n": 5,
+   "start": 8.3,
+   "end": 10.9,
+   "on_screen": "SPF 50 PA+++ shield hero blocking angry UV fireballs, '4% Niacinamide' ring."
+  },
+  {
+   "n": 6,
+   "start": 10.9,
+   "end": 13.2,
+   "on_screen": "Silver Niacinamide hero clearing grey dullness haze from her cheek."
+  },
+  {
+   "n": 7,
+   "start": 13.2,
+   "end": 15.4,
+   "on_screen": "Macro of a drop blending into skin and vanishing."
+  },
+  {
+   "n": 8,
+   "start": 15.4,
+   "end": 17.0,
+   "on_screen": "Tube with Purple Tint, Shield and Niacinamide heroes; White Cast villain flees (no line)."
+  }
+ ],
+ "lines": [
+  {
+   "id": 1,
+   "start": 0.0,
+   "slot_s": 0.93,
+   "speaker": "white_cast",
+   "current": "Haha!",
+   "on_screen_during": "Villain rolling white streak",
+   "verdict": "keep",
+   "new": "Haha!",
+   "words": 1,
+   "reason": "Villain on screen"
+  },
+  {
+   "id": 2,
+   "start": 1.08,
+   "slot_s": 1.81,
+   "speaker": "white_cast",
+   "current": "Now everyone can see your sunscreen!",
+   "on_screen_during": "Villain rolling white streak",
+   "verdict": "rewrite",
+   "new": "Everyone sees your sunscreen!",
+   "words": 4,
+   "reason": "Fit 1.8s slot"
+  },
+  {
+   "id": 3,
+   "start": 3.04,
+   "slot_s": 1.87,
+   "speaker": "sunscreen_tube",
+   "current": "Wrong sunscreen, buddy!",
+   "on_screen_during": "Tube with shocked villain",
+   "verdict": "keep",
+   "new": "Wrong sunscreen, buddy!",
+   "words": 3,
+   "reason": "Fits"
+  },
+  {
+   "id": 4,
+   "start": 5.06,
+   "slot_s": 3.53,
+   "speaker": "purple_tint",
+   "current": "I'm opposite yellow, so I cancel dullness.",
+   "on_screen_during": "Purple droplet pushes villain off, then colour wheel",
+   "verdict": "rewrite",
+   "new": "Shoo! Opposite yellow, I cancel yellow-looking dullness.",
+   "words": 7,
+   "reason": "React to push-off, then explain wheel"
+  },
+  {
+   "id": 5,
+   "start": 8.74,
+   "slot_s": 2.17,
+   "speaker": "spf_shield",
+   "current": "And I handle the sun.",
+   "on_screen_during": "Shield blocking UV fireballs",
+   "verdict": "keep",
+   "new": "And I handle the sun.",
+   "words": 5,
+   "reason": "Fits"
+  },
+  {
+   "id": 6,
+   "start": 11.06,
+   "slot_s": 2.19,
+   "speaker": "niacinamide",
+   "current": "Dullness? Not on this team.",
+   "on_screen_during": "Niacinamide hero clearing grey haze",
+   "verdict": "keep",
+   "new": "Dullness? Not on this team.",
+   "words": 5,
+   "reason": "Fits"
+  },
+  {
+   "id": 7,
+   "start": 13.4,
+   "slot_s": 2.26,
+   "speaker": "sunscreen_tube",
+   "current": "See the instant glow, not the sunscreen.",
+   "on_screen_during": "Drop blending into skin",
+   "verdict": "rewrite",
+   "new": "Blends in. Just instant glow.",
+   "words": 5,
+   "reason": "Describe vanishing blend; fit budget"
+  }
+ ]
+}

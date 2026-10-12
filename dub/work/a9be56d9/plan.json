@@ -1,0 +1,157 @@
+{
+ "video_id": "a9be56d9",
+ "style": "product_ad",
+ "duration": 23.381,
+ "cast": [
+  {
+   "id": "narrator",
+   "name": "Narrator",
+   "role": "narrator",
+   "description": "calm, premium female ad narrator",
+   "ref_file": "work/71e0977a/stems/vocals.wav",
+   "ref_ranges": [
+    [
+     9.32,
+     12.54
+    ],
+    [
+     13.68,
+     16.56
+    ]
+   ],
+   "fx": "none",
+   "pitch_semitones": 0
+  }
+ ],
+ "lines": [
+  {
+   "id": 1,
+   "speaker": "narrator",
+   "start": 0.15,
+   "end": 2.0,
+   "max_end": 2.0,
+   "window_end": 2.0,
+   "en": "Dark spots stealing your glow?",
+   "tag": null,
+   "keep_original": false,
+   "bn": "",
+   "ta": "",
+   "te": "",
+   "ml": "",
+   "or": ""
+  },
+  {
+   "id": 2,
+   "speaker": "narrator",
+   "start": 2.05,
+   "end": 5.8,
+   "max_end": 5.8,
+   "window_end": 5.8,
+   "en": "Meet DERMDOC 2% Kojic Acid Night Cream.",
+   "tag": null,
+   "keep_original": false,
+   "bn": "",
+   "ta": "",
+   "te": "",
+   "ml": "",
+   "or": ""
+  },
+  {
+   "id": 3,
+   "speaker": "narrator",
+   "start": 6.0,
+   "end": 8.9,
+   "max_end": 8.9,
+   "window_end": 8.9,
+   "en": "Massage it in every night.",
+   "tag": null,
+   "keep_original": false,
+   "bn": "",
+   "ta": "",
+   "te": "",
+   "ml": "",
+   "or": ""
+  },
+  {
+   "id": 4,
+   "speaker": "narrator",
+   "start": 9.0,
+   "end": 12.0,
+   "max_end": 12.0,
+   "window_end": 12.0,
+   "en": "Kojic Acid, Niacinamide, Alpha Arbutin.",
+   "tag": null,
+   "keep_original": false,
+   "bn": "",
+   "ta": "",
+   "te": "",
+   "ml": "",
+   "or": ""
+  },
+  {
+   "id": 5,
+   "speaker": "narrator",
+   "start": 12.05,
+   "end": 14.0,
+   "max_end": 14.0,
+   "window_end": 14.0,
+   "en": "Fading the look of dark spots.",
+   "tag": null,
+   "keep_original": false,
+   "bn": "",
+   "ta": "",
+   "te": "",
+   "ml": "",
+   "or": ""
+  },
+  {
+   "id": 6,
+   "speaker": "narrator",
+   "start": 14.2,
+   "end": 16.9,
+   "max_end": 16.9,
+   "window_end": 16.9,
+   "en": "Rich, never heavy.",
+   "tag": null,
+   "keep_original": false,
+   "bn": "",
+   "ta": "",
+   "te": "",
+   "ml": "",
+   "or": ""
+  },
+  {
+   "id": 7,
+   "speaker": "narrator",
+   "start": 17.0,
+   "end": 18.6,
+   "max_end": 18.6,
+   "window_end": 18.6,
+   "en": "You sleep. It works.",
+   "tag": null,
+   "keep_original": false,
+   "bn": "",
+   "ta": "",
+   "te": "",
+   "ml": "",
+   "or": ""
+  },
+  {
+   "id": 8,
+   "speaker": "narrator",
+   "start": 18.7,
+   "end": 23.0,
+   "max_end": 23.0,
+   "window_end": 23.0,
+   "en": "Shop now at Purplle.com.",
+   "tag": null,
+   "keep_original": false,
+   "bn": "",
+   "ta": "",
+   "te": "",
+   "ml": "",
+   "or": ""
+  }
+ ],
+ "notes": "user's own General Ad (user_knc_ads/knc1.mp4); English VO written shot by shot"
+}

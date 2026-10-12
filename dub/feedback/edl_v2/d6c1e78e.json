@@ -1,0 +1,82 @@
+{
+ "video_id": "d6c1e78e",
+ "product": "ps",
+ "category": "ugc",
+ "use_rebuild": true,
+ "shots": [],
+ "rebuild": {
+  "target_duration_s": 34.29,
+  "shots": [
+   {
+    "source": "USR_d6c1e78e_01",
+    "n": 1,
+    "start": 0.0,
+    "end": 2.37
+   },
+   {
+    "source": "USR_PSAD_tube_purple_tint",
+    "n": 2,
+    "start": 2.37,
+    "end": 5.17
+   },
+   {
+    "source": "GRAPHIC_COLOUR_WHEEL",
+    "n": 3,
+    "start": 5.17,
+    "end": 8.17
+   },
+   {
+    "source": "USR_d6c1e78e_04",
+    "n": 4,
+    "start": 8.17,
+    "end": 12.77
+   },
+   {
+    "source": "USR_PSAD_shield_rays",
+    "n": 5,
+    "start": 12.77,
+    "end": 14.97
+   },
+   {
+    "source": "USR_d6c1e78e_06",
+    "n": 6,
+    "start": 14.97,
+    "end": 18.37
+   },
+   {
+    "source": "USR_PSAD_tube_macro",
+    "n": 7,
+    "start": 18.37,
+    "end": 20.67
+   },
+   {
+    "source": "GRAPHIC_BA_SPLIT",
+    "ba_pair": [
+     "BA2_d6c1e78e_BEFORE",
+     "BA2_d6c1e78e_AFTER"
+    ],
+    "n": 8,
+    "start": 20.67,
+    "end": 23.17
+   },
+   {
+    "source": "USR_d6c1e78e_09",
+    "n": 9,
+    "start": 23.17,
+    "end": 25.77
+   },
+   {
+    "source": "USR_d6c1e78e_10",
+    "n": 10,
+    "start": 25.77,
+    "end": 29.17
+   },
+   {
+    "source": "USR_d6c1e78e_11",
+    "n": 11,
+    "start": 29.17,
+    "end": 34.29
+   }
+  ]
+ }
+}

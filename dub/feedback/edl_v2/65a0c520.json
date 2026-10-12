@@ -1,0 +1,66 @@
+{
+ "video_id": "65a0c520",
+ "product": "ps",
+ "category": "ugc",
+ "approach": "v2_original_creator",
+ "shots": [
+  {
+   "start": 0,
+   "end": 2.27,
+   "action": "keep",
+   "n": 1
+  },
+  {
+   "start": 2.27,
+   "end": 4.73,
+   "action": "replace",
+   "replace_with": "GRAPHIC_COLOUR_WHEEL",
+   "n": 2
+  },
+  {
+   "start": 4.73,
+   "end": 6.93,
+   "action": "replace",
+   "replace_with": "PS10_texture_macro",
+   "n": 3
+  },
+  {
+   "start": 6.93,
+   "end": 8.27,
+   "action": "keep",
+   "n": 4
+  },
+  {
+   "start": 8.27,
+   "end": 10.6,
+   "action": "replace",
+   "replace_with": "UGC_65a0c520_S5",
+   "client": "10.3 wierd shot. sunscreen not a mask/ubtan",
+   "n": 5
+  },
+  {
+   "start": 10.6,
+   "end": 13.23,
+   "action": "replace",
+   "replace_with": "GRAPHIC_BA_SPLIT",
+   "n": 6,
+   "ba_pair": [
+    "BA2_65a0c520_BEFORE",
+    "BA2_65a0c520_AFTER"
+   ],
+   "ba_face_y": 0.08
+  },
+  {
+   "start": 13.23,
+   "end": 17.4,
+   "action": "keep",
+   "n": 7
+  },
+  {
+   "start": 17.4,
+   "end": 20.04,
+   "action": "keep",
+   "n": 8
+  }
+ ]
+}

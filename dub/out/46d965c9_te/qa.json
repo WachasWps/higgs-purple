@@ -1,0 +1,58 @@
+[
+ {
+  "id": 1,
+  "speaker": "creator",
+  "cer": 0.19,
+  "heard": "ఇవెనింగు స్కిన టాఇడ్ గా అనివెన గా ఉండేది.",
+  "redub": true
+ },
+ {
+  "id": 2,
+  "speaker": "creator",
+  "cer": 0.15,
+  "heard": "Night Reset i Night Cream të modellu.",
+  "redub": true
+ },
+ {
+  "id": 3,
+  "speaker": "creator",
+  "cer": 0.25,
+  "heard": "దిన్మ్డాగ్ తో పర్సిట్ కోజిక ఆసేడ్.",
+  "redub": true
+ },
+ {
+  "id": 4,
+  "speaker": "creator",
+  "cer": 0.15,
+  "heard": "Richie Dixcher, Neela Laundadhu.",
+  "redub": true
+ },
+ {
+  "id": 5,
+  "speaker": "creator",
+  "cer": 0.0,
+  "heard": "పడికొనే ముందు కంచం రాస్కుంటా.",
+  "redub": true
+ },
+ {
+  "id": 6,
+  "speaker": "creator",
+  "cer": 0.2,
+  "heard": "పూర్ తెలుగు ఇది వరెకు మసాచ చిసతా.",
+  "redub": true
+ },
+ {
+  "id": 7,
+  "speaker": "creator",
+  "cer": 0.23,
+  "heard": "ఇవి డార్క స్వాట్ లుగ్ తగించి టోన్ ఇవంగా కనపిం చేలా చేసయో.",
+  "redub": true
+ },
+ {
+  "id": 8,
+  "speaker": "creator",
+  "cer": 0.13,
+  "heard": "రెండు వారల్లో. స్కిన్ బ్రయ్ట్ ఇవన్.",
+  "redub": true
+ }
+]

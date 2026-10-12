@@ -1,0 +1,9 @@
+PREP DONE
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+04:39:04 UGC5 dubbed: 5/5
+04:39:29 done: 5 ok, 0 failed; avg 7.2s/render
+DONE 5 files -> /Users/wachas/Documents/higgs-purple/dub/deliver_music
+TOTAL 160 files -> /Users/wachas/Documents/higgs-purple/dub/Final_Deliverables
+loudness failures: []
+04:40:18 PACK DONE
+04:40:18 UGC5 DONE

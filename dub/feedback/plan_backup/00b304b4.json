@@ -1,0 +1,212 @@
+{
+ "video_id": "00b304b4",
+ "style": "personification",
+ "duration": 17.02,
+ "cast": [
+  {
+   "id": "tube",
+   "name": "DERMDOC Sunscreen Tube",
+   "role": "product_mascot",
+   "description": "the white DERMDOC Ultra Violet sunscreen tube with lavender cap, tiny arms and legs; confident team-manager boss, warm upbeat bright cartoon voice, in charge and encouraging",
+   "ref_ranges": [
+    [
+     0.0,
+     2.46
+    ],
+    [
+     5.6,
+     7.2
+    ],
+    [
+     13.06,
+     14.66
+    ],
+    [
+     14.96,
+     15.9
+    ]
+   ],
+   "fx": "cartoon",
+   "pitch_semitones": 0
+  },
+  {
+   "id": "uv_rays",
+   "name": "UV Rays",
+   "role": "villain",
+   "description": "angry golden-orange sun-ray villain at the window (leader of the villain gang: White Cast, Greasiness, Dullness); scheming, gleeful, theatrical cartoon-villain voice, should sound sneaky and menacing but playful",
+   "ref_ranges": [
+    [
+     2.58,
+     4.42
+    ]
+   ],
+   "fx": "villain",
+   "pitch_semitones": -3
+  },
+  {
+   "id": "spf_shield",
+   "name": "SPF Shield",
+   "role": "hero",
+   "description": "cobalt-blue SPF 50 PA+++ shield bodyguard character; deep, gruff, steady tough-guy bodyguard voice",
+   "ref_ranges": [
+    [
+     7.54,
+     9.26
+    ]
+   ],
+   "fx": "cartoon",
+   "pitch_semitones": 0
+  },
+  {
+   "id": "purple_tint",
+   "name": "Purple Tint",
+   "role": "hero",
+   "description": "little lavender droplet character; sweet, perky, bouncy squeaky cartoon voice",
+   "ref_ranges": [
+    [
+     9.36,
+     10.92
+    ]
+   ],
+   "fx": "cartoon",
+   "pitch_semitones": 2
+  },
+  {
+   "id": "niacinamide",
+   "name": "Niacinamide",
+   "role": "hero",
+   "description": "silver-lavender 4% niacinamide molecule character; smart, cheeky, confident bright cartoon voice",
+   "ref_ranges": [
+    [
+     10.96,
+     12.8
+    ]
+   ],
+   "fx": "cartoon",
+   "pitch_semitones": 0
+  }
+ ],
+ "lines": [
+  {
+   "id": 1,
+   "speaker": "tube",
+   "start": 0.0,
+   "end": 2.46,
+   "max_end": 2.54,
+   "en": "Team, we've got a full day ahead.",
+   "tag": "happy",
+   "keep_original": false,
+   "bn": "টিম, আজ সারাদিন অনেক কাজ!",
+   "ta": "டீம், இன்னைக்கு ஃபுல் டே வேலை இருக்கு!",
+   "te": "టీమ్, ఈరోజు ఫుల్ డే పని ఉంది!",
+   "ml": "ടീം, ഇന്ന് ഫുൾ ഡേ പണിയുണ്ട്!",
+   "or": "ଟିମ୍, ଆଜି ପୂରା ଦିନ କାମ ଅଛି!"
+  },
+  {
+   "id": 2,
+   "speaker": "uv_rays",
+   "start": 2.58,
+   "end": 4.42,
+   "max_end": 5.56,
+   "en": "Let's ruin her work day!",
+   "tag": "angry",
+   "keep_original": false,
+   "bn": "চল, আজ ওর অফিসের দিনটার বারোটা বাজাই!",
+   "ta": "வாங்கடா, இவ ஆபீஸ் டேவையே காலி பண்ணலாம்!",
+   "te": "పదండి, ఈమె ఆఫీస్ డేని పాడు చేద్దాం!",
+   "ml": "വാടാ, ഇവളുടെ ഓഫീസ് ദിവസം നമുക്ക് കുളമാക്കാം!",
+   "or": "ଚାଲ, ତା ଅଫିସ୍ ଦିନଟାକୁ ବରବାଦ କରିଦେବା!"
+  },
+  {
+   "id": 3,
+   "speaker": "tube",
+   "start": 5.6,
+   "end": 7.2,
+   "max_end": 7.5,
+   "en": "Everyone knows their assignment.",
+   "tag": null,
+   "keep_original": false,
+   "bn": "সবাই জানো কার কী ডিউটি!",
+   "ta": "எல்லாருக்கும் டியூட்டி தெரியும்!",
+   "te": "అందరికీ వాళ్ళ డ్యూటీ తెలుసు!",
+   "ml": "എല്ലാർക്കും സ്വന്തം ഡ്യൂട്ടി അറിയാം!",
+   "or": "ସମସ୍ତେ ନିଜ ନିଜ ଡ୍ୟୁଟି ଜାଣିଛ!"
+  },
+  {
+   "id": 4,
+   "speaker": "spf_shield",
+   "start": 7.54,
+   "end": 9.26,
+   "max_end": 9.4,
+   "en": "I've got the UV rays.",
+   "tag": null,
+   "keep_original": false,
+   "bn": "ইউভি রে আমি সামলাব!",
+   "ta": "யூவி ரேஸ் என் பொறுப்பு!",
+   "te": "యూవీ రేస్ నేను చూసుకుంటా!",
+   "ml": "യൂവി റേസ് ഞാൻ നോക്കിക്കോളാം!",
+   "or": "ୟୁଭି ରେଜ୍ ମୁଁ ସମ୍ଭାଳିବି!"
+  },
+  {
+   "id": 5,
+   "speaker": "purple_tint",
+   "start": 9.44,
+   "end": 10.82,
+   "max_end": 10.96,
+   "en": "I've got the ashy cast.",
+   "tag": "happy",
+   "keep_original": false,
+   "bn": "অ্যাশি কাস্ট আমি সামলাব!",
+   "ta": "ஆஷி காஸ்ட் என் வேலை!",
+   "te": "ఆషీ కాస్ట్ నేను చూసుకుంటా!",
+   "ml": "ആഷി കാസ്റ്റ് ഞാൻ നോക്കാം!",
+   "or": "ଆଶି କାଷ୍ଟ ମୋ ଜିମ୍ମା!"
+  },
+  {
+   "id": 6,
+   "speaker": "niacinamide",
+   "start": 11.0,
+   "end": 12.66,
+   "max_end": 13.02,
+   "en": "And I've got the dullness.",
+   "tag": "happy",
+   "keep_original": false,
+   "bn": "আর ডালনেস আমি দেখে নিচ্ছি!",
+   "ta": "டல்னெஸ்ஸ நான் பாத்துக்கறேன்!",
+   "te": "ఇక డల్‌నెస్ నేను చూసుకుంటా!",
+   "ml": "പിന്നെ ഡൾനെസ്, അത് ഞാൻ ഏറ്റു!",
+   "or": "ଆଉ ଡଲନେସ୍ ମୁଁ ଦେଖିବି!"
+  },
+  {
+   "id": 7,
+   "speaker": "tube",
+   "start": 13.06,
+   "end": 14.66,
+   "max_end": 14.92,
+   "en": "Team, protection complete.",
+   "tag": "happy",
+   "keep_original": false,
+   "bn": "টিম, প্রোটেকশন কমপ্লিট!",
+   "ta": "டீம், ப்ரொடெக்ஷன் கம்ப்ளீட்!",
+   "te": "టీమ్, ప్రొటెక్షన్ కంప్లీట్!",
+   "ml": "ടീം, പ്രൊട്ടക്ഷൻ കംപ്ലീറ്റ്!",
+   "or": "ଟିମ୍, ପ୍ରୋଟେକ୍ସନ୍ କମ୍ପ୍ଲିଟ୍!"
+  },
+  {
+   "id": 8,
+   "speaker": "tube",
+   "start": 14.96,
+   "end": 15.9,
+   "max_end": 16.62,
+   "en": "Ready for the day.",
+   "tag": "happy",
+   "keep_original": false,
+   "bn": "সারাদিনের জন্য রেডি!",
+   "ta": "இன்னைக்கு நாங்க ரெடி!",
+   "te": "ఈరోజుకి మేం రెడీ!",
+   "ml": "ഇന്നത്തേക്ക് റെഡി!",
+   "or": "ଆଜି ଦିନ ପାଇଁ ରେଡି!"
+  }
+ ],
+ "notes": "Video is 17.0 s (prompt planned 20 s); all 8 scripted lines spoken in order, no Whisper hallucinations. Tube speaks lines 1, 3, 7, 8 (pitch varies 217-312 Hz, same character, expressive). UV Rays line 2 is a high 367 Hz cartoon villain voice, deepened -3 st with villain fx. SPF Shield is the clearly low male voice (136 Hz). Purple Tint (244 Hz) and Niacinamide (269 Hz) are close in pitch, so Purple Tint gets +2 st to keep them distinct. Purple Tint and Niacinamide ref ranges are padded slightly into the surrounding silence to reach 1.5 s. Line 2 slot runs into the 1.2 s gap before line 3 (shot change, tube cap flip)."
+}

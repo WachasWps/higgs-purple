@@ -1,0 +1,50 @@
+[
+ {
+  "id": 1,
+  "speaker": "white_cast",
+  "cer": 0.33,
+  "heard": "ഇ സന്സക്രിന നാടക്ര മുവന കാണ്.",
+  "redub": true
+ },
+ {
+  "id": 2,
+  "speaker": "sunscreen",
+  "cer": 0.43,
+  "heard": "ശേര് തത് സംസക്രിന് ത്റി."
+ },
+ {
+  "id": 3,
+  "speaker": "sunscreen",
+  "cer": 0.52,
+  "heard": "പര്പൽ മന്യവ്ടേ ഇതിയാണ, അതുകുട് ദല്നൾസ കാനൽ ചെയിയമ്.",
+  "redub": true
+ },
+ {
+  "id": 4,
+  "speaker": "sunscreen",
+  "cer": 0.15,
+  "heard": "ānānā ē, ālin yu ceĞarum, īndin skindin ē.",
+  "redub": true
+ },
+ {
+  "id": 5,
+  "speaker": "sunscreen",
+  "cer": 0.46,
+  "heard": "പൌർ പേളൽ സന്ട�ു നിയാസനമയിട് ഇന്സ്ട് ഗ്ലോതരു.",
+  "redub": true
+ },
+ {
+  "id": 6,
+  "speaker": "sunscreen",
+  "cer": 0.15,
+  "heard": "Kodi SPF50 PA++++ Protection",
+  "repaired": true
+ },
+ {
+  "id": 7,
+  "speaker": "sunscreen",
+  "cer": 0.53,
+  "heard": "വയടികാസ്ടില്. ജസ്ടിപ്രടക്ടിട് സകിന്. കൂഡ ഇന്സിന്ടിക്ലോ.",
+  "redub": true
+ }
+]

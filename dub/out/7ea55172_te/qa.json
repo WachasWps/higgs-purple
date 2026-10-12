@@ -1,0 +1,54 @@
+[
+ {
+  "id": 1,
+  "speaker": "greasiness",
+  "cer": 0.18,
+  "heard": "స్టికి శాఇన్ డ్యో టీకి రేడి."
+ },
+ {
+  "id": 2,
+  "speaker": "dullness",
+  "cer": 0.11,
+  "heard": "నే నృ డల్నాస్ తెచా.",
+  "redub": true
+ },
+ {
+  "id": 3,
+  "speaker": "sunscreen",
+  "cer": 0.25,
+  "heard": "మిదరు ఫార్డి."
+ },
+ {
+  "id": 4,
+  "speaker": "sunscreen",
+  "cer": 0.1,
+  "heard": "కలర్ వీల్లో పర్పుల్ పస్పుకి ఆపోసుట్ అందికే డల్నిస్ కాంసిల్.",
+  "redub": true
+ },
+ {
+  "id": 5,
+  "speaker": "sunscreen",
+  "cer": 0.19,
+  "heard": "పార్పల తింట ఇందియో స్కిన కో స్మే."
+ },
+ {
+  "id": 6,
+  "speaker": "sunscreen",
+  "cer": 0.15,
+  "heard": "4% Niacinamide, Inka Instant Glow.",
+  "redub": true
+ },
+ {
+  "id": 7,
+  "speaker": "sunscreen",
+  "cer": 0.28,
+  "heard": "స్పి ఫిటి పిటర్పల్పల్స్ ఎండాని చోస్కొంతి."
+ },
+ {
+  "id": 8,
+  "speaker": "sunscreen",
+  "cer": 0.19,
+  "heard": "ఇన్స్ట్ గ్లువ్ ప్రటిక్ట్ మానిగ్ నో డ్రామా.",
+  "redub": true
+ }
+]

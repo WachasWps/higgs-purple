@@ -1,0 +1,70 @@
+{
+ "video_id": "e7e42eaf",
+ "product": "uv_sunscreen",
+ "caption_y": 0.9,
+ "elements": [
+  {
+   "type": "hud",
+   "variant": "corners",
+   "start": 0.0,
+   "end": 2.9
+  },
+  {
+   "type": "hook_mono",
+   "start": 0.2,
+   "end": 2.9,
+   "lines": [
+    "STEPPING OUT",
+    "UNPROTECTED?"
+   ],
+   "x": 0.6,
+   "y": 0.085,
+   "anim": "slide_up"
+  },
+  {
+   "type": "claim_bold",
+   "start": 5.5,
+   "end": 8.2,
+   "lines": [
+    "SPF 50 PA+++"
+   ],
+   "sub": "UVA + UVB PROTECTION",
+   "x": 0.5,
+   "y": 0.12,
+   "anim": "fade"
+  },
+  {
+   "type": "pill",
+   "start": 11.3,
+   "end": 12.6,
+   "lines": [
+    "4% NIACINAMIDE",
+    "INSTANT GLOW"
+   ],
+   "x": 0.5,
+   "y": 0.76,
+   "anim": "pop"
+  },
+  {
+   "type": "claim_bold",
+   "start": 12.6,
+   "end": 13.95,
+   "lines": [
+    "MADE FOR",
+    "INDIAN SKIN TONES"
+   ],
+   "sub": "NO WHITE CAST",
+   "x": 0.5,
+   "y": 0.76,
+   "anim": "fade"
+  }
+ ],
+ "notes": "Text pass (EDL): hook kept, moved onto the hair of the shared villain-hook clip (was on her neck); SPF claim over the hair on PS04 (replaces the lost baked SPF text); no supers in the colour-wheel window 8.27-11.13; 4% NIACINAMIDE / INSTANT GLOW then MADE FOR INDIAN SKIN TONES / NO WHITE CAST below the chin on PS05. caption_y back to 0.90 (the baked bottom titles it cleared are gone); end-card lift kept.",
+ "caption_moves": [
+  {
+   "start": 14.8,
+   "end": 17.02,
+   "y": 0.93
+  }
+ ]
+}

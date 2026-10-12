@@ -1,0 +1,228 @@
+{
+ "video": "426b77bb",
+ "style": "product_ad",
+ "cast": [
+  {
+   "id": "narrator",
+   "name": "Narrator",
+   "description": "calm, premium female ad narrator"
+  }
+ ],
+ "lines": [
+  {
+   "id": 1,
+   "start": 0.2,
+   "end": 2.7,
+   "speaker": "narrator",
+   "en": "One active is good. Three together?"
+  },
+  {
+   "id": 2,
+   "start": 3.0,
+   "end": 6.0,
+   "speaker": "narrator",
+   "en": "Meet DERMDOC 2% Kojic Acid Night Cream."
+  },
+  {
+   "id": 3,
+   "start": 6.3,
+   "end": 10.5,
+   "speaker": "narrator",
+   "en": "Kojic Acid, Niacinamide and Alpha Arbutin, in one Glow Fusion Formula."
+  },
+  {
+   "id": 4,
+   "start": 10.8,
+   "end": 13.3,
+   "speaker": "narrator",
+   "en": "Apply at night. It melts right in."
+  },
+  {
+   "id": 5,
+   "start": 13.6,
+   "end": 15.5,
+   "speaker": "narrator",
+   "en": "Wake up to brighter-looking skin."
+  },
+  {
+   "id": 6,
+   "start": 15.8,
+   "end": 17.7,
+   "speaker": "narrator",
+   "en": "One jar. Three actives."
+  }
+ ],
+ "shots": [
+  {
+   "n": 1,
+   "start": 0,
+   "end": 1.4,
+   "what": "USR_KNC_TEX_A",
+   "frames": [
+    "s01_0.jpg",
+    "s01_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 1,
+     "start": 0.2,
+     "end": 2.7,
+     "speaker": "narrator",
+     "en": "One active is good. Three together?"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "start": 1.4,
+   "end": 2.9,
+   "what": "KN03_before_night",
+   "frames": [
+    "s02_0.jpg",
+    "s02_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 1,
+     "start": 0.2,
+     "end": 2.7,
+     "speaker": "narrator",
+     "en": "One active is good. Three together?"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "start": 2.9,
+   "end": 4.4,
+   "what": "USR_KNC_HERO",
+   "frames": [
+    "s03_0.jpg",
+    "s03_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 2,
+     "start": 3.0,
+     "end": 6.0,
+     "speaker": "narrator",
+     "en": "Meet DERMDOC 2% Kojic Acid Night Cream."
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "start": 4.4,
+   "end": 6.3,
+   "what": "KN01_hero_night",
+   "frames": [
+    "s04_0.jpg",
+    "s04_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 2,
+     "start": 3.0,
+     "end": 6.0,
+     "speaker": "narrator",
+     "en": "Meet DERMDOC 2% Kojic Acid Night Cream."
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "start": 6.3,
+   "end": 10.6,
+   "what": "KNA2_avatar_ingredients",
+   "frames": [
+    "s05_0.jpg",
+    "s05_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 3,
+     "start": 6.3,
+     "end": 10.5,
+     "speaker": "narrator",
+     "en": "Kojic Acid, Niacinamide and Alpha Arbutin, in one Glow Fusion Formula."
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "start": 10.6,
+   "end": 12.2,
+   "what": "KN04_apply_night",
+   "frames": [
+    "s06_0.jpg",
+    "s06_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 4,
+     "start": 10.8,
+     "end": 13.3,
+     "speaker": "narrator",
+     "en": "Apply at night. It melts right in."
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "start": 12.2,
+   "end": 13.6,
+   "what": "KN05_sleep",
+   "frames": [
+    "s07_0.jpg",
+    "s07_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 4,
+     "start": 10.8,
+     "end": 13.3,
+     "speaker": "narrator",
+     "en": "Apply at night. It melts right in."
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "start": 13.6,
+   "end": 15.6,
+   "what": "KN06_morning_wake",
+   "frames": [
+    "s08_0.jpg",
+    "s08_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 5,
+     "start": 13.6,
+     "end": 15.5,
+     "speaker": "narrator",
+     "en": "Wake up to brighter-looking skin."
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "start": 15.6,
+   "end": 18.0,
+   "what": "GRAPHIC_BA_SPLIT",
+   "frames": [
+    "s09_0.jpg",
+    "s09_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 6,
+     "start": 15.8,
+     "end": 17.7,
+     "speaker": "narrator",
+     "en": "One jar. Three actives."
+    }
+   ]
+  }
+ ]
+}

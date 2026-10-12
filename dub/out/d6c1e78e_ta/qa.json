@@ -1,0 +1,63 @@
+[
+ {
+  "id": 1,
+  "speaker": "creator",
+  "cer": 0.26,
+  "heard": "என்னிக்கு மானிங் பர்பில் சென்ஸ்க்க்கிரின்"
+ },
+ {
+  "id": 2,
+  "speaker": "creator",
+  "cer": 0.15,
+  "heard": "thermtok niacinamide purple tint glow"
+ },
+ {
+  "id": 3,
+  "speaker": "creator",
+  "cer": 0.23,
+  "heard": "கலர் வில்லா பர்பில் மஞ்சலக்கு யதிர். ஦ல் சபோகும்."
+ },
+ {
+  "id": 4,
+  "speaker": "creator",
+  "cer": 0.24,
+  "heard": "நால் டால்ஸ் அப்பரம்பில் இந்த பாரங்க, பரபில் போச்சு, வைடு காஸ்ட் எல்லை."
+ },
+ {
+  "id": 5,
+  "speaker": "creator",
+  "cer": 0.69,
+  "heard": "வையிலக்கு SPFF40."
+ },
+ {
+  "id": 6,
+  "speaker": "creator",
+  "cer": 0.15,
+  "heard": "இந்த கலோ, drainstone filter இல்லை promise"
+ },
+ {
+  "id": 7,
+  "speaker": "creator",
+  "cer": 0.23,
+  "heard": "லாய்ட் இந்தியான் சகினுக்கு."
+ },
+ {
+  "id": 8,
+  "speaker": "creator",
+  "cer": 0.15,
+  "heard": "முனாடி டலியப்போ instant claw"
+ },
+ {
+  "id": 9,
+  "speaker": "creator",
+  "cer": 0.13,
+  "heard": "இதுதான் என் பைலி சன்ஸ்கிரின்."
+ },
+ {
+  "id": 10,
+  "speaker": "creator",
+  "cer": 0.17,
+  "heard": "பர்பிட்டாட்ட் காமல வாங்குங்க. அப்பிரம் தேன்க்ஸ்.",
+  "redub": true
+ }
+]

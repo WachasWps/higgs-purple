@@ -1,0 +1,6 @@
+Read CODEX_BRIEF.md in this folder first and follow it strictly.
+Attached reference images: ugc_refs/02bad3b3_S1.png, knc_tub_clean.png. Product photos are the ground truth for packaging; the out/*_model_ref.png image is the identity reference for the woman — keep the SAME face, hair and skin tone.
+TASK: generate ONE photorealistic vertical 9:16 keyframe image:
+EDIT the attached frame ugc_refs/02bad3b3_S1.png (a still from this creator's own UGC video): keep EXACTLY the same woman — face, hair, skin tone, expression family, clothes — the same framing, camera angle, room/background and lighting. Change ONLY: replace the round raised dot-like spots (they look like chicken pox) with REALISTIC hyperpigmentation: soft-edged FLAT brown sun spots and uneven darker patches on the cheekbones/upper cheeks, a few faint post-acne marks; otherwise natural real skin texture. Remove the second jar in the lower-left foreground (only ONE jar, the one in her hand); the jar must be the EXACT DERMDOC 2% Kojic Acid Night Cream jar from knc_tub_clean.png (blue base, white lid, label exactly as the photo). Night vanity light as in the frame. No text.
+
+Use your image generation tool (pass the reference images to it), then copy the generated file to out/UGC_02bad3b3_S1.png. Reply only with the saved path.

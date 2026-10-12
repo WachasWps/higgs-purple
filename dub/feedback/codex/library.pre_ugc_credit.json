@@ -1,0 +1,233 @@
+{
+ "models": {
+  "ps_model_ref": {
+   "refs": [],
+   "prompt": "Identity reference portrait (9:16, chest-up, looking at camera, soft neutral daylight by a window) of MEERA: Indian woman, 27, DUSKY medium-deep brown skin tone (relatable South/East Indian complexion, clearly not fair), natural dark wavy hair in a loose low bun, soft natural brows, minimal makeup, small gold stud earrings, plain white linen top. Real skin texture with pores, healthy but natural (no product yet), calm friendly expression. Plain softly blurred home background."
+  },
+  "knc_model_ref": {
+   "refs": [],
+   "prompt": "Identity reference portrait (9:16, chest-up, looking at camera, soft neutral daylight) of ANANYA: Indian woman, 29, DUSKY medium-brown skin tone (relatable Indian complexion, clearly not fair), long straight dark hair loose behind shoulders, natural brows, no makeup, wearing a navy-blue satin night suit with white piping. Real skin texture with pores, calm warm expression. Softly blurred bedroom background."
+  }
+ },
+ "clips": {
+  "PS01_hero_vanity": {
+   "product": "ps",
+   "refs": [
+    "ps_tube_with_box.png",
+    "ps_tube_swatch.png",
+    "ps_texture_drip.png"
+   ],
+   "model": null,
+   "prompt": "(already generated)",
+   "motion": "Slow cinematic push-in toward the sunscreen tube standing on its cap on the marble vanity; soft sunlight and leaf shadows drift gently; the tube stays perfectly still and unchanged."
+  },
+  "PS02_hold_balcony": {
+   "product": "ps",
+   "refs": [
+    "ps_tube_with_box.png",
+    "ps_tube_swatch.png"
+   ],
+   "model": "ps_model_ref",
+   "prompt": "MEERA (same person as the identity reference) on a sunny city balcony with plants, late-morning light, holding the exact DERMDOC Ultra Violet sunscreen tube upright at chest height with the label facing camera, the wide translucent lavender cap at the bottom end, smiling. Her skin looks naturally radiant and even, no white cast.",
+   "motion": "She lifts the tube slightly toward the camera and smiles; gentle breeze in her hair; the tube label stays readable and unchanged; handheld feel."
+  },
+  "PS03_fingertips": {
+   "product": "ps",
+   "refs": [
+    "ps_tube_with_box.png",
+    "ps_texture_drip.png"
+   ],
+   "model": "ps_model_ref",
+   "prompt": "Macro beauty shot: MEERA's two fingertips holding a small dollop of smooth pale-lavender sunscreen cream, her other hand behind holding the capped DERMDOC Ultra Violet tube (cap on, no nozzle visible), soft morning bathroom light, dusky skin.",
+   "motion": "Fingertips rub together gently, the lavender cream spreads smoothly and silkily; slow motion; tube in background stays unchanged."
+  },
+  "PS04_dot_face": {
+   "product": "ps",
+   "refs": [
+    "ps_texture_drip.png"
+   ],
+   "model": "ps_model_ref",
+   "prompt": "Face close-up of MEERA in soft morning bathroom light, five small neat dots of pale-lavender cream on her forehead, both cheeks, nose and chin, about to blend; her skin before blending looks slightly dull and matte. No product packaging in frame.",
+   "motion": "Her fingertips start blending the dots across her cheeks in gentle strokes; slow, natural movement; face stays the same person."
+  },
+  "PS05_blend_glow": {
+   "product": "ps",
+   "refs": [
+    "ps_texture_drip.png"
+   ],
+   "model": "ps_model_ref",
+   "prompt": "Face close-up of MEERA mid-blend: fingertips smoothing a thin layer of pale-lavender cream on her cheek, the cream already melting invisibly into her dusky skin, which starts to look even and luminous; soft morning light.",
+   "motion": "She finishes blending; the lavender completely disappears into the skin leaving no cast or residue; her skin turns visibly even, smooth and dewy with a healthy instant glow; she lowers her hand and smiles."
+  },
+  "PS06_glow_after": {
+   "product": "ps",
+   "refs": [
+    "out/superseded/PS06_glow_after_v2.png"
+   ],
+   "model": "ps_model_ref",
+   "prompt": "EDIT the attached image (out/superseded/PS06_glow_after_v2.png): keep EXACTLY the same woman, pose, framing, hair, clothes and background, but make the after-sunscreen INSTANT GLOW much more obvious: luminous dewy 'glass-skin' radiance with soft bright highlights on cheekbones, nose bridge, forehead and chin, smoother more even skin texture, brighter fresh eyes, healthy warmth. SAME dusky skin tone depth (do not lighten). Must still look like real skin.",
+   "motion": "Slow head turn toward the window light; light glides across her glowing cheekbone; gentle smile; camera almost static."
+  },
+  "PS07_before_dull": {
+   "product": "ps",
+   "refs": [
+    "out/PS06_glow_after.png"
+   ],
+   "model": "ps_model_ref",
+   "prompt": "EDIT the attached image (out/PS06_glow_after.png) into its BEFORE version: keep EXACTLY the same woman, pose, framing, hair, clothes, background and lighting direction, but make her skin clearly and noticeably DULL: completely matte and flat with zero highlights, an ashy yellowish-grey tired cast, visibly uneven blotchy tone around the mouth, nose and forehead, noticeable under-eye darkness, slightly rough uneven texture, a little oily-dull T-zone, tired neutral expression with no smile. SAME skin tone depth (not darker, not lighter). The before/after difference must be obvious at a glance on a phone screen. Realistic, not dirty, not sick.",
+   "motion": "Subtle blink and a small sigh; she touches her cheek lightly; camera static."
+  },
+  "PS08_hand_swatch": {
+   "product": "ps",
+   "refs": [
+    "ps_texture_drip.png"
+   ],
+   "model": "ps_model_ref",
+   "prompt": "Top-down close-up of the back of MEERA's dusky hand resting on a light wooden balcony table in sunlight, one thin smooth stripe of pale-lavender sunscreen cream on it, the fingertips of her other hand about to blend it.",
+   "motion": "Fingertips rub the stripe in circles; the lavender vanishes completely leaving no white cast and no residue; the skin on that patch looks visibly more even and radiant than before."
+  },
+  "PS09_outdoor_glow": {
+   "product": "ps",
+   "refs": [],
+   "model": "ps_model_ref",
+   "prompt": "MEERA outdoors on a bright terrace in midday sunlight, wearing a white linen shirt, natural glowing even dusky skin with no white cast, confident happy expression, city and greenery softly blurred behind; premium sunscreen commercial look.",
+   "motion": "She steps forward into the sunlight, turns her face to the sun with a relaxed smile; hair moves in the breeze; light handheld tracking."
+  },
+  "PS10_texture_macro": {
+   "product": "ps",
+   "refs": [
+    "ps_texture_drip.png",
+    "ps_tube_with_box.png"
+   ],
+   "model": null,
+   "prompt": "Macro product-texture shot: a smooth glossy swirl of pale-lavender sunscreen cream on a clean glass slab, the capped DERMDOC Ultra Violet tube standing on its cap softly out of focus behind it, clean lavender-white studio background, premium lighting.",
+   "motion": "A fingertip slowly swipes through the cream swirl showing a light, smooth, non-watery texture; slow motion; tube unchanged."
+  },
+  "PSA1_avatar_talk": {
+   "product": "ps",
+   "refs": [
+    "ps_tube_with_box.png",
+    "ps_tube_swatch.png"
+   ],
+   "model": null,
+   "prompt": "Cute 3D-animated product mascot: the EXACT DERMDOC Ultra Violet sunscreen tube (same label, layout, lavender ULTRA VIOLET band and wide translucent lavender cap) standing upright on its cap, with big friendly cartoon eyes and a small smiling mouth placed on the plain white area just under the top crimp (above the DERMDOC logo, never covering label text), and two small white cartoon gloved hands on its sides. On a marble bathroom vanity in morning sunlight, blurred plants. Pixar-like but premium.",
+   "motion": "The tube mascot talks cheerfully to camera, blinking and gesturing with one hand; the label, cap and shape stay exactly the same; gentle camera drift."
+  },
+  "PSA2_avatar_point": {
+   "product": "ps",
+   "refs": [
+    "ps_tube_with_box.png",
+    "ps_tube_swatch.png"
+   ],
+   "model": null,
+   "prompt": "Wide vertical shot of a clean, softly lit pale-lavender studio set (seamless lavender-white backdrop and floor). The cute DERMDOC Ultra Violet tube mascot (EXACT packaging; big friendly cartoon eyes and a small mouth on the white area above the DERMDOC logo; two small white cartoon gloved hands) stands on its wide lavender cap at the FAR LEFT edge of the frame, SMALL — the tube occupies only the left 30% of the width and the lower-middle of the frame — and points with its right hand toward the large EMPTY area on the right. The right 65% of the frame is completely empty soft lavender backdrop, nothing in it.",
+   "motion": "The mascot points to the empty right side and nods while talking; nothing appears on the right side; camera static."
+  },
+  "PSA3_avatar_model": {
+   "product": "ps",
+   "refs": [
+    "ps_tube_with_box.png",
+    "ps_tube_swatch.png"
+   ],
+   "model": "ps_model_ref",
+   "prompt": "MEERA on a sunny balcony, glowing even skin, smiling at the cute DERMDOC Ultra Violet tube mascot (exact packaging with cartoon eyes above the logo and small white gloved hands) standing on its cap on the balcony ledge beside her. Only ONE tube in the frame.",
+   "motion": "The tube mascot waves at her and she laughs and touches her glowing cheek; natural movement; only one tube."
+  },
+  "KN01_hero_night": {
+   "product": "knc",
+   "refs": [
+    "knc_tub_clean.png",
+    "knc_tub_open.png"
+   ],
+   "model": null,
+   "prompt": "The EXACT DERMDOC 2% Kojic Acid Night Cream jar (royal-blue base and neck, white label, label text and layout exactly as reference) standing open on a wooden bedside table at night, its white lid resting beside it, thick rich whipped white cream with a soft peak visible, warm bedside-lamp glow, cosy dark bedroom blurred behind, premium night-skincare commercial look.",
+   "motion": "Slow cinematic push-in to the open jar; warm lamp light flickers softly; the jar and label stay perfectly unchanged."
+  },
+  "KN02_scoop": {
+   "product": "knc",
+   "refs": [
+    "knc_tub_open.png",
+    "knc_tub_clean.png"
+   ],
+   "model": "knc_model_ref",
+   "prompt": "Macro: ANANYA's dusky fingertip scooping a dollop of thick rich whipped white cream from the open DERMDOC Kojic Acid night cream jar (exact jar), warm lamp light at night.",
+   "motion": "The fingertip lifts out a soft peak of thick cream in slow motion; the cream is rich and holds its shape; jar unchanged."
+  },
+  "KN03_before_night": {
+   "product": "knc",
+   "refs": [],
+   "model": "knc_model_ref",
+   "prompt": "ANANYA at night in front of a softly lit bathroom mirror, close-up of her face: realistic hyperpigmentation — soft-edged flat brown sun spots and uneven darker patches on both cheekbones and upper cheeks, a few faint post-acne marks, dull uneven tone. Very realistic, relatable, NOT raised dots, not chicken-pox. She looks at her skin with mild concern.",
+   "motion": "She gently touches her cheek and studies the spots in the mirror; subtle head turn; camera static."
+  },
+  "KN04_apply_night": {
+   "product": "knc",
+   "refs": [
+    "knc_tub_open.png"
+   ],
+   "model": "knc_model_ref",
+   "prompt": "ANANYA at night under warm lamp light, face close-up, applying small dabs of thick white night cream on her cheeks with her fingertips, eyes relaxed; the realistic soft brown spots still visible on her cheeks.",
+   "motion": "She massages the cream in gentle upward circles until it fully absorbs, leaving soft, smooth, healthy-looking skin with no white residue; calm bedtime mood."
+  },
+  "KN05_sleep": {
+   "product": "knc",
+   "refs": [
+    "knc_tub_clean.png"
+   ],
+   "model": "knc_model_ref",
+   "prompt": "ANANYA sleeping peacefully on her side in bed in a navy satin night suit, soft blue moonlight through sheer curtains, the closed DERMDOC Kojic Acid night cream jar (exact) on the bedside table in soft focus.",
+   "motion": "Gentle breathing; moonlight slowly warms into the first soft dawn light across the room; time-lapse feel; very calm."
+  },
+  "KN06_morning_wake": {
+   "product": "knc",
+   "refs": [],
+   "model": "knc_model_ref",
+   "prompt": "Bright soft MORNING daylight in a white bedroom, ANANYA sitting up in bed in her navy satin night suit, touching her cheek and smiling: her skin looks visibly clearer, spotless-looking, even, smooth and glowing, same dusky skin tone, no dark spots, no dark circles. Fresh morning mood, sunlight through curtains.",
+   "motion": "She stretches, then touches her smooth glowing cheek and smiles at camera; sunlight glows on her skin; gentle camera push."
+  },
+  "KN07_after_day": {
+   "product": "knc",
+   "refs": [],
+   "model": "knc_model_ref",
+   "prompt": "Close-up portrait of ANANYA facing camera, head and shoulders, face centred in the upper-middle of the frame, soft neutral morning daylight, plain light background, navy satin night suit. AFTER 2 WEEKS of the kojic night cream: visibly clear, spotless-looking, even-toned, smooth skin with a healthy natural glow on cheekbones and forehead, no dark spots, no dark circles, SAME dusky skin tone (not lighter), happy confident smile. Obviously improved at a glance but still real skin with pores.",
+   "motion": "Subtle smile and slow head tilt toward the light; glow on cheekbones; camera static."
+  },
+  "KN08_before_day": {
+   "product": "knc",
+   "refs": [
+    "out/KN07_after_day.png"
+   ],
+   "model": "knc_model_ref",
+   "prompt": "EDIT the attached image out/KN07_after_day.png into its BEFORE version: keep EXACTLY the same woman, pose, framing, hair, clothes, background and light, but add REALISTIC hyperpigmentation: several soft-edged FLAT brown sun spots and uneven darker patches (melasma-like) across both cheekbones, upper cheeks and a little on the forehead, a few faint post-acne marks, dull uneven tone, no glow, neutral expression. SAME skin tone depth. NOT raised dots, NOT round uniform dots, NOT chicken-pox — it must look like common real dark spots.",
+   "motion": "Small blink and slight head tilt; camera static."
+  },
+  "KNA1_avatar_talk": {
+   "product": "knc",
+   "refs": [
+    "knc_tub_clean.png",
+    "knc_tub_open.png"
+   ],
+   "model": null,
+   "prompt": "Cute 3D-animated product mascot: the EXACT DERMDOC 2% Kojic Acid Night Cream jar (same label text/layout, royal-blue base, white lid) with big friendly cartoon eyes and a small smiling mouth on the front edge of the white LID (never covering the label), and two small blue cartoon arms. Standing on a cosy bedside table at night, warm lamp glow, premium Pixar-like look.",
+   "motion": "The jar mascot talks warmly to camera, blinking and gesturing; label and jar shape stay exactly the same; gentle camera drift."
+  },
+  "KNA2_avatar_ingredients": {
+   "product": "knc",
+   "refs": [
+    "knc_tub_open.png",
+    "knc_tub_clean.png"
+   ],
+   "model": null,
+   "prompt": "The EXACT DERMDOC 2% Kojic Acid Night Cream jar, open (thick white cream visible), on a dark night-blue vanity with soft bokeh; three small glowing light-orbs (one warm gold, one icy white-blue, one soft pink) rising from the cream, NO text anywhere except the jar label.",
+   "motion": "The three glowing orbs rise out of the cream and orbit slowly above the jar, sparkles trailing; jar unchanged; camera slow push-in."
+  },
+  "PS_CUSTOM_VILLAIN_HOOK": {
+   "product": "ps",
+   "refs": [],
+   "model": "ps_model_ref",
+   "prompt": "9:16 photoreal beauty close-up of MEERA (same person as ps_model_ref: Indian woman, 27, DUSKY medium-deep brown skin, clearly not fair; dark wavy hair pulled back into a neat low bun with NO loose strands on her face or cheek; soft natural brows; small gold studs; plain white linen top). Framed like the base frame: face turned slightly toward camera-right, a little frown, the fingertips of her left hand lightly touching her left cheek. BEFORE look: real skin texture with pores; skin clean but dull, flat, matte and slightly yellowish-looking and tired, NO glow. NO product, cream, powder, white streak or residue anywhere on her skin. Bright soft morning daylight, plain softly blurred light background. Four small cute 3D Pixar-style cartoon villains hover beside her cheek in the LEFT third of the frame, each about 1/6 of frame width, never covering her eyes, nose or mouth: (1) a spiky golden-orange UV sun villain with angry eyes and tiny fists; (2) a fuzzy chalky-white round 'White Cast' blob with angry eyes holding a small DRY paint roller; (3) a glossy golden oil-droplet 'Greasiness' villain riding a mini skateboard; (4) a puffy grey-yellow haze 'Dullness' cloud villain with a grumpy face. NO sunscreen tube or any product, NO text, NO colour wheel.",
+   "motion": "The villains bob and cackle around her cheek. The sun villain shakes its fists and flicks tiny harmless light streaks, the white blob waves its dry roller in the air, the oil droplet skates a small loop in mid-air, and the dullness cloud puffs. Meera sighs and gently presses her dull cheek. Nothing sticks to her skin. Camera static with a very slow push-in; same face and skin tone throughout.",
+   "custom": true
+  }
+ }
+}

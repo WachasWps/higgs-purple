@@ -1,0 +1,111 @@
+{
+ "video_id": "65a0c520",
+ "product": "uv_sunscreen",
+ "caption_y": 0.9,
+ "caption_moves": [
+  {
+   "start": 10.6,
+   "end": 13.23,
+   "y": 0.58
+  }
+ ],
+ "elements": [
+  {
+   "type": "hook_mono",
+   "start": 0.15,
+   "end": 2.0,
+   "lines": [
+    "DULL BEFORE",
+    "THE DAY STARTS?"
+   ],
+   "position": "lower",
+   "anim": "slide_up"
+  },
+  {
+   "type": "hud",
+   "variant": "corners",
+   "start": 8.3,
+   "end": 10.45
+  },
+  {
+   "type": "pill",
+   "start": 8.4,
+   "end": 10.45,
+   "lines": [
+    "MADE FOR",
+    "INDIAN SKIN"
+   ],
+   "x": 0.5,
+   "y": 0.74,
+   "anim": "pop"
+  },
+  {
+   "type": "label",
+   "start": 10.65,
+   "end": 13.18,
+   "lines": [
+    "BEFORE"
+   ],
+   "x": 0.5,
+   "y": 0.455,
+   "anim": "pop"
+  },
+  {
+   "type": "label",
+   "start": 10.65,
+   "end": 13.18,
+   "lines": [
+    "AFTER"
+   ],
+   "x": 0.5,
+   "y": 0.895,
+   "anim": "pop"
+  },
+  {
+   "type": "label",
+   "start": 10.65,
+   "end": 13.18,
+   "lines": [
+    "INSTANT GLOW"
+   ],
+   "x": 0.5,
+   "y": 0.955,
+   "anim": "pop"
+  },
+  {
+   "type": "pill",
+   "start": 10.75,
+   "end": 12.95,
+   "lines": [
+    "NO WHITE CAST"
+   ],
+   "x": 0.5,
+   "y": 0.1,
+   "anim": "pop"
+  },
+  {
+   "type": "pill",
+   "start": 13.3,
+   "end": 14.95,
+   "lines": [
+    "4% NIACINAMIDE"
+   ],
+   "position": "top",
+   "anim": "pop"
+  },
+  {
+   "type": "claim_bold",
+   "start": 17.55,
+   "end": 19.9,
+   "lines": [
+    "DULLNESS CORRECTED",
+    "INSTANT GLOW"
+   ],
+   "sub": "DAY PROTECTED",
+   "x": 0.5,
+   "y": 0.72,
+   "anim": "fade"
+  }
+ ],
+ "notes": "Hook on MEERA's chest (PS07); colour-wheel window 2.27-6.93 left to the wheel graphic; corners + MADE FOR INDIAN SKIN below her face on the PS05 blend; B/A split BEFORE / INSTANT GLOW with a small top NO WHITE CAST pill and captions under the divider; niacinamide pill on the kept molecule; closing claim on her shirt (PS09)."
+}

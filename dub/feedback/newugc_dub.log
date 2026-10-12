@@ -1,0 +1,66 @@
+[2026-10-12 03:05:12,566] WARNING miocodec: FlashAttention is not installed. Falling back to PyTorch SDPA implementation. There is no warranty that the model will work correctly.
+Fetching 10 files:   0%|          | 0/10 [00:00<?, ?it/s]Fetching 10 files: 100%|██████████| 10/10 [00:00<00:00, 3499.04it/s]
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+[2026-10-12 03:05:18,867] INFO miocodec: Loaded weights from safetensors file: /Users/wachas/.cache/huggingface/hub/models--Aratako--MioCodec-25Hz-24kHz/snapshots/3a737f0de2c6324cb2fe40c1fbd1056c7add423d/model.safetensors
+Fetching 4 files:   0%|          | 0/4 [00:00<?, ?it/s]Fetching 4 files: 100%|██████████| 4/4 [00:00<00:00, 3784.62it/s]
+models ready in 6.7s
+[guard] pausing b876bd3c: free memory 24%, thermal ok=True
+[guard] resumed b876bd3c after 15s (free 31%)
+uniform tempo x1.00  |  voice ends at 20.06s  |  max late start +0.05s
+line  orig_cue  new_start  shift   length
+   1      0.00       0.05  +0.05    1.17s
+   2      1.40       1.32  -0.08    2.04s
+   3      3.80       3.65  -0.15    2.11s
+   4      6.80       6.65  -0.15    4.47s
+   5     11.80      11.65  -0.15    2.23s
+   6     14.70      14.55  -0.15    2.26s
+   7     17.00      16.91  -0.09    1.72s
+   8     18.70      18.73  +0.03    1.32s
+wrote out/b876bd3c_bn.mp4
+uniform tempo x1.00  |  voice ends at 19.85s  |  max late start +0.05s
+line  orig_cue  new_start  shift   length
+   1      0.00       0.05  +0.05    1.11s
+   2      1.40       1.26  -0.14    1.81s
+   3      3.80       3.65  -0.15    2.19s
+   4      6.80       6.65  -0.15    5.07s
+   5     11.80      11.82  +0.02    2.08s
+   6     14.70      14.55  -0.15    2.37s
+   7     17.00      17.02  +0.02    1.40s
+   8     18.70      18.55  -0.15    1.30s
+wrote out/b876bd3c_ta.mp4
+uniform tempo x1.00  |  voice ends at 20.44s  |  max late start +0.51s
+line  orig_cue  new_start  shift   length
+   1      0.00       0.05  +0.05    1.00s
+   2      1.40       1.25  -0.15    1.82s
+   3      3.80       3.65  -0.15    2.52s
+   4      6.80       6.65  -0.15    5.35s
+   5     11.80      12.10  +0.30    1.95s
+   6     14.70      14.55  -0.15    2.86s
+   7     17.00      17.51  +0.51    1.42s
+   8     18.70      19.03  +0.33    1.42s
+wrote out/b876bd3c_te.mp4
+uniform tempo x1.00  |  voice ends at 20.14s  |  max late start +0.14s
+line  orig_cue  new_start  shift   length
+   1      0.00       0.05  +0.05    0.95s
+   2      1.40       1.25  -0.15    1.43s
+   3      3.80       3.65  -0.15    1.91s
+   4      6.80       6.65  -0.15    4.58s
+   5     11.80      11.65  -0.15    1.94s
+   6     14.70      14.55  -0.15    2.49s
+   7     17.00      17.14  +0.14    1.20s
+   8     18.70      18.55  -0.15    1.59s
+wrote out/b876bd3c_ml.mp4
+uniform tempo x1.00  |  voice ends at 20.46s  |  max late start +0.56s
+line  orig_cue  new_start  shift   length
+   1      0.00       0.05  +0.05    1.08s
+   2      1.40       1.25  -0.15    2.14s
+   3      3.80       3.65  -0.15    1.87s
+   4      6.80       6.65  -0.15    5.27s
+   5     11.80      12.02  +0.22    2.29s
+   6     14.70      14.55  -0.15    2.91s
+   7     17.00      17.56  +0.56    1.37s
+   8     18.70      19.03  +0.33    1.43s
+wrote out/b876bd3c_or.mp4
+[b876bd3c] 5 langs in 618s | worst line CER 1.00 | retried 4
+/opt/homebrew/Cellar/python@3.12/3.12.13_4/Frameworks/Python.framework/Versions/3.12/lib/python3.12/multiprocessing/resource_tracker.py:279: UserWarning: resource_tracker: There appear to be 1 leaked semaphore objects to clean up at shutdown
+  warnings.warn('resource_tracker: There appear to be %d '

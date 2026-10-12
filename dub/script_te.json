@@ -1,0 +1,82 @@
+{
+  "language": "te",
+  "lines": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 1.94,
+      "max_end": 2.15,
+      "en": "My morning glow was definitely not glowing.",
+      "te": "మార్నింగ్ గ్లో? పత్తా లేదు!",
+      "back_translation": "Morning glow? Not a trace of it!",
+      "mood": "mock-frustrated, playful",
+      "tag": "surprise"
+    },
+    {
+      "id": 2,
+      "start": 2.18,
+      "end": 5.44,
+      "max_end": 5.58,
+      "en": "The purple tint is color correction. Violet helps balance yellow-looking dullness.",
+      "te": "పర్పుల్ టింట్ కలర్ కరెక్షన్, పసుపు డల్నెస్ బ్యాలెన్స్!",
+      "back_translation": "The purple tint is colour correction, yellow dullness balanced!",
+      "mood": "explaining",
+      "tag": null
+    },
+    {
+      "id": 3,
+      "start": 5.62,
+      "end": 6.48,
+      "max_end": 6.6,
+      "en": "Now watch both hands.",
+      "te": "రెండు చేతులూ చూడు!",
+      "back_translation": "Look at both hands!",
+      "mood": "inviting, upbeat",
+      "tag": "happy"
+    },
+    {
+      "id": 4,
+      "start": 6.64,
+      "end": 8.64,
+      "max_end": 8.76,
+      "en": "It starts lavender, then blends completely clear.",
+      "te": "లావెండర్ నుంచి ఫుల్ క్లియర్!",
+      "back_translation": "From lavender to fully clear!",
+      "mood": "pleasantly surprised",
+      "tag": "surprise"
+    },
+    {
+      "id": 5,
+      "start": 8.8,
+      "end": 10.5,
+      "max_end": 10.66,
+      "en": "Zero white cast, zero purple residue.",
+      "te": "వైట్ కాస్ట్ జీరో, పర్పుల్ మరక జీరో!",
+      "back_translation": "White cast zero, purple stain zero!",
+      "mood": "confident, punchy",
+      "tag": "happy"
+    },
+    {
+      "id": 6,
+      "start": 10.72,
+      "end": 14.1,
+      "max_end": 14.26,
+      "en": "It's made for Indian skin, with 4% niacinamide for a brighter-looking finish.",
+      "te": "ఇండియన్ స్కిన్ కోసం, ఫోర్ పర్సెంట్ నియాసినమైడ్, బ్రైట్ ఫినిష్!",
+      "back_translation": "For Indian skin, four percent niacinamide, bright finish!",
+      "mood": "warm, happy",
+      "tag": "happy"
+    },
+    {
+      "id": 7,
+      "start": 14.34,
+      "end": 17.92,
+      "max_end": 18.4,
+      "en": "And SPF 50 PA+++ gives me the daily protection I actually need.",
+      "te": "ఇక ఎస్పీఎఫ్ ఫిఫ్టీ, పీఏ ట్రిపుల్ ప్లస్, నా డైలీ ప్రొటెక్షన్ పక్కా!",
+      "back_translation": "And SPF fifty, PA triple plus, my daily protection, sorted!",
+      "mood": "confident close",
+      "tag": "happy"
+    }
+  ]
+}

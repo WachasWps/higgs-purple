@@ -1,0 +1,22 @@
+{
+ "video_id": "fb3fa838",
+ "kind": "ad",
+ "style": "product_ad",
+ "duration": 20.039002,
+ "cast": [
+  {
+   "id": "narrator",
+   "name": "Voiceover",
+   "role": "narrator"
+  }
+ ],
+ "lines": [
+  {
+   "id": 1,
+   "speaker": "narrator",
+   "start": 0.0,
+   "end": 19.54,
+   "en": "Morning balcony se city commute tak—sun exposure follows everywhere.دمdoc Ultra Violet Brightening Sunscreen brings SPF 50 PA++ protection with 4% Niacinamide. Purple tint yellow-looking dullness ko balance karke natural radiant glow deta hai—without white cast. Made for everyday Indian sun."
+  }
+ ]
+}

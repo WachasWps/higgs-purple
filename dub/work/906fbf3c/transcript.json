@@ -1,0 +1,405 @@
+{
+ "language": "en",
+ "segments": [
+  {
+   "seg": 0,
+   "start": 0.0,
+   "end": 2.0,
+   "text": "Night time. My time.",
+   "f0_median_hz": 77,
+   "words": [
+    [
+     "Night",
+     0.0,
+     0.42
+    ],
+    [
+     "time.",
+     0.42,
+     0.82
+    ],
+    [
+     "My",
+     1.16,
+     1.56
+    ],
+    [
+     "time.",
+     1.56,
+     2.0
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 1,
+   "start": 2.32,
+   "end": 3.82,
+   "text": "Actually, this is my shift.",
+   "f0_median_hz": 189,
+   "words": [
+    [
+     "Actually,",
+     2.32,
+     2.7
+    ],
+    [
+     "this",
+     2.96,
+     3.2
+    ],
+    [
+     "is",
+     3.2,
+     3.32
+    ],
+    [
+     "my",
+     3.32,
+     3.52
+    ],
+    [
+     "shift.",
+     3.52,
+     3.82
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 2,
+   "start": 4.02,
+   "end": 5.22,
+   "text": "I'm the overnight brightener.",
+   "f0_median_hz": 177,
+   "words": [
+    [
+     "I'm",
+     4.02,
+     4.28
+    ],
+    [
+     "the",
+     4.28,
+     4.4
+    ],
+    [
+     "overnight",
+     4.4,
+     4.8
+    ],
+    [
+     "brightener.",
+     4.8,
+     5.22
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 3,
+   "start": 5.58,
+   "end": 8.14,
+   "text": "My three expert formula brings three brightening actives together.",
+   "f0_median_hz": 178,
+   "words": [
+    [
+     "My",
+     5.58,
+     5.66
+    ],
+    [
+     "three",
+     5.66,
+     5.84
+    ],
+    [
+     "expert",
+     5.84,
+     6.14
+    ],
+    [
+     "formula",
+     6.14,
+     6.54
+    ],
+    [
+     "brings",
+     6.54,
+     6.84
+    ],
+    [
+     "three",
+     6.84,
+     7.08
+    ],
+    [
+     "brightening",
+     7.08,
+     7.46
+    ],
+    [
+     "actives",
+     7.46,
+     7.84
+    ],
+    [
+     "together.",
+     7.84,
+     8.14
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 4,
+   "start": 8.4,
+   "end": 9.32,
+   "text": "Three against one?",
+   "f0_median_hz": 109,
+   "words": [
+    [
+     "Three",
+     8.4,
+     8.62
+    ],
+    [
+     "against",
+     8.62,
+     8.94
+    ],
+    [
+     "one?",
+     8.94,
+     9.32
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 5,
+   "start": 9.5,
+   "end": 11.22,
+   "text": "And I'm rich, creamy, and made for the night.",
+   "f0_median_hz": 177,
+   "words": [
+    [
+     "And",
+     9.5,
+     9.66
+    ],
+    [
+     "I'm",
+     9.66,
+     9.82
+    ],
+    [
+     "rich,",
+     9.82,
+     10.04
+    ],
+    [
+     "creamy,",
+     10.18,
+     10.42
+    ],
+    [
+     "and",
+     10.58,
+     10.64
+    ],
+    [
+     "made",
+     10.64,
+     10.8
+    ],
+    [
+     "for",
+     10.8,
+     10.94
+    ],
+    [
+     "the",
+     10.94,
+     11.02
+    ],
+    [
+     "night.",
+     11.02,
+     11.22
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 6,
+   "start": 11.36,
+   "end": 13.24,
+   "text": "Apply, massage, and let me get to work.",
+   "f0_median_hz": 187,
+   "words": [
+    [
+     "Apply,",
+     11.36,
+     11.62
+    ],
+    [
+     "massage,",
+     11.82,
+     12.14
+    ],
+    [
+     "and",
+     12.32,
+     12.44
+    ],
+    [
+     "let",
+     12.44,
+     12.58
+    ],
+    [
+     "me",
+     12.58,
+     12.7
+    ],
+    [
+     "get",
+     12.7,
+     12.84
+    ],
+    [
+     "to",
+     12.84,
+     12.96
+    ],
+    [
+     "work.",
+     12.96,
+     13.24
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 7,
+   "start": 14.46,
+   "end": 16.5,
+   "text": "Now that's a glow worth waking up to.",
+   "f0_median_hz": 190,
+   "words": [
+    [
+     "Now",
+     14.46,
+     14.94
+    ],
+    [
+     "that's",
+     14.94,
+     15.36
+    ],
+    [
+     "a",
+     15.36,
+     15.44
+    ],
+    [
+     "glow",
+     15.44,
+     15.6
+    ],
+    [
+     "worth",
+     15.6,
+     15.84
+    ],
+    [
+     "waking",
+     15.84,
+     16.1
+    ],
+    [
+     "up",
+     16.1,
+     16.3
+    ],
+    [
+     "to.",
+     16.3,
+     16.5
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 8,
+   "start": 16.76,
+   "end": 18.58,
+   "text": "Dermdok 2% Kojic Acid Night Cream.",
+   "f0_median_hz": 188,
+   "words": [
+    [
+     "Dermdok",
+     16.76,
+     17.14
+    ],
+    [
+     "2",
+     17.14,
+     17.28
+    ],
+    [
+     "%",
+     17.28,
+     17.56
+    ],
+    [
+     "Kojic",
+     17.56,
+     17.9
+    ],
+    [
+     "Acid",
+     17.9,
+     18.18
+    ],
+    [
+     "Night",
+     18.18,
+     18.34
+    ],
+    [
+     "Cream.",
+     18.34,
+     18.58
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 9,
+   "start": 18.76,
+   "end": 19.44,
+   "text": "Sleep to glow.",
+   "f0_median_hz": 188,
+   "words": [
+    [
+     "Sleep",
+     18.76,
+     19.1
+    ],
+    [
+     "to",
+     19.1,
+     19.24
+    ],
+    [
+     "glow.",
+     19.24,
+     19.44
+    ]
+   ],
+   "voice_cluster_hint": null
+  }
+ ]
+}

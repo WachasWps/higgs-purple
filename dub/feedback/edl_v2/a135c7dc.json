@@ -1,0 +1,70 @@
+{
+ "video_id": "a135c7dc",
+ "product": "ps",
+ "category": "ugc",
+ "use_rebuild": true,
+ "shots": [],
+ "rebuild": {
+  "target_duration_s": 32.18,
+  "shots": [
+   {
+    "source": "USR_a135c7dc_01",
+    "n": 1,
+    "start": 0.0,
+    "end": 8.6
+   },
+   {
+    "source": "USR_a135c7dc_02",
+    "n": 2,
+    "start": 8.6,
+    "end": 13.05
+   },
+   {
+    "source": "GRAPHIC_COLOUR_WHEEL",
+    "n": 3,
+    "start": 13.05,
+    "end": 15.55
+   },
+   {
+    "source": "USR_a135c7dc_04",
+    "n": 4,
+    "start": 15.55,
+    "end": 17.55
+   },
+   {
+    "source": "USR_a135c7dc_05",
+    "n": 5,
+    "start": 17.55,
+    "end": 20.3
+   },
+   {
+    "source": "USR_PSAD_shield_rays",
+    "n": 6,
+    "start": 20.3,
+    "end": 22.5
+   },
+   {
+    "source": "GRAPHIC_BA_SPLIT",
+    "ba_pair": [
+     "BA2_a135c7dc_BEFORE",
+     "BA2_a135c7dc_AFTER"
+    ],
+    "n": 7,
+    "start": 22.5,
+    "end": 25.0
+   },
+   {
+    "source": "USR_a135c7dc_08",
+    "n": 8,
+    "start": 25.0,
+    "end": 27.3
+   },
+   {
+    "source": "USR_PSAD_endcard_ps",
+    "n": 9,
+    "start": 27.3,
+    "end": 32.18
+   }
+  ]
+ }
+}

@@ -1,0 +1,60 @@
+[
+ {
+  "id": 1,
+  "speaker": "snooze",
+  "cer": 0.28,
+  "heard": "সকিনকের সবুছারা সিধাজাই সোইপরা।",
+  "redub": true
+ },
+ {
+  "id": 2,
+  "speaker": "jar",
+  "cer": 0.14,
+  "heard": "সুআ ঠিক অছে মতে সকিপ করানে।"
+ },
+ {
+  "id": 3,
+  "speaker": "jar",
+  "cer": 0.15,
+  "heard": "Rátyku Brightening Time Curry"
+ },
+ {
+  "id": 4,
+  "speaker": "jar",
+  "cer": 0.11,
+  "heard": "তরি একসবার্ট ফারমুলা নিদরে কামকরে",
+  "redub": true
+ },
+ {
+  "id": 5,
+  "speaker": "snooze",
+  "cer": 0.17,
+  "heard": "আরে এইটা সেডেয় সালে রিছো।",
+  "redub": true
+ },
+ {
+  "id": 6,
+  "speaker": "jar",
+  "cer": 0.27,
+  "heard": "মোরইচো ট্সচ্য়ে স�্মুদেলে লগাও।"
+ },
+ {
+  "id": 7,
+  "speaker": "jar",
+  "cer": 0.24,
+  "heard": "পুরা আবজরব এবে বয়ে সলিপ নিয়ে"
+ },
+ {
+  "id": 8,
+  "speaker": "woman",
+  "cer": 0.09,
+  "heard": "মোসইলি মগ্ল আসে গালা"
+ },
+ {
+  "id": 9,
+  "speaker": "jar",
+  "cer": 0.12,
+  "heard": "দর মরা ককোজিকো এসেড নাইট ক্রিম।",
+  "redub": true
+ }
+]

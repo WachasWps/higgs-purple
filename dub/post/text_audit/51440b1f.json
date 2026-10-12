@@ -1,0 +1,387 @@
+[
+ {
+  "n": 4,
+  "text": "DANA",
+  "variants": [
+   "DANA",
+   "NA"
+  ],
+  "start": 4.33,
+  "end": 5.0,
+  "box": [
+   0.016,
+   0.2978,
+   0.132,
+   0.4157
+  ],
+  "height": 0.1179,
+  "suspect_words": []
+ },
+ {
+  "n": 14,
+  "text": "DERMDO",
+  "variants": [
+   "DERMDO"
+  ],
+  "start": 19.0,
+  "end": 20.0,
+  "box": [
+   0.2037,
+   0.2751,
+   0.4754,
+   0.3081
+  ],
+  "height": 0.033,
+  "suspect_words": [
+   "DERMDO"
+  ],
+  "crop": "post/text_audit/51440b1f_14.png"
+ },
+ {
+  "n": 15,
+  "text": "Honest Science",
+  "variants": [
+   "Honest Science"
+  ],
+  "start": 19.0,
+  "end": 20.0,
+  "box": [
+   0.25,
+   0.3115,
+   0.475,
+   0.3279
+  ],
+  "height": 0.0164,
+  "suspect_words": []
+ },
+ {
+  "n": 16,
+  "text": "ULTRA VIOLET",
+  "variants": [
+   "ULTRA VIOLET"
+  ],
+  "start": 19.0,
+  "end": 20.0,
+  "box": [
+   0.2,
+   0.356,
+   0.2625,
+   0.6347
+  ],
+  "height": 0.2787,
+  "suspect_words": []
+ },
+ {
+  "n": 17,
+  "text": "4% NIACINAMID",
+  "variants": [
+   "4% NIACINAMID"
+  ],
+  "start": 19.0,
+  "end": 20.0,
+  "box": [
+   0.2667,
+   0.4403,
+   0.5042,
+   0.459
+  ],
+  "height": 0.0187,
+  "suspect_words": [
+   "NIACINAMID"
+  ],
+  "crop": "post/text_audit/51440b1f_17.png"
+ },
+ {
+  "n": 18,
+  "text": "WITH SPF 50 PA+++",
+  "variants": [
+   "WITH SPF 50 PA+++"
+  ],
+  "start": 19.0,
+  "end": 20.0,
+  "box": [
+   0.2708,
+   0.459,
+   0.5042,
+   0.4731
+  ],
+  "height": 0.0141,
+  "suspect_words": []
+ },
+ {
+  "n": 19,
+  "text": "DERMATOLOGICALLY TESTED",
+  "variants": [
+   "DERMATOLOGICALLY TESTED"
+  ],
+  "start": 19.0,
+  "end": 20.0,
+  "box": [
+   0.2708,
+   0.5433,
+   0.5042,
+   0.555
+  ],
+  "height": 0.0117,
+  "suspect_words": [
+   "DERMATOLOGICALLY"
+  ],
+  "crop": "post/text_audit/51440b1f_19.png"
+ },
+ {
+  "n": 20,
+  "text": "BRIGHTENING",
+  "variants": [
+   "BRIGHTENING"
+  ],
+  "start": 19.0,
+  "end": 20.0,
+  "box": [
+   0.2583,
+   0.6417,
+   0.4625,
+   0.6604
+  ],
+  "height": 0.0187,
+  "suspect_words": []
+ },
+ {
+  "n": 21,
+  "text": "SUNSCREEN",
+  "variants": [
+   "SUNSCREEN"
+  ],
+  "start": 19.0,
+  "end": 20.0,
+  "box": [
+   0.275,
+   0.6628,
+   0.45,
+   0.6768
+  ],
+  "height": 0.0141,
+  "suspect_words": []
+ },
+ {
+  "n": 22,
+  "text": "FOR INDIAN SKIN",
+  "variants": [
+   "FOR INDIAN SAIN",
+   "FOR INDIAN SKIN"
+  ],
+  "start": 19.0,
+  "end": 20.0,
+  "box": [
+   0.2833,
+   0.6815,
+   0.4417,
+   0.6932
+  ],
+  "height": 0.0117,
+  "suspect_words": []
+ },
+ {
+  "n": 23,
+  "text": "60 GM",
+  "variants": [
+   "60 GM"
+  ],
+  "start": 19.0,
+  "end": 20.0,
+  "box": [
+   0.3206,
+   0.7068,
+   0.4002,
+   0.7194
+  ],
+  "height": 0.0126,
+  "suspect_words": []
+ },
+ {
+  "n": 24,
+  "text": "DERMDOC",
+  "variants": [
+   "DERMDOC"
+  ],
+  "start": 19.0,
+  "end": 20.0,
+  "box": [
+   0.5208,
+   0.3068,
+   0.8125,
+   0.3349
+  ],
+  "height": 0.0281,
+  "suspect_words": []
+ },
+ {
+  "n": 25,
+  "text": "Honest Science",
+  "variants": [
+   "Honest Science"
+  ],
+  "start": 19.0,
+  "end": 20.0,
+  "box": [
+   0.5542,
+   0.3396,
+   0.7708,
+   0.3536
+  ],
+  "height": 0.0141,
+  "suspect_words": []
+ },
+ {
+  "n": 26,
+  "text": "ULTRA VIOLET",
+  "variants": [
+   "ULTRA VIOLET"
+  ],
+  "start": 19.0,
+  "end": 20.0,
+  "box": [
+   0.5134,
+   0.3716,
+   0.5734,
+   0.577
+  ],
+  "height": 0.2054,
+  "suspect_words": []
+ },
+ {
+  "n": 27,
+  "text": "4% NIACINAMIDE",
+  "variants": [
+   "4% NIACINAMIDE"
+  ],
+  "start": 19.0,
+  "end": 20.0,
+  "box": [
+   0.5833,
+   0.4379,
+   0.8208,
+   0.4543
+  ],
+  "height": 0.0164,
+  "suspect_words": []
+ },
+ {
+  "n": 28,
+  "text": "WITH SPF SO PA+++",
+  "variants": [
+   "WITH SPF 50 PA++*",
+   "WITH SPF SO PA+++"
+  ],
+  "start": 19.0,
+  "end": 20.0,
+  "box": [
+   0.5833,
+   0.4543,
+   0.7875,
+   0.4684
+  ],
+  "height": 0.0141,
+  "suspect_words": []
+ },
+ {
+  "n": 29,
+  "text": "Balances uneven skin tone and",
+  "variants": [
+   "Balances uneven skin tone and",
+   "Relences seven slin tone and"
+  ],
+  "start": 19.0,
+  "end": 20.0,
+  "box": [
+   0.5833,
+   0.4801,
+   0.7958,
+   0.4918
+  ],
+  "height": 0.0117,
+  "suspect_words": [
+   "Relences",
+   "slin"
+  ],
+  "crop": "post/text_audit/51440b1f_29.png"
+ },
+ {
+  "n": 30,
+  "text": "leaves an instant salians gour",
+  "variants": [
+   "leaves an instant radians glow",
+   "leaves an instant radiant glow",
+   "leaves an instant salians gour"
+  ],
+  "start": 19.0,
+  "end": 20.0,
+  "box": [
+   0.5875,
+   0.4895,
+   0.7917,
+   0.5012
+  ],
+  "height": 0.0117,
+  "suspect_words": [
+   "gour"
+  ],
+  "crop": "post/text_audit/51440b1f_30.png"
+ },
+ {
+  "n": 31,
+  "text": "BRIGHTENING",
+  "variants": [
+   "BRIGHTENING"
+  ],
+  "start": 19.0,
+  "end": 20.0,
+  "box": [
+   0.5792,
+   0.5808,
+   0.7667,
+   0.5972
+  ],
+  "height": 0.0164,
+  "suspect_words": []
+ },
+ {
+  "n": 32,
+  "text": "SUNSCREEN",
+  "variants": [
+   "SUNSCREEN"
+  ],
+  "start": 19.0,
+  "end": 20.0,
+  "box": [
+   0.5917,
+   0.5995,
+   0.7542,
+   0.6136
+  ],
+  "height": 0.0141,
+  "suspect_words": []
+ },
+ {
+  "n": 33,
+  "text": "FOR TAIR TO MEDIUM SKIN",
+  "variants": [
+   "FOR FAIR TO MEDIUM SKIN",
+   "FOR FAIR TO MEEKUM BON",
+   "FOR TAIR TO MEDIUM SKIN"
+  ],
+  "start": 19.0,
+  "end": 20.0,
+  "box": [
+   0.5792,
+   0.623,
+   0.7667,
+   0.6347
+  ],
+  "height": 0.0117,
+  "suspect_words": [
+   "MEEKUM",
+   "TAIR"
+  ],
+  "crop": "post/text_audit/51440b1f_33.png"
+ }
+]

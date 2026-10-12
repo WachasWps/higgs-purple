@@ -1,0 +1,31 @@
+[
+  {
+    "created_at": "2026-10-09T18:18:05.511366Z",
+    "display_name": "Wan 3.0",
+    "id": "2f4541c3-f7db-4a35-8cbf-e25ebecd3fa9",
+    "job_type": "wan3_0",
+    "min_result_url": null,
+    "params": {
+      "aspect_ratio": "9:16",
+      "duration": 5,
+      "generate_audio": false,
+      "height": 1344,
+      "medias": [
+        {
+          "data": {
+            "id": "26ba8e6e-e187-492e-b64c-ec0e15ead258",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3A6ZxB95Mnf55lwPBqzkePnTfzA/26ba8e6e-e187-492e-b64c-ec0e15ead258.png"
+          },
+          "role": "start_image"
+        }
+      ],
+      "prompt": "The three glowing orbs rise one by one from the jar and hover in a row, sparkles trailing; the jar mascot smiles and gestures upward; the jar label stays unchanged. Keep the exact look of the first frame: same real woman and skin tone, same cartoon characters, product label and cap exactly as in the first frame (cap on, no nozzle); smooth natural motion; no text appears.",
+      "resolution": "480p",
+      "width": 768
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3A6ZxB95Mnf55lwPBqzkePnTfzA/hf_20261009_181805_2f4541c3-f7db-4a35-8cbf-e25ebecd3fa9.mp4",
+    "status": "completed",
+    "thumbnail_url": "https://cdn.higgsfield.ai/user_3A6ZxB95Mnf55lwPBqzkePnTfzA/hf_20261009_181805_2f4541c3-f7db-4a35-8cbf-e25ebecd3fa9_thumbnail.webp"
+  }
+]

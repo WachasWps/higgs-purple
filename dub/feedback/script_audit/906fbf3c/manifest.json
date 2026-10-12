@@ -1,0 +1,278 @@
+{
+ "video": "906fbf3c",
+ "style": "product_avatar",
+ "cast": [
+  {
+   "id": "dark_spot",
+   "name": "Dark Spot",
+   "description": "small mischievous smoky dark-spot blob with angry eyes creeping on the woman's cheek, deep comic-menacing villain voice"
+  },
+  {
+   "id": "jar",
+   "name": "DERMDOC Kojic Night Cream Jar",
+   "description": "talking DERMDOC 2% Kojic Acid Night Cream jar with cartoon eyes, gloved hands and sneakers, confident youthful bouncy cartoon voice"
+  },
+  {
+   "id": "woman",
+   "name": "Woman",
+   "description": "real adult Indian woman, after-2-weeks morning reveal, warm happy natural voice"
+  }
+ ],
+ "lines": [
+  {
+   "id": 1,
+   "start": 0.0,
+   "end": 2.0,
+   "speaker": "dark_spot",
+   "en": "Night time. My time."
+  },
+  {
+   "id": 2,
+   "start": 2.32,
+   "end": 5.22,
+   "speaker": "jar",
+   "en": "Actually, this is my shift. I'm the overnight brightener."
+  },
+  {
+   "id": 3,
+   "start": 5.58,
+   "end": 8.14,
+   "speaker": "jar",
+   "en": "My 3Xpert formula brings three brightening actives together."
+  },
+  {
+   "id": 4,
+   "start": 8.4,
+   "end": 9.32,
+   "speaker": "dark_spot",
+   "en": "Three against one?"
+  },
+  {
+   "id": 5,
+   "start": 9.5,
+   "end": 11.22,
+   "speaker": "jar",
+   "en": "And I'm rich, creamy and made for the night."
+  },
+  {
+   "id": 6,
+   "start": 11.36,
+   "end": 13.24,
+   "speaker": "jar",
+   "en": "Apply, massage and let me get to work."
+  },
+  {
+   "id": 7,
+   "start": 14.46,
+   "end": 16.5,
+   "speaker": "woman",
+   "en": "Now that's a glow worth waking up to."
+  },
+  {
+   "id": 8,
+   "start": 16.76,
+   "end": 19.44,
+   "speaker": "jar",
+   "en": "DERMDOC 2% Kojic Acid Night Cream."
+  }
+ ],
+ "shots": [
+  {
+   "n": 1,
+   "start": 0,
+   "end": 2.3,
+   "what": "original footage",
+   "frames": [
+    "s01_0.jpg",
+    "s01_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 1,
+     "start": 0.0,
+     "end": 2.0,
+     "speaker": "dark_spot",
+     "en": "Night time. My time."
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "start": 2.3,
+   "end": 4.0,
+   "what": "original footage",
+   "frames": [
+    "s02_0.jpg",
+    "s02_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 2,
+     "start": 2.32,
+     "end": 5.22,
+     "speaker": "jar",
+     "en": "Actually, this is my shift. I'm the overnight brightener."
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "start": 4.0,
+   "end": 5.5,
+   "what": "original footage",
+   "frames": [
+    "s03_0.jpg",
+    "s03_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 2,
+     "start": 2.32,
+     "end": 5.22,
+     "speaker": "jar",
+     "en": "Actually, this is my shift. I'm the overnight brightener."
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "start": 5.5,
+   "end": 8.3,
+   "what": "KNA2_avatar_ingredients",
+   "frames": [
+    "s04_0.jpg",
+    "s04_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 3,
+     "start": 5.58,
+     "end": 8.14,
+     "speaker": "jar",
+     "en": "My 3Xpert formula brings three brightening actives together."
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "start": 8.3,
+   "end": 9.6,
+   "what": "original footage",
+   "frames": [
+    "s05_0.jpg",
+    "s05_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 4,
+     "start": 8.4,
+     "end": 9.32,
+     "speaker": "dark_spot",
+     "en": "Three against one?"
+    },
+    {
+     "id": 5,
+     "start": 9.5,
+     "end": 11.22,
+     "speaker": "jar",
+     "en": "And I'm rich, creamy and made for the night."
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "start": 9.6,
+   "end": 11.3,
+   "what": "original footage",
+   "frames": [
+    "s06_0.jpg",
+    "s06_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 5,
+     "start": 9.5,
+     "end": 11.22,
+     "speaker": "jar",
+     "en": "And I'm rich, creamy and made for the night."
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "start": 11.3,
+   "end": 13.3,
+   "what": "KN02_scoop",
+   "frames": [
+    "s07_0.jpg",
+    "s07_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 6,
+     "start": 11.36,
+     "end": 13.24,
+     "speaker": "jar",
+     "en": "Apply, massage and let me get to work."
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "start": 13.3,
+   "end": 14.9,
+   "what": "original footage",
+   "frames": [
+    "s08_0.jpg",
+    "s08_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 7,
+     "start": 14.46,
+     "end": 16.5,
+     "speaker": "woman",
+     "en": "Now that's a glow worth waking up to."
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "start": 14.9,
+   "end": 16.6,
+   "what": "GRAPHIC_BA_SPLIT",
+   "frames": [
+    "s09_0.jpg",
+    "s09_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 7,
+     "start": 14.46,
+     "end": 16.5,
+     "speaker": "woman",
+     "en": "Now that's a glow worth waking up to."
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "start": 16.6,
+   "end": 20.0,
+   "what": "original footage",
+   "frames": [
+    "s10_0.jpg",
+    "s10_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 8,
+     "start": 16.76,
+     "end": 19.44,
+     "speaker": "jar",
+     "en": "DERMDOC 2% Kojic Acid Night Cream."
+    }
+   ]
+  }
+ ]
+}

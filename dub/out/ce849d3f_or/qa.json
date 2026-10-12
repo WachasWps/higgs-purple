@@ -1,0 +1,56 @@
+[
+ {
+  "id": 1,
+  "speaker": "greasiness",
+  "cer": 0.2,
+  "heard": "আহুরি চক চক আহুরি চিত চিতিয়ে।",
+  "redub": true
+ },
+ {
+  "id": 2,
+  "speaker": "tube",
+  "cer": 0.17,
+  "heard": "मौ ফিনিস্রে দো পাই জাগা নহি।"
+ },
+ {
+  "id": 3,
+  "speaker": "purple_tint",
+  "cer": 0.19,
+  "heard": "কালর হোইল কোছি হলোদ্যা ডালনেস মুক এটি দিএ।",
+  "redub": true
+ },
+ {
+  "id": 4,
+  "speaker": "greasiness",
+  "cer": 0.23,
+  "heard": "রুহ স্টিকি লেয়ের ক্বাডে গলার্",
+  "redub": true
+ },
+ {
+  "id": 5,
+  "speaker": "tube",
+  "cer": 0.4,
+  "heard": "তুপাযাডে"
+ },
+ {
+  "id": 6,
+  "speaker": "spf_shield",
+  "cer": 0.11,
+  "heard": "আরা মদায়ো কো ফিনিস পকা প্রটিক্য়েন।",
+  "redub": true
+ },
+ {
+  "id": 7,
+  "speaker": "niacinamide",
+  "cer": 0.22,
+  "heard": "মো ইন্সটাইট গ্লো আনে ঵ারে হেল্পা করে।",
+  "redub": true
+ },
+ {
+  "id": 8,
+  "speaker": "tube",
+  "cer": 0.26,
+  "heard": "প্রটকশন আরামা ইন্যান সকিন পাইক",
+  "redub": true
+ }
+]

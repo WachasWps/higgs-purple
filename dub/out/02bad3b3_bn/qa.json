@@ -1,0 +1,58 @@
+[
+ {
+  "id": 1,
+  "speaker": "creator",
+  "cer": 0.17,
+  "heard": "দার্ক স্পটে মুখটা আনিভিন লাক ছিলো।",
+  "redub": true
+ },
+ {
+  "id": 2,
+  "speaker": "creator",
+  "cer": 0.15,
+  "heard": "Rathay Darm Dog 2% Kozic Acid Night Cream",
+  "redub": true
+ },
+ {
+  "id": 3,
+  "speaker": "creator",
+  "cer": 0.15,
+  "heard": "Ete kozik ni asinamaid ar alfa arbutin.",
+  "redub": true
+ },
+ {
+  "id": 4,
+  "speaker": "creator",
+  "cer": 0.2,
+  "heard": "কিথি করিস টेক্শচ্র।",
+  "redub": true
+ },
+ {
+  "id": 5,
+  "speaker": "creator",
+  "cer": 0.29,
+  "heard": "এটা নিএ পুরো মিশ্য়া অবধে মাসাচ করি।",
+  "redub": true
+ },
+ {
+  "id": 6,
+  "speaker": "creator",
+  "cer": 0.11,
+  "heard": "গ্লো ফযুশন ফার্মুলা রাদ্ভার কাজ করে।",
+  "redub": true
+ },
+ {
+  "id": 7,
+  "speaker": "creator",
+  "cer": 0.17,
+  "heard": "দুশ্পতাহে ডাক স্পট কম লাকছে স্কিন ও ই঵েন।",
+  "redub": true
+ },
+ {
+  "id": 8,
+  "speaker": "creator",
+  "cer": 0.3,
+  "heard": "এযামার সলিক টুলো।",
+  "redub": true
+ }
+]

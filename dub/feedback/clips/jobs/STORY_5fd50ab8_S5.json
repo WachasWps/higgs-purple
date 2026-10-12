@@ -1,0 +1,31 @@
+[
+  {
+    "created_at": "2026-10-09T18:31:19.078714Z",
+    "display_name": "Wan 3.0",
+    "id": "7a48d8f0-b60e-46b7-b7a2-dba365051d16",
+    "job_type": "wan3_0",
+    "min_result_url": null,
+    "params": {
+      "aspect_ratio": "9:16",
+      "duration": 5,
+      "generate_audio": false,
+      "height": 1344,
+      "medias": [
+        {
+          "data": {
+            "id": "c2934d0c-49aa-44da-ba95-2c1eb94bae85",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3A6ZxB95Mnf55lwPBqzkePnTfzA/c2934d0c-49aa-44da-ba95-2c1eb94bae85.png"
+          },
+          "role": "start_image"
+        }
+      ],
+      "prompt": "The tube mascot on the balcony table does a happy little dance on its shoes; the woman behind smiles; sunny morning; the tube stays exactly as in the first frame. Keep the exact look of the first frame: same real woman and skin tone, same cartoon characters, product label and cap exactly as in the first frame (cap on, no nozzle); smooth natural motion; no text appears.",
+      "resolution": "480p",
+      "width": 768
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3A6ZxB95Mnf55lwPBqzkePnTfzA/hf_20261009_183119_7a48d8f0-b60e-46b7-b7a2-dba365051d16.mp4",
+    "status": "completed",
+    "thumbnail_url": "https://cdn.higgsfield.ai/user_3A6ZxB95Mnf55lwPBqzkePnTfzA/hf_20261009_183119_7a48d8f0-b60e-46b7-b7a2-dba365051d16_thumbnail.webp"
+  }
+]

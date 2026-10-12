@@ -1,0 +1,131 @@
+[
+ {
+  "n": 1,
+  "text": "MDO",
+  "variants": [
+   "1DO",
+   "IRMDO",
+   "MDO"
+  ],
+  "start": 0.33,
+  "end": 1.67,
+  "box": [
+   -0.0,
+   0.452,
+   0.1167,
+   0.4824
+  ],
+  "height": 0.0304,
+  "suspect_words": [
+   "IRMDO",
+   "MDO"
+  ],
+  "crop": "post/text_audit/caf29456_1.png"
+ },
+ {
+  "n": 3,
+  "text": ",MACHAMO",
+  "variants": [
+   ",MACHAMO",
+   "• MACHAMO"
+  ],
+  "start": 0.33,
+  "end": 1.33,
+  "box": [
+   -0.0014,
+   0.5642,
+   0.1167,
+   0.5816
+  ],
+  "height": 0.0173,
+  "suspect_words": [
+   "MACHAMO"
+  ],
+  "crop": "post/text_audit/caf29456_3.png"
+ },
+ {
+  "n": 6,
+  "text": "MDO",
+  "variants": [
+   "MDO"
+  ],
+  "start": 1.67,
+  "end": 2.67,
+  "box": [
+   -0.0,
+   0.4754,
+   0.0875,
+   0.5035
+  ],
+  "height": 0.0281,
+  "suspect_words": [
+   "MDO"
+  ],
+  "crop": "post/text_audit/caf29456_6.png"
+ },
+ {
+  "n": 10,
+  "text": "BORTENNG",
+  "variants": [
+   "BORHTENNG",
+   "BORTENNG"
+  ],
+  "start": 6.67,
+  "end": 7.33,
+  "box": [
+   0.6688,
+   0.0628,
+   0.9344,
+   0.1327
+  ],
+  "height": 0.0699,
+  "suspect_words": [
+   "BORHTENNG",
+   "BORTENNG"
+  ],
+  "crop": "post/text_audit/caf29456_10.png"
+ },
+ {
+  "n": 11,
+  "text": "SLATCREEN",
+  "variants": [
+   "SLATCREEN"
+  ],
+  "start": 6.67,
+  "end": 7.33,
+  "box": [
+   0.6647,
+   0.0867,
+   0.8982,
+   0.1492
+  ],
+  "height": 0.0625,
+  "suspect_words": [
+   "SLATCREEN"
+  ],
+  "crop": "post/text_audit/caf29456_11.png"
+ },
+ {
+  "n": 15,
+  "text": "DERMDOC",
+  "variants": [
+   "DERMDOC",
+   "DERMOC",
+   "DERMOOC"
+  ],
+  "start": 16.33,
+  "end": 20.0,
+  "box": [
+   0.6199,
+   0.3979,
+   0.788,
+   0.4551
+  ],
+  "height": 0.0571,
+  "suspect_words": [
+   "DERMOC",
+   "DERMOOC"
+  ],
+  "crop": "post/text_audit/caf29456_15.png"
+ }
+]

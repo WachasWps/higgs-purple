@@ -1,0 +1,340 @@
+{
+ "language": "en",
+ "segments": [
+  {
+   "seg": 0,
+   "start": 0.0,
+   "end": 1.88,
+   "text": "Tonight we take over.",
+   "f0_median_hz": 127,
+   "words": [
+    [
+     "Tonight",
+     0.0,
+     0.52
+    ],
+    [
+     "we",
+     0.52,
+     1.02
+    ],
+    [
+     "take",
+     1.02,
+     1.36
+    ],
+    [
+     "over.",
+     1.36,
+     1.88
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 1,
+   "start": 2.36,
+   "end": 4.26,
+   "text": "Glow Fusion Night Patrol reporting for duty.",
+   "f0_median_hz": 252,
+   "words": [
+    [
+     "Glow",
+     2.36,
+     2.52
+    ],
+    [
+     "Fusion",
+     2.52,
+     2.78
+    ],
+    [
+     "Night",
+     2.78,
+     2.98
+    ],
+    [
+     "Patrol",
+     2.98,
+     3.32
+    ],
+    [
+     "reporting",
+     3.32,
+     3.78
+    ],
+    [
+     "for",
+     3.78,
+     3.98
+    ],
+    [
+     "duty.",
+     3.98,
+     4.26
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 2,
+   "start": 4.5,
+   "end": 6.18,
+   "text": "Kojic Acid, target dark spots.",
+   "f0_median_hz": 254,
+   "words": [
+    [
+     "Kojic",
+     4.5,
+     4.8
+    ],
+    [
+     "Acid,",
+     4.8,
+     5.2
+    ],
+    [
+     "target",
+     5.24,
+     5.54
+    ],
+    [
+     "dark",
+     5.54,
+     5.82
+    ],
+    [
+     "spots.",
+     5.82,
+     6.18
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 3,
+   "start": 6.42,
+   "end": 8.66,
+   "text": "Niacinamide support a brighter, even-looking tone.",
+   "f0_median_hz": 240,
+   "words": [
+    [
+     "Niacinamide",
+     6.42,
+     6.98
+    ],
+    [
+     "support",
+     6.98,
+     7.24
+    ],
+    [
+     "a",
+     7.24,
+     7.4
+    ],
+    [
+     "brighter,",
+     7.4,
+     7.66
+    ],
+    [
+     "even",
+     7.94,
+     8.12
+    ],
+    [
+     "-looking",
+     8.12,
+     8.38
+    ],
+    [
+     "tone.",
+     8.38,
+     8.66
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 4,
+   "start": 9.0,
+   "end": 10.94,
+   "text": "Alpha Arbutin, join the brightening patrol.",
+   "f0_median_hz": 266,
+   "words": [
+    [
+     "Alpha",
+     9.0,
+     9.22
+    ],
+    [
+     "Arbutin,",
+     9.22,
+     9.82
+    ],
+    [
+     "join",
+     9.98,
+     10.14
+    ],
+    [
+     "the",
+     10.14,
+     10.28
+    ],
+    [
+     "brightening",
+     10.28,
+     10.62
+    ],
+    [
+     "patrol.",
+     10.62,
+     10.94
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 5,
+   "start": 11.36,
+   "end": 13.68,
+   "text": "Three actives, one powerful night formula.",
+   "f0_median_hz": 239,
+   "words": [
+    [
+     "Three",
+     11.36,
+     11.52
+    ],
+    [
+     "actives,",
+     11.52,
+     12.06
+    ],
+    [
+     "one",
+     12.32,
+     12.54
+    ],
+    [
+     "powerful",
+     12.54,
+     13.0
+    ],
+    [
+     "night",
+     13.0,
+     13.26
+    ],
+    [
+     "formula.",
+     13.26,
+     13.68
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 6,
+   "start": 14.02,
+   "end": 14.58,
+   "text": "Retreat!",
+   "f0_median_hz": 404,
+   "words": [
+    [
+     "Retreat!",
+     14.02,
+     14.58
+    ]
+   ],
+   "voice_cluster_hint": null
+  },
+  {
+   "seg": 7,
+   "start": 15.12,
+   "end": 17.02,
+   "text": "Brighter, more even, ready to glow.",
+   "f0_median_hz": 209,
+   "words": [
+    [
+     "Brighter,",
+     15.12,
+     15.44
+    ],
+    [
+     "more",
+     15.58,
+     15.86
+    ],
+    [
+     "even,",
+     15.86,
+     16.18
+    ],
+    [
+     "ready",
+     16.46,
+     16.68
+    ],
+    [
+     "to",
+     16.68,
+     16.82
+    ],
+    [
+     "glow.",
+     16.82,
+     17.02
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 8,
+   "start": 17.26,
+   "end": 19.86,
+   "text": "Dermadoc Glow Fusion Formula, the overnight brightener.",
+   "f0_median_hz": 250,
+   "words": [
+    [
+     "Dermadoc",
+     17.26,
+     17.74
+    ],
+    [
+     "Glow",
+     17.74,
+     18.1
+    ],
+    [
+     "Fusion",
+     18.1,
+     18.34
+    ],
+    [
+     "Formula,",
+     18.34,
+     18.78
+    ],
+    [
+     "the",
+     18.84,
+     19.0
+    ],
+    [
+     "overnight",
+     19.0,
+     19.38
+    ],
+    [
+     "brightener.",
+     19.38,
+     19.86
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  }
+ ]
+}

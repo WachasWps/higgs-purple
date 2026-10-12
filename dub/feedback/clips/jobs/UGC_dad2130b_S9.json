@@ -1,0 +1,31 @@
+[
+  {
+    "created_at": "2026-10-09T17:33:20.591779Z",
+    "display_name": "Wan 3.0",
+    "id": "548e12ce-5ecb-41fa-ac35-6b3e09a15cc7",
+    "job_type": "wan3_0",
+    "min_result_url": null,
+    "params": {
+      "aspect_ratio": "9:16",
+      "duration": 5,
+      "generate_audio": false,
+      "height": 1344,
+      "medias": [
+        {
+          "data": {
+            "id": "eb3a2494-e5f1-4d2d-babd-9e8eec6de704",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3A6ZxB95Mnf55lwPBqzkePnTfzA/eb3a2494-e5f1-4d2d-babd-9e8eec6de704.png"
+          },
+          "role": "start_image"
+        }
+      ],
+      "prompt": "She smiles warmly into the selfie camera and tilts the tube slightly toward the lens; gentle handheld selfie sway; skin stays glowing and even; tube and label unchanged. Photorealistic, natural motion, stable identity, the woman's face and skin tone stay exactly as in the first frame, product packaging stays exactly as in the first frame (cap on, no nozzle), no text appears.",
+      "resolution": "480p",
+      "width": 768
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3A6ZxB95Mnf55lwPBqzkePnTfzA/hf_20261009_173320_548e12ce-5ecb-41fa-ac35-6b3e09a15cc7.mp4",
+    "status": "completed",
+    "thumbnail_url": "https://cdn.higgsfield.ai/user_3A6ZxB95Mnf55lwPBqzkePnTfzA/hf_20261009_173320_548e12ce-5ecb-41fa-ac35-6b3e09a15cc7_thumbnail.webp"
+  }
+]

@@ -1,0 +1,51 @@
+[
+ {
+  "id": 1,
+  "speaker": "creator",
+  "cer": 0.61,
+  "heard": "എന് എന് ന് ന് എന് പ�ർരു ഇത്രദളാ ആ.",
+  "redub": true
+ },
+ {
+  "id": 2,
+  "speaker": "creator",
+  "cer": 0.45,
+  "heard": "കളര് വിലില പര്പൽ മന്യിയിട് ഓപോസിട്.",
+  "redub": true
+ },
+ {
+  "id": 3,
+  "speaker": "creator",
+  "cer": 0.53,
+  "heard": "സോ മനിയടളന്നേ സകുരക്യന സഹായക്യും.",
+  "redub": true
+ },
+ {
+  "id": 4,
+  "speaker": "creator",
+  "cer": 0.53,
+  "heard": "എലാ പര്പലയനിലകിലാ.",
+  "redub": true
+ },
+ {
+  "id": 5,
+  "speaker": "creator",
+  "cer": 0.15,
+  "heard": "In the skinnel clear agum, no white cast.",
+  "redub": true
+ },
+ {
+  "id": 6,
+  "speaker": "creator",
+  "cer": 0.45,
+  "heard": "നാലി പരൽന് നിയാസിനമയില ഇന് സിന് ഗ് കോടുദൽ ഇവന് ലുക് എന് നാചുരല സകിന് ടൌന് മാരാദെ.",
+  "redub": true
+ },
+ {
+  "id": 7,
+  "speaker": "creator",
+  "cer": 0.15,
+  "heard": "SPF 50 PA triple plus day protection setter.",
+  "redub": true
+ }
+]

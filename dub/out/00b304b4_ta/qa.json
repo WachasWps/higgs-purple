@@ -1,0 +1,56 @@
+[
+ {
+  "id": 1,
+  "speaker": "tube",
+  "cer": 0.35,
+  "heard": "திம் இனக்கு φுள்டை வேலை இருக்கிறு."
+ },
+ {
+  "id": 2,
+  "speaker": "uv_rays",
+  "cer": 0.26,
+  "heard": "வாங்கு டா இவு ஆபிஸ் தேவிய காலிப்பன்னலா?",
+  "redub": true
+ },
+ {
+  "id": 3,
+  "speaker": "tube",
+  "cer": 0.13,
+  "heard": "எல்லாரக்கும் கியோட்டி தரியோ."
+ },
+ {
+  "id": 4,
+  "speaker": "spf_shield",
+  "cer": 0.1,
+  "heard": "யூவி ரேஸ் என் போர்ப்பு",
+  "redub": true
+ },
+ {
+  "id": 5,
+  "speaker": "purple_tint",
+  "cer": 0.4,
+  "heard": "மஜா டல்னச பார்ப்பில் ஏடிச்சுடு.",
+  "redub": true
+ },
+ {
+  "id": 6,
+  "speaker": "niacinamide",
+  "cer": 0.2,
+  "heard": "டல்லைச நான் பிரைட்டாக்குவேன்.",
+  "redub": true
+ },
+ {
+  "id": 7,
+  "speaker": "tube",
+  "cer": 0.11,
+  "heard": "அப்படியே கலந்துடும் ரெஸிடியும் இல்லை.",
+  "redub": true
+ },
+ {
+  "id": 8,
+  "speaker": "tube",
+  "cer": 0.15,
+  "heard": "Instant Glow, let's go!",
+  "redub": true
+ }
+]

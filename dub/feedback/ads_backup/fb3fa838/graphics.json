@@ -1,0 +1,91 @@
+{
+ "video_id": "fb3fa838",
+ "product": "uv_sunscreen",
+ "caption_y": 0.9,
+ "elements": [
+  {
+   "type": "hook_mono",
+   "start": 0.3,
+   "end": 3.1,
+   "lines": [
+    "SUN FOLLOWS",
+    "EVERYWHERE"
+   ],
+   "position": "top",
+   "anim": "slide_up"
+  },
+  {
+   "type": "claim_bold",
+   "start": 8.4,
+   "end": 9.9,
+   "lines": [
+    "SPF 50 PA+++"
+   ],
+   "sub": "DAILY SUN PROTECTION",
+   "position": "top",
+   "anim": "fade"
+  },
+  {
+   "type": "pill",
+   "start": 10.45,
+   "end": 11.85,
+   "lines": [
+    "4% NIACINAMIDE"
+   ],
+   "position": "top",
+   "anim": "pop"
+  },
+  {
+   "type": "hud",
+   "variant": "scan",
+   "start": 10.45,
+   "end": 11.85
+  },
+  {
+   "type": "claim_bold",
+   "start": 13.45,
+   "end": 14.95,
+   "lines": [
+    "PURPLE TINT"
+   ],
+   "sub": "BALANCES YELLOW-LOOKING DULLNESS",
+   "x": 0.45,
+   "y": 0.17,
+   "anim": "fade"
+  },
+  {
+   "type": "label",
+   "start": 16.1,
+   "end": 17.75,
+   "lines": [
+    "BEFORE"
+   ],
+   "x": 0.25,
+   "y": 0.14,
+   "anim": "pop"
+  },
+  {
+   "type": "label",
+   "start": 16.1,
+   "end": 17.75,
+   "lines": [
+    "AFTER"
+   ],
+   "x": 0.75,
+   "y": 0.14,
+   "anim": "pop"
+  },
+  {
+   "type": "pill",
+   "start": 18.2,
+   "end": 19.95,
+   "lines": [
+    "NO WHITE CAST",
+    "FOR INDIAN SKIN"
+   ],
+   "position": "top",
+   "anim": "pop"
+  }
+ ],
+ "notes": "City sun relay: hook over the sky above the tube hero as 'sun exposure follows everywhere' is said; SPF 50 PA+++ in the sky above the UV canopy; 4% niacinamide pill + scan hud on the skin-barrier macro; purple-tint claim in the background area above the absorbed forearm while it is said (application action left clear); before/after tags above the split face; no-white-cast / Indian-skin sign-off above the arc on the end tube. Typo audit: flagged tracks 6,14,16,18 are all the tube's printed label -> ignored, no covers. | AD pass: niacinamide pill + scan hud end pulled inside the 11.93 s cut."
+}

@@ -1,0 +1,85 @@
+{
+ "video_id": "fb3fa838",
+ "product": "uv_sunscreen",
+ "caption_y": 0.9,
+ "no_outro": true,
+ "own_music": false,
+ "caption_moves": [
+  {
+   "start": 21.3,
+   "end": 23.6,
+   "y": 0.58
+  }
+ ],
+ "elements": [
+  {
+   "type": "claim_bold",
+   "start": 4.8,
+   "end": 6.9,
+   "lines": [
+    "SPF 50 PA+++"
+   ],
+   "sub": "UVA + UVB",
+   "x": 0.5,
+   "y": 0.3,
+   "anim": "fade"
+  },
+  {
+   "type": "pill",
+   "start": 15.4,
+   "end": 17.2,
+   "lines": [
+    "CANCELS",
+    "YELLOW TONES"
+   ],
+   "x": 0.5,
+   "y": 0.12,
+   "anim": "pop"
+  },
+  {
+   "type": "label",
+   "start": 17.6,
+   "end": 19.4,
+   "lines": [
+    "INSTANT GLOW"
+   ],
+   "x": 0.5,
+   "y": 0.8,
+   "anim": "pop"
+  },
+  {
+   "type": "label",
+   "start": 21.4,
+   "end": 23.5,
+   "lines": [
+    "BEFORE"
+   ],
+   "x": 0.5,
+   "y": 0.455,
+   "anim": "pop"
+  },
+  {
+   "type": "label",
+   "start": 21.4,
+   "end": 23.5,
+   "lines": [
+    "AFTER"
+   ],
+   "x": 0.5,
+   "y": 0.895,
+   "anim": "pop"
+  },
+  {
+   "type": "label",
+   "start": 21.4,
+   "end": 23.5,
+   "lines": [
+    "INSTANT GLOW"
+   ],
+   "x": 0.5,
+   "y": 0.955,
+   "anim": "pop"
+  }
+ ],
+ "notes": "user's General Ad: text only where the footage has none baked in; own end card + music"
+}

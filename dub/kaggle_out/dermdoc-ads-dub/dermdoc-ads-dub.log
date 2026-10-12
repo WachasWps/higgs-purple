@@ -1,0 +1,650 @@
+[{"stream_name":"stderr","time":7.72971144,"data":"0.00s - Debugger warning: It seems that frozen modules are being used, which may\n"}
+,{"stream_name":"stderr","time":7.729761384,"data":"0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off\n"}
+,{"stream_name":"stderr","time":7.729766165,"data":"0.00s - to python to disable frozen modules.\n"}
+,{"stream_name":"stderr","time":7.729768749,"data":"0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.\n"}
+,{"stream_name":"stderr","time":8.333032696,"data":"0.00s - Debugger warning: It seems that frozen modules are being used, which may\n"}
+,{"stream_name":"stderr","time":8.333063404,"data":"0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off\n"}
+,{"stream_name":"stderr","time":8.33308689,"data":"0.00s - to python to disable frozen modules.\n"}
+,{"stream_name":"stderr","time":8.333091525,"data":"0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.\n"}
+,{"stream_name":"stdout","time":12.427398024,"data":"Fri Oct  9 13:14:11 2026       \n"}
+,{"stream_name":"stdout","time":12.42742839,"data":"+-----------------------------------------------------------------------------------------+\n"}
+,{"stream_name":"stdout","time":12.427433908,"data":"| NVIDIA-SMI 580.178.04             Driver Version: 580.178.04     CUDA Version: 13.0     |\n"}
+,{"stream_name":"stdout","time":12.427438385,"data":"+-----------------------------------------+------------------------+----------------------+\n"}
+,{"stream_name":"stdout","time":12.427442644,"data":"| GPU  Name                 Persistence-M | Bus-Id          Disp.A | Volatile Uncorr. ECC |\n"}
+,{"stream_name":"stdout","time":12.427446712,"data":"| Fan  Temp   Perf          Pwr:Usage/Cap |           Memory-Usage | GPU-Util  Compute M. |\n"}
+,{"stream_name":"stdout","time":12.42745043,"data":"|                                         |                        |               MIG M. |\n"}
+,{"stream_name":"stdout","time":12.427454058,"data":"|=========================================+========================+======================|\n"}
+,{"stream_name":"stdout","time":12.427464842,"data":"|   0  Tesla T4                       Off |   00000000:00:04.0 Off |                    0 |\n"}
+,{"stream_name":"stdout","time":12.42746858,"data":"| N/A   36C    P8              9W /   70W |       0MiB /  15360MiB |      0%      Default |\n"}
+,{"stream_name":"stdout","time":12.427472327,"data":"|                                         |                        |                  N/A |\n"}
+,{"stream_name":"stdout","time":12.427475931,"data":"+-----------------------------------------+------------------------+----------------------+\n"}
+,{"stream_name":"stdout","time":12.427479681,"data":"|   1  Tesla T4                       Off |   00000000:00:05.0 Off |                    0 |\n"}
+,{"stream_name":"stdout","time":12.427483349,"data":"| N/A   41C    P8             10W /   70W |       0MiB /  15360MiB |      0%      Default |\n"}
+,{"stream_name":"stdout","time":12.42748695,"data":"|                                         |                        |                  N/A |\n"}
+,{"stream_name":"stdout","time":12.427490503,"data":"+-----------------------------------------+------------------------+----------------------+\n"}
+,{"stream_name":"stdout","time":12.427494087,"data":"\n"}
+,{"stream_name":"stdout","time":12.427497451,"data":"+-----------------------------------------------------------------------------------------+\n"}
+,{"stream_name":"stdout","time":12.427501301,"data":"| Processes:                                                                              |\n"}
+,{"stream_name":"stdout","time":12.427537514,"data":"|  GPU   GI   CI              PID   Type   Process name                        GPU Memory |\n"}
+,{"stream_name":"stdout","time":12.427542498,"data":"|        ID   ID                                                               Usage      |\n"}
+,{"stream_name":"stdout","time":12.42754713,"data":"|=========================================================================================|\n"}
+,{"stream_name":"stdout","time":12.42755087,"data":"|  No running processes found                                                             |\n"}
+,{"stream_name":"stdout","time":12.427555841,"data":"+-----------------------------------------------------------------------------------------+\n"}
+,{"stream_name":"stdout","time":12.427559502,"data":"\n"}
+,{"stream_name":"stdout","time":17.995383421,"data":"python 3.13.15 | torch 2.11.0+cu128 (CUDA 12.8) | Tesla T4 cc 7.5 | no bf16 -\u003e Indic-Mio fp16 (fp32 fallback), MioCodec fp32 | 14.6 GB GPU memory\n"}
+,{"stream_name":"stdout","time":17.995414549,"data":"10 videos: 4010f985, 426b77bb, a9be56d9, b4c787e1, c01adcce, ce52c347, e9528636, eab38211, fb3fa838, fe7174d4\n"}
+,{"stream_name":"stdout","time":18.273005511,"data":"$ /usr/bin/python3 -m pip install -q -c /tmp/constraints.txt faster-whisper==1.2.1 demucs==4.1.0 librosa soundfile pyloudnorm threadpoolctl packaging\n"}
+,{"stream_name":"stdout","time":22.224356685,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 1.1/1.1 MB 16.7 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":22.26538167,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100.6/100.6 kB 3.6 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":22.599876144,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 35.0/35.0 MB 63.9 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":22.976657451,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 39.6/39.6 MB 55.0 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":23.051151756,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 247.6/247.6 kB 10.9 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":23.279506494,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 23.8/23.8 MB 78.3 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":23.449929082,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 18.1/18.1 MB 87.6 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":29.145146252,"data":"[exit 0 after 11s]\n"}
+,{"stream_name":"stdout","time":29.146393109,"data":"$ /usr/bin/python3 -m pip install -q -c /tmp/constraints.txt git+https://github.com/Aratako/MioCodec\n"}
+,{"stream_name":"stdout","time":36.127993617,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 800.2/800.2 kB 8.1 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":36.177949587,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 174.8/174.8 kB 8.8 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":38.84239268,"data":"[exit 0 after 10s]\n"}
+,{"stream_name":"stdout","time":38.847128307,"data":"$ /usr/bin/python3 -c import faster_whisper, demucs.api, miocodec, librosa, pyloudnorm, transformers, torch; print('imports ok | transformers', transformers.__version__, '| torch', torch.__version__)\n"}
+,{"stream_name":"stdout","time":40.826346573,"data":"[2026-10-09 13:14:42,413] WARNING miocodec: FlashAttention is not installed. Falling back to PyTorch SDPA implementation. There is no warranty that the model will work correctly.\n"}
+,{"stream_name":"stdout","time":53.040918864,"data":"imports ok | transformers 5.16.1 | torch 2.11.0+cu128\n"}
+,{"stream_name":"stdout","time":56.580096054,"data":"[exit 0 after 18s]\n"}
+,{"stream_name":"stdout","time":56.77919793,"data":"wrote 28 files under /tmp/dub\n"}
+,{"stream_name":"stdout","time":56.779228987,"data":"4010f985: plan OK  OK  bn:202/224  ta:228/268  te:222/250  ml:243/268  or:191/216\n"}
+,{"stream_name":"stdout","time":56.88489956,"data":"426b77bb: plan OK  OK  bn:203/226  ta:216/270  te:227/253  ml:227/270  or:190/218\n"}
+,{"stream_name":"stdout","time":57.03468684,"data":"a9be56d9: plan OK  OK  bn:213/226  ta:239/270  te:248/253  ml:250/270  or:202/218\n"}
+,{"stream_name":"stdout","time":57.034718479,"data":"b4c787e1: plan OK  OK  bn:209/224  ta:251/268  te:239/250  ml:259/268  or:198/216\n"}
+,{"stream_name":"stdout","time":57.114311706,"data":"c01adcce: plan OK  OK  bn:208/224  ta:250/268  te:237/250  ml:234/268  or:203/216\n"}
+,{"stream_name":"stdout","time":57.262113932,"data":"ce52c347: plan OK  OK  bn:214/224  ta:243/268  te:237/250  ml:251/268  or:204/216\n"}
+,{"stream_name":"stdout","time":57.262147389,"data":"e9528636: plan OK  OK  bn:189/224  ta:220/268  te:216/250  ml:214/268  or:188/216\n"}
+,{"stream_name":"stdout","time":57.336540418,"data":"eab38211: plan OK  OK  bn:183/227  ta:216/271  te:226/253  ml:209/271  or:174/218\n"}
+,{"stream_name":"stdout","time":57.431543069,"data":"fb3fa838: plan OK  OK  bn:224/224  ta:265/268  te:248/250  ml:257/268  or:214/216\n"}
+,{"stream_name":"stdout","time":57.431568948,"data":"fe7174d4: plan OK  OK  bn:221/222  ta:256/265  te:237/247  ml:252/265  or:209/213\n"}
+,{"stream_name":"stdout","time":57.446396976,"data":"$ /usr/bin/python3 vm/prep_cuda.py work --gens colab_gens.json --only 4010f985,426b77bb,a9be56d9,b4c787e1,c01adcce,ce52c347,e9528636,eab38211,fb3fa838,fe7174d4 --stems-only\n"}
+,{"stream_name":"stdout","time":71.583173458,"data":"fetched 10/10 videos\n"}
+,{"stream_name":"stdout","time":73.529173409,"data":"Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.\n"}
+,{"stream_name":"stdout","time":88.522976754,"data":"separated 10\n"}
+,{"stream_name":"stdout","time":88.52388951,"data":"PREP DONE\n"}
+,{"stream_name":"stdout","time":89.559183787,"data":"[exit 0 after 32s]\n"}
+,{"stream_name":"stdout","time":89.760132448,"data":"4010f985: stems ready\n"}
+,{"stream_name":"stdout","time":89.760157158,"data":"4010f985: rebuilt ad -\u003e silent bed 17.8s\n"}
+,{"stream_name":"stdout","time":89.760162765,"data":"426b77bb: stems ready\n"}
+,{"stream_name":"stdout","time":90.097386969,"data":"426b77bb: rebuilt ad -\u003e silent bed 18.0s\n"}
+,{"stream_name":"stdout","time":90.097410228,"data":"a9be56d9: stems ready\n"}
+,{"stream_name":"stdout","time":90.097415322,"data":"a9be56d9: rebuilt ad -\u003e silent bed 18.0s\n"}
+,{"stream_name":"stdout","time":90.097419459,"data":"b4c787e1: stems ready\n"}
+,{"stream_name":"stdout","time":90.443778938,"data":"b4c787e1: rebuilt ad -\u003e silent bed 17.8s\n"}
+,{"stream_name":"stdout","time":90.443806185,"data":"c01adcce: stems ready\n"}
+,{"stream_name":"stdout","time":90.443811441,"data":"c01adcce: rebuilt ad -\u003e silent bed 17.8s\n"}
+,{"stream_name":"stdout","time":90.44381588,"data":"ce52c347: stems ready\n"}
+,{"stream_name":"stdout","time":90.742578941,"data":"ce52c347: rebuilt ad -\u003e silent bed 17.8s\n"}
+,{"stream_name":"stdout","time":90.742610276,"data":"e9528636: stems ready\n"}
+,{"stream_name":"stdout","time":90.7426154,"data":"e9528636: rebuilt ad -\u003e silent bed 17.8s\n"}
+,{"stream_name":"stdout","time":90.742618944,"data":"eab38211: stems ready\n"}
+,{"stream_name":"stdout","time":91.057922536,"data":"eab38211: rebuilt ad -\u003e silent bed 18.0s\n"}
+,{"stream_name":"stdout","time":91.057948884,"data":"fb3fa838: stems ready\n"}
+,{"stream_name":"stdout","time":91.235116515,"data":"fb3fa838: rebuilt ad -\u003e silent bed 17.8s\n"}
+,{"stream_name":"stdout","time":91.235140854,"data":"fe7174d4: stems ready\n"}
+,{"stream_name":"stdout","time":91.235145212,"data":"fe7174d4: rebuilt ad -\u003e silent bed 17.6s\n"}
+,{"stream_name":"stdout","time":91.25313814,"data":"$ /usr/bin/python3 vm/dubplan_cuda.py work out --backend transformers --group 1 --only 4010f985,426b77bb,a9be56d9,b4c787e1,c01adcce,ce52c347,e9528636,eab38211,fb3fa838,fe7174d4\n"}
+,{"stream_name":"stdout","time":93.673206509,"data":"[2026-10-09 13:15:35,260] WARNING miocodec: FlashAttention is not installed. Falling back to PyTorch SDPA implementation. There is no warranty that the model will work correctly.\n"}
+,{"stream_name":"stdout","time":104.643178464,"data":"Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.\n"}
+,{"stream_name":"stdout","time":117.325840546,"data":"\n"}
+,{"stream_name":"stdout","time":117.747199553,"data":"Loading weights:   0%|          | 0/310 [00:00\u003c?, ?it/s]\n"}
+,{"stream_name":"stdout","time":117.851764705,"data":"Loading weights:   0%|          | 1/310 [00:00\u003c02:11,  2.35it/s]\n"}
+,{"stream_name":"stdout","time":117.869002782,"data":"Loading weights:  93%|█████████▎| 289/310 [00:00\u003c00:00, 725.21it/s]\n"}
+,{"stream_name":"stdout","time":117.870956709,"data":"Loading weights: 100%|██████████| 310/310 [00:00\u003c00:00, 565.67it/s]\n"}
+,{"stream_name":"stdout","time":118.843942829,"data":"[transformers] Both `max_new_tokens` (=48) and `max_length`(=32768) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)\n"}
+,{"stream_name":"stdout","time":126.070652427,"data":"Downloading: \"https://download.pytorch.org/torchaudio/models/wavlm_base_plus.pth\" to /root/.cache/torch/hub/checkpoints/wavlm_base_plus.pth\n"}
+,{"stream_name":"stdout","time":126.149143739,"data":"\n"}
+,{"stream_name":"stdout","time":126.250300747,"data":"  0%|          | 0.00/360M [00:00\u003c?, ?B/s]\n"}
+,{"stream_name":"stdout","time":126.351692495,"data":"  1%|▏         | 4.75M/360M [00:00\u003c00:07, 49.5MB/s]\n"}
+,{"stream_name":"stdout","time":126.453628575,"data":"  3%|▎         | 11.8M/360M [00:00\u003c00:05, 63.0MB/s]\n"}
+,{"stream_name":"stdout","time":126.553272245,"data":" 11%|█▏        | 40.9M/360M [00:00\u003c00:01, 173MB/s] \n"}
+,{"stream_name":"stdout","time":126.653599814,"data":" 22%|██▏       | 80.5M/360M [00:00\u003c00:01, 268MB/s]\n"}
+,{"stream_name":"stdout","time":126.754851845,"data":" 33%|███▎      | 118M/360M [00:00\u003c00:00, 313MB/s] \n"}
+,{"stream_name":"stdout","time":126.854006188,"data":" 43%|████▎     | 154M/360M [00:00\u003c00:00, 335MB/s]\n"}
+,{"stream_name":"stdout","time":126.965756387,"data":" 54%|█████▍    | 195M/360M [00:00\u003c00:00, 367MB/s]\n"}
+,{"stream_name":"stdout","time":127.072976304,"data":" 64%|██████▍   | 230M/360M [00:00\u003c00:00, 354MB/s]\n"}
+,{"stream_name":"stdout","time":127.181413221,"data":" 74%|███████▍  | 268M/360M [00:00\u003c00:00, 358MB/s]\n"}
+,{"stream_name":"stdout","time":127.284853243,"data":" 84%|████████▍ | 302M/360M [00:01\u003c00:00, 350MB/s]\n"}
+,{"stream_name":"stdout","time":127.330555116,"data":" 94%|█████████▍| 338M/360M [00:01\u003c00:00, 355MB/s]\n"}
+,{"stream_name":"stdout","time":127.331425898,"data":"100%|██████████| 360M/360M [00:01\u003c00:00, 320MB/s]\n"}
+,{"stream_name":"stdout","time":130.243155803,"data":"[2026-10-09 13:16:11,830] INFO miocodec: Loaded weights from safetensors file: /root/.cache/huggingface/hub/models--Aratako--MioCodec-25Hz-24kHz/snapshots/3a737f0de2c6324cb2fe40c1fbd1056c7add423d/model.safetensors\n"}
+,{"stream_name":"stdout","time":144.180030632,"data":"models ready in 52.2s | GPU cc 7.5 | TTS transformers fp16 | codec fp32 | whisper float16\n"}
+,{"stream_name":"stdout","time":144.181026761,"data":"restricted to 10 video ids\n"}
+,{"stream_name":"stdout","time":159.085979579,"data":"[transformers] Both `max_new_tokens` (=362) and `max_length`(=32768) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)\n"}
+,{"stream_name":"stdout","time":176.769402481,"data":"[transformers] Both `max_new_tokens` (=362) and `max_length`(=32768) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)\n"}
+,{"stream_name":"stdout","time":238.044305958,"data":"[transformers] Both `max_new_tokens` (=362) and `max_length`(=32768) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)\n"}
+,{"stream_name":"stdout","time":268.099801823,"data":"[group 4010f985] 25 lines voiced in 124s, retried 3\n"}
+,{"stream_name":"stdout","time":268.2071179,"data":"[transformers] Both `max_new_tokens` (=283) and `max_length`(=32768) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)\n"}
+,{"stream_name":"stdout","time":273.386734557,"data":"uniform tempo x1.06  |  voice ends at 15.50s  |  max late start +1.00s\n"}
+,{"stream_name":"stdout","time":273.391032685,"data":"line  orig_cue  new_start  shift   length\n"}
+,{"stream_name":"stdout","time":273.391584479,"data":"   1      0.20       0.20  +0.00    1.92s\n"}
+,{"stream_name":"stdout","time":273.39271042,"data":"   2      2.60       2.45  -0.15    3.29s\n"}
+,{"stream_name":"stdout","time":273.393853066,"data":"   3      5.80       5.84  +0.04    4.86s\n"}
+,{"stream_name":"stdout","time":273.395052838,"data":"   4      9.80      10.80  +1.00    2.84s\n"}
+,{"stream_name":"stdout","time":273.396141339,"data":"   5     13.40      13.74  +0.34    1.76s\n"}
+,{"stream_name":"stdout","time":273.397159884,"data":"wrote out/4010f985_bn.mp4\n"}
+,{"stream_name":"stdout","time":275.183760721,"data":"uniform tempo x1.00  |  voice ends at 16.11s  |  max late start +0.78s\n"}
+,{"stream_name":"stdout","time":275.185941058,"data":"line  orig_cue  new_start  shift   length\n"}
+,{"stream_name":"stdout","time":275.193262068,"data":"   1      0.20       0.20  +0.00    1.84s\n"}
+,{"stream_name":"stdout","time":275.193338391,"data":"   2      2.60       2.45  -0.15    3.90s\n"}
+,{"stream_name":"stdout","time":275.19334596,"data":"   3      5.80       6.45  +0.65    4.04s\n"}
+,{"stream_name":"stdout","time":275.193350508,"data":"   4      9.80      10.58  +0.78    3.08s\n"}
+,{"stream_name":"stdout","time":275.193961658,"data":"   5     13.40      13.76  +0.36    2.35s\n"}
+,{"stream_name":"stdout","time":275.194987918,"data":"wrote out/4010f985_ta.mp4\n"}
+,{"stream_name":"stdout","time":277.737957069,"data":"uniform tempo x1.04  |  voice ends at 16.30s  |  max late start +0.97s\n"}
+,{"stream_name":"stdout","time":277.739078203,"data":"line  orig_cue  new_start  shift   length\n"}
+,{"stream_name":"stdout","time":277.740855469,"data":"   1      0.20       0.20  +0.00    1.98s\n"}
+,{"stream_name":"stdout","time":277.741818794,"data":"   2      2.60       2.45  -0.15    3.25s\n"}
+,{"stream_name":"stdout","time":277.742775656,"data":"   3      5.80       5.80  -0.00    4.82s\n"}
+,{"stream_name":"stdout","time":277.743828993,"data":"   4      9.80      10.72  +0.92    3.55s\n"}
+,{"stream_name":"stdout","time":277.744609464,"data":"   5     13.40      14.37  +0.97    1.93s\n"}
+,{"stream_name":"stdout","time":277.745329168,"data":"wrote out/4010f985_te.mp4\n"}
+,{"stream_name":"stdout","time":279.112876804,"data":"[transformers] Both `max_new_tokens` (=373) and `max_length`(=32768) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)\n"}
+,{"stream_name":"stdout","time":279.94133939,"data":"uniform tempo x1.08  |  voice ends at 16.73s  |  max late start +0.97s\n"}
+,{"stream_name":"stdout","time":279.942930906,"data":"line  orig_cue  new_start  shift   length\n"}
+,{"stream_name":"stdout","time":279.943437652,"data":"   1      0.20       0.20  +0.00    1.36s\n"}
+,{"stream_name":"stdout","time":279.944085834,"data":"   2      2.60       2.45  -0.15    3.52s\n"}
+,{"stream_name":"stdout","time":279.945090363,"data":"   3      5.80       6.07  +0.27    4.32s\n"}
+,{"stream_name":"stdout","time":279.945964559,"data":"   4      9.80      10.49  +0.69    3.79s\n"}
+,{"stream_name":"stdout","time":279.94680619,"data":"   5     13.40      14.37  +0.97    2.36s\n"}
+,{"stream_name":"stdout","time":279.947755154,"data":"wrote out/4010f985_ml.mp4\n"}
+,{"stream_name":"stdout","time":282.177584541,"data":"uniform tempo x1.25  |  voice ends at 14.88s  |  max late start +1.41s\n"}
+,{"stream_name":"stdout","time":282.178560275,"data":"line  orig_cue  new_start  shift   length\n"}
+,{"stream_name":"stdout","time":282.179461895,"data":"   1      0.20       0.20  +0.00    1.95s\n"}
+,{"stream_name":"stdout","time":282.180378841,"data":"   2      2.60       2.45  -0.15    4.17s\n"}
+,{"stream_name":"stdout","time":282.181251843,"data":"   3      5.80       6.72  +0.92    4.39s\n"}
+,{"stream_name":"stdout","time":282.18225437,"data":"   4      9.80      11.21  +1.41    2.13s\n"}
+,{"stream_name":"stdout","time":282.183153198,"data":"   5     13.40      13.44  +0.04    1.44s\n"}
+,{"stream_name":"stdout","time":282.184016263,"data":"WARNING: script still too long for the picture even at max tempo; shorten lines.\n"}
+,{"stream_name":"stdout","time":282.184917851,"data":"wrote out/4010f985_or.mp4\n"}
+,{"stream_name":"stdout","time":282.185790691,"data":"[4010f985] 5 langs in 138s | worst line CER 0.76 | retried 3\n"}
+,{"stream_name":"stdout","time":332.913122892,"data":"[transformers] Both `max_new_tokens` (=246) and `max_length`(=32768) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)\n"}
+,{"stream_name":"stdout","time":340.981028126,"data":"[group 426b77bb] 30 lines voiced in 73s, retried 3\n"}
+,{"stream_name":"stdout","time":341.113920791,"data":"[transformers] Both `max_new_tokens` (=261) and `max_length`(=32768) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)\n"}
+,{"stream_name":"stdout","time":344.177262109,"data":"uniform tempo x1.00  |  voice ends at 17.38s  |  max late start +0.85s\n"}
+,{"stream_name":"stdout","time":344.182123976,"data":"line  orig_cue  new_start  shift   length\n"}
+,{"stream_name":"stdout","time":344.188326475,"data":"   1      0.20       0.20  +0.00    2.11s\n"}
+,{"stream_name":"stdout","time":344.19075465,"data":"   2      3.00       2.85  -0.15    3.65s\n"}
+,{"stream_name":"stdout","time":344.195326479,"data":"   3      6.30       6.60  +0.30    4.95s\n"}
+,{"stream_name":"stdout","time":344.196567686,"data":"   4     10.80      11.65  +0.85    1.97s\n"}
+,{"stream_name":"stdout","time":344.197611702,"data":"   5     13.60      13.72  +0.12    2.05s\n"}
+,{"stream_name":"stdout","time":344.198968475,"data":"   6     15.80      15.87  +0.07    1.51s\n"}
+,{"stream_name":"stdout","time":344.20013769,"data":"wrote out/426b77bb_bn.mp4\n"}
+,{"stream_name":"stdout","time":346.015963946,"data":"uniform tempo x1.00  |  voice ends at 17.15s  |  max late start +0.05s\n"}
+,{"stream_name":"stdout","time":346.022461169,"data":"line  orig_cue  new_start  shift   length\n"}
+,{"stream_name":"stdout","time":346.023832186,"data":"   1      0.20       0.20  +0.00    1.88s\n"}
+,{"stream_name":"stdout","time":346.025946831,"data":"   2      3.00       2.85  -0.15    3.23s\n"}
+,{"stream_name":"stdout","time":346.028775462,"data":"   3      6.30       6.18  -0.12    4.57s\n"}
+,{"stream_name":"stdout","time":346.030034622,"data":"   4     10.80      10.85  +0.05    1.70s\n"}
+,{"stream_name":"stdout","time":346.031371121,"data":"   5     13.60      13.45  -0.15    1.83s\n"}
+,{"stream_name":"stdout","time":346.032670696,"data":"   6     15.80      15.65  -0.15    1.50s\n"}
+,{"stream_name":"stdout","time":346.034254387,"data":"wrote out/426b77bb_ta.mp4\n"}
+,{"stream_name":"stdout","time":348.060368952,"data":"uniform tempo x1.00  |  voice ends at 18.24s  |  max late start +0.70s\n"}
+,{"stream_name":"stdout","time":348.06429482,"data":"line  orig_cue  new_start  shift   length\n"}
+,{"stream_name":"stdout","time":348.067203536,"data":"   1      0.20       0.20  +0.00    2.30s\n"}
+,{"stream_name":"stdout","time":348.07153666,"data":"   2      3.00       2.85  -0.15    2.92s\n"}
+,{"stream_name":"stdout","time":348.072737959,"data":"   3      6.30       6.15  -0.15    4.93s\n"}
+,{"stream_name":"stdout","time":348.074382291,"data":"   4     10.80      11.18  +0.38    2.52s\n"}
+,{"stream_name":"stdout","time":348.075592985,"data":"   5     13.60      13.81  +0.21    2.59s\n"}
+,{"stream_name":"stdout","time":348.07670782,"data":"   6     15.80      16.50  +0.70    1.75s\n"}
+,{"stream_name":"stdout","time":348.077935874,"data":"wrote out/426b77bb_te.mp4\n"}
+,{"stream_name":"stdout","time":349.548651108,"data":"uniform tempo x1.00  |  voice ends at 16.95s  |  max late start +0.70s\n"}
+,{"stream_name":"stdout","time":349.549508714,"data":"line  orig_cue  new_start  shift   length\n"}
+,{"stream_name":"stdout","time":349.550464239,"data":"   1      0.20       0.20  +0.00    2.43s\n"}
+,{"stream_name":"stdout","time":349.5513327,"data":"   2      3.00       2.85  -0.15    3.39s\n"}
+,{"stream_name":"stdout","time":349.552262278,"data":"   3      6.30       6.34  +0.04    5.06s\n"}
+,{"stream_name":"stdout","time":349.553169822,"data":"   4     10.80      11.50  +0.70    2.27s\n"}
+,{"stream_name":"stdout","time":349.554070978,"data":"   5     13.60      13.87  +0.27    1.68s\n"}
+,{"stream_name":"stdout","time":349.554957164,"data":"   6     15.80      15.65  -0.15    1.30s\n"}
+,{"stream_name":"stdout","time":349.555976154,"data":"wrote out/426b77bb_ml.mp4\n"}
+,{"stream_name":"stdout","time":351.951748634,"data":"uniform tempo x1.19  |  voice ends at 16.99s  |  max late start +0.97s\n"}
+,{"stream_name":"stdout","time":351.952860523,"data":"line  orig_cue  new_start  shift   length\n"}
+,{"stream_name":"stdout","time":351.953447614,"data":"   1      0.20       0.20  +0.00    2.13s\n"}
+,{"stream_name":"stdout","time":351.954322969,"data":"   2      3.00       2.85  -0.15    2.95s\n"}
+,{"stream_name":"stdout","time":351.955259551,"data":"   3      6.30       6.15  -0.15    5.52s\n"}
+,{"stream_name":"stdout","time":351.955951997,"data":"   4     10.80      11.77  +0.97    1.87s\n"}
+,{"stream_name":"stdout","time":351.956661491,"data":"   5     13.60      13.74  +0.14    1.79s\n"}
+,{"stream_name":"stdout","time":351.957421462,"data":"   6     15.80      15.65  -0.15    1.34s\n"}
+,{"stream_name":"stdout","time":351.958156705,"data":"wrote out/426b77bb_or.mp4\n"}
+,{"stream_name":"stdout","time":351.958877809,"data":"[426b77bb] 5 langs in 84s | worst line CER 0.42 | retried 3\n"}
+,{"stream_name":"stdout","time":353.41960062,"data":"[transformers] Both `max_new_tokens` (=381) and `max_length`(=32768) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)\n"}
+,{"stream_name":"stdout","time":436.330678933,"data":"[transformers] Both `max_new_tokens` (=261) and `max_length`(=32768) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)\n"}
+,{"stream_name":"stdout","time":459.045683705,"data":"[group a9be56d9] 30 lines voiced in 118s, retried 4\n"}
+,{"stream_name":"stdout","time":459.124093299,"data":"[transformers] Both `max_new_tokens` (=347) and `max_length`(=32768) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)\n"}
+,{"stream_name":"stdout","time":464.13028844,"data":"uniform tempo x1.03  |  voice ends at 18.16s  |  max late start +0.99s\n"}
+,{"stream_name":"stdout","time":464.138017596,"data":"line  orig_cue  new_start  shift   length\n"}
+,{"stream_name":"stdout","time":464.141494227,"data":"   1      0.20       0.20  +0.00    2.63s\n"}
+,{"stream_name":"stdout","time":464.143791505,"data":"   2      2.90       2.93  +0.03    2.92s\n"}
+,{"stream_name":"stdout","time":464.146935416,"data":"   3      5.90       5.95  +0.05    5.44s\n"}
+,{"stream_name":"stdout","time":464.14796887,"data":"   4     10.50      11.49  +0.99    2.36s\n"}
+,{"stream_name":"stdout","time":464.148959288,"data":"   5     13.30      13.95  +0.65    2.02s\n"}
+,{"stream_name":"stdout","time":464.14990661,"data":"   6     15.90      16.08  +0.18    2.08s\n"}
+,{"stream_name":"stdout","time":464.15091685,"data":"wrote out/a9be56d9_bn.mp4\n"}
+,{"stream_name":"stdout","time":466.079813749,"data":"uniform tempo x1.00  |  voice ends at 17.60s  |  max late start +0.68s\n"}
+,{"stream_name":"stdout","time":466.084850944,"data":"line  orig_cue  new_start  shift   length\n"}
+,{"stream_name":"stdout","time":466.088988508,"data":"   1      0.20       0.20  +0.00    2.29s\n"}
+,{"stream_name":"stdout","time":466.090108483,"data":"   2      2.90       2.75  -0.15    2.50s\n"}
+,{"stream_name":"stdout","time":466.091731752,"data":"   3      5.90       5.75  -0.15    5.33s\n"}
+,{"stream_name":"stdout","time":466.093506577,"data":"   4     10.50      11.18  +0.68    1.85s\n"}
+,{"stream_name":"stdout","time":466.094934214,"data":"   5     13.30      13.15  -0.15    2.26s\n"}
+,{"stream_name":"stdout","time":466.096127561,"data":"   6     15.90      15.75  -0.15    1.85s\n"}
+,{"stream_name":"stdout","time":466.097577708,"data":"wrote out/a9be56d9_ta.mp4\n"}
+,{"stream_name":"stdout","time":468.824809048,"data":"uniform tempo x1.01  |  voice ends at 18.19s  |  max late start +0.94s\n"}
+,{"stream_name":"stdout","time":468.825872822,"data":"line  orig_cue  new_start  shift   length\n"}
+,{"stream_name":"stdout","time":468.826753599,"data":"   1      0.20       0.20  +0.00    2.69s\n"}
+,{"stream_name":"stdout","time":468.827702231,"data":"   2      2.90       2.99  +0.09    3.48s\n"}
+,{"stream_name":"stdout","time":468.828582673,"data":"   3      5.90       6.57  +0.67    4.53s\n"}
+,{"stream_name":"stdout","time":468.829450313,"data":"   4     10.50      11.20  +0.70    2.94s\n"}
+,{"stream_name":"stdout","time":468.830316737,"data":"   5     13.30      14.24  +0.94    2.31s\n"}
+,{"stream_name":"stdout","time":468.831187528,"data":"   6     15.90      16.66  +0.76    1.53s\n"}
+,{"stream_name":"stdout","time":468.832104526,"data":"wrote out/a9be56d9_te.mp4\n"}
+,{"stream_name":"stdout","time":470.23882575,"data":"uniform tempo x1.00  |  voice ends at 18.26s  |  max late start +0.62s\n"}
+,{"stream_name":"stdout","time":470.240218019,"data":"line  orig_cue  new_start  shift   length\n"}
+,{"stream_name":"stdout","time":470.240956089,"data":"   1      0.20       0.20  +0.00    2.47s\n"}
+,{"stream_name":"stdout","time":470.242387794,"data":"   2      2.90       2.77  -0.13    3.19s\n"}
+,{"stream_name":"stdout","time":470.243052012,"data":"   3      5.90       6.06  +0.16    4.96s\n"}
+,{"stream_name":"stdout","time":470.244088518,"data":"   4     10.50      11.12  +0.62    2.56s\n"}
+,{"stream_name":"stdout","time":470.245151376,"data":"   5     13.30      13.78  +0.48    2.24s\n"}
+,{"stream_name":"stdout","time":470.245974845,"data":"   6     15.90      16.12  +0.22    2.14s\n"}
+,{"stream_name":"stdout","time":470.246891643,"data":"wrote out/a9be56d9_ml.mp4\n"}
+,{"stream_name":"stdout","time":472.728213551,"data":"uniform tempo x1.04  |  voice ends at 18.57s  |  max late start +0.97s\n"}
+,{"stream_name":"stdout","time":472.728279601,"data":"line  orig_cue  new_start  shift   length\n"}
+,{"stream_name":"stdout","time":472.729040533,"data":"   1      0.20       0.20  +0.00    1.92s\n"}
+,{"stream_name":"stdout","time":472.729953033,"data":"   2      2.90       2.75  -0.15    3.39s\n"}
+,{"stream_name":"stdout","time":472.730745835,"data":"   3      5.90       6.24  +0.34    4.36s\n"}
+,{"stream_name":"stdout","time":472.731631786,"data":"   4     10.50      10.70  +0.20    2.67s\n"}
+,{"stream_name":"stdout","time":472.732327336,"data":"   5     13.30      13.47  +0.17    3.30s\n"}
+,{"stream_name":"stdout","time":472.733252481,"data":"   6     15.90      16.87  +0.97    1.70s\n"}
+,{"stream_name":"stdout","time":472.73404844,"data":"wrote out/a9be56d9_or.mp4\n"}
+,{"stream_name":"stdout","time":472.734981323,"data":"[a9be56d9] 5 langs in 132s | worst line CER 0.54 | retried 4\n"}
+,{"stream_name":"stdout","time":476.507790461,"data":"[transformers] Both `max_new_tokens` (=347) and `max_length`(=32768) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)\n"}
+,{"stream_name":"stdout","time":505.410218336,"data":"[group b4c787e1] 25 lines voiced in 46s, retried 0\n"}
+,{"stream_name":"stdout","time":505.515522301,"data":"[transformers] Both `max_new_tokens` (=340) and `max_length`(=32768) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)\n"}
+,{"stream_name":"stdout","time":509.72294546,"data":"uniform tempo x1.04  |  voice ends at 17.58s  |  max late start +0.91s\n"}
+,{"stream_name":"stdout","time":509.726165938,"data":"line  orig_cue  new_start  shift   length\n"}
+,{"stream_name":"stdout","time":509.728849758,"data":"   1      0.20       0.20  +0.00    2.47s\n"}
+,{"stream_name":"stdout","time":509.730935882,"data":"   2      3.00       2.85  -0.15    3.78s\n"}
+,{"stream_name":"stdout","time":509.735319546,"data":"   3      6.10       6.73  +0.63    3.90s\n"}
+,{"stream_name":"stdout","time":509.736691293,"data":"   4     10.20      10.73  +0.53    3.67s\n"}
+,{"stream_name":"stdout","time":509.738000281,"data":"   5     13.60      14.51  +0.91    3.07s\n"}
+,{"stream_name":"stdout","time":509.739468601,"data":"wrote out/b4c787e1_bn.mp4\n"}
+,{"stream_name":"stdout","time":511.651384743,"data":"uniform tempo x1.00  |  voice ends at 16.85s  |  max late start +0.24s\n"}
+,{"stream_name":"stdout","time":511.654719952,"data":"line  orig_cue  new_start  shift   length\n"}
+,{"stream_name":"stdout","time":511.65710613,"data":"   1      0.20       0.20  +0.00    2.52s\n"}
+,{"stream_name":"stdout","time":511.660857507,"data":"   2      3.00       2.85  -0.15    3.31s\n"}
+,{"stream_name":"stdout","time":511.662170357,"data":"   3      6.10       6.26  +0.16    3.40s\n"}
+,{"stream_name":"stdout","time":511.66315376,"data":"   4     10.20      10.05  -0.15    3.69s\n"}
+,{"stream_name":"stdout","time":511.664250921,"data":"   5     13.60      13.84  +0.24    3.01s\n"}
+,{"stream_name":"stdout","time":511.665340132,"data":"wrote out/b4c787e1_ta.mp4\n"}
+,{"stream_name":"stdout","time":513.370132524,"data":"uniform tempo x1.00  |  voice ends at 17.79s  |  max late start +0.60s\n"}
+,{"stream_name":"stdout","time":513.370159574,"data":"line  orig_cue  new_start  shift   length\n"}
+,{"stream_name":"stdout","time":513.371319,"data":"   1      0.20       0.20  +0.00    2.93s\n"}
+,{"stream_name":"stdout","time":513.372349828,"data":"   2      3.00       3.23  +0.23    3.27s\n"}
+,{"stream_name":"stdout","time":513.37326285,"data":"   3      6.10       6.60  +0.50    3.07s\n"}
+,{"stream_name":"stdout","time":513.374348749,"data":"   4     10.20      10.05  -0.15    4.05s\n"}
+,{"stream_name":"stdout","time":513.375312871,"data":"   5     13.60      14.20  +0.60    3.59s\n"}
+,{"stream_name":"stdout","time":513.376289256,"data":"wrote out/b4c787e1_te.mp4\n"}
+,{"stream_name":"stdout","time":514.732937857,"data":"uniform tempo x1.00  |  voice ends at 17.89s  |  max late start +0.28s\n"}
+,{"stream_name":"stdout","time":514.733356348,"data":"line  orig_cue  new_start  shift   length\n"}
+,{"stream_name":"stdout","time":514.734470979,"data":"   1      0.20       0.20  +0.00    2.52s\n"}
+,{"stream_name":"stdout","time":514.735428314,"data":"   2      3.00       2.85  -0.15    3.43s\n"}
+,{"stream_name":"stdout","time":514.73615865,"data":"   3      6.10       6.38  +0.28    3.54s\n"}
+,{"stream_name":"stdout","time":514.736990732,"data":"   4     10.20      10.05  -0.15    3.56s\n"}
+,{"stream_name":"stdout","time":514.737785365,"data":"   5     13.60      13.71  +0.11    4.18s\n"}
+,{"stream_name":"stdout","time":514.738762356,"data":"wrote out/b4c787e1_ml.mp4\n"}
+,{"stream_name":"stdout","time":517.022343525,"data":"uniform tempo x1.15  |  voice ends at 18.47s  |  max late start +0.97s\n"}
+,{"stream_name":"stdout","time":517.023322341,"data":"line  orig_cue  new_start  shift   length\n"}
+,{"stream_name":"stdout","time":517.024328496,"data":"   1      0.20       0.20  +0.00    2.33s\n"}
+,{"stream_name":"stdout","time":517.025342167,"data":"   2      3.00       2.85  -0.15    2.77s\n"}
+,{"stream_name":"stdout","time":517.026350641,"data":"   3      6.10       5.95  -0.15    4.34s\n"}
+,{"stream_name":"stdout","time":517.027027434,"data":"   4     10.20      10.39  +0.19    4.08s\n"}
+,{"stream_name":"stdout","time":517.02778667,"data":"   5     13.60      14.57  +0.97    3.90s\n"}
+,{"stream_name":"stdout","time":517.028559097,"data":"wrote out/b4c787e1_or.mp4\n"}
+,{"stream_name":"stdout","time":517.029323394,"data":"[b4c787e1] 5 langs in 58s | worst line CER 0.54 | retried 0\n"}
+,{"stream_name":"stdout","time":524.498268362,"data":"[transformers] Both `max_new_tokens` (=340) and `max_length`(=32768) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)\n"}
+,{"stream_name":"stdout","time":564.143432197,"data":"[transformers] Both `max_new_tokens` (=321) and `max_length`(=32768) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)\n"}
+,{"stream_name":"stdout","time":574.135406582,"data":"[group c01adcce] 25 lines voiced in 69s, retried 1\n"}
+,{"stream_name":"stdout","time":574.250882399,"data":"[transformers] Both `max_new_tokens` (=377) and `max_length`(=32768) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)\n"}
+,{"stream_name":"stdout","time":578.384691302,"data":"uniform tempo x1.04  |  voice ends at 16.39s  |  max late start +0.96s\n"}
+,{"stream_name":"stdout","time":578.386789038,"data":"line  orig_cue  new_start  shift   length\n"}
+,{"stream_name":"stdout","time":578.395965342,"data":"   1      0.20       0.20  +0.00    2.34s\n"}
+,{"stream_name":"stdout","time":578.39988926,"data":"   2      2.80       2.65  -0.15    4.47s\n"}
+,{"stream_name":"stdout","time":578.401315953,"data":"   3      6.60       7.22  +0.62    3.95s\n"}
+,{"stream_name":"stdout","time":578.403627091,"data":"   4     10.30      11.26  +0.96    1.88s\n"}
+,{"stream_name":"stdout","time":578.404703892,"data":"   5     13.70      13.55  -0.15    2.84s\n"}
+,{"stream_name":"stdout","time":578.405793864,"data":"wrote out/c01adcce_bn.mp4\n"}
+,{"stream_name":"stdout","time":580.220592102,"data":"uniform tempo x1.00  |  voice ends at 16.30s  |  max late start +0.57s\n"}
+,{"stream_name":"stdout","time":580.224275385,"data":"line  orig_cue  new_start  shift   length\n"}
+,{"stream_name":"stdout","time":580.229174465,"data":"   1      0.20       0.20  +0.00    2.29s\n"}
+,{"stream_name":"stdout","time":580.231208896,"data":"   2      2.80       2.65  -0.15    4.21s\n"}
+,{"stream_name":"stdout","time":580.233850265,"data":"   3      6.60       6.96  +0.36    3.81s\n"}
+,{"stream_name":"stdout","time":580.235152674,"data":"   4     10.30      10.87  +0.57    2.05s\n"}
+,{"stream_name":"stdout","time":580.236411341,"data":"   5     13.70      13.55  -0.15    2.75s\n"}
+,{"stream_name":"stdout","time":580.238144412,"data":"wrote out/c01adcce_ta.mp4\n"}
+,{"stream_name":"stdout","time":582.665607543,"data":"uniform tempo x1.07  |  voice ends at 16.23s  |  max late start +0.91s\n"}
+,{"stream_name":"stdout","time":582.666598931,"data":"line  orig_cue  new_start  shift   length\n"}
+,{"stream_name":"stdout","time":582.667802967,"data":"   1      0.20       0.20  +0.00    2.37s\n"}
+,{"stream_name":"stdout","time":582.668794075,"data":"   2      2.80       2.67  -0.13    4.48s\n"}
+,{"stream_name":"stdout","time":582.669732506,"data":"   3      6.60       7.25  +0.65    3.86s\n"}
+,{"stream_name":"stdout","time":582.670561914,"data":"   4     10.30      11.21  +0.91    2.13s\n"}
+,{"stream_name":"stdout","time":582.671728973,"data":"   5     13.70      13.55  -0.15    2.68s\n"}
+,{"stream_name":"stdout","time":582.672386515,"data":"wrote out/c01adcce_te.mp4\n"}
+,{"stream_name":"stdout","time":583.952542033,"data":"uniform tempo x1.00  |  voice ends at 16.75s  |  max late start +0.96s\n"}
+,{"stream_name":"stdout","time":583.953933279,"data":"line  orig_cue  new_start  shift   length\n"}
+,{"stream_name":"stdout","time":583.954835421,"data":"   1      0.20       0.20  +0.00    1.80s\n"}
+,{"stream_name":"stdout","time":583.95592422,"data":"   2      2.80       2.65  -0.15    4.41s\n"}
+,{"stream_name":"stdout","time":583.957160421,"data":"   3      6.60       7.16  +0.56    4.00s\n"}
+,{"stream_name":"stdout","time":583.957763966,"data":"   4     10.30      11.26  +0.96    2.67s\n"}
+,{"stream_name":"stdout","time":583.95855163,"data":"   5     13.70      14.03  +0.33    2.71s\n"}
+,{"stream_name":"stdout","time":583.959371438,"data":"wrote out/c01adcce_ml.mp4\n"}
+,{"stream_name":"stdout","time":586.108827961,"data":"uniform tempo x1.25  |  voice ends at 16.15s  |  max late start +1.04s\n"}
+,{"stream_name":"stdout","time":586.109807612,"data":"line  orig_cue  new_start  shift   length\n"}
+,{"stream_name":"stdout","time":586.110782726,"data":"   1      0.20       0.20  +0.00    1.30s\n"}
+,{"stream_name":"stdout","time":586.111745481,"data":"   2      2.80       2.65  -0.15    4.36s\n"}
+,{"stream_name":"stdout","time":586.112544762,"data":"   3      6.60       7.11  +0.51    4.13s\n"}
+,{"stream_name":"stdout","time":586.113297906,"data":"   4     10.30      11.34  +1.04    1.44s\n"}
+,{"stream_name":"stdout","time":586.113989924,"data":"   5     13.70      13.55  -0.15    2.60s\n"}
+,{"stream_name":"stdout","time":586.114698853,"data":"WARNING: script still too long for the picture even at max tempo; shorten lines.\n"}
+,{"stream_name":"stdout","time":586.115430168,"data":"wrote out/c01adcce_or.mp4\n"}
+,{"stream_name":"stdout","time":586.116129869,"data":"[c01adcce] 5 langs in 81s | worst line CER 0.57 | retried 1\n"}
+,{"stream_name":"stdout","time":595.479184192,"data":"[transformers] Both `max_new_tokens` (=377) and `max_length`(=32768) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)\n"}
+,{"stream_name":"stdout","time":643.447339294,"data":"[group ce52c347] 25 lines voiced in 69s, retried 0\n"}
+,{"stream_name":"stdout","time":643.543813846,"data":"[transformers] Both `max_new_tokens` (=369) and `max_length`(=32768) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)\n"}
+,{"stream_name":"stdout","time":647.87911067,"data":"uniform tempo x1.07  |  voice ends at 17.10s  |  max late start +0.98s\n"}
+,{"stream_name":"stdout","time":647.884083784,"data":"line  orig_cue  new_start  shift   length\n"}
+,{"stream_name":"stdout","time":647.88731734,"data":"   1      0.20       0.20  +0.00    2.01s\n"}
+,{"stream_name":"stdout","time":647.889584292,"data":"   2      2.60       2.45  -0.15    4.46s\n"}
+,{"stream_name":"stdout","time":647.890694982,"data":"   3      6.30       7.01  +0.71    3.39s\n"}
+,{"stream_name":"stdout","time":647.891728982,"data":"   4      9.70      10.49  +0.79    3.58s\n"}
+,{"stream_name":"stdout","time":647.893808066,"data":"   5     13.20      14.18  +0.98    2.93s\n"}
+,{"stream_name":"stdout","time":647.893824059,"data":"wrote out/ce52c347_bn.mp4\n"}
+,{"stream_name":"stdout","time":649.843561397,"data":"uniform tempo x1.00  |  voice ends at 16.99s  |  max late start +0.95s\n"}
+,{"stream_name":"stdout","time":649.848157741,"data":"line  orig_cue  new_start  shift   length\n"}
+,{"stream_name":"stdout","time":649.848435018,"data":"   1      0.20       0.20  +0.00    1.72s\n"}
+,{"stream_name":"stdout","time":649.849508014,"data":"   2      2.60       2.45  -0.15    4.43s\n"}
+,{"stream_name":"stdout","time":649.851395796,"data":"   3      6.30       6.98  +0.68    2.99s\n"}
+,{"stream_name":"stdout","time":649.852896856,"data":"   4      9.70      10.06  +0.36    3.99s\n"}
+,{"stream_name":"stdout","time":649.854403407,"data":"   5     13.20      14.15  +0.95    2.84s\n"}
+,{"stream_name":"stdout","time":649.855821404,"data":"wrote out/ce52c347_ta.mp4\n"}
+,{"stream_name":"stdout","time":652.518103659,"data":"uniform tempo x1.12  |  voice ends at 17.55s  |  max late start +0.98s\n"}
+,{"stream_name":"stdout","time":652.520359506,"data":"line  orig_cue  new_start  shift   length\n"}
+,{"stream_name":"stdout","time":652.52139851,"data":"   1      0.20       0.20  +0.00    1.87s\n"}
+,{"stream_name":"stdout","time":652.52243359,"data":"   2      2.60       2.45  -0.15    4.34s\n"}
+,{"stream_name":"stdout","time":652.523260525,"data":"   3      6.30       6.89  +0.59    3.60s\n"}
+,{"stream_name":"stdout","time":652.524110268,"data":"   4      9.70      10.59  +0.89    3.49s\n"}
+,{"stream_name":"stdout","time":652.525322695,"data":"   5     13.20      14.18  +0.98    3.38s\n"}
+,{"stream_name":"stdout","time":652.525739187,"data":"wrote out/ce52c347_te.mp4\n"}
+,{"stream_name":"stdout","time":654.91724446,"data":"uniform tempo x1.07  |  voice ends at 16.87s  |  max late start +1.00s\n"}
+,{"stream_name":"stdout","time":654.91920093,"data":"line  orig_cue  new_start  shift   length\n"}
+,{"stream_name":"stdout","time":654.91970195,"data":"   1      0.20       0.20  +0.00    1.73s\n"}
+,{"stream_name":"stdout","time":654.92068859,"data":"   2      2.60       2.45  -0.15    3.71s\n"}
+,{"stream_name":"stdout","time":654.921571932,"data":"   3      6.30       6.26  -0.04    3.53s\n"}
+,{"stream_name":"stdout","time":654.922400742,"data":"   4      9.70       9.89  +0.19    4.21s\n"}
+,{"stream_name":"stdout","time":654.923551175,"data":"   5     13.20      14.20  +1.00    2.67s\n"}
+,{"stream_name":"stdout","time":654.924307857,"data":"wrote out/ce52c347_ml.mp4\n"}
+,{"stream_name":"stdout","time":657.084681533,"data":"uniform tempo x1.16  |  voice ends at 16.44s  |  max late start +0.96s\n"}
+,{"stream_name":"stdout","time":657.085182152,"data":"line  orig_cue  new_start  shift   length\n"}
+,{"stream_name":"stdout","time":657.086025104,"data":"   1      0.20       0.20  +0.00    1.89s\n"}
+,{"stream_name":"stdout","time":657.087052138,"data":"   2      2.60       2.45  -0.15    4.28s\n"}
+,{"stream_name":"stdout","time":657.08800931,"data":"   3      6.30       6.83  +0.53    2.75s\n"}
+,{"stream_name":"stdout","time":657.088943654,"data":"   4      9.70       9.68  -0.02    4.39s\n"}
+,{"stream_name":"stdout","time":657.089817745,"data":"   5     13.20      14.16  +0.96    2.28s\n"}
+,{"stream_name":"stdout","time":657.090831528,"data":"wrote out/ce52c347_or.mp4\n"}
+,{"stream_name":"stdout","time":657.0918872,"data":"[ce52c347] 5 langs in 83s | worst line CER 0.62 | retried 0\n"}
+,{"stream_name":"stdout","time":660.193619693,"data":"[transformers] Both `max_new_tokens` (=369) and `max_length`(=32768) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)\n"}
+,{"stream_name":"stdout","time":696.472180806,"data":"[group e9528636] 25 lines voiced in 53s, retried 0\n"}
+,{"stream_name":"stdout","time":696.565006172,"data":"[transformers] Both `max_new_tokens` (=399) and `max_length`(=32768) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)\n"}
+,{"stream_name":"stdout","time":699.326001218,"data":"uniform tempo x1.00  |  voice ends at 16.22s  |  max late start +0.59s\n"}
+,{"stream_name":"stdout","time":699.331134253,"data":"line  orig_cue  new_start  shift   length\n"}
+,{"stream_name":"stdout","time":699.336723154,"data":"   1      0.20       0.20  +0.00    2.36s\n"}
+,{"stream_name":"stdout","time":699.339402478,"data":"   2      2.80       2.66  -0.14    3.58s\n"}
+,{"stream_name":"stdout","time":699.341612363,"data":"   3      6.10       6.34  +0.24    3.90s\n"}
+,{"stream_name":"stdout","time":699.345215826,"data":"   4     10.10      10.34  +0.24    3.45s\n"}
+,{"stream_name":"stdout","time":699.346258632,"data":"   5     13.30      13.89  +0.59    2.33s\n"}
+,{"stream_name":"stdout","time":699.347665504,"data":"wrote out/e9528636_bn.mp4\n"}
+,{"stream_name":"stdout","time":701.134874774,"data":"uniform tempo x1.00  |  voice ends at 15.87s  |  max late start +0.38s\n"}
+,{"stream_name":"stdout","time":701.14347657,"data":"line  orig_cue  new_start  shift   length\n"}
+,{"stream_name":"stdout","time":701.148274097,"data":"   1      0.20       0.20  +0.00    1.90s\n"}
+,{"stream_name":"stdout","time":701.148802492,"data":"   2      2.80       2.65  -0.15    3.73s\n"}
+,{"stream_name":"stdout","time":701.150158282,"data":"   3      6.10       6.48  +0.38    3.61s\n"}
+,{"stream_name":"stdout","time":701.151460239,"data":"   4     10.10      10.20  +0.10    3.10s\n"}
+,{"stream_name":"stdout","time":701.152671333,"data":"   5     13.30      13.40  +0.10    2.48s\n"}
+,{"stream_name":"stdout","time":701.154162756,"data":"wrote out/e9528636_ta.mp4\n"}
+,{"stream_name":"stdout","time":703.034450243,"data":"uniform tempo x1.00  |  voice ends at 16.47s  |  max late start +0.64s\n"}
+,{"stream_name":"stdout","time":703.041652952,"data":"line  orig_cue  new_start  shift   length\n"}
+,{"stream_name":"stdout","time":703.044551862,"data":"   1      0.20       0.20  +0.00    2.43s\n"}
+,{"stream_name":"stdout","time":703.048936537,"data":"   2      2.80       2.73  -0.07    3.52s\n"}
+,{"stream_name":"stdout","time":703.051864528,"data":"   3      6.10       6.35  +0.25    3.31s\n"}
+,{"stream_name":"stdout","time":703.053208782,"data":"   4     10.10       9.95  -0.15    3.89s\n"}
+,{"stream_name":"stdout","time":703.054904131,"data":"   5     13.30      13.94  +0.64    2.52s\n"}
+,{"stream_name":"stdout","time":703.056329586,"data":"wrote out/e9528636_te.mp4\n"}
+,{"stream_name":"stdout","time":704.415521248,"data":"uniform tempo x1.00  |  voice ends at 15.56s  |  max late start +0.11s\n"}
+,{"stream_name":"stdout","time":704.417152031,"data":"line  orig_cue  new_start  shift   length\n"}
+,{"stream_name":"stdout","time":704.418777865,"data":"   1      0.20       0.20  +0.00    2.17s\n"}
+,{"stream_name":"stdout","time":704.419634642,"data":"   2      2.80       2.65  -0.15    3.20s\n"}
+,{"stream_name":"stdout","time":704.42066127,"data":"   3      6.10       5.95  -0.15    3.86s\n"}
+,{"stream_name":"stdout","time":704.421541735,"data":"   4     10.10       9.95  -0.15    3.36s\n"}
+,{"stream_name":"stdout","time":704.422325543,"data":"   5     13.30      13.41  +0.11    2.15s\n"}
+,{"stream_name":"stdout","time":704.42302328,"data":"wrote out/e9528636_ml.mp4\n"}
+,{"stream_name":"stdout","time":706.578163123,"data":"uniform tempo x1.24  |  voice ends at 16.21s  |  max late start +0.97s\n"}
+,{"stream_name":"stdout","time":706.579052338,"data":"line  orig_cue  new_start  shift   length\n"}
+,{"stream_name":"stdout","time":706.579981406,"data":"   1      0.20       0.20  +0.00    1.84s\n"}
+,{"stream_name":"stdout","time":706.580870031,"data":"   2      2.80       2.65  -0.15    4.27s\n"}
+,{"stream_name":"stdout","time":706.581795497,"data":"   3      6.10       7.02  +0.92    3.65s\n"}
+,{"stream_name":"stdout","time":706.582510599,"data":"   4     10.10      10.77  +0.67    3.40s\n"}
+,{"stream_name":"stdout","time":706.583244059,"data":"   5     13.30      14.27  +0.97    1.94s\n"}
+,{"stream_name":"stdout","time":706.583896658,"data":"wrote out/e9528636_or.mp4\n"}
+,{"stream_name":"stdout","time":706.584618704,"data":"[e9528636] 5 langs in 63s | worst line CER 0.50 | retried 0\n"}
+,{"stream_name":"stdout","time":717.425122443,"data":"[transformers] Both `max_new_tokens` (=399) and `max_length`(=32768) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)\n"}
+,{"stream_name":"stdout","time":754.194343729,"data":"[transformers] Both `max_new_tokens` (=246) and `max_length`(=32768) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)\n"}
+,{"stream_name":"stdout","time":759.190465945,"data":"[group eab38211] 25 lines voiced in 63s, retried 1\n"}
+,{"stream_name":"stdout","time":759.306252117,"data":"[transformers] Both `max_new_tokens` (=340) and `max_length`(=32768) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)\n"}
+,{"stream_name":"stdout","time":762.180979426,"data":"uniform tempo x1.00  |  voice ends at 15.63s  |  max late start +0.67s\n"}
+,{"stream_name":"stdout","time":762.1841743,"data":"line  orig_cue  new_start  shift   length\n"}
+,{"stream_name":"stdout","time":762.186374099,"data":"   1      0.20       0.20  +0.00    2.49s\n"}
+,{"stream_name":"stdout","time":762.189624166,"data":"   2      3.20       3.05  -0.15    2.81s\n"}
+,{"stream_name":"stdout","time":762.193652146,"data":"   3      6.00       5.96  -0.04    4.81s\n"}
+,{"stream_name":"stdout","time":762.194823079,"data":"   4     10.20      10.87  +0.67    2.05s\n"}
+,{"stream_name":"stdout","time":762.197973229,"data":"   5     13.10      13.03  -0.07    2.60s\n"}
+,{"stream_name":"stdout","time":762.199013215,"data":"wrote out/eab38211_bn.mp4\n"}
+,{"stream_name":"stdout","time":764.05201714,"data":"uniform tempo x1.00  |  voice ends at 15.07s  |  max late start +0.67s\n"}
+,{"stream_name":"stdout","time":764.054857998,"data":"line  orig_cue  new_start  shift   length\n"}
+,{"stream_name":"stdout","time":764.058552435,"data":"   1      0.20       0.20  +0.00    2.81s\n"}
+,{"stream_name":"stdout","time":764.06216034,"data":"   2      3.20       3.11  -0.09    2.41s\n"}
+,{"stream_name":"stdout","time":764.063205818,"data":"   3      6.00       5.85  -0.15    4.92s\n"}
+,{"stream_name":"stdout","time":764.064336508,"data":"   4     10.20      10.87  +0.67    2.09s\n"}
+,{"stream_name":"stdout","time":764.065904362,"data":"   5     13.10      13.06  -0.04    2.02s\n"}
+,{"stream_name":"stdout","time":764.067228921,"data":"wrote out/eab38211_ta.mp4\n"}
+,{"stream_name":"stdout","time":765.868488337,"data":"uniform tempo x1.00  |  voice ends at 16.15s  |  max late start +0.91s\n"}
+,{"stream_name":"stdout","time":765.87136296,"data":"line  orig_cue  new_start  shift   length\n"}
+,{"stream_name":"stdout","time":765.873719283,"data":"   1      0.20       0.20  +0.00    3.35s\n"}
+,{"stream_name":"stdout","time":765.879647476,"data":"   2      3.20       3.65  +0.45    2.69s\n"}
+,{"stream_name":"stdout","time":765.879982334,"data":"   3      6.00       6.44  +0.44    4.28s\n"}
+,{"stream_name":"stdout","time":765.88255345,"data":"   4     10.20      10.83  +0.63    3.09s\n"}
+,{"stream_name":"stdout","time":765.883801848,"data":"   5     13.10      14.01  +0.91    2.13s\n"}
+,{"stream_name":"stdout","time":765.885154016,"data":"wrote out/eab38211_te.mp4\n"}
+,{"stream_name":"stdout","time":767.226117888,"data":"uniform tempo x1.00  |  voice ends at 15.48s  |  max late start +0.54s\n"}
+,{"stream_name":"stdout","time":767.227488757,"data":"line  orig_cue  new_start  shift   length\n"}
+,{"stream_name":"stdout","time":767.228498407,"data":"   1      0.20       0.20  +0.00    2.63s\n"}
+,{"stream_name":"stdout","time":767.229498992,"data":"   2      3.20       3.05  -0.15    2.40s\n"}
+,{"stream_name":"stdout","time":767.230467079,"data":"   3      6.00       5.85  -0.15    4.79s\n"}
+,{"stream_name":"stdout","time":767.231445974,"data":"   4     10.20      10.74  +0.54    2.63s\n"}
+,{"stream_name":"stdout","time":767.232398153,"data":"   5     13.10      13.47  +0.37    2.01s\n"}
+,{"stream_name":"stdout","time":767.233295737,"data":"wrote out/eab38211_ml.mp4\n"}
+,{"stream_name":"stdout","time":769.445289759,"data":"uniform tempo x1.21  |  voice ends at 15.70s  |  max late start +0.95s\n"}
+,{"stream_name":"stdout","time":769.447183865,"data":"line  orig_cue  new_start  shift   length\n"}
+,{"stream_name":"stdout","time":769.447864234,"data":"   1      0.20       0.20  +0.00    2.73s\n"}
+,{"stream_name":"stdout","time":769.448684792,"data":"   2      3.20       3.05  -0.15    3.03s\n"}
+,{"stream_name":"stdout","time":769.449576126,"data":"   3      6.00       6.18  +0.18    4.87s\n"}
+,{"stream_name":"stdout","time":769.450301453,"data":"   4     10.20      11.15  +0.95    2.25s\n"}
+,{"stream_name":"stdout","time":769.451040508,"data":"   5     13.10      13.51  +0.41    2.19s\n"}
+,{"stream_name":"stdout","time":769.451777141,"data":"wrote out/eab38211_or.mp4\n"}
+,{"stream_name":"stdout","time":769.452586128,"data":"[eab38211] 5 langs in 73s | worst line CER 0.57 | retried 1\n"}
+,{"stream_name":"stdout","time":776.144635807,"data":"[transformers] Both `max_new_tokens` (=340) and `max_length`(=32768) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)\n"}
+,{"stream_name":"stdout","time":808.815405225,"data":"[group fb3fa838] 25 lines voiced in 50s, retried 0\n"}
+,{"stream_name":"stdout","time":808.904362939,"data":"[transformers] Both `max_new_tokens` (=384) and `max_length`(=32768) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)\n"}
+,{"stream_name":"stdout","time":811.907130901,"data":"uniform tempo x1.00  |  voice ends at 17.95s  |  max late start +0.65s\n"}
+,{"stream_name":"stdout","time":811.910603196,"data":"line  orig_cue  new_start  shift   length\n"}
+,{"stream_name":"stdout","time":811.912875609,"data":"   1      0.20       0.20  +0.00    2.15s\n"}
+,{"stream_name":"stdout","time":811.914195941,"data":"   2      2.90       2.75  -0.15    4.20s\n"}
+,{"stream_name":"stdout","time":811.916292908,"data":"   3      6.40       7.05  +0.65    3.66s\n"}
+,{"stream_name":"stdout","time":811.917692636,"data":"   4     10.30      10.81  +0.51    2.87s\n"}
+,{"stream_name":"stdout","time":811.919138479,"data":"   5     13.70      13.78  +0.08    4.16s\n"}
+,{"stream_name":"stdout","time":811.920556132,"data":"wrote out/fb3fa838_bn.mp4\n"}
+,{"stream_name":"stdout","time":814.865146779,"data":"uniform tempo x1.13  |  voice ends at 17.06s  |  max late start +0.95s\n"}
+,{"stream_name":"stdout","time":814.871460381,"data":"line  orig_cue  new_start  shift   length\n"}
+,{"stream_name":"stdout","time":814.876380479,"data":"   1      0.20       0.20  +0.00    2.75s\n"}
+,{"stream_name":"stdout","time":814.879627748,"data":"   2      2.90       3.05  +0.15    4.20s\n"}
+,{"stream_name":"stdout","time":814.88242866,"data":"   3      6.40       7.35  +0.95    3.68s\n"}
+,{"stream_name":"stdout","time":814.883922351,"data":"   4     10.30      11.13  +0.83    2.61s\n"}
+,{"stream_name":"stdout","time":814.885448916,"data":"   5     13.70      13.85  +0.15    3.21s\n"}
+,{"stream_name":"stdout","time":814.887738529,"data":"wrote out/fb3fa838_ta.mp4\n"}
+,{"stream_name":"stdout","time":816.893243415,"data":"uniform tempo x1.00  |  voice ends at 18.93s  |  max late start +0.93s\n"}
+,{"stream_name":"stdout","time":816.895472855,"data":"line  orig_cue  new_start  shift   length\n"}
+,{"stream_name":"stdout","time":816.896659702,"data":"   1      0.20       0.20  +0.00    2.72s\n"}
+,{"stream_name":"stdout","time":816.897758321,"data":"   2      2.90       3.02  +0.12    4.07s\n"}
+,{"stream_name":"stdout","time":816.899227879,"data":"   3      6.40       7.19  +0.79    3.74s\n"}
+,{"stream_name":"stdout","time":816.900338814,"data":"   4     10.30      11.03  +0.73    3.50s\n"}
+,{"stream_name":"stdout","time":816.901481186,"data":"   5     13.70      14.63  +0.93    4.30s\n"}
+,{"stream_name":"stdout","time":816.90257963,"data":"wrote out/fb3fa838_te.mp4\n"}
+,{"stream_name":"stdout","time":819.292150962,"data":"uniform tempo x1.13  |  voice ends at 17.14s  |  max late start +0.94s\n"}
+,{"stream_name":"stdout","time":819.292912894,"data":"line  orig_cue  new_start  shift   length\n"}
+,{"stream_name":"stdout","time":819.294154022,"data":"   1      0.20       0.20  +0.00    2.42s\n"}
+,{"stream_name":"stdout","time":819.295096796,"data":"   2      2.90       2.75  -0.15    4.13s\n"}
+,{"stream_name":"stdout","time":819.296175306,"data":"   3      6.40       6.98  +0.58    4.16s\n"}
+,{"stream_name":"stdout","time":819.297313665,"data":"   4     10.30      11.24  +0.94    2.67s\n"}
+,{"stream_name":"stdout","time":819.298292616,"data":"   5     13.70      14.01  +0.31    3.13s\n"}
+,{"stream_name":"stdout","time":819.299154811,"data":"wrote out/fb3fa838_ml.mp4\n"}
+,{"stream_name":"stdout","time":821.628569846,"data":"uniform tempo x1.18  |  voice ends at 18.58s  |  max late start +0.99s\n"}
+,{"stream_name":"stdout","time":821.629110089,"data":"line  orig_cue  new_start  shift   length\n"}
+,{"stream_name":"stdout","time":821.629996329,"data":"   1      0.20       0.20  +0.00    1.90s\n"}
+,{"stream_name":"stdout","time":821.631006168,"data":"   2      2.90       2.75  -0.15    3.93s\n"}
+,{"stream_name":"stdout","time":821.632111864,"data":"   3      6.40       6.78  +0.38    4.41s\n"}
+,{"stream_name":"stdout","time":821.633044015,"data":"   4     10.30      11.29  +0.99    2.83s\n"}
+,{"stream_name":"stdout","time":821.63391305,"data":"   5     13.70      14.22  +0.52    4.36s\n"}
+,{"stream_name":"stdout","time":821.634888824,"data":"wrote out/fb3fa838_or.mp4\n"}
+,{"stream_name":"stdout","time":821.635837671,"data":"[fb3fa838] 5 langs in 62s | worst line CER 0.64 | retried 0\n"}
+,{"stream_name":"stdout","time":826.552846075,"data":"[transformers] Both `max_new_tokens` (=384) and `max_length`(=32768) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)\n"}
+,{"stream_name":"stdout","time":861.436811169,"data":"[transformers] Both `max_new_tokens` (=384) and `max_length`(=32768) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)\n"}
+,{"stream_name":"stdout","time":867.266718188,"data":"[group fe7174d4] 25 lines voiced in 58s, retried 1\n"}
+,{"stream_name":"stdout","time":871.109564005,"data":"uniform tempo x1.12  |  voice ends at 16.58s  |  max late start +0.94s\n"}
+,{"stream_name":"stdout","time":871.111962865,"data":"line  orig_cue  new_start  shift   length\n"}
+,{"stream_name":"stdout","time":871.113251378,"data":"   1      0.20       0.20  +0.00    1.78s\n"}
+,{"stream_name":"stdout","time":871.114525204,"data":"   2      2.70       2.55  -0.15    3.30s\n"}
+,{"stream_name":"stdout","time":871.115357673,"data":"   3      6.30       6.15  -0.15    4.07s\n"}
+,{"stream_name":"stdout","time":871.116561388,"data":"   4      9.50      10.32  +0.82    3.41s\n"}
+,{"stream_name":"stdout","time":871.11750056,"data":"   5     12.90      13.84  +0.94    2.74s\n"}
+,{"stream_name":"stdout","time":871.118542893,"data":"wrote out/fe7174d4_bn.mp4\n"}
+,{"stream_name":"stdout","time":873.667848575,"data":"uniform tempo x1.08  |  voice ends at 16.58s  |  max late start +0.93s\n"}
+,{"stream_name":"stdout","time":873.668779038,"data":"line  orig_cue  new_start  shift   length\n"}
+,{"stream_name":"stdout","time":873.669718043,"data":"   1      0.20       0.20  +0.00    2.00s\n"}
+,{"stream_name":"stdout","time":873.670538488,"data":"   2      2.70       2.55  -0.15    2.97s\n"}
+,{"stream_name":"stdout","time":873.67151813,"data":"   3      6.30       6.15  -0.15    4.09s\n"}
+,{"stream_name":"stdout","time":873.672519057,"data":"   4      9.50      10.34  +0.84    3.39s\n"}
+,{"stream_name":"stdout","time":873.673050272,"data":"   5     12.90      13.83  +0.93    2.74s\n"}
+,{"stream_name":"stdout","time":873.673711568,"data":"wrote out/fe7174d4_ta.mp4\n"}
+,{"stream_name":"stdout","time":875.943825032,"data":"uniform tempo x1.01  |  voice ends at 17.47s  |  max late start +0.98s\n"}
+,{"stream_name":"stdout","time":875.944770395,"data":"line  orig_cue  new_start  shift   length\n"}
+,{"stream_name":"stdout","time":875.94570368,"data":"   1      0.20       0.20  +0.00    2.24s\n"}
+,{"stream_name":"stdout","time":875.946539175,"data":"   2      2.70       2.55  -0.15    4.13s\n"}
+,{"stream_name":"stdout","time":875.947383411,"data":"   3      6.30       6.78  +0.48    3.47s\n"}
+,{"stream_name":"stdout","time":875.948079026,"data":"   4      9.50      10.35  +0.85    3.42s\n"}
+,{"stream_name":"stdout","time":875.948747784,"data":"   5     12.90      13.88  +0.98    3.59s\n"}
+,{"stream_name":"stdout","time":875.949482185,"data":"wrote out/fe7174d4_te.mp4\n"}
+,{"stream_name":"stdout","time":878.172699861,"data":"uniform tempo x1.03  |  voice ends at 17.27s  |  max late start +0.98s\n"}
+,{"stream_name":"stdout","time":878.173624213,"data":"line  orig_cue  new_start  shift   length\n"}
+,{"stream_name":"stdout","time":878.174635409,"data":"   1      0.20       0.20  +0.00    1.91s\n"}
+,{"stream_name":"stdout","time":878.175455799,"data":"   2      2.70       2.55  -0.15    3.58s\n"}
+,{"stream_name":"stdout","time":878.176316155,"data":"   3      6.30       6.23  -0.07    4.16s\n"}
+,{"stream_name":"stdout","time":878.177137328,"data":"   4      9.50      10.48  +0.98    3.27s\n"}
+,{"stream_name":"stdout","time":878.178482898,"data":"   5     12.90      13.85  +0.95    3.42s\n"}
+,{"stream_name":"stdout","time":878.17925179,"data":"wrote out/fe7174d4_ml.mp4\n"}
+,{"stream_name":"stdout","time":880.386122406,"data":"uniform tempo x1.14  |  voice ends at 17.06s  |  max late start +0.96s\n"}
+,{"stream_name":"stdout","time":880.386460069,"data":"line  orig_cue  new_start  shift   length\n"}
+,{"stream_name":"stdout","time":880.387454915,"data":"   1      0.20       0.20  +0.00    1.74s\n"}
+,{"stream_name":"stdout","time":880.388448829,"data":"   2      2.70       2.55  -0.15    3.54s\n"}
+,{"stream_name":"stdout","time":880.389407919,"data":"   3      6.30       6.19  -0.11    3.81s\n"}
+,{"stream_name":"stdout","time":880.390426646,"data":"   4      9.50      10.10  +0.60    3.66s\n"}
+,{"stream_name":"stdout","time":880.391388257,"data":"   5     12.90      13.86  +0.96    3.20s\n"}
+,{"stream_name":"stdout","time":880.392413042,"data":"wrote out/fe7174d4_or.mp4\n"}
+,{"stream_name":"stdout","time":880.393327073,"data":"[fe7174d4] 5 langs in 72s | worst line CER 0.65 | retried 1\n"}
+,{"stream_name":"stdout","time":880.764689128,"data":"DUB DONE: 10 videos\n"}
+,{"stream_name":"stdout","time":883.020421872,"data":"[exit 0 after 792s]\n"}
+,{"stream_name":"stdout","time":883.021214882,"data":"$ /usr/bin/python3 vm/repair_cuda.py work out 0.6 --backend transformers --only 4010f985,426b77bb,a9be56d9,b4c787e1,c01adcce,ce52c347,e9528636,eab38211,fb3fa838,fe7174d4\n"}
+,{"stream_name":"stdout","time":883.772963157,"data":"4 flagged lines in 4 videos\n"}
+,{"stream_name":"stdout","time":885.46416723,"data":"[2026-10-09 13:28:47,051] WARNING miocodec: FlashAttention is not installed. Falling back to PyTorch SDPA implementation. There is no warranty that the model will work correctly.\n"}
+,{"stream_name":"stdout","time":890.506803039,"data":"Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.\n"}
+,{"stream_name":"stdout","time":892.446902608,"data":"\n"}
+,{"stream_name":"stdout","time":892.742119393,"data":"Loading weights:   0%|          | 0/310 [00:00\u003c?, ?it/s]\n"}
+,{"stream_name":"stdout","time":892.849745395,"data":"Loading weights:   0%|          | 1/310 [00:00\u003c01:50,  2.80it/s]\n"}
+,{"stream_name":"stdout","time":892.928505338,"data":"Loading weights:  79%|███████▉  | 245/310 [00:00\u003c00:00, 689.89it/s]\n"}
+,{"stream_name":"stdout","time":892.930249783,"data":"Loading weights: 100%|██████████| 310/310 [00:00\u003c00:00, 569.54it/s]\n"}
+,{"stream_name":"stdout","time":893.808177856,"data":"[transformers] Both `max_new_tokens` (=48) and `max_length`(=32768) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)\n"}
+,{"stream_name":"stdout","time":899.267852726,"data":"[2026-10-09 13:29:00,855] INFO miocodec: Loaded weights from safetensors file: /root/.cache/huggingface/hub/models--Aratako--MioCodec-25Hz-24kHz/snapshots/3a737f0de2c6324cb2fe40c1fbd1056c7add423d/model.safetensors\n"}
+,{"stream_name":"stdout","time":904.411679226,"data":"models ready in 20.6s | GPU cc 7.5 | TTS transformers fp16 | codec fp32 | whisper float16\n"}
+,{"stream_name":"stdout","time":905.848152079,"data":"[transformers] Both `max_new_tokens` (=377) and `max_length`(=32768) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)\n"}
+,{"stream_name":"stdout","time":950.068367243,"data":"re-voiced 4 lines x 6 takes in 46s\n"}
+,{"stream_name":"stdout","time":953.637809985,"data":"uniform tempo x1.08  |  voice ends at 16.73s  |  max late start +0.97s\n"}
+,{"stream_name":"stdout","time":953.638968385,"data":"line  orig_cue  new_start  shift   length\n"}
+,{"stream_name":"stdout","time":953.640064997,"data":"   1      0.20       0.20  +0.00    1.74s\n"}
+,{"stream_name":"stdout","time":953.643106782,"data":"   2      2.60       2.45  -0.15    3.52s\n"}
+,{"stream_name":"stdout","time":953.644219562,"data":"   3      5.80       6.07  +0.27    4.32s\n"}
+,{"stream_name":"stdout","time":953.645423494,"data":"   4      9.80      10.49  +0.69    3.79s\n"}
+,{"stream_name":"stdout","time":953.646799689,"data":"   5     13.40      14.37  +0.97    2.36s\n"}
+,{"stream_name":"stdout","time":953.647871184,"data":"wrote out/4010f985_ml.mp4\n"}
+,{"stream_name":"stdout","time":953.649574845,"data":"[4010f985] repaired 1 flagged -\u003e improved in ['ml'] (49s)\n"}
+,{"stream_name":"stdout","time":953.88259507,"data":"uniform tempo x1.07  |  voice ends at 17.60s  |  max late start +1.00s\n"}
+,{"stream_name":"stdout","time":953.883437046,"data":"line  orig_cue  new_start  shift   length\n"}
+,{"stream_name":"stdout","time":953.8845428,"data":"   1      0.20       0.20  +0.00    1.73s\n"}
+,{"stream_name":"stdout","time":953.885602293,"data":"   2      2.60       2.45  -0.15    3.71s\n"}
+,{"stream_name":"stdout","time":953.886656111,"data":"   3      6.30       6.26  -0.04    3.53s\n"}
+,{"stream_name":"stdout","time":953.887567543,"data":"   4      9.70       9.89  +0.19    4.21s\n"}
+,{"stream_name":"stdout","time":953.888328766,"data":"   5     13.20      14.20  +1.00    3.41s\n"}
+,{"stream_name":"stdout","time":953.889200822,"data":"wrote out/ce52c347_ml.mp4\n"}
+,{"stream_name":"stdout","time":953.889929704,"data":"[ce52c347] repaired 1 flagged -\u003e improved in ['ml'] (49s)\n"}
+,{"stream_name":"stdout","time":954.192285055,"data":"uniform tempo x1.13  |  voice ends at 17.02s  |  max late start +0.94s\n"}
+,{"stream_name":"stdout","time":954.193196004,"data":"line  orig_cue  new_start  shift   length\n"}
+,{"stream_name":"stdout","time":954.1941948,"data":"   1      0.20       0.20  +0.00    2.42s\n"}
+,{"stream_name":"stdout","time":954.195175323,"data":"   2      2.90       2.75  -0.15    4.13s\n"}
+,{"stream_name":"stdout","time":954.196114105,"data":"   3      6.40       6.98  +0.58    4.16s\n"}
+,{"stream_name":"stdout","time":954.196794368,"data":"   4     10.30      11.24  +0.94    2.55s\n"}
+,{"stream_name":"stdout","time":954.197522484,"data":"   5     13.70      13.89  +0.19    3.13s\n"}
+,{"stream_name":"stdout","time":954.198281579,"data":"wrote out/fb3fa838_ml.mp4\n"}
+,{"stream_name":"stdout","time":954.198991607,"data":"[fb3fa838] repaired 1 flagged -\u003e improved in ['ml'] (50s)\n"}
+,{"stream_name":"stdout","time":954.226127089,"data":"uniform tempo x1.04  |  voice ends at 17.20s  |  max late start +0.98s\n"}
+,{"stream_name":"stdout","time":954.22711057,"data":"line  orig_cue  new_start  shift   length\n"}
+,{"stream_name":"stdout","time":954.228187762,"data":"   1      0.20       0.20  +0.00    2.32s\n"}
+,{"stream_name":"stdout","time":954.229174918,"data":"   2      2.70       2.62  -0.08    3.54s\n"}
+,{"stream_name":"stdout","time":954.230208631,"data":"   3      6.30       6.27  -0.03    4.12s\n"}
+,{"stream_name":"stdout","time":954.231261499,"data":"   4      9.50      10.48  +0.98    3.24s\n"}
+,{"stream_name":"stdout","time":954.23211315,"data":"   5     12.90      13.82  +0.92    3.38s\n"}
+,{"stream_name":"stdout","time":954.233046449,"data":"wrote out/fe7174d4_ml.mp4\n"}
+,{"stream_name":"stdout","time":954.233952431,"data":"[fe7174d4] repaired 1 flagged -\u003e improved in ['ml'] (50s)\n"}
+,{"stream_name":"stdout","time":954.478080746,"data":"REPAIR DONE: improved 4/4 lines\n"}
+,{"stream_name":"stdout","time":956.335818748,"data":"[exit 0 after 73s]\n"}
+,{"stream_name":"stdout","time":956.33766816,"data":"4010f985: 5/5 languages bn ta te ml or\n"}
+,{"stream_name":"stdout","time":956.337688302,"data":"426b77bb: 5/5 languages bn ta te ml or\n"}
+,{"stream_name":"stdout","time":956.337693197,"data":"a9be56d9: 5/5 languages bn ta te ml or\n"}
+,{"stream_name":"stdout","time":956.33769727,"data":"b4c787e1: 5/5 languages bn ta te ml or\n"}
+,{"stream_name":"stdout","time":956.337700478,"data":"c01adcce: 5/5 languages bn ta te ml or\n"}
+,{"stream_name":"stdout","time":956.337703766,"data":"ce52c347: 5/5 languages bn ta te ml or\n"}
+,{"stream_name":"stdout","time":956.33770776,"data":"e9528636: 5/5 languages bn ta te ml or\n"}
+,{"stream_name":"stdout","time":956.337711413,"data":"eab38211: 5/5 languages bn ta te ml or\n"}
+,{"stream_name":"stdout","time":956.337715128,"data":"fb3fa838: 5/5 languages bn ta te ml or\n"}
+,{"stream_name":"stdout","time":956.337718998,"data":"fe7174d4: 5/5 languages bn ta te ml or\n"}
+,{"stream_name":"stdout","time":956.337722487,"data":"dub + repair took 14.4 min; 50 mp4s\n"}
+,{"stream_name":"stdout","time":959.615773377,"data":"/kaggle/working/dub_out.zip: 50 videos, 481.8 MB\n"}
+,{"stream_name":"stdout","time":959.746419186,"data":"Drive copy skipped (set COPY_TO_DRIVE = True to enable)\n"}
+,{"stream_name":"stderr","time":962.893240323,"data":"/usr/local/lib/python3.13/dist-packages/mistune.py:435: SyntaxWarning: invalid escape sequence '\\|'\n"}
+,{"stream_name":"stderr","time":962.893266384,"data":"  cells[i][c] = re.sub('\\\\\\\\\\|', '|', cell)\n"}
+,{"stream_name":"stderr","time":963.062591469,"data":"/usr/local/lib/python3.13/dist-packages/nbconvert/filters/filter_links.py:36: SyntaxWarning: invalid escape sequence '\\_'\n"}
+,{"stream_name":"stderr","time":963.062623472,"data":"  text = re.sub(r'_', '\\_', text) # Escape underscores in display text\n"}
+,{"stream_name":"stderr","time":963.825116873,"data":"[NbConvertApp] Converting notebook __notebook__.ipynb to notebook\n"}
+,{"stream_name":"stderr","time":963.966257263,"data":"[NbConvertApp] Writing 174640 bytes to __notebook__.ipynb\n"}
+,{"stream_name":"stderr","time":966.458375846,"data":"[NbConvertApp] Converting notebook __notebook__.ipynb to html\n"}
+,{"stream_name":"stderr","time":967.008828608,"data":"[NbConvertApp] Writing 484902 bytes to __results__.html\n"}
+]

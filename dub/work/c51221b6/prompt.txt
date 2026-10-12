@@ -1,0 +1,62 @@
+Create a premium 20-second vertical 9:16 ingredient-personification advertisement for DERMDOC Ultra Violet Brightening Sunscreen.
+STYLE:
+Photorealistic skincare commercial combined with polished, expressive 3D animated characters. Use bright natural daylight, realistic Indian skin texture and smooth cinematic camera movement. Keep the same young Indian woman throughout the video.
+PRODUCT ACCURACY:
+Use the supplied DERMDOC sunscreen image as the mandatory product reference. Preserve the exact white tube, translucent lavender cap, tube proportions, label layout, colours and every word printed on the physical packaging. Do not redesign, shorten or replace the tube. The product may have subtle eyes, eyebrows, a mouth, tiny arms and legs, but these features must not cover the branding.
+STRICT TEXT RULE:
+Do not generate subtitles, captions, benefit claims, timestamps, labels, speech bubbles, floating words, logos or promotional text.
+The only added titles permitted are:
+“PURPLE TINT”
+“SPF 50 PA+++”
+“4% NIACINAMIDE”
+Show each permitted title only once, for approximately one second, when that character first appears. All other communication must happen through spoken dialogue and visuals. Text naturally printed on the physical tube is allowed and must remain accurate.
+CHARACTERS:
+Purple Tint: smooth lavender droplet character with expressive eyes and small arms and legs.
+SPF 50 PA+++ Shield: polished cobalt-blue shield character.
+4% Niacinamide: silver-lavender molecule character.
+White Cast villain: small, flat chalky-white powder character. It must look like a clean visual metaphor, not acne, disease, dirt or damaged skin.
+SHOT 1 — 0:00–0:03
+Begin with a close-up of a real young Indian woman looking into a mirror in bright natural daylight. Preserve realistic pores and her natural warm-brown complexion.
+The small White Cast villain paints a chalky grey-white streak across one cheek. The streak looks obviously ashy and unnatural.
+WHITE CAST, laughing:
+“Now everyone can see your sunscreen!”
+Do not show any added text.
+SHOT 2 — 0:03–0:06
+The exact DERMDOC sunscreen tube steps onto the vanity beside the mirror. It looks directly at White Cast with a confident expression.
+SUNSCREEN TUBE:
+“Wrong sunscreen, buddy.”
+The translucent lavender cap opens. Purple Tint visibly jumps out of the physical tube.
+Briefly show only the title:
+“PURPLE TINT”
+SHOT 3 — 0:06–0:10
+Purple Tint lands gently on the woman’s real cheek and confronts White Cast.
+PURPLE TINT:
+“I blend with her skin. You just make it ashy.”
+Purple Tint sweeps away the chalky residue. The woman’s natural complexion becomes visible again. Do not lighten or whiten her skin, and do not make it purple.
+White Cast retreats in surprise.
+SHOT 4 — 0:10–0:13
+Golden UVA and orange UVB ray villains rush toward the woman through the open window.
+The cobalt SPF shield jumps from the DERMDOC tube and creates a transparent protective barrier over the real cheek.
+Briefly show only the title:
+“SPF 50 PA+++”
+SPF SHIELD:
+“And I handle the sun.”
+The UV villains collide harmlessly with the shield and bounce away. Avoid explosions or violent fighting.
+SHOT 5 — 0:13–0:16
+A translucent grey Dullness villain floats over the cheek. The silver-lavender Niacinamide character emerges from the tube and clears the grey haze.
+Briefly show only the title:
+“4% NIACINAMIDE”
+NIACINAMIDE:
+“Dullness? Not on this team.”
+SHOT 6 — 0:16–0:18
+Show a controlled amount of pale-lavender sunscreen being dispensed from the exact tube onto the back of the woman’s hand.
+Show a realistic hand comparison. The sunscreen spreads smoothly and blends completely without leaving a chalky white cast. The treated hand must retain the same natural skin colour.
+SUNSCREEN TUBE:
+“See the glow—not the sunscreen.”
+SHOT 7 — 0:18–0:20
+Finish with the exact DERMDOC tube standing upright against a clean cobalt-and-lavender studio background. Purple Tint, SPF Shield and Niacinamide pose confidently beside it while White Cast runs away.
+Do not add an end-slate headline, CTA or benefit text. Allow only the real label printed on the tube to remain visible. Keep the official DERMDOC logo subtly present as a small brand watermark throughout only if supplied separately by the brand.
+AUDIO:
+Clean, playful character voices with accurate lip-sync. No narrator. Add a soft magical pop when ingredients emerge, a protective shimmer for the SPF shield and the DERMDOC three-note brand sting at the end.
+AVOID:
+Skin mountains, skin deserts, microscopic terrain, purple skin, artificial whitening, acne-like villains, wounds, raised pigmentation, watery sunscreen, excessive cream, incorrect packaging, additional products, subtitles, speech bubbles and random text.

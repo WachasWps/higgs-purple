@@ -1,0 +1,109 @@
+{
+ "video_id": "02bad3b3",
+ "product": "kojic_night_cream",
+ "caption_y": 0.9,
+ "caption_moves": [
+  {
+   "start": 15.7,
+   "end": 18.2,
+   "y": 0.58
+  }
+ ],
+ "elements": [
+  {
+   "type": "hook_mono",
+   "start": 0.15,
+   "end": 2.5,
+   "lines": [
+    "DARK SPOTS",
+    "MAKING SKIN UNEVEN?"
+   ],
+   "position": "lower",
+   "anim": "slide_up"
+  },
+  {
+   "type": "label",
+   "start": 6.05,
+   "end": 8.6,
+   "lines": [
+    "2% KOJIC ACID"
+   ],
+   "x": 0.5,
+   "y": 0.17,
+   "anim": "pop"
+  },
+  {
+   "type": "label",
+   "start": 6.9,
+   "end": 8.6,
+   "lines": [
+    "NIACINAMIDE"
+   ],
+   "x": 0.3,
+   "y": 0.27,
+   "anim": "pop"
+  },
+  {
+   "type": "label",
+   "start": 7.55,
+   "end": 8.6,
+   "lines": [
+    "ALPHA ARBUTIN"
+   ],
+   "x": 0.7,
+   "y": 0.27,
+   "anim": "pop"
+  },
+  {
+   "type": "hud",
+   "variant": "scan",
+   "start": 8.75,
+   "end": 9.95
+  },
+  {
+   "type": "claim_bold",
+   "start": 14.0,
+   "end": 15.5,
+   "lines": [
+    "GLOW FUSION FORMULA"
+   ],
+   "sub": "WORKS OVERNIGHT",
+   "position": "top",
+   "anim": "fade"
+  },
+  {
+   "type": "label",
+   "start": 15.7,
+   "end": 18.2,
+   "lines": [
+    "BEFORE"
+   ],
+   "x": 0.5,
+   "y": 0.455,
+   "anim": "pop"
+  },
+  {
+   "type": "label",
+   "start": 15.7,
+   "end": 18.2,
+   "lines": [
+    "AFTER 2 WEEKS"
+   ],
+   "x": 0.5,
+   "y": 0.955,
+   "anim": "pop"
+  },
+  {
+   "type": "claim_bold",
+   "start": 18.3,
+   "end": 20.0,
+   "lines": [
+    "BRIGHTER, CLEARER-LOOKING",
+    "SKIN BY MORNING"
+   ],
+   "position": "top",
+   "anim": "fade"
+  }
+ ],
+ "notes": "Hook low on the KN03 night-spots opener (face clear); three separate orb labels on KNA2 as each active is named; scan hud on the KN02 scoop; Glow Fusion over the dark wall of KN05 sleep; B/A split BEFORE / AFTER 2 WEEKS with captions lifted under the divider; morning-result text on KN06 (no '2 weeks' on a morning frame)."
+}

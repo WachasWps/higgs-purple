@@ -1,0 +1,94 @@
+{
+  "video_id": "7558fbf1",
+  "product": "knc",
+  "category": "product_avatar",
+  "shots": [
+    {
+      "n": 1, "start": 0.0, "end": 2.03,
+      "content": "Macro of a medium-fair woman's cheek with chicken-pox-like dots and tiny cartoon dark-spot squatters carrying suitcases; our hook 'DARK SPOTS MOVING IN?'.",
+      "issues": ["model_not_dusky", "unrealistic_dark_spots", "cartoon_spots_on_real_skin"],
+      "action": "replace", "replace_with": "KN03_before_night", "custom": null,
+      "note": "L1 villain 'We're moving in permanently.' plus the hook over ANANYA at the mirror at night with realistic soft brown spots (2.03 s). The woman is replaced, so S1, S7, S8 and S9 are all replaced."
+    },
+    {
+      "n": 2, "start": 2.03, "end": 4.27,
+      "content": "Tall, off-model jar mascot with a blurry, garbled label facing fuzzy dark-spot villains; the 'DARK-SPOT LEADER' tag sits under the jar.",
+      "issues": ["label_inexact", "product_called_dark_spot_leader"],
+      "action": "replace", "replace_with": "KNA1_avatar_talk", "custom": null,
+      "note": "Client at 2.33: 'product looks off and also are we calling the product only leader of dark spots?' L2 jar 'Your two-week notice starts tonight.' becomes the exact jar mascot talking (2.24 s), and the DARK-SPOT LEADER tag is removed."
+    },
+    {
+      "n": 3, "start": 4.27, "end": 6.37,
+      "content": "Open jar macro (lid hinged) under a baked golden '2% KOJIC ACID' ring.",
+      "issues": ["mixed_text_styles"],
+      "action": "replace", "replace_with": "KNA2_avatar_ingredients", "custom": null,
+      "note": "S3 and S4 become ONE 4.03 s KNA2 clip (4.27-8.3) carrying L3 'I'm powered by two percent kojic acid, with niacinamide and alpha arbutin.' Three pills in one style pop on each spoken name as the gold, icy and pink orbs rise."
+    },
+    {
+      "n": 4, "start": 6.37, "end": 8.3,
+      "content": "Jar mascot under floating rings: '2% KOJIC ACID' twice, 'NIACINAMIDE' and the misspelled 'ALPHA ARBUTM'.",
+      "issues": ["kojic_label_duplicated", "misspelled_arbutin", "label_inexact"],
+      "action": "replace", "replace_with": "KNA2_avatar_ingredients", "custom": null,
+      "note": "Client at 7.67: 'kojic acid has come twice and also arbutin spelling is wrong'. This is the continuation of the KNA2 clip from S3, with no baked text."
+    },
+    {
+      "n": 5, "start": 8.3, "end": 10.67,
+      "content": "Off-model jar mascot under a golden swirl with baked 'GLOW FUSION FORMULA' (more misspelled 'ARBUTM' rings nearby per the client frame).",
+      "issues": ["label_inexact", "misspelled_arbutin"],
+      "action": "replace", "replace_with": "KN01_hero_night", "custom": null,
+      "note": "Client at 8.67: 'arbutin spelling is wrong and product looks off'. L4 'Together, we're the Glow Fusion Formula.' plays over the exact open jar at the bedside at night (push-in, 2.37 s), with our GLOW FUSION FORMULA claim."
+    },
+    {
+      "n": 6, "start": 10.67, "end": 11.27,
+      "content": "Macro of the thick white cream in the exact jar (2% KOJIC ACID and NEW IMPROVED visible).",
+      "issues": [],
+      "action": "keep", "replace_with": null, "custom": null,
+      "note": "Label is correct and there is no skin. A short texture beat in the VO gap."
+    },
+    {
+      "n": 7, "start": 11.27, "end": 13.13,
+      "content": "Woman with spots dabbing a white cream blob under her eye at night; our 'OVERNIGHT BRIGHTENER' claim.",
+      "issues": ["model_not_dusky", "cream_not_blended", "unrealistic_dark_spots"],
+      "action": "replace", "replace_with": "KN04_apply_night", "custom": null,
+      "note": "L5 'Massage me in before you sleep.' plays over ANANYA massaging until fully absorbed at night (1.86 s)."
+    },
+    {
+      "n": 8, "start": 13.13, "end": 14.9,
+      "content": "Extreme macro of cheek skin (no face) with a big cartoon dark-spot villain packing a suitcase; our scan HUD.",
+      "issues": ["skin_macro_without_face", "unrealistic_dark_spots", "model_not_dusky"],
+      "action": "replace", "replace_with": "KN06_morning_wake", "custom": null,
+      "note": "L6 villain 'Eviction already?' plays as VO over ANANYA waking in bright morning daylight with spotless glowing skin (1.77 s), with the 'by morning' super. This answers the client's 'why is this still in night'."
+    },
+    {
+      "n": 9, "start": 14.9, "end": 16.93,
+      "content": "Woman at NIGHT with dark spots still visible, smiling under baked 'AFTER 2 WEEKS' with a moon-to-sun icon.",
+      "issues": ["dark_spots_in_after", "night_result", "model_not_dusky", "lip_sync_talking"],
+      "action": "replace", "replace_with": "GRAPHIC_BA_SPLIT", "custom": null,
+      "note": "Client at 15.67: 'why are dark spots visible and why is this still in night'. Use the daylight B/A split KN08_before_day | KN07_after_day with AFTER 2 WEEKS under the after half. L7 woman 'Looks like they finally moved out.' plays as VO."
+    },
+    {
+      "n": 10, "start": 16.93, "end": 20.04,
+      "content": "Packshot: exact open jar with its lid on a wooden dresser at night; faint baked '2% KOJIC ACID NIGHT CREAM' in the window behind.",
+      "issues": [],
+      "action": "keep", "replace_with": null, "custom": null,
+      "note": "Jar and label are correct. The VO now says the full product name here."
+    }
+  ],
+  "script_changes": [
+    {"line_id": 8, "old_en": "DERMDOC Night Cream, the overnight brightener.", "new_en": "DERMDOC 2% Kojic Acid Night Cream.", "reason": "Say the full product name. About the same syllable count; 'Overnight Brightener' is already on screen at 11.4."}
+  ],
+  "new_lines": [],
+  "supers": [
+    {"action": "remove", "match": "DARK-SPOT LEADER", "text": "", "start": 2.15, "end": 3.8, "why": "Client read it as calling the product the 'leader of dark spots'; the villains are not in KNA1."},
+    {"action": "add", "match": null, "text": "2% KOJIC ACID", "start": 4.4, "end": 5.9, "why": "Three ingredients labelled separately and consistently, timed to the spoken name (gold orb)."},
+    {"action": "add", "match": null, "text": "NIACINAMIDE", "start": 5.9, "end": 7.1, "why": "Separate, consistent label (icy orb), timed to the VO."},
+    {"action": "add", "match": null, "text": "ALPHA ARBUTIN", "start": 7.1, "end": 8.3, "why": "Correct spelling (the baked one said 'ARBUTM'), timed to the VO (pink orb)."},
+    {"action": "add", "match": null, "text": "GLOW FUSION FORMULA / WITH NIACINAMIDE & ALPHA ARBUTIN", "start": 8.45, "end": 10.5, "why": "Replaces the baked GLOW FUSION FORMULA text lost with the off-model jar; matches L4."},
+    {"action": "remove", "match": "[hud scan 13.25-14.65]", "text": "", "start": 13.25, "end": 14.65, "why": "The skin-macro scan is gone."},
+    {"action": "add", "match": null, "text": "BRIGHTER, CLEARER-LOOKING SKIN BY MORNING", "start": 13.2, "end": 14.85, "why": "Client: the morning wake-up text must be this style, not '2 weeks'."},
+    {"action": "add", "match": null, "text": "BEFORE", "start": 14.9, "end": 16.93, "why": "B/A split label under the left half."},
+    {"action": "add", "match": null, "text": "AFTER 2 WEEKS", "start": 14.9, "end": 16.93, "why": "Client: 'AFTER 2 WEEKS' under the after image."}
+  ],
+  "voice_changes": [],
+  "summary": "All flagged problems are fixed: the off-model jars become KNA1 and KN01, the duplicated-Kojic / 'ARBUTM' rings become a KNA2 orbs clip with three correct pills, the night 'after' with spots becomes a KN06 daylight wake plus a B/A split, and the woman is replaced throughout. The 'DARK-SPOT LEADER' tag is removed and the end line says the full product name."
+}

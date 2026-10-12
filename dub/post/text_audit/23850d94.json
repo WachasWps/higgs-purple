@@ -1,0 +1,710 @@
+[
+ {
+  "n": 2,
+  "text": "DERMDOC",
+  "variants": [
+   "DERMDOC"
+  ],
+  "start": 0.33,
+  "end": 2.0,
+  "box": [
+   0.5444,
+   0.6142,
+   0.7036,
+   0.6714
+  ],
+  "height": 0.0572,
+  "suspect_words": []
+ },
+ {
+  "n": 3,
+  "text": "2% KOJIC ACID",
+  "variants": [
+   "2% KOJIC ACD",
+   "2% KOJIC ACID",
+   "2% KOUIC AOD",
+   "2% ROAC ACD"
+  ],
+  "start": 0.33,
+  "end": 2.67,
+  "box": [
+   0.6787,
+   0.6173,
+   0.8672,
+   0.6584
+  ],
+  "height": 0.0411,
+  "suspect_words": [
+   "ACD",
+   "AOD",
+   "KOUIC",
+   "ROAC"
+  ],
+  "crop": "post/text_audit/23850d94_3.png"
+ },
+ {
+  "n": 4,
+  "text": "CLOM FUSON FORMILA",
+  "variants": [
+   "CAESA FEDUON FOURSTA",
+   "CLOM FUSON FORMILA",
+   "CLON FUSION FORMILA",
+   "CLON TITION FORALA",
+   "GLON FUZION FOEMAA",
+   "GLOW FUDION FORMULA"
+  ],
+  "start": 0.33,
+  "end": 3.33,
+  "box": [
+   0.6694,
+   0.6495,
+   0.8699,
+   0.6921
+  ],
+  "height": 0.0426,
+  "suspect_words": [
+   "CAESA",
+   "CLOM",
+   "CLON",
+   "FEDUON",
+   "FOEMAA",
+   "FORALA",
+   "FORMILA",
+   "FORMLA",
+   "FOURSTA",
+   "FUDION",
+   "FUMON",
+   "FUSON",
+   "FUZION",
+   "GLON",
+   "QLOW",
+   "TITION"
+  ],
+  "crop": "post/text_audit/23850d94_4.png"
+ },
+ {
+  "n": 5,
+  "text": "NIGHT CREAM",
+  "variants": [
+   "HORT CREAM",
+   "NIGHT CREAM",
+   "POGHT CREAM"
+  ],
+  "start": 0.33,
+  "end": 2.0,
+  "box": [
+   0.6609,
+   0.6704,
+   0.804,
+   0.7048
+  ],
+  "height": 0.0344,
+  "suspect_words": [
+   "HORT",
+   "POGHT"
+  ],
+  "crop": "post/text_audit/23850d94_5.png"
+ },
+ {
+  "n": 8,
+  "text": "ALL DESE TINES",
+  "variants": [
+   "ALL DESE TINES",
+   "ALL SAN THEE"
+  ],
+  "start": 1.0,
+  "end": 2.0,
+  "box": [
+   0.6792,
+   0.6822,
+   0.7835,
+   0.7096
+  ],
+  "height": 0.0274,
+  "suspect_words": [
+   "DESE"
+  ],
+  "crop": "post/text_audit/23850d94_8.png"
+ },
+ {
+  "n": 10,
+  "text": "DERMDOC",
+  "variants": [
+   "DERMDOC"
+  ],
+  "start": 2.0,
+  "end": 3.33,
+  "box": [
+   0.5456,
+   0.6266,
+   0.7067,
+   0.6745
+  ],
+  "height": 0.0479,
+  "suspect_words": []
+ },
+ {
+  "n": 15,
+  "text": "2% KOJIC ACID",
+  "variants": [
+   "2% KOJIC ACID"
+  ],
+  "start": 2.67,
+  "end": 3.33,
+  "box": [
+   0.7159,
+   0.6224,
+   0.8798,
+   0.6614
+  ],
+  "height": 0.039,
+  "suspect_words": []
+ },
+ {
+  "n": 16,
+  "text": "NIGHT CREAM",
+  "variants": [
+   "NIGHT CRCAM",
+   "NIGHT CREAM"
+  ],
+  "start": 2.67,
+  "end": 3.33,
+  "box": [
+   0.6962,
+   0.6816,
+   0.8155,
+   0.7099
+  ],
+  "height": 0.0283,
+  "suspect_words": [
+   "CRCAM"
+  ],
+  "crop": "post/text_audit/23850d94_16.png"
+ },
+ {
+  "n": 19,
+  "text": "DERMDOC",
+  "variants": [
+   "DERMDOC"
+  ],
+  "start": 3.67,
+  "end": 5.67,
+  "box": [
+   0.2386,
+   0.6679,
+   0.4255,
+   0.7226
+  ],
+  "height": 0.0547,
+  "suspect_words": []
+ },
+ {
+  "n": 20,
+  "text": "enent Sciece",
+  "variants": [
+   "Morest Scence",
+   "Nonest Science",
+   "Venest Science",
+   "Veront Science",
+   "enent Sciece",
+   "terest Scence"
+  ],
+  "start": 3.67,
+  "end": 5.67,
+  "box": [
+   0.2529,
+   0.6936,
+   0.4082,
+   0.7414
+  ],
+  "height": 0.0478,
+  "suspect_words": [
+   "Morest",
+   "Nonest",
+   "Scence",
+   "Sciece",
+   "Venest",
+   "Veront",
+   "enent",
+   "terest"
+  ],
+  "crop": "post/text_audit/23850d94_20.png"
+ },
+ {
+  "n": 24,
+  "text": "2% KOJIC ACID",
+  "variants": [
+   "2% KOJIC ACID"
+  ],
+  "start": 4.0,
+  "end": 5.67,
+  "box": [
+   0.4382,
+   0.6528,
+   0.6501,
+   0.6889
+  ],
+  "height": 0.0362,
+  "suspect_words": []
+ },
+ {
+  "n": 25,
+  "text": "GLOW FUSION FORMULA",
+  "variants": [
+   "GLOW FUSION FORMULA",
+   "GLOW FUSION FORNULA"
+  ],
+  "start": 4.0,
+  "end": 5.67,
+  "box": [
+   0.4417,
+   0.7008,
+   0.6605,
+   0.7283
+  ],
+  "height": 0.0275,
+  "suspect_words": [
+   "FORNULA"
+  ],
+  "crop": "post/text_audit/23850d94_25.png"
+ },
+ {
+  "n": 26,
+  "text": "NIGHT CREAM",
+  "variants": [
+   "NIGHT CREAM"
+  ],
+  "start": 4.0,
+  "end": 5.67,
+  "box": [
+   0.4417,
+   0.7343,
+   0.6019,
+   0.7588
+  ],
+  "height": 0.0245,
+  "suspect_words": []
+ },
+ {
+  "n": 27,
+  "text": "ALL SAIN TYPES",
+  "variants": [
+   "ALL SAIN TYPES",
+   "ALL SION TYPES",
+   "ALL SKIN TYPES",
+   "ALL SON TYPES"
+  ],
+  "start": 4.0,
+  "end": 5.67,
+  "box": [
+   0.4417,
+   0.7518,
+   0.5792,
+   0.7705
+  ],
+  "height": 0.0187,
+  "suspect_words": []
+ },
+ {
+  "n": 31,
+  "text": "2% Kojic Acid",
+  "variants": [
+   "2% Kojic Acid"
+  ],
+  "start": 6.33,
+  "end": 8.33,
+  "box": [
+   0.0787,
+   0.1318,
+   0.6046,
+   0.1854
+  ],
+  "height": 0.0536,
+  "suspect_words": []
+ },
+ {
+  "n": 32,
+  "text": "Targets dark spots",
+  "variants": [
+   "Targets dark spots"
+  ],
+  "start": 6.33,
+  "end": 8.0,
+  "box": [
+   0.0792,
+   0.185,
+   0.5833,
+   0.2248
+  ],
+  "height": 0.0398,
+  "suspect_words": []
+ },
+ {
+  "n": 33,
+  "text": "Brightens dull-looking skin",
+  "variants": [
+   "Brightens dull-looking skin"
+  ],
+  "start": 8.0,
+  "end": 9.0,
+  "box": [
+   0.0833,
+   0.185,
+   0.8083,
+   0.2248
+  ],
+  "height": 0.0398,
+  "suspect_words": [
+   "dull-looking"
+  ],
+  "crop": "post/text_audit/23850d94_33.png"
+ },
+ {
+  "n": 34,
+  "text": "Niacinamide",
+  "variants": [
+   "Niacinamide"
+  ],
+  "start": 8.33,
+  "end": 9.0,
+  "box": [
+   0.0792,
+   0.1335,
+   0.5917,
+   0.178
+  ],
+  "height": 0.0445,
+  "suspect_words": []
+ },
+ {
+  "n": 35,
+  "text": "Alpha Arbutin",
+  "variants": [
+   "Alpha Arbutin"
+  ],
+  "start": 9.0,
+  "end": 10.67,
+  "box": [
+   0.0659,
+   0.1306,
+   0.6133,
+   0.1856
+  ],
+  "height": 0.055,
+  "suspect_words": []
+ },
+ {
+  "n": 36,
+  "text": "Heip:evoen's Hpoke skin tone",
+  "variants": [
+   "Heip:even\"s Hpoke skin tone",
+   "Heip:even's Hpoke skin tone",
+   "Heip:evoen's Hpoke skin tone",
+   "Heip:evoen'ts Hpoke skin tone",
+   "Heip:evoen*s Hpoke skin tone"
+  ],
+  "start": 9.0,
+  "end": 10.67,
+  "box": [
+   0.0667,
+   0.185,
+   0.8458,
+   0.2225
+  ],
+  "height": 0.0375,
+  "suspect_words": [
+   "Heip",
+   "Hpoke",
+   "even's",
+   "evoen",
+   "evoen's",
+   "evoen'ts"
+  ],
+  "crop": "post/text_audit/23850d94_36.png"
+ },
+ {
+  "n": 37,
+  "text": "2% KOJIC ACID",
+  "variants": [
+   "2% KOJIC ACID"
+  ],
+  "start": 10.67,
+  "end": 11.33,
+  "box": [
+   0.6052,
+   0.781,
+   0.7944,
+   0.8248
+  ],
+  "height": 0.0439,
+  "suspect_words": []
+ },
+ {
+  "n": 38,
+  "text": "DERMDOC",
+  "variants": [
+   "DERMDOC"
+  ],
+  "start": 10.67,
+  "end": 11.33,
+  "box": [
+   0.4484,
+   0.8103,
+   0.6,
+   0.8586
+  ],
+  "height": 0.0483,
+  "suspect_words": []
+ },
+ {
+  "n": 41,
+  "text": "2% ec.",
+  "variants": [
+   "2%",
+   "2% ec.",
+   "2% x",
+   "2% ко."
+  ],
+  "start": 11.67,
+  "end": 13.0,
+  "box": [
+   0.8959,
+   0.7478,
+   1.0002,
+   0.7763
+  ],
+  "height": 0.0285,
+  "suspect_words": []
+ },
+ {
+  "n": 42,
+  "text": "DERMDOC",
+  "variants": [
+   "DERMDOC"
+  ],
+  "start": 11.67,
+  "end": 13.67,
+  "box": [
+   0.7217,
+   0.7444,
+   0.9727,
+   0.801
+  ],
+  "height": 0.0566,
+  "suspect_words": []
+ },
+ {
+  "n": 43,
+  "text": "After 2 Weeks",
+  "variants": [
+   "After 2 Weeks"
+  ],
+  "start": 13.67,
+  "end": 15.0,
+  "box": [
+   0.2667,
+   0.8525,
+   0.7292,
+   0.8876
+  ],
+  "height": 0.0351,
+  "suspect_words": []
+ },
+ {
+  "n": 45,
+  "text": "DERMDOC",
+  "variants": [
+   "DERMDOC",
+   "DERMDOC®"
+  ],
+  "start": 15.33,
+  "end": 17.0,
+  "box": [
+   0.1875,
+   0.1569,
+   0.8042,
+   0.2131
+  ],
+  "height": 0.0562,
+  "suspect_words": []
+ },
+ {
+  "n": 46,
+  "text": "- Honest Science",
+  "variants": [
+   "- Honest Science"
+  ],
+  "start": 15.33,
+  "end": 17.0,
+  "box": [
+   0.2125,
+   0.2225,
+   0.7083,
+   0.2506
+  ],
+  "height": 0.0281,
+  "suspect_words": []
+ },
+ {
+  "n": 47,
+  "text": "•ERMDOC",
+  "variants": [
+   "ERMDOC",
+   "•ERMDOC"
+  ],
+  "start": 15.33,
+  "end": 17.0,
+  "box": [
+   0.2483,
+   0.5369,
+   0.4384,
+   0.5807
+  ],
+  "height": 0.0438,
+  "suspect_words": [
+   "ERMDOC"
+  ],
+  "crop": "post/text_audit/23850d94_47.png"
+ },
+ {
+  "n": 48,
+  "text": "Honest Science",
+  "variants": [
+   "Honest Science",
+   "Honest Solence",
+   "event Scotce"
+  ],
+  "start": 15.33,
+  "end": 17.0,
+  "box": [
+   0.2547,
+   0.5648,
+   0.4075,
+   0.599
+  ],
+  "height": 0.0343,
+  "suspect_words": [
+   "Scotce",
+   "Solence"
+  ],
+  "crop": "post/text_audit/23850d94_48.png"
+ },
+ {
+  "n": 49,
+  "text": "2% KOJIC ACID",
+  "variants": [
+   "2% KOJIC ACID"
+  ],
+  "start": 15.33,
+  "end": 17.0,
+  "box": [
+   0.4403,
+   0.517,
+   0.6625,
+   0.5457
+  ],
+  "height": 0.0286,
+  "suspect_words": []
+ },
+ {
+  "n": 50,
+  "text": "GLOW FUSION FORMULA",
+  "variants": [
+   "GLOW FUCION FORMILA",
+   "GLOW FUSION FORMOLA",
+   "GLOW FUSION FORMULA"
+  ],
+  "start": 15.33,
+  "end": 17.0,
+  "box": [
+   0.445,
+   0.5589,
+   0.6708,
+   0.5878
+  ],
+  "height": 0.0289,
+  "suspect_words": [
+   "FORMILA",
+   "FORMOLA",
+   "FUCION"
+  ],
+  "crop": "post/text_audit/23850d94_50.png"
+ },
+ {
+  "n": 51,
+  "text": "NIGHT CREAM",
+  "variants": [
+   "NIGHT CREAM"
+  ],
+  "start": 15.33,
+  "end": 17.0,
+  "box": [
+   0.4487,
+   0.5916,
+   0.6083,
+   0.6183
+  ],
+  "height": 0.0266,
+  "suspect_words": []
+ },
+ {
+  "n": 52,
+  "text": "ALL SKIN TYVES",
+  "variants": [
+   "ALL SEN TYPES",
+   "ALL SKIN TYPES",
+   "ALL SKIN TYTES",
+   "ALL SKIN TYVES",
+   "ALL SUN TIVES"
+  ],
+  "start": 15.33,
+  "end": 17.0,
+  "box": [
+   0.4451,
+   0.6056,
+   0.5833,
+   0.63
+  ],
+  "height": 0.0244,
+  "suspect_words": [
+   "TIVES",
+   "TYTES",
+   "TYVES"
+  ],
+  "crop": "post/text_audit/23850d94_52.png"
+ },
+ {
+  "n": 53,
+  "text": "3 Ingredients.",
+  "variants": [
+   "3 Ingredients."
+  ],
+  "start": 15.33,
+  "end": 17.0,
+  "box": [
+   0.2417,
+   0.7354,
+   0.7583,
+   0.7845
+  ],
+  "height": 0.0492,
+  "suspect_words": []
+ },
+ {
+  "n": 54,
+  "text": "1 Night Cream",
+  "variants": [
+   "1 Night Cream"
+  ],
+  "start": 15.33,
+  "end": 17.0,
+  "box": [
+   0.2249,
+   0.784,
+   0.7625,
+   0.8361
+  ],
+  "height": 0.052,
+  "suspect_words": []
+ }
+]

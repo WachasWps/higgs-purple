@@ -1,0 +1,244 @@
+{
+ "video": "3d01d9fc",
+ "style": "ugc",
+ "cast": [
+  {
+   "id": "creator",
+   "name": "Creator",
+   "description": "young Indian woman with short curly hair in a coral tank top, filming by a sunny window then at a cafe, warm confident conversational female voice"
+  }
+ ],
+ "lines": [
+  {
+   "id": 1,
+   "start": 0.0,
+   "end": 2.48,
+   "speaker": "creator",
+   "en": "My skin looked dull, and my sunscreen did nothing about it."
+  },
+  {
+   "id": 2,
+   "start": 2.72,
+   "end": 6.16,
+   "speaker": "creator",
+   "en": "Purple sits opposite yellow, so the tint helps balance yellow-looking dullness."
+  },
+  {
+   "id": 3,
+   "start": 6.22,
+   "end": 7.66,
+   "speaker": "creator",
+   "en": "But the real test is how it blends."
+  },
+  {
+   "id": 4,
+   "start": 7.82,
+   "end": 10.28,
+   "speaker": "creator",
+   "en": "No chalkiness, no purple residue, and no white cast."
+  },
+  {
+   "id": 5,
+   "start": 10.44,
+   "end": 13.12,
+   "speaker": "creator",
+   "en": "It's made for Indian skin and feels lightweight once absorbed."
+  },
+  {
+   "id": 6,
+   "start": 13.36,
+   "end": 16.66,
+   "speaker": "creator",
+   "en": "Plus, 4% niacinamide gives me an even-looking, Instant Glow finish."
+  },
+  {
+   "id": 7,
+   "start": 16.94,
+   "end": 19.94,
+   "speaker": "creator",
+   "en": "And SPF 50 PA+++ handles the protection. That's my Instant Glow."
+  }
+ ],
+ "shots": [
+  {
+   "n": 1,
+   "start": 0,
+   "end": 2.7,
+   "what": "original footage",
+   "frames": [
+    "s01_0.jpg",
+    "s01_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 1,
+     "start": 0.0,
+     "end": 2.48,
+     "speaker": "creator",
+     "en": "My skin looked dull, and my sunscreen did nothing about it."
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "start": 2.7,
+   "end": 6.27,
+   "what": "GRAPHIC_COLOUR_WHEEL",
+   "frames": [
+    "s02_0.jpg",
+    "s02_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 2,
+     "start": 2.72,
+     "end": 6.16,
+     "speaker": "creator",
+     "en": "Purple sits opposite yellow, so the tint helps balance yellow-looking dullness."
+    },
+    {
+     "id": 3,
+     "start": 6.22,
+     "end": 7.66,
+     "speaker": "creator",
+     "en": "But the real test is how it blends."
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "start": 6.27,
+   "end": 7.6,
+   "what": "PS10_texture_macro",
+   "frames": [
+    "s03_0.jpg",
+    "s03_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 3,
+     "start": 6.22,
+     "end": 7.66,
+     "speaker": "creator",
+     "en": "But the real test is how it blends."
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "start": 7.6,
+   "end": 10.27,
+   "what": "PS08_hand_swatch",
+   "frames": [
+    "s04_0.jpg",
+    "s04_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 3,
+     "start": 6.22,
+     "end": 7.66,
+     "speaker": "creator",
+     "en": "But the real test is how it blends."
+    },
+    {
+     "id": 4,
+     "start": 7.82,
+     "end": 10.28,
+     "speaker": "creator",
+     "en": "No chalkiness, no purple residue, and no white cast."
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "start": 10.27,
+   "end": 13.33,
+   "what": "original footage",
+   "frames": [
+    "s05_0.jpg",
+    "s05_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 4,
+     "start": 7.82,
+     "end": 10.28,
+     "speaker": "creator",
+     "en": "No chalkiness, no purple residue, and no white cast."
+    },
+    {
+     "id": 5,
+     "start": 10.44,
+     "end": 13.12,
+     "speaker": "creator",
+     "en": "It's made for Indian skin and feels lightweight once absorbed."
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "start": 13.33,
+   "end": 15.3,
+   "what": "original footage",
+   "frames": [
+    "s06_0.jpg",
+    "s06_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 6,
+     "start": 13.36,
+     "end": 16.66,
+     "speaker": "creator",
+     "en": "Plus, 4% niacinamide gives me an even-looking, Instant Glow finish."
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "start": 15.3,
+   "end": 17.3,
+   "what": "GRAPHIC_BA_SPLIT",
+   "frames": [
+    "s07_0.jpg",
+    "s07_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 6,
+     "start": 13.36,
+     "end": 16.66,
+     "speaker": "creator",
+     "en": "Plus, 4% niacinamide gives me an even-looking, Instant Glow finish."
+    },
+    {
+     "id": 7,
+     "start": 16.94,
+     "end": 19.94,
+     "speaker": "creator",
+     "en": "And SPF 50 PA+++ handles the protection. That's my Instant Glow."
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "start": 17.3,
+   "end": 20.04,
+   "what": "original footage",
+   "frames": [
+    "s08_0.jpg",
+    "s08_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 7,
+     "start": 16.94,
+     "end": 19.94,
+     "speaker": "creator",
+     "en": "And SPF 50 PA+++ handles the protection. That's my Instant Glow."
+    }
+   ]
+  }
+ ]
+}

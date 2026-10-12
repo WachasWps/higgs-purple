@@ -1,0 +1,42 @@
+[
+ {
+  "id": 1,
+  "speaker": "uv_villain",
+  "cer": 0.0,
+  "heard": "வெயில் அடிக்கிது. போய அவள புடிங்குடா.",
+  "redub": true
+ },
+ {
+  "id": 2,
+  "speaker": "sunscreen_tube",
+  "cer": 0.38,
+  "heard": "நா இருக்கும் போதா."
+ },
+ {
+  "id": 3,
+  "speaker": "spf_shield",
+  "cer": 0.79,
+  "heard": "יובியைபும் יובியப்பியும் பலக்து.",
+  "redub": true
+ },
+ {
+  "id": 4,
+  "speaker": "purple_tint",
+  "cer": 0.19,
+  "heard": "காலர் வீல் சொல்லது மஞ்சில்டன்னேஸ் நாக்கான்சில் பண்டிரேன்.",
+  "redub": true
+ },
+ {
+  "id": 5,
+  "speaker": "niacinamide",
+  "cer": 0.15,
+  "heard": "INDIAN SKINNIK AGGAWÄ, HALLO, INSTANT GLOW",
+  "redub": true
+ },
+ {
+  "id": 6,
+  "speaker": "sunscreen_tube",
+  "cer": 0.11,
+  "heard": "வா வேல நாங்கரடி."
+ }
+]

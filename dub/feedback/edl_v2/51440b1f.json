@@ -1,0 +1,80 @@
+{
+ "video_id": "51440b1f",
+ "product": "ps",
+ "category": "ugc",
+ "approach": "v2_original_creator",
+ "shots": [
+  {
+   "n": 1,
+   "start": 0.0,
+   "end": 2.17,
+   "action": "keep",
+   "note": "original creator hook"
+  },
+  {
+   "n": 2,
+   "start": 2.17,
+   "end": 5.6,
+   "action": "replace",
+   "replace_with": "GRAPHIC_COLOUR_WHEEL",
+   "client": "5.3 color wheel is off, yellow is opposite purple not blue"
+  },
+  {
+   "n": 3,
+   "start": 5.6,
+   "end": 6.93,
+   "action": "replace",
+   "replace_with": "PS10_texture_macro",
+   "client": "nozzle - fix in all videos (tube squeezed from a spout)",
+   "note": "product-only (exact capped tube + texture); PS03 shows another woman's face"
+  },
+  {
+   "n": 4,
+   "start": 6.93,
+   "end": 8.8,
+   "action": "replace",
+   "replace_with": "PS08_hand_swatch",
+   "client": "8.3 the product is not blended. there has to be difference shown after mixing"
+  },
+  {
+   "n": 5,
+   "start": 8.8,
+   "end": 10.6,
+   "action": "replace",
+   "replace_with": "PS08_hand_swatch",
+   "note": "PS08 end: stripe fully vanishes, no cast, no residue",
+   "clip_offset": 3.2
+  },
+  {
+   "n": 6,
+   "start": 10.6,
+   "end": 12.87,
+   "action": "keep",
+   "note": "creator dots + blends (original)"
+  },
+  {
+   "n": 7,
+   "start": 12.87,
+   "end": 14.3,
+   "action": "replace",
+   "note": "creator's own split-face before/after; after half graded smoother/dewy, same skin tone; labels BEFORE / INSTANT GLOW",
+   "replace_with": "GRAPHIC_BA_SPLIT",
+   "ba_pair": [
+    "BA2_51440b1f_BEFORE",
+    "BA2_51440b1f_AFTER"
+   ],
+   "ba_face_y": 0.08
+  },
+  {
+   "n": 8,
+   "start": 14.3,
+   "end": 20.04,
+   "action": "keep",
+   "src": [
+    14.3,
+    19.07
+   ],
+   "client": "19.3 remove this (packshot) -> creator shot held over it (1.2x slower)"
+  }
+ ]
+}

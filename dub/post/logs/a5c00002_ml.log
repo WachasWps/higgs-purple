@@ -1,0 +1,10 @@
+CMD: nice -n 10 /opt/homebrew/opt/ffmpeg-full/bin/ffmpeg -hide_banner -nostdin -y -loglevel warning -stats_period 5 -threads 3 -i /Users/wachas/Documents/higgs-purple/dub/out/a5c00002_ml.mp4 -threads 3 -i /Users/wachas/Documents/higgs-purple/dub/post/assets/outro_kojic_night_cream.mp4 -filter_complex_threads 3 -filter_complex [0:v]setpts=PTS-STARTPTS,scale=1080:1920:force_original_aspect_ratio=increase:flags=lanczos,crop=1080:1920,setsar=1,fps=30,trim=duration=22.9333,unsharp=5:5:0.35:5:5:0,ass=filename='/Users/wachas/Documents/higgs-purple/dub/post/cache/a5c00002_ml.ass':fontsdir='/Users/wachas/Documents/higgs-purple/dub/post/fonts':shaping=complex[l0];[l0]format=yuv420p[mv];[1:v]setpts=PTS-STARTPTS,scale=1080:1920:force_original_aspect_ratio=increase:flags=lanczos,crop=1080:1920,setsar=1,fps=30,trim=duration=5.0,format=yuv420p[ov];[0:a]asetpts=PTS-STARTPTS,aresample=48000,aformat=sample_fmts=fltp:channel_layouts=stereo,apad,atrim=duration=22.9333,afade=t=out:st=22.6833:d=0.25[ma];[mv]null[v];[ma]anull[a] -map [v] -map [a] -c:v h264_videotoolbox -b:v 10M -maxrate 14M -bufsize 20M -profile:v high -pix_fmt yuv420p -g 60 -allow_sw 1 -color_primaries bt709 -color_trc bt709 -colorspace bt709 -color_range tv -c:a aac -b:a 192k -ar 48000 -ac 2 -threads 3 -movflags +faststart -f mp4 /Users/wachas/Documents/higgs-purple/dub/deliver/Malayalam/40_dermdoc_ugc_ugc_a5c00002.part
+RC: 234
+
+STDERR:
+[fc#0 @ 0xb75045400] Filter 'format:default' has output 0 (ov) unconnected
+Error binding filtergraph inputs/outputs: Invalid argument
+
+
+STDOUT:
+

@@ -1,0 +1,68 @@
+Create a premium 20-second vertical 9:16 ingredient-personification advertisement titled “Skin Protection Department” for DERMDOC Ultra Violet Brightening Sunscreen.
+STYLE:
+Photorealistic morning skincare commercial with small polished 3D animated characters. The setting is a bright modern Indian bedroom and vanity area. Keep the humour quick, intelligent and visually clear.
+PRODUCT ACCURACY:
+Use the supplied DERMDOC sunscreen image as the exact product reference. Preserve the original white tube, translucent lavender cap, proportions, branding, colours and every piece of printed packaging copy. Do not generate a different sunscreen tube.
+STRICT TEXT RULE:
+Do not show subtitles, captions, office signs, character names, benefit cards, timestamps, speech bubbles, CTA text or promotional end-slate copy.
+Only these three added titles are allowed:
+“SPF 50 PA+++”
+“PURPLE TINT”
+“4% NIACINAMIDE”
+Show each title only once, for approximately one second, when its character first appears. The writing physically printed on the product packaging must remain visible and unchanged.
+CHARACTERS:
+Exact DERMDOC tube: confident team manager with subtle eyes, mouth, tiny arms and legs.
+SPF Shield: cobalt-blue bodyguard character.
+Purple Tint: lavender droplet character.
+Niacinamide: silver-lavender molecule character.
+UV Rays: angry golden and orange sun-ray villains.
+White Cast: chalky-white powder villain carrying a tiny chalk bucket.
+Greasiness: glossy golden oil-droplet villain carrying a tiny oil can.
+Dullness: translucent grey-cloud villain.
+SHOT 1 — 0:00–0:03
+Start with a real young Indian woman preparing for work at her vanity in natural morning light.
+The exact DERMDOC tube stands beside the mirror like a confident manager.
+SUNSCREEN TUBE:
+“Team, we’ve got a full day ahead.”
+Do not add text.
+SHOT 2 — 0:03–0:06
+Outside the nearby window, the villains prepare to enter.
+UV Rays strike toward the glass. White Cast carries a tiny chalk bucket, Greasiness holds a small oil can and Dullness carries a grey cloud.
+UV VILLAIN:
+“Let’s ruin her workday!”
+Keep the characters playful, clean and non-threatening.
+SHOT 3 — 0:06–0:09
+The exact tube flips open its translucent lavender cap. SPF Shield, Purple Tint and Niacinamide jump directly out of the product and land together in a hero formation.
+Show each title briefly as its character lands:
+“SPF 50 PA+++”
+“PURPLE TINT”
+“4% NIACINAMIDE”
+Do not show all three titles simultaneously. Do not add any other words.
+SUNSCREEN TUBE:
+“Everyone knows their assignment.”
+SHOT 4 — 0:09–0:12
+SPF Shield jumps in front of the real cheek and blocks UVA and UVB rays using a transparent protective barrier.
+SPF SHIELD:
+“I’ve got the UV rays.”
+The sun-ray villains bounce away harmlessly.
+SHOT 5 — 0:12–0:15
+Show a small amount of creamy pale-lavender sunscreen spreading across the woman’s cheek.
+White Cast throws chalk toward the skin, but Purple Tint intercepts it. The sunscreen blends into her natural complexion without making her pale or purple.
+PURPLE TINT:
+“I’ve got the ashy cast.”
+Greasiness attempts to pour oil onto the cheek, but the fully absorbed finish makes it slip safely out of the frame.
+SHOT 6 — 0:15–0:17.5
+Dullness releases grey haze. Niacinamide clears it, revealing naturally fresh and brighter-looking skin.
+NIACINAMIDE:
+“And I’ve got the dullness.”
+SUNSCREEN TUBE:
+“Team protection complete.”
+SHOT 7 — 0:17.5–0:20
+The woman leaves home confidently in daylight. Finish with the exact DERMDOC tube standing upright in the foreground. The three ingredient heroes pose beside it while the villains clock out and walk away in defeat.
+SUNSCREEN TUBE:
+“Ready for the day.”
+Do not add a headline, CTA, benefit list or end-slate text. The physical product packaging and optional supplied DERMDOC watermark are the only branding visible.
+AUDIO:
+No narrator. Characters speak with accurate lip-sync. Add a subtle office clock-in sound, soft magical ingredient effects, protective shield shimmer and the DERMDOC three-note sting.
+AVOID:
+Office text or signage, subtitles, speech bubbles, random lettering, skin terrain, skin mountains, purple skin, fairer-looking skin, watery product texture, generic sunscreen packaging, extra products, violent action and frightening villains.

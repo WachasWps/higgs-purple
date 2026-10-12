@@ -1,0 +1,58 @@
+[
+ {
+  "id": 1,
+  "speaker": "creator",
+  "cer": 0.2,
+  "heard": "কালরাতে ঘমতে জাচ্ছিলাম হটাত মনি পরলো।",
+  "redub": true
+ },
+ {
+  "id": 2,
+  "speaker": "creator",
+  "cer": 0.17,
+  "heard": "ইশ সকিন কেআরে করিনে ?",
+  "redub": true
+ },
+ {
+  "id": 3,
+  "speaker": "creator",
+  "cer": 0.19,
+  "heard": "আরে টামি কখন সকিপ করিনা।",
+  "redub": true
+ },
+ {
+  "id": 4,
+  "speaker": "creator",
+  "cer": 0.2,
+  "heard": "গালে বেশ ডেডি দাগ ছিলো।",
+  "redub": true
+ },
+ {
+  "id": 5,
+  "speaker": "creator",
+  "cer": 0.14,
+  "heard": "আরেখন অল্পওল্পু ফেড্হচ্য়ে মনে হচ্ছে।",
+  "redub": true
+ },
+ {
+  "id": 6,
+  "speaker": "creator",
+  "cer": 0.15,
+  "heard": "Dhamdog 2 % Kojic Acid Night Cream",
+  "redub": true
+ },
+ {
+  "id": 7,
+  "speaker": "creator",
+  "cer": 0.15,
+  "heard": "লাগাও লাইটাফ ঘুমিয় পরো।",
+  "redub": true
+ },
+ {
+  "id": 8,
+  "speaker": "creator",
+  "cer": 0.0,
+  "heard": "সকিন কে নিজের কাজ করতে দাও।",
+  "redub": true
+ }
+]

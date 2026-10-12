@@ -1,0 +1,79 @@
+{
+ "video_id": "784c77c5",
+ "product": "kojic_night_cream",
+ "caption_y": 0.9,
+ "caption_moves": [
+  {
+   "start": 16.3,
+   "end": 20.04,
+   "y": 0.497,
+   "ext": 1
+  }
+ ],
+ "elements": [
+  {
+   "type": "hook_mono",
+   "start": 0.15,
+   "end": 2.5,
+   "lines": [
+    "SPOTS MAKING",
+    "SKIN UNEVEN?"
+   ],
+   "position": "lower",
+   "anim": "slide_up"
+  },
+  {
+   "type": "hud",
+   "variant": "corners",
+   "start": 4.85,
+   "end": 6.6
+  },
+  {
+   "type": "label",
+   "start": 11.6,
+   "end": 15.0,
+   "lines": [
+    "2% KOJIC ACID",
+    "NIACINAMIDE",
+    "ALPHA ARBUTIN"
+   ],
+   "x": 0.5,
+   "y": 0.82,
+   "anim": "pop"
+  },
+  {
+   "type": "claim_bold",
+   "start": 15.25,
+   "end": 16.75,
+   "lines": [
+    "GLOW FUSION FORMULA"
+   ],
+   "sub": "OVERNIGHT BRIGHTENING",
+   "position": "top",
+   "anim": "fade"
+  },
+  {
+   "type": "label",
+   "start": 16.95,
+   "end": 19.99,
+   "lines": [
+    "BEFORE"
+   ],
+   "x": 0.5,
+   "y": 0.455,
+   "anim": "pop"
+  },
+  {
+   "type": "label",
+   "start": 16.95,
+   "end": 19.99,
+   "lines": [
+    "AFTER 2 WEEKS"
+   ],
+   "x": 0.5,
+   "y": 0.955,
+   "anim": "pop"
+  }
+ ],
+ "notes": "Hook low on the KN03 opener; corners on the KN01 jar push-in; three separate orb labels on KNA2 timed to the VO naming each active; Glow Fusion over the dark wall of KN05 sleep; B/A split BEFORE / AFTER 2 WEEKS with captions under the divider."
+}

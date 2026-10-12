@@ -1,0 +1,115 @@
+{
+ "video_id": "906fbf3c",
+ "product": "kojic_night_cream",
+ "caption_y": 0.9,
+ "caption_moves": [
+  {
+   "start": 16.6,
+   "end": 20.0,
+   "y": 0.93
+  },
+  {
+   "start": 14.3,
+   "end": 16.6,
+   "y": 0.497,
+   "ext": 1
+  }
+ ],
+ "elements": [
+  {
+   "type": "label",
+   "start": 0.3,
+   "end": 1.75,
+   "lines": [
+    "DARK SPOTS"
+   ],
+   "x": 0.84,
+   "y": 0.62,
+   "anim": "pop"
+  },
+  {
+   "type": "pill",
+   "start": 5.6,
+   "end": 6.6,
+   "lines": [
+    "2% KOJIC ACID"
+   ],
+   "x": 0.5,
+   "y": 0.17,
+   "anim": "pop"
+  },
+  {
+   "type": "pill",
+   "start": 6.6,
+   "end": 7.6,
+   "lines": [
+    "NIACINAMIDE"
+   ],
+   "x": 0.3,
+   "y": 0.27,
+   "anim": "pop"
+  },
+  {
+   "type": "pill",
+   "start": 7.6,
+   "end": 8.6,
+   "lines": [
+    "ALPHA ARBUTIN"
+   ],
+   "x": 0.7,
+   "y": 0.27,
+   "anim": "pop"
+  },
+  {
+   "type": "claim_bold",
+   "start": 9.6,
+   "end": 10.85,
+   "lines": [
+    "RICH & CREAMY"
+   ],
+   "sub": "OVERNIGHT BRIGHTENER",
+   "position": "top",
+   "anim": "fade"
+  },
+  {
+   "type": "hud",
+   "variant": "corners",
+   "start": 11.32,
+   "end": 12.9
+  },
+  {
+   "type": "claim_bold",
+   "start": 13.3,
+   "end": 14.9,
+   "lines": [
+    "BRIGHTER, CLEARER-LOOKING",
+    "SKIN BY MORNING"
+   ],
+   "position": "top",
+   "anim": "fade"
+  },
+  {
+   "type": "label",
+   "start": 14.95,
+   "end": 16.55,
+   "lines": [
+    "BEFORE"
+   ],
+   "x": 0.5,
+   "y": 0.455,
+   "anim": "pop"
+  },
+  {
+   "type": "label",
+   "start": 14.95,
+   "end": 16.55,
+   "lines": [
+    "AFTER 2 WEEKS"
+   ],
+   "x": 0.5,
+   "y": 0.955,
+   "anim": "pop"
+  }
+ ],
+ "notes": "Text pass (client EDL): DARK SPOTS tag beside her cheek on KN03; the NIACINAMIDE cover over the faint icy hex stays (EDL asks for it as a glowing icy-blue hex badge in the white bold sans of the baked hexes; the renderer has no hex-badge element yet, so it is still a pill); the duplicate KOJIC ACID / FOR DARK SPOTS pill is removed (the baked gold hex already names 2% KOJIC ACID); 'by morning' claim on the KN06 wake; B/A split labels with captions at 0.58; the end claim names all three actives as '2% KOJIC ACID with Niacinamide & Alpha Arbutin'."
+}

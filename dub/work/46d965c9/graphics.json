@@ -1,0 +1,90 @@
+{
+ "video_id": "46d965c9",
+ "product": "kojic_night_cream",
+ "caption_y": 0.9,
+ "caption_moves": [
+  {
+   "start": 17.13,
+   "end": 20.04,
+   "y": 0.497,
+   "ext": 1
+  }
+ ],
+ "elements": [
+  {
+   "type": "hook_mono",
+   "start": 0.15,
+   "end": 2.4,
+   "lines": [
+    "TIRED, UNEVEN SKIN",
+    "BY DAY'S END?"
+   ],
+   "position": "lower",
+   "anim": "slide_up"
+  },
+  {
+   "type": "hud",
+   "variant": "corners",
+   "start": 6.9,
+   "end": 8.8
+  },
+  {
+   "type": "claim_bold",
+   "start": 11.0,
+   "end": 12.5,
+   "lines": [
+    "GLOW FUSION FORMULA"
+   ],
+   "sub": "3 BRIGHTENING ACTIVES",
+   "position": "lower",
+   "anim": "fade"
+  },
+  {
+   "type": "label",
+   "start": 13.3,
+   "end": 15.75,
+   "lines": [
+    "2% KOJIC ACID",
+    "NIACINAMIDE",
+    "ALPHA ARBUTIN"
+   ],
+   "x": 0.5,
+   "y": 0.82,
+   "anim": "pop"
+  },
+  {
+   "type": "claim_bold",
+   "start": 15.9,
+   "end": 17.6,
+   "lines": [
+    "WORKS WHILE",
+    "YOU SLEEP"
+   ],
+   "position": "top",
+   "anim": "fade"
+  },
+  {
+   "type": "label",
+   "start": 17.78,
+   "end": 19.99,
+   "lines": [
+    "BEFORE"
+   ],
+   "x": 0.5,
+   "y": 0.455,
+   "anim": "pop"
+  },
+  {
+   "type": "label",
+   "start": 17.78,
+   "end": 19.99,
+   "lines": [
+    "AFTER 2 WEEKS"
+   ],
+   "x": 0.5,
+   "y": 0.955,
+   "anim": "pop"
+  }
+ ],
+ "notes": "Hook low on the KN03 opener; corners on the kept spatula macro; Glow Fusion on her pyjama during the KN04 massage; three separate orb labels on KNA2; morning-result text on KN06; B/A split BEFORE / AFTER 2 WEEKS with captions under the divider. The jar-hero '2% KOJIC ACID / FOR DARK SPOTS' pill was dropped to stay within the 8-text-element cap (the jar label itself reads 2% KOJIC ACID while the VO names it)."
+}

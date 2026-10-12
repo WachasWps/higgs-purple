@@ -1,0 +1,101 @@
+{
+ "video_id": "715b1b5c",
+ "product": "kojic_night_cream",
+ "caption_y": 0.9,
+ "caption_moves": [
+  {
+   "start": 14.37,
+   "end": 17.17,
+   "y": 0.497,
+   "ext": 1
+  }
+ ],
+ "elements": [
+  {
+   "type": "hook_mono",
+   "start": 0.15,
+   "end": 1.85,
+   "lines": [
+    "DARK SPOTS",
+    "TAKING OVER?"
+   ],
+   "position": "top",
+   "anim": "slide_up"
+  },
+  {
+   "type": "label",
+   "start": 2.6,
+   "end": 3.95,
+   "lines": [
+    "NIGHT PATROL CAPTAIN"
+   ],
+   "x": 0.5,
+   "y": 0.14,
+   "anim": "pop"
+  },
+  {
+   "type": "pill",
+   "start": 4.5,
+   "end": 6.27,
+   "lines": [
+    "2% KOJIC ACID"
+   ],
+   "x": 0.4835,
+   "y": 0.221,
+   "anim": "pop",
+   "mask": {
+    "x0": 0.3,
+    "y0": 0.175,
+    "x1": 0.667,
+    "y1": 0.267
+   }
+  },
+  {
+   "type": "label",
+   "start": 6.42,
+   "end": 11.0,
+   "lines": [
+    "2% KOJIC ACID",
+    "NIACINAMIDE",
+    "ALPHA ARBUTIN"
+   ],
+   "x": 0.5,
+   "y": 0.82,
+   "anim": "pop"
+  },
+  {
+   "type": "label",
+   "start": 15.02,
+   "end": 17.12,
+   "lines": [
+    "BEFORE"
+   ],
+   "x": 0.5,
+   "y": 0.455,
+   "anim": "pop"
+  },
+  {
+   "type": "label",
+   "start": 15.02,
+   "end": 17.12,
+   "lines": [
+    "AFTER 2 WEEKS"
+   ],
+   "x": 0.5,
+   "y": 0.955,
+   "anim": "pop"
+  },
+  {
+   "type": "claim_bold",
+   "start": 17.3,
+   "end": 18.95,
+   "lines": [
+    "THE OVERNIGHT",
+    "BRIGHTENER"
+   ],
+   "position": "top",
+   "anim": "fade"
+  }
+ ],
+ "notes": "Text pass (client EDL): hook and jar-captain tag kept; on the kept golden-ring shot a 2% KOJIC ACID cover pill hides the baked ring text (OCR box 0.29-0.68 x 0.15-0.29, padded) so Kojic appears once and in the same pill style as NIACINAMIDE (x.30) and ALPHA ARBUTIN (x.70), which land on L4/L5 over the KNA2 orbs. B/A split labels with captions at 0.58. THE OVERNIGHT BRIGHTENER on the packshot ends at 18.95, before the baked end title appears at 19.0 in the same top area. The 3 ACTIVES claim is dropped (it repeated L6 word for word, straddled the KN02/KN04 cut, and the validator allows at most 8 text elements). | baked AI text inside former blur boxes erased by inpainting (feedback/detext.py)"
+}

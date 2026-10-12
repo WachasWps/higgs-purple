@@ -1,0 +1,53 @@
+[2026-10-09 21:11:44,640] WARNING miocodec: FlashAttention is not installed. Falling back to PyTorch SDPA implementation. There is no warranty that the model will work correctly.
+Fetching 10 files:   0%|          | 0/10 [00:00<?, ?it/s]Fetching 10 files: 100%|██████████| 10/10 [00:00<00:00, 2699.73it/s]
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+[2026-10-09 21:11:50,093] INFO miocodec: Loaded weights from safetensors file: /Users/wachas/.cache/huggingface/hub/models--Aratako--MioCodec-25Hz-24kHz/snapshots/3a737f0de2c6324cb2fe40c1fbd1056c7add423d/model.safetensors
+Fetching 4 files:   0%|          | 0/4 [00:00<?, ?it/s]Fetching 4 files: 100%|██████████| 4/4 [00:00<00:00, 3053.73it/s]
+models ready in 5.6s
+uniform tempo x1.00  |  voice ends at 15.33s  |  max late start +0.44s
+line  orig_cue  new_start  shift   length
+   1      0.20       0.20  +0.00    1.66s
+   2      2.60       2.45  -0.15    3.17s
+   3      5.80       5.72  -0.08    4.42s
+   4      9.80      10.24  +0.44    3.42s
+   5     13.40      13.76  +0.36    1.57s
+wrote /Users/wachas/Documents/higgs-purple/dub/out/4010f985_en.mp4
+[4010f985] 1 langs in 11s | worst line CER 0.15 | retried 0
+  remuxed 4010f985_bn.mp4
+  remuxed 4010f985_en.mp4
+  remuxed 4010f985_ml.mp4
+  remuxed 4010f985_or.mp4
+  remuxed 4010f985_ta.mp4
+  remuxed 4010f985_te.mp4
+[
+ {
+  "id": 1,
+  "speaker": "narrator",
+  "cer": 0.15,
+  "heard": "Dull, yellow-looking skin."
+ },
+ {
+  "id": 2,
+  "speaker": "narrator",
+  "cer": 0.15,
+  "heard": "Purple sits opposite yellow, so it helps cancel it out."
+ },
+ {
+  "id": 3,
+  "speaker": "narrator",
+  "cer": 0.15,
+  "heard": "Derm Dock Ultraviolet with 4% Niacinamide and SPF 5D."
+ },
+ {
+  "id": 4,
+  "speaker": "narrator",
+  "cer": 0.15,
+  "heard": "It blends in fully, no white cast, just instant glow."
+ },
+ {
+  "id": 5,
+  "speaker": "narrator",
+  "cer": 0.15,
+  "heard": "Made for Indian skin tones."
+ }
+]

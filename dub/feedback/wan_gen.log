@@ -1,0 +1,18 @@
+18:44:09 PS02_hold_balcony: OK (86s)
+18:44:19 PS03_fingertips: OK (96s)
+18:44:21 PS04_dot_face: OK (97s)
+18:44:21 PS05_blend_glow: exists
+18:44:21 PS08_hand_swatch: OK (96s)
+18:45:41 PS09_outdoor_glow: OK (92s)
+18:45:54 PS10_texture_macro: OK (95s)
+18:45:54 PSA1_avatar_talk: OK (93s)
+18:45:54 PSA2_avatar_point: OK (93s)
+18:47:25 PSA3_avatar_model: OK (103s)
+18:47:28 KN02_scoop: OK (95s)
+18:47:34 KN03_before_night: OK (100s)
+18:47:34 KN04_apply_night: OK (92s)
+18:49:52 KN05_sleep: OK (147s)
+18:49:53 KN06_morning_wake: OK (147s)
+18:49:53 KNA1_avatar_talk: OK (95s)
+18:49:53 KNA2_avatar_ingredients: OK (94s)
+WAN DONE

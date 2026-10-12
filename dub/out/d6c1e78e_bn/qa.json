@@ -1,0 +1,63 @@
+[
+ {
+  "id": 1,
+  "speaker": "creator",
+  "cer": 0.15,
+  "heard": "আজকির মনিং রুটিনে পারপল শানশ্করিন।"
+ },
+ {
+  "id": 2,
+  "speaker": "creator",
+  "cer": 0.15,
+  "heard": "Niacinamide purple tint glow."
+ },
+ {
+  "id": 3,
+  "speaker": "creator",
+  "cer": 0.08,
+  "heard": "কালার হিলে পারপল হলুদের উল্টা তাই ডালনে কাটে।"
+ },
+ {
+  "id": 4,
+  "speaker": "creator",
+  "cer": 0.12,
+  "heard": "চাটি ডাট তার পার পার ব্লেন্ড দেখো পার পল মিলিয়ে গালো নো হ঵াইট কাস্ট।"
+ },
+ {
+  "id": 5,
+  "speaker": "creator",
+  "cer": 0.21,
+  "heard": "রধের জনো এস্পি এফ ফিটি"
+ },
+ {
+  "id": 6,
+  "speaker": "creator",
+  "cer": 0.19,
+  "heard": "আরেগ লো ইন্সেন্ট কুনো ফিল্টর নেই।"
+ },
+ {
+  "id": 7,
+  "speaker": "creator",
+  "cer": 0.13,
+  "heard": "হালকা ইন্ডিযন সকিনের জোন্ন্ন্"
+ },
+ {
+  "id": 8,
+  "speaker": "creator",
+  "cer": 0.38,
+  "heard": "আগে দাল এখন ইন ইনিনিনিনাগে."
+ },
+ {
+  "id": 9,
+  "speaker": "creator",
+  "cer": 0.22,
+  "heard": "এটা একটা আমার রোজের শান্স্করিন।"
+ },
+ {
+  "id": 10,
+  "speaker": "creator",
+  "cer": 0.19,
+  "heard": "পারফল ডাট কোমে শাপ করু পরে থেনক্যু বুলো।",
+  "redub": true
+ }
+]

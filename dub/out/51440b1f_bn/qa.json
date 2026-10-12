@@ -1,0 +1,58 @@
+[
+ {
+  "id": 1,
+  "speaker": "creator",
+  "cer": 0.14,
+  "heard": "রোট শোকালে সকিন টে ডাল লাগ্তু।",
+  "redub": true
+ },
+ {
+  "id": 2,
+  "speaker": "creator",
+  "cer": 0.03,
+  "heard": "কালার হুইলে পারপল হলুদের উল্তো ডালনেস কাটাতে হেল্প করে।",
+  "redub": true
+ },
+ {
+  "id": 3,
+  "speaker": "creator",
+  "cer": 0.0,
+  "heard": "দাখু কমন মেশে।",
+  "redub": true
+ },
+ {
+  "id": 4,
+  "speaker": "creator",
+  "cer": 0.19,
+  "heard": "লে঵িন্র থেকে একদম কলিযার।",
+  "redub": true
+ },
+ {
+  "id": 5,
+  "speaker": "creator",
+  "cer": 0.0,
+  "heard": "নো হয়াইট কাস্ট নো পার পুল দাগ।",
+  "redub": true
+ },
+ {
+  "id": 6,
+  "speaker": "creator",
+  "cer": 0.16,
+  "heard": "ইন্যন সকিনের জন্নো চাল পার্ষেন্ট নিযসি নামাইট ব্রাইট লুক।",
+  "redub": true
+ },
+ {
+  "id": 7,
+  "speaker": "creator",
+  "cer": 0.15,
+  "heard": "SPF 50 PA++++ Roachcar Protection",
+  "redub": true
+ },
+ {
+  "id": 8,
+  "speaker": "creator",
+  "cer": 0.15,
+  "heard": "Dharmadok Ultraviolet Instant Glow",
+  "redub": true
+ }
+]

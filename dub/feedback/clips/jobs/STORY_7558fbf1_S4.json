@@ -1,0 +1,31 @@
+[
+  {
+    "created_at": "2026-10-09T18:18:06.001765Z",
+    "display_name": "Wan 3.0",
+    "id": "b4cd2cbb-a6df-4a20-b370-f0ca4ba698f7",
+    "job_type": "wan3_0",
+    "min_result_url": null,
+    "params": {
+      "aspect_ratio": "9:16",
+      "duration": 5,
+      "generate_audio": false,
+      "height": 1344,
+      "medias": [
+        {
+          "data": {
+            "id": "1c72200a-bc84-4b33-87dc-fb4ee6eb8421",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3A6ZxB95Mnf55lwPBqzkePnTfzA/1c72200a-bc84-4b33-87dc-fb4ee6eb8421.png"
+          },
+          "role": "start_image"
+        }
+      ],
+      "prompt": "The three glowing rings float and orbit gently above the open jar; the jar mascot points up at them; the jar label stays unchanged. Keep the exact look of the first frame: same real woman and skin tone, same cartoon characters, product label and cap exactly as in the first frame (cap on, no nozzle); smooth natural motion; no text appears.",
+      "resolution": "480p",
+      "width": 768
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3A6ZxB95Mnf55lwPBqzkePnTfzA/hf_20261009_181806_b4cd2cbb-a6df-4a20-b370-f0ca4ba698f7.mp4",
+    "status": "completed",
+    "thumbnail_url": "https://cdn.higgsfield.ai/user_3A6ZxB95Mnf55lwPBqzkePnTfzA/hf_20261009_181806_b4cd2cbb-a6df-4a20-b370-f0ca4ba698f7_thumbnail.webp"
+  }
+]

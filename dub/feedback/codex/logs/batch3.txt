@@ -1,0 +1,2 @@
+KN07_after_day: OK
+KN08_before_day: FAILED rc=1

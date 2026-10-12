@@ -1,0 +1,6 @@
+Read CODEX_BRIEF.md in this folder first and follow it strictly.
+Attached reference images: story_refs/c51221b6_S2.png, ps_tube_with_box.png, ps_tube_swatch.png. Product photos are the ground truth for packaging; the out/*_model_ref.png image is the identity reference for the woman — keep the SAME face, hair and skin tone.
+TASK: generate ONE photorealistic vertical 9:16 keyframe image:
+EDIT the attached frame story_refs/c51221b6_S2.png (a still from this ad): keep EXACTLY the same scene, characters, poses, framing, background, lighting and art style (photoreal people, 3D cartoon characters). Change ONLY: the sunscreen tube/mascot must be the EXACT DERMDOC Ultra Violet tube from ps_tube_with_box.png: flat crimped seal at the TOP, label text and layout exactly as the photo, and the WIDE flat translucent lavender CAP firmly closed and ON at the BOTTOM (any mascot shoes stand under the cap). NO nozzle, no spout, no open flip-top, no second cap anywhere. Keep the smiling woman behind and the white-cast villain. No text.
+
+Use your image generation tool (pass the reference images to it), then copy the generated file to out/STORY_c51221b6_S2.png. Reply only with the saved path.

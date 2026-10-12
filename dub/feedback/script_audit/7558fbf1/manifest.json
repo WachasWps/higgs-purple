@@ -1,0 +1,277 @@
+{
+ "video": "7558fbf1",
+ "style": "product_avatar",
+ "cast": [
+  {
+   "id": "dark_spot_leader",
+   "name": "Dark-Spot Leader",
+   "description": "tiny comic dark-spot villain with a suitcase on the woman's cheek, leader of the dark-spot gang; squeaky, smug, cartoonish villain voice that turns panicky when evicted"
+  },
+  {
+   "id": "jar",
+   "name": "DERMDOC Kojic Night Cream Jar",
+   "description": "talking DERMDOC 2% Kojic Acid Night Cream jar with stern eyes, little arms and sneakers, the landlord serving eviction notice; confident, bouncy cartoon voice"
+  },
+  {
+   "id": "woman",
+   "name": "Woman",
+   "description": "adult Indian woman in orange pyjamas, real person; relaxed, amused, friendly after-two-weeks voice"
+  }
+ ],
+ "lines": [
+  {
+   "id": 1,
+   "start": 0.0,
+   "end": 1.58,
+   "speaker": "dark_spot_leader",
+   "en": "We're moving in permanently."
+  },
+  {
+   "id": 2,
+   "start": 2.0,
+   "end": 3.9,
+   "speaker": "jar",
+   "en": "Your two-week notice starts tonight."
+  },
+  {
+   "id": 3,
+   "start": 4.38,
+   "end": 8.2,
+   "speaker": "jar",
+   "en": "I'm powered by two percent kojic acid, with niacinamide and alpha arbutin."
+  },
+  {
+   "id": 4,
+   "start": 8.4,
+   "end": 10.46,
+   "speaker": "jar",
+   "en": "Together, we're the Glow Fusion Formula."
+  },
+  {
+   "id": 5,
+   "start": 11.38,
+   "end": 13.14,
+   "speaker": "jar",
+   "en": "Massage me in before you sleep."
+  },
+  {
+   "id": 6,
+   "start": 13.3,
+   "end": 14.38,
+   "speaker": "dark_spot_leader",
+   "en": "Eviction already?"
+  },
+  {
+   "id": 7,
+   "start": 14.82,
+   "end": 16.78,
+   "speaker": "woman",
+   "en": "Looks like they finally moved out."
+  },
+  {
+   "id": 8,
+   "start": 17.14,
+   "end": 19.48,
+   "speaker": "jar",
+   "en": "DERMDOC 2% Kojic Acid Night Cream."
+  }
+ ],
+ "shots": [
+  {
+   "n": 1,
+   "start": 0,
+   "end": 2.0,
+   "what": "original footage",
+   "frames": [
+    "s01_0.jpg",
+    "s01_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 1,
+     "start": 0.0,
+     "end": 1.58,
+     "speaker": "dark_spot_leader",
+     "en": "We're moving in permanently."
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "start": 2.0,
+   "end": 4.3,
+   "what": "STORY_7558fbf1_S2",
+   "frames": [
+    "s02_0.jpg",
+    "s02_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 2,
+     "start": 2.0,
+     "end": 3.9,
+     "speaker": "jar",
+     "en": "Your two-week notice starts tonight."
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "start": 4.3,
+   "end": 6.4,
+   "what": "original footage",
+   "frames": [
+    "s03_0.jpg",
+    "s03_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 3,
+     "start": 4.38,
+     "end": 8.2,
+     "speaker": "jar",
+     "en": "I'm powered by two percent kojic acid, with niacinamide and alpha arbutin."
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "start": 6.4,
+   "end": 8.3,
+   "what": "STORY_7558fbf1_S4",
+   "frames": [
+    "s04_0.jpg",
+    "s04_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 3,
+     "start": 4.38,
+     "end": 8.2,
+     "speaker": "jar",
+     "en": "I'm powered by two percent kojic acid, with niacinamide and alpha arbutin."
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "start": 8.3,
+   "end": 10.7,
+   "what": "STORY_7558fbf1_S4",
+   "frames": [
+    "s05_0.jpg",
+    "s05_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 4,
+     "start": 8.4,
+     "end": 10.46,
+     "speaker": "jar",
+     "en": "Together, we're the Glow Fusion Formula."
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "start": 10.7,
+   "end": 11.3,
+   "what": "original footage",
+   "frames": [
+    "s06_0.jpg",
+    "s06_1.jpg"
+   ],
+   "lines": []
+  },
+  {
+   "n": 7,
+   "start": 11.3,
+   "end": 13.1,
+   "what": "LEFT_7558fbf1_S7",
+   "frames": [
+    "s07_0.jpg",
+    "s07_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 5,
+     "start": 11.38,
+     "end": 13.14,
+     "speaker": "jar",
+     "en": "Massage me in before you sleep."
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "start": 13.1,
+   "end": 14.9,
+   "what": "original footage",
+   "frames": [
+    "s08_0.jpg",
+    "s08_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 5,
+     "start": 11.38,
+     "end": 13.14,
+     "speaker": "jar",
+     "en": "Massage me in before you sleep."
+    },
+    {
+     "id": 6,
+     "start": 13.3,
+     "end": 14.38,
+     "speaker": "dark_spot_leader",
+     "en": "Eviction already?"
+    },
+    {
+     "id": 7,
+     "start": 14.82,
+     "end": 16.78,
+     "speaker": "woman",
+     "en": "Looks like they finally moved out."
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "start": 14.9,
+   "end": 16.93,
+   "what": "GRAPHIC_BA_SPLIT",
+   "frames": [
+    "s09_0.jpg",
+    "s09_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 7,
+     "start": 14.82,
+     "end": 16.78,
+     "speaker": "woman",
+     "en": "Looks like they finally moved out."
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "start": 16.93,
+   "end": 20.0,
+   "what": "original footage",
+   "frames": [
+    "s10_0.jpg",
+    "s10_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 8,
+     "start": 17.14,
+     "end": 19.48,
+     "speaker": "jar",
+     "en": "DERMDOC 2% Kojic Acid Night Cream."
+    }
+   ]
+  }
+ ]
+}

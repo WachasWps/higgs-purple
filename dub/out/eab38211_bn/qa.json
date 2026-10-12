@@ -1,0 +1,32 @@
+[
+ {
+  "id": 1,
+  "speaker": "narrator",
+  "cer": 0.05,
+  "heard": "আপনি ঘুমোলেও নাইট রুটিন কাচ করে চলে।"
+ },
+ {
+  "id": 2,
+  "speaker": "narrator",
+  "cer": 0.15,
+  "heard": "Dermduck 2% Quaussic Acid Night Cream"
+ },
+ {
+  "id": 3,
+  "speaker": "narrator",
+  "cer": 0.15,
+  "heard": "Air Glow Fusion Formula, Manecotic Acid, Niacinamide or Alpha Arbutin"
+ },
+ {
+  "id": 4,
+  "speaker": "narrator",
+  "cer": 0.15,
+  "heard": "darkspot.com দখাতে শাহজ্য়ে।"
+ },
+ {
+  "id": 5,
+  "speaker": "narrator",
+  "cer": 0.25,
+  "heard": "লাগন ঘুমন শকলি উঠুন গোনিএক"
+ }
+]

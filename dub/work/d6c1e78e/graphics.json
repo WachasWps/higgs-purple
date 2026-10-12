@@ -1,0 +1,115 @@
+{
+ "video_id": "d6c1e78e",
+ "product": "uv_sunscreen",
+ "caption_y": 0.9,
+ "no_outro": true,
+ "no_logo": true,
+ "caption_moves": [
+  {
+   "start": 20.07,
+   "end": 23.17,
+   "y": 0.497,
+   "ext": 1
+  }
+ ],
+ "elements": [
+  {
+   "type": "hook_mono",
+   "start": 0.2,
+   "end": 2.3,
+   "lines": [
+    "PURPLE",
+    "SUNSCREEN?"
+   ],
+   "position": "lower",
+   "anim": "slide_up"
+  },
+  {
+   "type": "hud",
+   "variant": "corners",
+   "start": 8.4,
+   "end": 10.4
+  },
+  {
+   "type": "pill",
+   "start": 10.6,
+   "end": 12.6,
+   "lines": [
+    "ZERO WHITE CAST"
+   ],
+   "x": 0.5,
+   "y": 0.12,
+   "anim": "pop"
+  },
+  {
+   "type": "claim_bold",
+   "start": 12.85,
+   "end": 14.9,
+   "lines": [
+    "SPF 50 PA+++"
+   ],
+   "sub": "UVA + UVB",
+   "x": 0.5,
+   "y": 0.76,
+   "anim": "fade"
+  },
+  {
+   "type": "pill",
+   "start": 15.4,
+   "end": 17.9,
+   "lines": [
+    "INSTANT GLOW"
+   ],
+   "x": 0.5,
+   "y": 0.12,
+   "anim": "pop"
+  },
+  {
+   "type": "label",
+   "start": 20.72,
+   "end": 23.12,
+   "lines": [
+    "BEFORE"
+   ],
+   "x": 0.5,
+   "y": 0.455,
+   "anim": "pop"
+  },
+  {
+   "type": "label",
+   "start": 20.72,
+   "end": 23.12,
+   "lines": [
+    "AFTER"
+   ],
+   "x": 0.5,
+   "y": 0.895,
+   "anim": "pop"
+  },
+  {
+   "type": "label",
+   "start": 20.72,
+   "end": 23.12,
+   "lines": [
+    "INSTANT GLOW"
+   ],
+   "x": 0.5,
+   "y": 0.955,
+   "anim": "pop"
+  }
+ ],
+ "notes": "Re-cut timeline (creator + PS General Ad B-roll + wheel + Codex B/A). Baked-text B-roll shots left clean; own logo + end card.",
+ "cut_sfx": [
+  2.37,
+  5.17,
+  8.17,
+  12.77,
+  14.97,
+  18.37,
+  20.67,
+  23.17,
+  25.77,
+  29.17
+ ],
+ "logo_until": 29.3
+}

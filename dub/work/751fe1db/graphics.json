@@ -1,0 +1,117 @@
+{
+ "video_id": "751fe1db",
+ "product": "uv_sunscreen",
+ "caption_y": 0.9,
+ "no_outro": true,
+ "caption_moves": [
+  {
+   "start": 22.7,
+   "end": 25.8,
+   "y": 0.497,
+   "ext": 1
+  }
+ ],
+ "elements": [
+  {
+   "type": "hook_mono",
+   "start": 0.2,
+   "end": 2.4,
+   "lines": [
+    "WHITE CAST?",
+    "STICKY?"
+   ],
+   "position": "lower",
+   "anim": "slide_up"
+  },
+  {
+   "type": "pill",
+   "start": 12.6,
+   "end": 14.25,
+   "lines": [
+    "LITERALLY PURPLE"
+   ],
+   "x": 0.5,
+   "y": 0.12,
+   "anim": "pop"
+  },
+  {
+   "type": "pill",
+   "start": 16.85,
+   "end": 18.05,
+   "lines": [
+    "ZERO WHITE CAST"
+   ],
+   "x": 0.5,
+   "y": 0.12,
+   "anim": "pop"
+  },
+  {
+   "type": "claim_bold",
+   "start": 21.15,
+   "end": 23.25,
+   "lines": [
+    "SPF 50 PA+++"
+   ],
+   "x": 0.5,
+   "y": 0.3,
+   "anim": "fade"
+  },
+  {
+   "type": "label",
+   "start": 23.35,
+   "end": 25.75,
+   "lines": [
+    "BEFORE"
+   ],
+   "x": 0.5,
+   "y": 0.455,
+   "anim": "pop"
+  },
+  {
+   "type": "label",
+   "start": 23.35,
+   "end": 25.75,
+   "lines": [
+    "AFTER"
+   ],
+   "x": 0.5,
+   "y": 0.895,
+   "anim": "pop"
+  },
+  {
+   "type": "label",
+   "start": 23.35,
+   "end": 25.75,
+   "lines": [
+    "INSTANT GLOW"
+   ],
+   "x": 0.5,
+   "y": 0.955,
+   "anim": "pop"
+  },
+  {
+   "type": "pill",
+   "start": 25.85,
+   "end": 27.85,
+   "lines": [
+    "SHOP AT PURPLLE.COM"
+   ],
+   "x": 0.5,
+   "y": 0.12,
+   "anim": "pop"
+  }
+ ],
+ "notes": "user UGC, cutaway cut; own end card",
+ "cut_sfx": [
+  9.2,
+  12.55,
+  14.3,
+  16.8,
+  18.1,
+  21.1,
+  23.3,
+  25.8,
+  27.9
+ ],
+ "logo_until": 28.05
+}

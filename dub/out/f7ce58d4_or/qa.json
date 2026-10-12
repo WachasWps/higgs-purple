@@ -1,0 +1,46 @@
+[
+ {
+  "id": 1,
+  "speaker": "kojic_jar",
+  "cer": 0.13,
+  "heard": "কানো ডারক স্পট পুনি মিটিং চলিছি।"
+ },
+ {
+  "id": 2,
+  "speaker": "kojic_jar",
+  "cer": 0.08,
+  "heard": "নাইট তিম মিটিং ক্যান সল।",
+  "redub": true
+ },
+ {
+  "id": 3,
+  "speaker": "kojic_acid",
+  "cer": 0.23,
+  "heard": "জদে ডারক স্পটম ও দখে ঵ে"
+ },
+ {
+  "id": 4,
+  "speaker": "niacinamide",
+  "cer": 0.29,
+  "heard": "আও ডালানাস মটলিয়ে করিবি"
+ },
+ {
+  "id": 5,
+  "speaker": "alpha_arbutin",
+  "cer": 0.13,
+  "heard": "অনাই ভিনটন মুউপারে ছারি দিয়।"
+ },
+ {
+  "id": 6,
+  "speaker": "narrator",
+  "cer": 0.11,
+  "heard": "রিচ্চকরিম পুরা আবজরব দুই সপতাহে স্পাটসকম দিসুছি।",
+  "redub": true
+ },
+ {
+  "id": 7,
+  "speaker": "narrator",
+  "cer": 0.15,
+  "heard": "Darmadaka 2 % Kojiko Acid Night Cream"
+ }
+]

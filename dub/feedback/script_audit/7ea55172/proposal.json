@@ -1,0 +1,145 @@
+{
+ "video": "7ea55172",
+ "shots": [
+  {
+   "n": 1,
+   "start": 0,
+   "end": 5.3,
+   "on_screen": "Woman frowning in bathroom mirror, green grease-blob villain on her cheek, talking sunscreen tube on the counter."
+  },
+  {
+   "n": 2,
+   "start": 5.3,
+   "end": 8.3,
+   "on_screen": "Full-screen colour wheel 'Purple Tint Instant Glow for Indian skin tone': purple marker at top linked to yellow at bottom."
+  },
+  {
+   "n": 3,
+   "start": 8.3,
+   "end": 8.9,
+   "on_screen": "DERMDOC Ultra Violet tube lying on a swirl of lavender cream."
+  },
+  {
+   "n": 4,
+   "start": 8.9,
+   "end": 11.3,
+   "on_screen": "Woman smoothing lavender tint onto her cheek, 'PURPLE TINT' caption, grease villain on her shoulder."
+  },
+  {
+   "n": 5,
+   "start": 11.3,
+   "end": 14.0,
+   "on_screen": "Before/after split of the woman (before top, after bottom); difference is subtle."
+  },
+  {
+   "n": 6,
+   "start": 14.0,
+   "end": 16.2,
+   "on_screen": "Woman's face inside a blue hex SPF shield deflecting sun rays, 'SPF 50 PA+++' caption."
+  },
+  {
+   "n": 7,
+   "start": 16.2,
+   "end": 20.0,
+   "on_screen": "Daytime city street: tube with shield and colour-wheel badge, woman smiling, green villains walking off."
+  }
+ ],
+ "lines": [
+  {
+   "id": 1,
+   "start": 0.0,
+   "slot_s": 1.93,
+   "speaker": "greasiness",
+   "current": "Sticky shine reporting for duty!",
+   "on_screen_during": "Grease villain on cheek in mirror",
+   "verdict": "rewrite",
+   "new": "Sticky shine, on duty!",
+   "words": 4,
+   "reason": "Matches villain; trimmed to 1.93s slot"
+  },
+  {
+   "id": 2,
+   "start": 2.08,
+   "slot_s": 1.73,
+   "speaker": "dullness",
+   "current": "And I brought the dullness.",
+   "on_screen_during": "Mirror scene, villains on her face",
+   "verdict": "rewrite",
+   "new": "And I brought dullness.",
+   "words": 4,
+   "reason": "Villain visible; trimmed to 1.75s slot"
+  },
+  {
+   "id": 3,
+   "start": 3.96,
+   "slot_s": 1.21,
+   "speaker": "sunscreen",
+   "current": "You're both fired.",
+   "on_screen_during": "Tube stands up to the villains",
+   "verdict": "keep",
+   "new": "You're both fired.",
+   "words": 3,
+   "reason": "Fits (3 words, 0.1 over budget, negligible)"
+  },
+  {
+   "id": 4,
+   "start": 5.32,
+   "slot_s": 2.87,
+   "speaker": "sunscreen",
+   "current": "Purple sits opposite yellow, so it cancels dullness.",
+   "on_screen_during": "Colour wheel, purple linked to yellow",
+   "verdict": "rewrite",
+   "new": "Opposite yellow, purple cancels yellow-looking dullness.",
+   "words": 6,
+   "reason": "Explain wheel fully (yellow-looking) within 6.9-word budget"
+  },
+  {
+   "id": 5,
+   "start": 8.34,
+   "slot_s": 2.49,
+   "speaker": "sunscreen",
+   "current": "Purple tint, made for Indian skin.",
+   "on_screen_during": "Tube on lavender swirl, then woman applying purple tint",
+   "verdict": "rewrite",
+   "new": "Purple tint for Indian skin.",
+   "words": 5,
+   "reason": "Trim to budget; still matches tint being applied"
+  },
+  {
+   "id": 6,
+   "start": 10.98,
+   "slot_s": 2.35,
+   "speaker": "sunscreen",
+   "current": "Four percent niacinamide helps brighten.",
+   "on_screen_during": "End of tint application, then before/after split",
+   "verdict": "rewrite",
+   "new": "Niacinamide helps: instant, even-looking glow.",
+   "words": 5,
+   "reason": "B/A split on screen: talk result, keep niacinamide"
+  },
+  {
+   "id": 7,
+   "start": 13.48,
+   "slot_s": 2.99,
+   "speaker": "sunscreen",
+   "current": "SPF 50 PA+++ handles the sun.",
+   "on_screen_during": "Tail of B/A, then SPF 50 PA+++ shield deflecting rays",
+   "verdict": "keep",
+   "new": "SPF 50 PA+++ handles the sun.",
+   "words": 6,
+   "reason": "Matches shield graphic"
+  },
+  {
+   "id": 8,
+   "start": 16.62,
+   "slot_s": 2.86,
+   "speaker": "sunscreen",
+   "current": "Instant glow, protected, and no morning drama.",
+   "on_screen_during": "Daylight street, tube with shield, villains leaving",
+   "verdict": "rewrite",
+   "new": "Glow on, shield up. Bye, villains!",
+   "words": 6,
+   "reason": "Old line 7 words over budget; react to shield + departing villains"
+  }
+ ]
+}

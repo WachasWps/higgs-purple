@@ -1,0 +1,47 @@
+[
+ {
+  "id": 1,
+  "speaker": "kojic_jar",
+  "cer": 0.15,
+  "heard": "Dark Sports, we in the meeting of"
+ },
+ {
+  "id": 2,
+  "speaker": "kojic_jar",
+  "cer": 0.15,
+  "heard": "Night Team Meeting Cancel",
+  "redub": true
+ },
+ {
+  "id": 3,
+  "speaker": "kojic_acid",
+  "cer": 0.44,
+  "heard": "കടിത് ടാര്ക സ്പോടനിക്."
+ },
+ {
+  "id": 4,
+  "speaker": "niacinamide",
+  "cer": 0.15,
+  "heard": "Dalinas nyan clear account.",
+  "repaired": true
+ },
+ {
+  "id": 5,
+  "speaker": "alpha_arbutin",
+  "cer": 0.15,
+  "heard": "and even don't, any kid would take it."
+ },
+ {
+  "id": 6,
+  "speaker": "narrator",
+  "cer": 0.55,
+  "heard": "പ�ൃച് ക്രിമ മ�ുരിവനിരം രണ്ടായ്ചെയ്ല സ�ർട്സ കുരണ്യബോലെ.",
+  "redub": true
+ },
+ {
+  "id": 7,
+  "speaker": "narrator",
+  "cer": 0.15,
+  "heard": "Dharumdoq të përsin të kojik aset nai të krebi."
+ }
+]

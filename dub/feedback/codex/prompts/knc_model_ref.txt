@@ -1,0 +1,5 @@
+Read CODEX_BRIEF.md in this folder first and follow it strictly.
+TASK: generate ONE photorealistic vertical 9:16 keyframe image:
+Identity reference portrait (9:16, chest-up, looking at camera, soft neutral daylight) of ANANYA: Indian woman, 29, DUSKY medium-brown skin tone (relatable Indian complexion, clearly not fair), long straight dark hair loose behind shoulders, natural brows, no makeup, wearing a navy-blue satin night suit with white piping. Real skin texture with pores, calm warm expression. Softly blurred bedroom background.
+
+Use your image generation tool (pass the reference images to it), then copy the generated file to out/knc_model_ref.png. Reply only with the saved path.

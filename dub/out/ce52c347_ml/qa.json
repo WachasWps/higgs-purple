@@ -1,0 +1,33 @@
+[
+ {
+  "id": 1,
+  "speaker": "narrator",
+  "cer": 0.15,
+  "heard": "1 sunscreen, 2 smart yuലികൾറ്."
+ },
+ {
+  "id": 2,
+  "speaker": "narrator",
+  "cer": 0.15,
+  "heard": "Onna, SPF50, PA++++, UVA, UVB Production."
+ },
+ {
+  "id": 3,
+  "speaker": "narrator",
+  "cer": 0.15,
+  "heard": "2. 4% niacinamide open purple tinder"
+ },
+ {
+  "id": 4,
+  "speaker": "narrator",
+  "cer": 0.5,
+  "heard": "പര്പുല മന്യയുടെ ഇദിരാണ അംദിനാല മന്യച് ഡലന്യസ കുരക്ക്യാന സഹായക്യു."
+ },
+ {
+  "id": 5,
+  "speaker": "narrator",
+  "cer": 0.59,
+  "heard": "വയിട് കാസ്ടിലയാദെ ബ്ലെന്ടാഗും.ഇന്സ്ട് ഗ്ലോമാദ്രം.",
+  "repaired": true
+ }
+]

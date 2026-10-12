@@ -1,0 +1,175 @@
+{
+ "video": "89697c77",
+ "shots": [
+  {
+   "n": 1,
+   "start": 0,
+   "end": 2.8,
+   "on_screen": "Night vanity: tired woman in orange pyjamas, purple Snooze villain tempting her, small jar on table."
+  },
+  {
+   "n": 2,
+   "start": 2.8,
+   "end": 4.6,
+   "on_screen": "Caped talking jar on a night counter, pointing."
+  },
+  {
+   "n": 3,
+   "start": 4.6,
+   "end": 6.5,
+   "on_screen": "Jar opens with glowing moon, 'OVERNIGHT BRIGHTENER' caption."
+  },
+  {
+   "n": 4,
+   "start": 6.5,
+   "end": 9.0,
+   "on_screen": "Open jar with glowing orbs labelled '2% Kojic Acid' and 'Niacinamide & Alpha Arbutin'."
+  },
+  {
+   "n": 5,
+   "start": 9.0,
+   "end": 10.6,
+   "on_screen": "Macro of a spoon lifting thick white cream from the jar."
+  },
+  {
+   "n": 6,
+   "start": 10.6,
+   "end": 12.3,
+   "on_screen": "Woman at night dotting cream on forehead and cheek (spots visible)."
+  },
+  {
+   "n": 7,
+   "start": 12.3,
+   "end": 14.4,
+   "on_screen": "Woman at night with hands on her face, skin looks dewy and absorbed."
+  },
+  {
+   "n": 8,
+   "start": 14.4,
+   "end": 15.5,
+   "on_screen": "Woman asleep, Snooze floating; then morning sunlight floods in."
+  },
+  {
+   "n": 9,
+   "start": 15.5,
+   "end": 17.37,
+   "on_screen": "'AFTER' clip: woman in pyjamas in dim light, sad expression, spots still visible."
+  },
+  {
+   "n": 10,
+   "start": 17.37,
+   "end": 20.04,
+   "on_screen": "Before/after split, but both halves show the same sad, spotty face in night lighting."
+  }
+ ],
+ "lines": [
+  {
+   "id": 1,
+   "start": 0.0,
+   "slot_s": 2.67,
+   "speaker": "snooze",
+   "current": "Skip skincare. Go straight to sleep.",
+   "on_screen_during": "Snooze tempting tired woman at vanity",
+   "verdict": "keep",
+   "new": "Skip skincare. Go straight to sleep.",
+   "words": 6,
+   "reason": "Villain on screen"
+  },
+  {
+   "id": 2,
+   "start": 2.82,
+   "slot_s": 1.75,
+   "speaker": "jar",
+   "current": "Sleep, yes. Skip me, no.",
+   "on_screen_during": "Jar on counter, pointing",
+   "verdict": "rewrite",
+   "new": "Sleep, yes. Skipping, no.",
+   "words": 4,
+   "reason": "Fits visually; trimmed to 1.75s slot"
+  },
+  {
+   "id": 3,
+   "start": 4.72,
+   "slot_s": 1.79,
+   "speaker": "jar",
+   "current": "I turn bedtime into brightening time.",
+   "on_screen_during": "Jar with 'OVERNIGHT BRIGHTENER' and moon",
+   "verdict": "rewrite",
+   "new": "Bedtime is brightening time.",
+   "words": 4,
+   "reason": "Echoes caption; old 6 words in 1.79s"
+  },
+  {
+   "id": 4,
+   "start": 6.66,
+   "slot_s": 2.11,
+   "speaker": "jar",
+   "current": "My 3Xpert formula works while you rest.",
+   "on_screen_during": "Three glowing actives over jar",
+   "verdict": "rewrite",
+   "new": "Three actives, one 3XPERT formula.",
+   "words": 5,
+   "reason": "Describe the orbs; fix spelling 3XPERT; fit 5-word budget"
+  },
+  {
+   "id": 5,
+   "start": 8.92,
+   "slot_s": 1.63,
+   "speaker": "snooze",
+   "current": "That looks seriously rich.",
+   "on_screen_during": "Spoon lifting rich cream",
+   "verdict": "keep",
+   "new": "That looks seriously rich.",
+   "words": 4,
+   "reason": "Villain reacts to rich texture on screen"
+  },
+  {
+   "id": 6,
+   "start": 10.7,
+   "slot_s": 1.69,
+   "speaker": "jar",
+   "current": "Smooth on my rich night-cream texture.",
+   "on_screen_during": "Woman dotting cream on face at night",
+   "verdict": "rewrite",
+   "new": "Dot, smooth, massage.",
+   "words": 3,
+   "reason": "Match dotting action; old line over budget"
+  },
+  {
+   "id": 7,
+   "start": 12.54,
+   "slot_s": 2.51,
+   "speaker": "jar",
+   "current": "Fully absorbed. Now get your beauty sleep.",
+   "on_screen_during": "Dewy face, hands on cheeks, then asleep",
+   "verdict": "rewrite",
+   "new": "Fully absorbed. Now, beauty sleep.",
+   "words": 5,
+   "reason": "Trim to budget; still matches absorb then sleep"
+  },
+  {
+   "id": 8,
+   "start": 15.2,
+   "slot_s": 2.17,
+   "speaker": "woman",
+   "current": "I slept. My glow showed up.",
+   "on_screen_during": "Morning light, then 'AFTER' clip (shot looks wrong: sad, spots)",
+   "verdict": "rewrite",
+   "new": "Two weeks later? Clearer-looking skin!",
+   "words": 5,
+   "reason": "Leads into result; hedged. Shot S9 contradicts it, needs replacing"
+  },
+  {
+   "id": 9,
+   "start": 17.52,
+   "slot_s": 2.9,
+   "speaker": "jar",
+   "current": "DERMDOC 2% Kojic Acid Night Cream.",
+   "on_screen_during": "Before/after split (both halves look like 'before')",
+   "verdict": "keep",
+   "new": "DERMDOC 2% Kojic Acid Night Cream.",
+   "words": 6,
+   "reason": "End tag; result carried by line 8. B/A shot needs a real 'after'"
+  }
+ ]
+}

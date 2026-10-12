@@ -1,0 +1,97 @@
+{
+ "video_id": "00b304b4",
+ "product": "uv_sunscreen",
+ "caption_y": 0.9,
+ "elements": [
+  {
+   "type": "hook_mono",
+   "start": 0.2,
+   "end": 2.4,
+   "lines": [
+    "SKIN PROTECTION",
+    "DEPARTMENT"
+   ],
+   "x": 0.6,
+   "y": 0.09,
+   "anim": "type"
+  },
+  {
+   "type": "label",
+   "start": 2.75,
+   "end": 4.45,
+   "lines": [
+    "UV VILLAIN"
+   ],
+   "x": 0.78,
+   "y": 0.22,
+   "anim": "pop"
+  },
+  {
+   "type": "pill",
+   "start": 11.0,
+   "end": 12.7,
+   "lines": [
+    "4% NIACINAMIDE",
+    "INSTANT GLOW"
+   ],
+   "x": 0.5,
+   "y": 0.76,
+   "anim": "pop"
+  },
+  {
+   "type": "claim_bold",
+   "start": 12.8,
+   "end": 14.7,
+   "lines": [
+    "MADE FOR",
+    "INDIAN SKIN TONES"
+   ],
+   "sub": "NO WHITE CAST",
+   "x": 0.5,
+   "y": 0.76,
+   "anim": "fade"
+  },
+  {
+   "type": "label",
+   "start": 14.75,
+   "end": 15.95,
+   "lines": [
+    "BEFORE"
+   ],
+   "x": 0.5,
+   "y": 0.455,
+   "anim": "pop"
+  },
+  {
+   "type": "label",
+   "start": 14.75,
+   "end": 15.95,
+   "lines": [
+    "AFTER"
+   ],
+   "x": 0.5,
+   "y": 0.895,
+   "anim": "pop"
+  },
+  {
+   "type": "label",
+   "start": 14.75,
+   "end": 15.95,
+   "lines": [
+    "INSTANT GLOW"
+   ],
+   "x": 0.5,
+   "y": 0.955,
+   "anim": "pop"
+  }
+ ],
+ "notes": "Text pass (EDL): hook kept, lifted above the PSA1 tube; UV VILLAIN tag on the kept villain shot; no supers in the colour-wheel window 7.6-11.0 (graphic carries its own text; HUD + PURPLE TINT pill removed); 4% NIACINAMIDE / INSTANT GLOW then MADE FOR INDIAN SKIN TONES / NO WHITE CAST below the chin on PS05; INSTANT GLOW above Meera's head on the PSA3 end shot. Caption lift for the old baked bottom text removed.",
+ "caption_moves": [
+  {
+   "start": 14.1,
+   "end": 16.0,
+   "y": 0.497,
+   "ext": 1
+  }
+ ]
+}

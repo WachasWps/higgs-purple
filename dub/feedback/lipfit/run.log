@@ -1,0 +1,40 @@
+b876bd3c bn: lips w/o voice  1.4s | voice over closed lips  1.1s
+b876bd3c ta: lips w/o voice  2.2s | voice over closed lips  1.4s
+b876bd3c te: lips w/o voice  2.1s | voice over closed lips  1.4s
+b876bd3c ml: lips w/o voice  2.4s | voice over closed lips  1.4s
+b876bd3c or: lips w/o voice  1.4s | voice over closed lips  1.3s
+a135c7dc bn: lips w/o voice  1.5s | voice over closed lips  2.2s
+a135c7dc ta: lips w/o voice  2.4s | voice over closed lips  1.9s
+a135c7dc te: lips w/o voice  2.5s | voice over closed lips  2.0s
+a135c7dc ml: lips w/o voice  2.8s | voice over closed lips  1.8s
+a135c7dc or: lips w/o voice  1.4s | voice over closed lips  1.8s
+/Users/wachas/Documents/higgs-purple/dub/.venv/lib/python3.12/site-packages/pyloudnorm/normalize.py:62: UserWarning: Possible clipped samples in output.
+  warnings.warn("Possible clipped samples in output.")
+751fe1db bn: lips w/o voice  3.0s | voice over closed lips  2.1s
+/Users/wachas/Documents/higgs-purple/dub/.venv/lib/python3.12/site-packages/pyloudnorm/normalize.py:62: UserWarning: Possible clipped samples in output.
+  warnings.warn("Possible clipped samples in output.")
+751fe1db ta: lips w/o voice  3.1s | voice over closed lips  1.7s
+/Users/wachas/Documents/higgs-purple/dub/.venv/lib/python3.12/site-packages/pyloudnorm/normalize.py:62: UserWarning: Possible clipped samples in output.
+  warnings.warn("Possible clipped samples in output.")
+751fe1db te: lips w/o voice  2.8s | voice over closed lips  1.3s
+/Users/wachas/Documents/higgs-purple/dub/.venv/lib/python3.12/site-packages/pyloudnorm/normalize.py:62: UserWarning: Possible clipped samples in output.
+  warnings.warn("Possible clipped samples in output.")
+751fe1db ml: lips w/o voice  3.5s | voice over closed lips  1.5s
+/Users/wachas/Documents/higgs-purple/dub/.venv/lib/python3.12/site-packages/pyloudnorm/normalize.py:62: UserWarning: Possible clipped samples in output.
+  warnings.warn("Possible clipped samples in output.")
+751fe1db or: lips w/o voice  2.8s | voice over closed lips  1.9s
+/Users/wachas/Documents/higgs-purple/dub/.venv/lib/python3.12/site-packages/pyloudnorm/normalize.py:62: UserWarning: Possible clipped samples in output.
+  warnings.warn("Possible clipped samples in output.")
+010ea465 bn: lips w/o voice  2.4s | voice over closed lips  1.5s
+/Users/wachas/Documents/higgs-purple/dub/.venv/lib/python3.12/site-packages/pyloudnorm/normalize.py:62: UserWarning: Possible clipped samples in output.
+  warnings.warn("Possible clipped samples in output.")
+010ea465 ta: lips w/o voice  4.5s | voice over closed lips  1.4s
+/Users/wachas/Documents/higgs-purple/dub/.venv/lib/python3.12/site-packages/pyloudnorm/normalize.py:62: UserWarning: Possible clipped samples in output.
+  warnings.warn("Possible clipped samples in output.")
+010ea465 te: lips w/o voice  3.5s | voice over closed lips  1.4s
+/Users/wachas/Documents/higgs-purple/dub/.venv/lib/python3.12/site-packages/pyloudnorm/normalize.py:62: UserWarning: Possible clipped samples in output.
+  warnings.warn("Possible clipped samples in output.")
+010ea465 ml: lips w/o voice  4.6s | voice over closed lips  1.3s
+/Users/wachas/Documents/higgs-purple/dub/.venv/lib/python3.12/site-packages/pyloudnorm/normalize.py:62: UserWarning: Possible clipped samples in output.
+  warnings.warn("Possible clipped samples in output.")
+010ea465 or: lips w/o voice  3.1s | voice over closed lips  1.6s

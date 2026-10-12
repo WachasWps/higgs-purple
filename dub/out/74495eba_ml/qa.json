@@ -1,0 +1,42 @@
+[
+ {
+  "id": 1,
+  "speaker": "uv_boss",
+  "cer": 0.6,
+  "heard": "ഇന് വലാഇന് നിപ്റാക്റാക്യാച്യാവുന്.",
+  "redub": true
+ },
+ {
+  "id": 2,
+  "speaker": "sunscreen",
+  "cer": 0.15,
+  "heard": "suppressed roku noitään oike Priestalaroorot트"
+ },
+ {
+  "id": 3,
+  "speaker": "sunscreen",
+  "cer": 0.15,
+  "heard": "SPF50 PA++++ UVA UV Rendlingweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweedweed"
+ },
+ {
+  "id": 4,
+  "speaker": "sunscreen",
+  "cer": 0.49,
+  "heard": "കളര് വിലില് പര്പൽ മന്യവുടെ എദിരാണ, അദുകുന് ടയിന്സ കാന്സിയും.",
+  "redub": true
+ },
+ {
+  "id": 5,
+  "speaker": "sunscreen",
+  "cer": 0.15,
+  "heard": "4% Niyasana Myadamai, instant even looking low.",
+  "redub": true
+ },
+ {
+  "id": 6,
+  "speaker": "sunscreen",
+  "cer": 0.15,
+  "heard": "Instant Glow protected and ready.",
+  "redub": true
+ }
+]

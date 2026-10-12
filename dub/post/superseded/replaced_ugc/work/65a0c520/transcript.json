@@ -1,0 +1,435 @@
+{
+ "language": "en",
+ "segments": [
+  {
+   "seg": 0,
+   "start": 0.0,
+   "end": 2.08,
+   "text": "My skin looked dull before my day had even started.",
+   "f0_median_hz": 226,
+   "words": [
+    [
+     "My",
+     0.0,
+     0.16
+    ],
+    [
+     "skin",
+     0.16,
+     0.38
+    ],
+    [
+     "looked",
+     0.38,
+     0.6
+    ],
+    [
+     "dull",
+     0.6,
+     0.82
+    ],
+    [
+     "before",
+     0.82,
+     1.06
+    ],
+    [
+     "my",
+     1.06,
+     1.24
+    ],
+    [
+     "day",
+     1.24,
+     1.42
+    ],
+    [
+     "had",
+     1.42,
+     1.56
+    ],
+    [
+     "even",
+     1.56,
+     1.72
+    ],
+    [
+     "started.",
+     1.72,
+     2.08
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 1,
+   "start": 2.3,
+   "end": 4.52,
+   "text": "Then I understood why the sunscreen has a purple tint.",
+   "f0_median_hz": 225,
+   "words": [
+    [
+     "Then",
+     2.3,
+     2.42
+    ],
+    [
+     "I",
+     2.42,
+     2.54
+    ],
+    [
+     "understood",
+     2.54,
+     2.88
+    ],
+    [
+     "why",
+     2.88,
+     3.12
+    ],
+    [
+     "the",
+     3.12,
+     3.26
+    ],
+    [
+     "sunscreen",
+     3.26,
+     3.58
+    ],
+    [
+     "has",
+     3.58,
+     3.86
+    ],
+    [
+     "a",
+     3.86,
+     3.98
+    ],
+    [
+     "purple",
+     3.98,
+     4.26
+    ],
+    [
+     "tint.",
+     4.26,
+     4.52
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 2,
+   "start": 4.72,
+   "end": 6.84,
+   "text": "Purple helps color correct yellow looking dullness.",
+   "f0_median_hz": 218,
+   "words": [
+    [
+     "Purple",
+     4.72,
+     5.0
+    ],
+    [
+     "helps",
+     5.0,
+     5.24
+    ],
+    [
+     "color",
+     5.24,
+     5.5
+    ],
+    [
+     "correct",
+     5.5,
+     5.78
+    ],
+    [
+     "yellow",
+     5.78,
+     6.08
+    ],
+    [
+     "looking",
+     6.08,
+     6.36
+    ],
+    [
+     "dullness.",
+     6.36,
+     6.84
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 3,
+   "start": 6.98,
+   "end": 8.12,
+   "text": "Let's test it on one side.",
+   "f0_median_hz": 263,
+   "words": [
+    [
+     "Let's",
+     6.98,
+     7.2
+    ],
+    [
+     "test",
+     7.2,
+     7.4
+    ],
+    [
+     "it",
+     7.4,
+     7.54
+    ],
+    [
+     "on",
+     7.54,
+     7.66
+    ],
+    [
+     "one",
+     7.66,
+     7.86
+    ],
+    [
+     "side.",
+     7.86,
+     8.12
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 4,
+   "start": 8.28,
+   "end": 10.4,
+   "text": "Brighter looking but still completely my skin tone.",
+   "f0_median_hz": 238,
+   "words": [
+    [
+     "Brighter",
+     8.28,
+     8.66
+    ],
+    [
+     "looking",
+     8.66,
+     8.84
+    ],
+    [
+     "but",
+     8.84,
+     9.08
+    ],
+    [
+     "still",
+     9.08,
+     9.3
+    ],
+    [
+     "completely",
+     9.3,
+     9.74
+    ],
+    [
+     "my",
+     9.74,
+     9.96
+    ],
+    [
+     "skin",
+     9.96,
+     10.18
+    ],
+    [
+     "tone.",
+     10.18,
+     10.4
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 5,
+   "start": 10.6,
+   "end": 13.0,
+   "text": "It blends clear with no white cast and no sticky layer.",
+   "f0_median_hz": 231,
+   "words": [
+    [
+     "It",
+     10.6,
+     10.7
+    ],
+    [
+     "blends",
+     10.7,
+     10.96
+    ],
+    [
+     "clear",
+     10.96,
+     11.2
+    ],
+    [
+     "with",
+     11.2,
+     11.38
+    ],
+    [
+     "no",
+     11.38,
+     11.54
+    ],
+    [
+     "white",
+     11.54,
+     11.78
+    ],
+    [
+     "cast",
+     11.78,
+     12.08
+    ],
+    [
+     "and",
+     12.08,
+     12.28
+    ],
+    [
+     "no",
+     12.28,
+     12.46
+    ],
+    [
+     "sticky",
+     12.46,
+     12.74
+    ],
+    [
+     "layer.",
+     12.74,
+     13.0
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 6,
+   "start": 13.28,
+   "end": 14.9,
+   "text": "Inside 4% niacinamide.",
+   "f0_median_hz": 249,
+   "words": [
+    [
+     "Inside",
+     13.28,
+     13.62
+    ],
+    [
+     "4",
+     13.62,
+     13.94
+    ],
+    [
+     "%",
+     13.94,
+     14.24
+    ],
+    [
+     "niacinamide.",
+     14.24,
+     14.9
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 7,
+   "start": 15.02,
+   "end": 17.24,
+   "text": "Outside SPF 50 PA plus protection.",
+   "f0_median_hz": 233,
+   "words": [
+    [
+     "Outside",
+     15.02,
+     15.36
+    ],
+    [
+     "SPF",
+     15.36,
+     15.92
+    ],
+    [
+     "50",
+     15.92,
+     16.2
+    ],
+    [
+     "PA",
+     16.2,
+     16.54
+    ],
+    [
+     "plus",
+     16.54,
+     16.78
+    ],
+    [
+     "protection.",
+     16.78,
+     17.24
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 8,
+   "start": 17.5,
+   "end": 19.88,
+   "text": "Dullness corrected, glow controlled, day protected.",
+   "f0_median_hz": 248,
+   "words": [
+    [
+     "Dullness",
+     17.5,
+     17.88
+    ],
+    [
+     "corrected,",
+     17.88,
+     18.26
+    ],
+    [
+     "glow",
+     18.54,
+     18.74
+    ],
+    [
+     "controlled,",
+     18.74,
+     19.2
+    ],
+    [
+     "day",
+     19.5,
+     19.62
+    ],
+    [
+     "protected.",
+     19.62,
+     19.88
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  }
+ ]
+}

@@ -1,0 +1,248 @@
+{
+ "language": "hinglish",
+ "vo_script": "Sunlight dikhta hai. Protection nahi—but it should be there.\nDERMDOC Ultra Violet Brightening Sunscreen gives SPF 50 PA+++ protection with 4% Niacinamide.\nIts purple tint blends into Indian skin for an instant radiant glow, without white cast.\nInvisible protection. Visible glow.",
+ "segments": [
+  {
+   "seg": 0,
+   "start": 0.0,
+   "end": 3.2,
+   "text": "Sunlight dikhta hai. Protection nahi—but it should be there.",
+   "words": [
+    [
+     "Sunlight",
+     0.0,
+     0.44
+    ],
+    [
+     "dikhta",
+     0.44,
+     0.76
+    ],
+    [
+     "hai.",
+     0.76,
+     0.9
+    ],
+    [
+     "Protection",
+     1.2,
+     1.66
+    ],
+    [
+     "nahi—but",
+     1.66,
+     2.52
+    ],
+    [
+     "it",
+     2.52,
+     2.66
+    ],
+    [
+     "should",
+     2.66,
+     2.8
+    ],
+    [
+     "be",
+     2.8,
+     2.96
+    ],
+    [
+     "there.",
+     2.96,
+     3.2
+    ]
+   ]
+  },
+  {
+   "seg": 1,
+   "start": 3.84,
+   "end": 10.34,
+   "text": "DermDoc Ultra Violet Brightening Sunscreen gives SPF 50 PA++ protection with 4% Niacinamide.",
+   "words": [
+    [
+     "DermDoc",
+     3.84,
+     4.44
+    ],
+    [
+     "Ultra",
+     4.44,
+     4.76
+    ],
+    [
+     "Violet",
+     4.76,
+     5.2
+    ],
+    [
+     "Brightening",
+     5.2,
+     5.64
+    ],
+    [
+     "Sunscreen",
+     5.64,
+     6.16
+    ],
+    [
+     "gives",
+     6.16,
+     6.48
+    ],
+    [
+     "SPF",
+     6.48,
+     7.06
+    ],
+    [
+     "50",
+     7.06,
+     7.36
+    ],
+    [
+     "PA++",
+     7.36,
+     7.96
+    ],
+    [
+     "protection",
+     7.96,
+     8.54
+    ],
+    [
+     "with",
+     8.54,
+     9.0
+    ],
+    [
+     "4",
+     9.0,
+     9.3
+    ],
+    [
+     "%",
+     9.3,
+     9.64
+    ],
+    [
+     "Niacinamide.",
+     9.64,
+     10.34
+    ]
+   ]
+  },
+  {
+   "seg": 2,
+   "start": 10.56,
+   "end": 15.38,
+   "text": "Its purple tint blends into Indian skin for an instant radiant glow, without white cast.",
+   "words": [
+    [
+     "Its",
+     10.56,
+     11.0
+    ],
+    [
+     "purple",
+     11.0,
+     11.34
+    ],
+    [
+     "tint",
+     11.34,
+     11.58
+    ],
+    [
+     "blends",
+     11.58,
+     11.92
+    ],
+    [
+     "into",
+     11.92,
+     12.14
+    ],
+    [
+     "Indian",
+     12.14,
+     12.4
+    ],
+    [
+     "skin",
+     12.4,
+     12.72
+    ],
+    [
+     "for",
+     12.72,
+     12.96
+    ],
+    [
+     "an",
+     12.96,
+     13.12
+    ],
+    [
+     "instant",
+     13.12,
+     13.56
+    ],
+    [
+     "radiant",
+     13.56,
+     13.92
+    ],
+    [
+     "glow,",
+     13.92,
+     14.28
+    ],
+    [
+     "without",
+     14.48,
+     14.7
+    ],
+    [
+     "white",
+     14.7,
+     15.04
+    ],
+    [
+     "cast.",
+     15.04,
+     15.38
+    ]
+   ]
+  },
+  {
+   "seg": 3,
+   "start": 15.58,
+   "end": 17.76,
+   "text": "Invisible protection. Visible glow.",
+   "words": [
+    [
+     "Invisible",
+     15.58,
+     16.14
+    ],
+    [
+     "protection.",
+     16.14,
+     16.62
+    ],
+    [
+     "Visible",
+     16.94,
+     17.52
+    ],
+    [
+     "glow.",
+     17.52,
+     17.76
+    ]
+   ]
+  }
+ ]
+}

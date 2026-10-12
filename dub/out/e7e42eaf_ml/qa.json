@@ -1,0 +1,42 @@
+[
+ {
+  "id": 1,
+  "speaker": "uv_villain",
+  "cer": 0.2,
+  "heard": "വേയ്ല വന്നു. വാരാ അവള പിടിക്കയ്.",
+  "redub": true
+ },
+ {
+  "id": 2,
+  "speaker": "sunscreen_tube",
+  "cer": 0.54,
+  "heard": "നുലാ പോടോ നടകിലാ."
+ },
+ {
+  "id": 3,
+  "speaker": "spf_shield",
+  "cer": 0.15,
+  "heard": "Uweeum, Uweeum, Uweeum, Blocker.",
+  "redub": true
+ },
+ {
+  "id": 4,
+  "speaker": "purple_tint",
+  "cer": 0.48,
+  "heard": "കളര് വീല പരയിനു മന്യ ടലന്ന് നാന കയാന്സില ചെയിയും.",
+  "redub": true
+ },
+ {
+  "id": 5,
+  "speaker": "niacinamide",
+  "cer": 0.36,
+  "heard": "ഇ്ന് സ്കിന് നാഇതന്. ഹലോ ഇ്ന് സ്റന് ഗ്ലോ.",
+  "redub": true
+ },
+ {
+  "id": 6,
+  "speaker": "sunscreen_tube",
+  "cer": 0.3,
+  "heard": "വാവയല നങങറിറി."
+ }
+]

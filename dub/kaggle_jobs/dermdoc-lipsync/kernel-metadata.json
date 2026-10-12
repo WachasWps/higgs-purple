@@ -1,0 +1,17 @@
+{
+ "id": "wachaspati/dermdoc-lipsync",
+ "title": "dermdoc-lipsync",
+ "code_file": "lipsync.ipynb",
+ "language": "python",
+ "kernel_type": "notebook",
+ "is_private": true,
+ "enable_gpu": true,
+ "enable_tpu": false,
+ "enable_internet": true,
+ "machine_shape": "NvidiaTeslaT4",
+ "dataset_sources": [
+  "wachaspati/dermdoc-lipsync-in"
+ ],
+ "competition_sources": [],
+ "kernel_sources": []
+}

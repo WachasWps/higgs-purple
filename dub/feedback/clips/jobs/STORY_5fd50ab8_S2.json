@@ -1,0 +1,31 @@
+[
+  {
+    "created_at": "2026-10-09T18:22:27.842599Z",
+    "display_name": "Wan 3.0",
+    "id": "69f8f3d0-5b1e-4a8c-b924-4bad8e667bb2",
+    "job_type": "wan3_0",
+    "min_result_url": null,
+    "params": {
+      "aspect_ratio": "9:16",
+      "duration": 5,
+      "generate_audio": false,
+      "height": 1344,
+      "medias": [
+        {
+          "data": {
+            "id": "22e62e32-730d-4924-a7c8-0be7e4c6da91",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3A6ZxB95Mnf55lwPBqzkePnTfzA/22e62e32-730d-4924-a7c8-0be7e4c6da91.png"
+          },
+          "role": "start_image"
+        }
+      ],
+      "prompt": "The tube mascot smiles and points down at the dollop of lavender cream on the fingertip; the fingertip lifts slightly; the tube stays exactly as in the first frame. Keep the exact look of the first frame: same real woman and skin tone, same cartoon characters, product label and cap exactly as in the first frame (cap on, no nozzle); smooth natural motion; no text appears.",
+      "resolution": "480p",
+      "width": 768
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3A6ZxB95Mnf55lwPBqzkePnTfzA/hf_20261009_182227_69f8f3d0-5b1e-4a8c-b924-4bad8e667bb2.mp4",
+    "status": "completed",
+    "thumbnail_url": "https://cdn.higgsfield.ai/user_3A6ZxB95Mnf55lwPBqzkePnTfzA/hf_20261009_182227_69f8f3d0-5b1e-4a8c-b924-4bad8e667bb2_thumbnail.webp"
+  }
+]

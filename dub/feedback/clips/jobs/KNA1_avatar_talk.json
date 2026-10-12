@@ -1,0 +1,31 @@
+[
+  {
+    "created_at": "2026-10-09T13:17:31.631685Z",
+    "display_name": "Wan 3.0",
+    "id": "5726068d-dbff-4987-9d4a-6d6aab7c7904",
+    "job_type": "wan3_0",
+    "min_result_url": null,
+    "params": {
+      "aspect_ratio": "9:16",
+      "duration": 5,
+      "generate_audio": false,
+      "height": 1344,
+      "medias": [
+        {
+          "data": {
+            "id": "53dfeadd-0c6e-4be7-9660-4b0d132c62fb",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3A6ZxB95Mnf55lwPBqzkePnTfzA/53dfeadd-0c6e-4be7-9660-4b0d132c62fb.png"
+          },
+          "role": "start_image"
+        }
+      ],
+      "prompt": "The jar mascot talks warmly to camera, blinking and gesturing; label and jar shape stay exactly the same; gentle camera drift. Photorealistic, natural motion, stable identity, product packaging stays exactly as in the first frame, no text appears.",
+      "resolution": "480p",
+      "width": 768
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3A6ZxB95Mnf55lwPBqzkePnTfzA/hf_20261009_131731_5726068d-dbff-4987-9d4a-6d6aab7c7904.mp4",
+    "status": "completed",
+    "thumbnail_url": "https://cdn.higgsfield.ai/user_3A6ZxB95Mnf55lwPBqzkePnTfzA/hf_20261009_131731_5726068d-dbff-4987-9d4a-6d6aab7c7904_thumbnail.webp"
+  }
+]

@@ -1,0 +1,58 @@
+[
+ {
+  "id": 1,
+  "speaker": "creator",
+  "cer": 0.24,
+  "heard": "দিন শেশে সকিন রস টায়্ আনিভেন লাগতো।",
+  "redub": true
+ },
+ {
+  "id": 2,
+  "speaker": "creator",
+  "cer": 0.11,
+  "heard": "তাই নাইট রেশেট শুরু এই নাইট গ্রিমে।",
+  "redub": true
+ },
+ {
+  "id": 3,
+  "speaker": "creator",
+  "cer": 0.15,
+  "heard": "Dharmodoc 2% Cozyc Acid",
+  "redub": true
+ },
+ {
+  "id": 4,
+  "speaker": "creator",
+  "cer": 0.24,
+  "heard": "টেক সরথা এক টুও জল জলেনা।",
+  "redub": true
+ },
+ {
+  "id": 5,
+  "speaker": "creator",
+  "cer": 0.23,
+  "heard": "খুমেরাগে একটকানে লাগাই।",
+  "redub": true
+ },
+ {
+  "id": 6,
+  "speaker": "creator",
+  "cer": 0.27,
+  "heard": "পুরো এবজর্ব হ঵া পরচন্ত মেসাজ করি।",
+  "redub": true
+ },
+ {
+  "id": 7,
+  "speaker": "creator",
+  "cer": 0.19,
+  "heard": "এক শাথে ডক সবট কম আর টুন ই঵িন দাখাতে হয়প করে।",
+  "redub": true
+ },
+ {
+  "id": 8,
+  "speaker": "creator",
+  "cer": 0.17,
+  "heard": "দুশ অপতার সকিন ব্রাইট ইভিন লাগছে।",
+  "redub": true
+ }
+]

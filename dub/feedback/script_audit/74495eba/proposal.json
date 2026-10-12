@@ -1,0 +1,115 @@
+{
+ "video": "74495eba",
+ "shots": [
+  {
+   "n": 1,
+   "start": 0,
+   "end": 4.6,
+   "on_screen": "Golden cartoon sun fires rays at a woman on a sunny balcony; tube character jumps in."
+  },
+  {
+   "n": 2,
+   "start": 4.6,
+   "end": 8.2,
+   "on_screen": "Tube holds up a 'SPF 50 PA+++' shield, blocking rays."
+  },
+  {
+   "n": 3,
+   "start": 8.2,
+   "end": 12.2,
+   "on_screen": "Full-screen colour wheel, purple top, yellow bottom lit."
+  },
+  {
+   "n": 4,
+   "start": 12.2,
+   "end": 14.6,
+   "on_screen": "Woman pats lavender cream on cheek, caption '4% NIACINAMIDE'."
+  },
+  {
+   "n": 5,
+   "start": 14.6,
+   "end": 16.05,
+   "on_screen": "Before/after split, after looks brighter."
+  },
+  {
+   "n": 6,
+   "start": 16.05,
+   "end": 20.04,
+   "on_screen": "Woman smiles inside a protective bubble; sun deflates; tube waves."
+  }
+ ],
+ "lines": [
+  {
+   "id": 1,
+   "start": 0.0,
+   "slot_s": 2.93,
+   "speaker": "uv_boss",
+   "current": "Indian sun! Let's turn up the pressure!",
+   "on_screen_during": "S1 sun villain firing rays",
+   "verdict": "keep",
+   "new": "Indian sun! Let's turn up the pressure!",
+   "words": 7,
+   "reason": "fits"
+  },
+  {
+   "id": 2,
+   "start": 3.08,
+   "slot_s": 1.51,
+   "speaker": "sunscreen",
+   "current": "Pressure denied.",
+   "on_screen_during": "S1 tube jumps in",
+   "verdict": "keep",
+   "new": "Pressure denied.",
+   "words": 2,
+   "reason": "fits"
+  },
+  {
+   "id": 3,
+   "start": 4.74,
+   "slot_s": 4.37,
+   "speaker": "sunscreen",
+   "current": "SPF 50 PA+++ protects against UVA and UVB.",
+   "on_screen_during": "S2 SPF shield blocking rays",
+   "verdict": "keep",
+   "new": "SPF 50 PA+++ protects against UVA and UVB.",
+   "words": 8,
+   "reason": "fits"
+  },
+  {
+   "id": 4,
+   "start": 9.26,
+   "slot_s": 3.45,
+   "speaker": "sunscreen",
+   "current": "Purple sits opposite yellow, so it helps cancel dullness.",
+   "on_screen_during": "S3 colour wheel",
+   "verdict": "rewrite",
+   "new": "Purple sits opposite yellow, cancelling yellow-looking dullness.",
+   "words": 7,
+   "reason": "over length (9w vs 8); clearer wheel explanation"
+  },
+  {
+   "id": 5,
+   "start": 12.86,
+   "slot_s": 3.15,
+   "speaker": "sunscreen",
+   "current": "Made for Indian skin, with four percent niacinamide.",
+   "on_screen_during": "S4 lavender on cheek '4% NIACINAMIDE', then S5 before/after",
+   "verdict": "rewrite",
+   "new": "4% Niacinamide, for even, radiant-looking skin.",
+   "words": 6,
+   "reason": "before/after lands mid-line: result needed"
+  },
+  {
+   "id": 6,
+   "start": 16.16,
+   "slot_s": 2.98,
+   "speaker": "sunscreen",
+   "current": "Instant glow, protected and ready.",
+   "on_screen_during": "S6 bubble shield, smiling",
+   "verdict": "keep",
+   "new": "Instant glow, protected and ready.",
+   "words": 5,
+   "reason": "fits"
+  }
+ ]
+}

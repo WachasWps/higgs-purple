@@ -1,0 +1,32 @@
+[
+ {
+  "id": 1,
+  "speaker": "narrator",
+  "cer": 0.0,
+  "heard": "Dark spots? Upgrade your night routine."
+ },
+ {
+  "id": 2,
+  "speaker": "narrator",
+  "cer": 0.08,
+  "heard": "DERMDOC 2% Core Jic Acid Night Cream rings together."
+ },
+ {
+  "id": 3,
+  "speaker": "narrator",
+  "cer": 0.0,
+  "heard": "Kojic Acid, Niacinamide and Alpha Arbutin."
+ },
+ {
+  "id": 4,
+  "speaker": "narrator",
+  "cer": 0.0,
+  "heard": "Its Glow Fusion formula helps reduce the look of dark spots."
+ },
+ {
+  "id": 5,
+  "speaker": "narrator",
+  "cer": 0.0,
+  "heard": "Every night, one step closer to brighter, even-looking skin."
+ }
+]

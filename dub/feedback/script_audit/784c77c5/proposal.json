@@ -1,0 +1,145 @@
+{
+ "video": "784c77c5",
+ "shots": [
+  {
+   "n": 1,
+   "start": 0,
+   "end": 2.6,
+   "on_screen": "Curly-haired woman in lavender pyjamas at night checks dark spots in a hand mirror."
+  },
+  {
+   "n": 2,
+   "start": 2.6,
+   "end": 4.77,
+   "on_screen": "Overhead: she sketches a face in a notebook and circles the cheeks; jar beside."
+  },
+  {
+   "n": 3,
+   "start": 4.77,
+   "end": 6.8,
+   "on_screen": "She holds the jar out to camera."
+  },
+  {
+   "n": 4,
+   "start": 6.8,
+   "end": 8.43,
+   "on_screen": "Fingertip scoops thick cream; it pulls into a peak."
+  },
+  {
+   "n": 5,
+   "start": 8.43,
+   "end": 9.43,
+   "on_screen": "Cream dotted on forehead, cheeks, nose and chin; hands start smoothing."
+  },
+  {
+   "n": 6,
+   "start": 9.43,
+   "end": 11.27,
+   "on_screen": "Massaging cream in at the mirror."
+  },
+  {
+   "n": 7,
+   "start": 11.27,
+   "end": 15.17,
+   "on_screen": "Jar with three glowing orbs orbiting."
+  },
+  {
+   "n": 8,
+   "start": 15.17,
+   "end": 16.9,
+   "on_screen": "She sleeps; jar on lit nightstand."
+  },
+  {
+   "n": 9,
+   "start": 16.9,
+   "end": 20.04,
+   "on_screen": "Before/after split, after shows fewer-looking spots."
+  }
+ ],
+ "lines": [
+  {
+   "id": 1,
+   "start": 0.0,
+   "slot_s": 4.65,
+   "speaker": "creator",
+   "current": "I started tracking the dark spots that made my skin look uneven, and this became the most important part of my night routine.",
+   "on_screen_during": "S1 checking spots, S2 circling cheeks in notebook",
+   "verdict": "rewrite",
+   "new": "I started tracking the dark spots making my skin look uneven.",
+   "words": 11,
+   "reason": "over length (23w vs 11)"
+  },
+  {
+   "id": 2,
+   "start": 4.8,
+   "slot_s": 1.83,
+   "speaker": "creator",
+   "current": "DERMDOC 2% Kojic Acid Night Cream.",
+   "on_screen_during": "S3 holding jar to camera",
+   "verdict": "keep",
+   "new": "DERMDOC 2% Kojic Acid Night Cream.",
+   "words": 6,
+   "reason": "fits; exact product name kept though 6w vs 4"
+  },
+  {
+   "id": 3,
+   "start": 6.78,
+   "slot_s": 2.47,
+   "speaker": "creator",
+   "current": "The texture is rich and creamy, not watery or stringy.",
+   "on_screen_during": "S4 scoop with cream pulling into a peak, S5 dots on face",
+   "verdict": "rewrite",
+   "new": "Rich, thick, creamy texture.",
+   "words": 4,
+   "reason": "over length; 'not stringy' contradicts the pull on screen"
+  },
+  {
+   "id": 4,
+   "start": 9.4,
+   "slot_s": 1.95,
+   "speaker": "creator",
+   "current": "I massage it in until my skin absorbs everything.",
+   "on_screen_during": "S5/S6 massaging in",
+   "verdict": "rewrite",
+   "new": "Massaged in, fully absorbed.",
+   "words": 4,
+   "reason": "over length"
+  },
+  {
+   "id": 5,
+   "start": 11.5,
+   "slot_s": 3.57,
+   "speaker": "creator",
+   "current": "Kojic Acid, Niacinamide and Alpha Arbutin help reduce the appearance of dark spots.",
+   "on_screen_during": "S7 jar with three orbs",
+   "verdict": "rewrite",
+   "new": "Three actives: Kojic Acid, Niacinamide, Alpha Arbutin.",
+   "words": 7,
+   "reason": "over length; names the three orbs"
+  },
+  {
+   "id": 6,
+   "start": 15.22,
+   "slot_s": 1.53,
+   "speaker": "creator",
+   "current": "I use it consistently every night.",
+   "on_screen_during": "S8 sleeping at night",
+   "verdict": "rewrite",
+   "new": "Every single night.",
+   "words": 3,
+   "reason": "over length"
+  },
+  {
+   "id": 7,
+   "start": 16.9,
+   "slot_s": 3.42,
+   "speaker": "creator",
+   "current": "Two weeks later, my spots look reduced and my skin looks naturally brighter.",
+   "on_screen_during": "S9 before/after split",
+   "verdict": "rewrite",
+   "new": "Two weeks: spots look reduced, skin looks brighter.",
+   "words": 8,
+   "reason": "over length"
+  }
+ ]
+}

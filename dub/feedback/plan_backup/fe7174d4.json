@@ -1,0 +1,36 @@
+{
+ "video_id": "fe7174d4",
+ "kind": "ad",
+ "style": "product_ad",
+ "duration": 20.039002,
+ "cast": [
+  {
+   "id": "narrator",
+   "name": "Voiceover",
+   "role": "narrator"
+  }
+ ],
+ "lines": [
+  {
+   "id": 1,
+   "speaker": "narrator",
+   "start": 0.0,
+   "end": 2.0,
+   "en": "White cast ko light mein test karo."
+  },
+  {
+   "id": 2,
+   "speaker": "narrator",
+   "start": 5.4,
+   "end": 10.26,
+   "en": "DermDoc Ultra Violet Brightening Sunscreen ka purple tint Indian skin mein smoothly blend hota hai."
+  },
+  {
+   "id": 3,
+   "speaker": "narrator",
+   "start": 11.56,
+   "end": 20.0,
+   "en": "4% Niacinamide ke saath SPF 50 PA++ protection—lightweight, non-greasy and no chalky residue. Natural skin tone stays. Bas radiant glow dikhe."
+  }
+ ]
+}

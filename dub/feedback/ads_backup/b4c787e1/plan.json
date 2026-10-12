@@ -1,0 +1,43 @@
+{
+ "video_id": "b4c787e1",
+ "kind": "ad",
+ "style": "product_ad",
+ "duration": 20.039002,
+ "cast": [
+  {
+   "id": "narrator",
+   "name": "Voiceover",
+   "role": "narrator"
+  }
+ ],
+ "lines": [
+  {
+   "id": 1,
+   "speaker": "narrator",
+   "start": 0.0,
+   "end": 2.8,
+   "en": "Dark spots scattered hain? Night routine ko smarter banao."
+  },
+  {
+   "id": 2,
+   "speaker": "narrator",
+   "start": 3.0,
+   "end": 8.34,
+   "en": "DermDoc 2% Kojic Acid Night Cream brings Kojic Acid, Niacinamide aur Alpha Arbutin together."
+  },
+  {
+   "id": 3,
+   "speaker": "narrator",
+   "start": 8.6,
+   "end": 13.98,
+   "en": "Its Glow Fusion Formula helps reduce the appearance of dark spots and supports brighter, more even-looking skin."
+  },
+  {
+   "id": 4,
+   "speaker": "narrator",
+   "start": 14.22,
+   "end": 16.06,
+   "en": "Every night, one step closer to glow."
+  }
+ ]
+}

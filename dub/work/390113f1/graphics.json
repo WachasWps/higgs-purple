@@ -1,0 +1,104 @@
+{
+ "video_id": "390113f1",
+ "product": "kojic_night_cream",
+ "caption_y": 0.9,
+ "caption_moves": [
+  {
+   "start": 12.3,
+   "end": 14.6,
+   "y": 0.497,
+   "ext": 1
+  }
+ ],
+ "elements": [
+  {
+   "type": "hook_mono",
+   "start": 0.15,
+   "end": 1.6,
+   "lines": [
+    "WHAT HAPPENS",
+    "WHILE YOU SLEEP?"
+   ],
+   "position": "top",
+   "anim": "slide_up"
+  },
+  {
+   "type": "label",
+   "start": 5.2,
+   "end": 6.9,
+   "lines": [
+    "THE NIGHT TEAM"
+   ],
+   "x": 0.68,
+   "y": 0.14,
+   "anim": "pop"
+  },
+  {
+   "type": "pill",
+   "start": 7.0,
+   "end": 8.5,
+   "lines": [
+    "2% KOJIC ACID"
+   ],
+   "x": 0.5,
+   "y": 0.17,
+   "anim": "pop"
+  },
+  {
+   "type": "pill",
+   "start": 8.5,
+   "end": 9.95,
+   "lines": [
+    "NIACINAMIDE"
+   ],
+   "x": 0.3,
+   "y": 0.27,
+   "anim": "pop"
+  },
+  {
+   "type": "pill",
+   "start": 9.95,
+   "end": 11.35,
+   "lines": [
+    "ALPHA ARBUTIN"
+   ],
+   "x": 0.7,
+   "y": 0.27,
+   "anim": "pop"
+  },
+  {
+   "type": "claim_bold",
+   "start": 11.45,
+   "end": 12.9,
+   "lines": [
+    "WORKS WHILE",
+    "YOU SLEEP"
+   ],
+   "position": "top",
+   "anim": "fade"
+  },
+  {
+   "type": "label",
+   "start": 12.95,
+   "end": 14.55,
+   "lines": [
+    "BEFORE"
+   ],
+   "x": 0.5,
+   "y": 0.455,
+   "anim": "pop"
+  },
+  {
+   "type": "label",
+   "start": 12.95,
+   "end": 14.55,
+   "lines": [
+    "AFTER 2 WEEKS"
+   ],
+   "x": 0.5,
+   "y": 0.955,
+   "anim": "pop"
+  }
+ ],
+ "notes": "Text pass (client EDL): bedtime hook on KN05 and THE NIGHT TEAM tag on the kept jar/team shot; DARK SPOT GANG, the face-scan HUD and the 'AFTER 2 WEEKS' cover card are removed with the replaced footage. KNA2 orbs get three separate same-style pills staggered near the top (2% KOJIC ACID x.50 y.17, NIACINAMIDE x.30 y.27, ALPHA ARBUTIN x.70 y.27), the KN06 morning wake gets the 'by morning' claim (no '2 weeks'), then the B/A split labels with captions lifted to 0.58. | baked AI text inside former blur boxes erased by inpainting (feedback/detext.py)"
+}

@@ -1,0 +1,6 @@
+Read CODEX_BRIEF.md in this folder first and follow it strictly.
+Attached reference images: ps_tube_with_box.png, ps_tube_swatch.png. Product photos are the ground truth for packaging; the out/*_model_ref.png image is the identity reference for the woman — keep the SAME face, hair and skin tone.
+TASK: generate ONE photorealistic vertical 9:16 keyframe image:
+Cute 3D-animated product mascot: the EXACT DERMDOC Ultra Violet sunscreen tube (same label, layout, lavender ULTRA VIOLET band and wide translucent lavender cap) standing upright on its cap, with big friendly cartoon eyes and a small smiling mouth placed on the plain white area just under the top crimp (above the DERMDOC logo, never covering label text), and two small white cartoon gloved hands on its sides. On a marble bathroom vanity in morning sunlight, blurred plants. Pixar-like but premium.
+
+Use your image generation tool (pass the reference images to it), then copy the generated file to out/PSA1_avatar_talk.png. Reply only with the saved path.

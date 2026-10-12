@@ -1,0 +1,326 @@
+{
+ "video_id": "a9be56d9",
+ "product": "knc",
+ "category": "general_ad / product_ad (Hinglish VO) - 01_KNC_dark-spots-sirf-cover-karna-solution",
+ "shots": [
+  {
+   "n": 1,
+   "start": 0.0,
+   "end": 2.83,
+   "content": "Woman in navy satin PJs at a night mirror touching her cheek, covered in many small round dark dots; hook JUST COVERING DARK SPOTS?",
+   "issues": [
+    "unrealistic chicken-pox-like dots",
+    "model not dusky enough"
+   ],
+   "action": "replace",
+   "replace_with": "KN03_before_night",
+   "custom": null,
+   "note": "Same setting (night mirror, navy night suit), but ANANYA has realistic soft brown patches. One KN03 clip, slowed to 0.96x, covers shots 1+2 (0-5.23)."
+  },
+  {
+   "n": 2,
+   "start": 2.83,
+   "end": 5.23,
+   "content": "Cheek macro of the same woman with a blue HUD scanner box revealing golden pigment dots.",
+   "issues": [
+    "same woman (continuity)",
+    "dotty, unrealistic pigment",
+    "fake HUD/VFX"
+   ],
+   "action": "replace",
+   "replace_with": "KN03_before_night",
+   "custom": null,
+   "note": "Second half of the same KN03 clip (she studies her spots). Our existing HUD-corners super (3.05-4.6) can stay as the 'scan' feel. VO: 'Meet DERMDOC 2% Kojic Acid Night Cream'; the jar appears at 5.23."
+  },
+  {
+   "n": 3,
+   "start": 5.23,
+   "end": 6.8,
+   "content": "Exact closed jar rising through a cobalt light aperture, moon behind.",
+   "issues": [
+    "sci-fi look, but jar label/shape correct"
+   ],
+   "action": "keep",
+   "replace_with": null,
+   "custom": null,
+   "note": "Product reveal right after the name is said. Packaging matches the reference. Keep."
+  },
+  {
+   "n": 4,
+   "start": 6.8,
+   "end": 7.13,
+   "content": "0.3 s: light-skinned hand lifting the white lid off the jar.",
+   "issues": [
+    "hand not dusky (continuity)",
+    "0.3 s flash"
+   ],
+   "action": "replace",
+   "replace_with": "KNA2_avatar_ingredients",
+   "custom": null,
+   "note": "Fold into shot 5. One KNA2 clip covers 6.8-11.43 (4.6 s)."
+  },
+  {
+   "n": 5,
+   "start": 7.13,
+   "end": 11.43,
+   "content": "Extreme skin macro: one big brown blotch plus scattered dots; pill KOJIC + NIACINAMIDE + ALPHA ARBUTIN.",
+   "issues": [
+    "skin looks like terrain, no face",
+    "chicken-pox dots",
+    "ingredients only as one combined pill"
+   ],
+   "action": "replace",
+   "replace_with": "KNA2_avatar_ingredients",
+   "custom": null,
+   "note": "VO line 2: 'Its Glow Fusion Formula with Kojic Acid, Niacinamide and Alpha Arbutin...'. KNA2 is the exact open jar with three rising orbs; label each orb separately in post."
+  },
+  {
+   "n": 6,
+   "start": 11.43,
+   "end": 15.03,
+   "content": "Skin cross-section with dark pigment clusters and gold/blue/violet orbs; super GLOW FUSION FORMULA / REDUCES LOOK OF DARK SPOTS.",
+   "issues": [
+    "skin cross-section 'mountain'",
+    "random fancy VFX"
+   ],
+   "action": "replace",
+   "replace_with": "KN04_apply_night",
+   "custom": null,
+   "note": "VO: '...helps reduce the look of dark spots'. ANANYA massages the cream in at night until it is fully absorbed with no residue. 3.6 s."
+  },
+  {
+   "n": 7,
+   "start": 15.03,
+   "end": 18.77,
+   "content": "Woman in navy PJs at night applying a thick white blob on her cheek while holding the jar.",
+   "issues": [
+    "same original woman (continuity)",
+    "thick mask-like blob, not blended",
+    "no morning result shown"
+   ],
+   "action": "replace",
+   "replace_with": "KN06_morning_wake",
+   "custom": null,
+   "note": "Two pieces. 15.03-16.9: KN06_morning_wake (next morning in daylight, clearer and glowing, super BRIGHTER, CLEARER-LOOKING SKIN BY MORNING), under VO '...brighter, more even-looking skin'. 16.9-18.77: GRAPHIC_BA_SPLIT (KN08_before_day | KN07_after_day), which adds the missing B/A. VO line 3 'Apply at night. Wake up to glow.' plays over it."
+  },
+  {
+   "n": 8,
+   "start": 18.77,
+   "end": 20.04,
+   "content": "Jar with cream swipe inside a circular halo with three molecular orbs.",
+   "issues": [
+    "random fancy shot before endslate"
+   ],
+   "action": "remove",
+   "replace_with": null,
+   "custom": null,
+   "note": "Remove it; the GRAPHIC_BA_SPLIT that starts at 16.9 holds to 20.04 (3.1 s), then the outro."
+  }
+ ],
+ "script_changes": [
+  {
+   "line_id": 1,
+   "old_en": "Dark spots sirf cover karna solution nahi hai. You meet DERMDOC 2% Kojic Acid Night Cream.",
+   "new_en": "Just covering dark spots isn't the solution. Meet DERMDOC 2% Kojic Acid Night Cream.",
+   "reason": "English-only source for regional dubs (no Hindi); full product name kept; same length."
+  },
+  {
+   "line_id": 2,
+   "old_en": "Iski Glow Fusion Formula mein Kojic Acid, Niacinamide aur Alpha Arbutin dark spots ki appearance reduce karke skin ko brighter aur more even-looking banane mein help karte hain.",
+   "new_en": "Its Glow Fusion Formula with Kojic Acid, Niacinamide and Alpha Arbutin helps reduce the look of dark spots for brighter, more even-looking skin.",
+   "reason": "English only; hedged ('helps', 'look of'); the three ingredients named separately to match the labelled orbs."
+  },
+  {
+   "line_id": 3,
+   "old_en": "Raat ko lagao. Sleep to glow.",
+   "new_en": "Apply at night. Wake up to glow.",
+   "reason": "English only. Night application with a morning result, matching the KN06 morning shot and the B/A."
+  }
+ ],
+ "new_lines": [],
+ "supers": [
+  {
+   "action": "remove",
+   "match": "KOJIC + NIACINAMIDE + ALPHA ARBUTIN",
+   "text": null,
+   "start": 9.05,
+   "end": 11.1,
+   "why": "Client: label the three ingredients separately."
+  },
+  {
+   "action": "add",
+   "match": null,
+   "text": "2% KOJIC ACID | NIACINAMIDE | ALPHA ARBUTIN (three separate labels on the three orbs, same style)",
+   "start": 7.4,
+   "end": 11.3,
+   "why": "Labelled ingredient visuals."
+  },
+  {
+   "action": "change",
+   "match": "GLOW FUSION FORMULA / REDUCES LOOK OF DARK SPOTS",
+   "text": "GLOW FUSION FORMULA | sub: HELPS REDUCE THE LOOK OF DARK SPOTS",
+   "start": 11.6,
+   "end": 13.8,
+   "why": "Hedged claim; it now sits on the KN04 night application."
+  },
+  {
+   "action": "add",
+   "match": null,
+   "text": "BRIGHTER, CLEARER-LOOKING SKIN BY MORNING",
+   "start": 15.1,
+   "end": 16.85,
+   "why": "Client wording for the morning frame (not '2 weeks')."
+  },
+  {
+   "action": "change",
+   "match": "BEFORE",
+   "text": "BEFORE (left) / AFTER (right) + 'AFTER 2 WEEKS' under after",
+   "start": 16.95,
+   "end": 20.0,
+   "why": "Adds the missing KNC split-screen B/A with the required label."
+  }
+ ],
+ "voice_changes": [
+  {
+   "speaker": "narrator",
+   "to": "female",
+   "why": "Client: female VO only."
+  }
+ ],
+ "summary": "The original woman (chicken-pox dots, HUD macro, blob application) is replaced throughout by ANANYA: realistic spots, night application, morning glow. The skin macro and cross-section become KNA2 with the 3 ingredients labelled separately. A real AFTER 2 WEEKS split is added and the fancy halo ending is removed. Only the jar-rise shot is kept.",
+ "rebuild": {
+  "concept": "DON'T JUST COVER IT: realistic dark-spot problem, then the exact jar, a labelled ingredient macro, night application, morning glow and an honest 2-week B/A.",
+  "target_duration_s": 18.0,
+  "narrator": "narrator_female (confident, premium; English source, dubbed to Bengali/Tamil/Telugu/Malayalam/Odia only)",
+  "custom_count": 1,
+  "shots": [
+   {
+    "n": 1,
+    "start": 0.0,
+    "end": 2.7,
+    "source": "KN03_before_night",
+    "content": "ANANYA at the night mirror studying realistic soft brown spots on her cheekbones.",
+    "super": "JUST COVERING DARK SPOTS?",
+    "vo": 1
+   },
+   {
+    "n": 2,
+    "start": 2.7,
+    "end": 5.8,
+    "source": "KN02_scoop",
+    "content": "Macro: her fingertip lifts a soft peak of thick whipped cream from the exact open jar under warm lamp light.",
+    "super": "DERMDOC 2% KOJIC ACID NIGHT CREAM",
+    "vo": 2
+   },
+   {
+    "n": 3,
+    "start": 5.8,
+    "end": 10.3,
+    "source": "CUSTOM_KNC_INGR_MACRO",
+    "content": "Night-blue studio macro dolly across three glass dishes; each ingredient is labelled as focus lands.",
+    "super": "2% KOJIC ACID / NIACINAMIDE / ALPHA ARBUTIN (separate), then GLOW FUSION FORMULA",
+    "vo": 3
+   },
+   {
+    "n": 4,
+    "start": 10.3,
+    "end": 13.1,
+    "source": "KN04_apply_night",
+    "content": "Night application; the cream massages in and fully absorbs with no residue.",
+    "super": "HELPS REDUCE THE LOOK OF DARK SPOTS",
+    "vo": 4
+   },
+   {
+    "n": 5,
+    "start": 13.1,
+    "end": 14.3,
+    "source": "KN05_sleep",
+    "content": "She sleeps; moonlight warms into dawn.",
+    "super": null,
+    "vo": 5
+   },
+   {
+    "n": 6,
+    "start": 14.3,
+    "end": 15.8,
+    "source": "KN06_morning_wake",
+    "content": "Morning daylight: clearer, glowing, spotless-looking skin; she smiles.",
+    "super": "BRIGHTER, CLEARER-LOOKING SKIN BY MORNING",
+    "vo": 5
+   },
+   {
+    "n": 7,
+    "start": 15.8,
+    "end": 18.0,
+    "source": "GRAPHIC_BA_SPLIT",
+    "content": "KN08_before_day | KN07_after_day vertical half/half, face not cropped. Then cut to the outro.",
+    "super": "BEFORE | AFTER + 'AFTER 2 WEEKS' under after",
+    "vo": 6
+   }
+  ],
+  "vo": [
+   {
+    "id": 1,
+    "start": 0.2,
+    "end": 2.6,
+    "en": "Covering dark spots isn't the solution."
+   },
+   {
+    "id": 2,
+    "start": 2.9,
+    "end": 5.6,
+    "en": "Meet DERMDOC 2% Kojic Acid Night Cream."
+   },
+   {
+    "id": 3,
+    "start": 5.9,
+    "end": 10.2,
+    "en": "Its Glow Fusion Formula: Kojic Acid, Niacinamide and Alpha Arbutin."
+   },
+   {
+    "id": 4,
+    "start": 10.5,
+    "end": 13.0,
+    "en": "It helps reduce the look of dark spots."
+   },
+   {
+    "id": 5,
+    "start": 13.3,
+    "end": 15.6,
+    "en": "Apply at night. Wake up glowing."
+   },
+   {
+    "id": 6,
+    "start": 15.9,
+    "end": 17.7,
+    "en": "Brighter, more even-looking skin."
+   }
+  ],
+  "custom_shots": {
+   "CUSTOM_KNC_INGR_MACRO": {
+    "shared": "Same clip as in 426b77bb: generate ONCE and reuse in all 5 KNC general-ad rebuilds.",
+    "keyframe": "Vertical 9:16 premium night-skincare studio macro: glossy deep-navy surface with soft reflections, dark-blue gradient background with gentle bokeh, warm key light plus cool blue rim light, shallow depth of field. Three small shallow round clear-glass dishes in a gentle diagonal from lower-left to upper-right, well separated. Dish 1 holds fine translucent pale-amber crystals (kojic acid). Dish 2 holds one glossy crystal-clear serum bead (niacinamide). Dish 3 holds a small mound of soft pearly-white powder (alpha arbutin). Clean empty dark space beside each dish for labels added in post. No jar, no packaging, no hands, no people, no text, no letters.",
+    "motion": "Slow lateral macro dolly from dish 1 to dish 3, with a gentle rack focus landing on each dish in turn (about 1.6 s each). The crystals sparkle softly, the serum bead trembles and the powder glints. Nothing merges or moves between dishes.",
+    "post_labels": [
+     "2% KOJIC ACID (dish 1)",
+     "NIACINAMIDE (dish 2)",
+     "ALPHA ARBUTIN (dish 3)"
+    ]
+   }
+  },
+  "dropped_from_current": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8
+  ],
+  "reused_from_current": [],
+  "notes": "No scanner HUD, skin terrain, molecular orbs or halo ending. The only woman is ANANYA. Night application, morning results, and no spots after application. New credits: one shared KNC CUSTOM clip.",
+  "vo_budget_note": "English VO is about 249 characters over 17.5 s. The regional dubs (spoken at about 14 chars/s, with numbers spoken as words, e.g. 'SPF fifty PA triple plus') will run longer, so transcreate tightly. If a language overflows, trim connectives first, never the ingredient names, 'Instant Glow' or the full product name."
+ },
+ "use_rebuild": true
+}

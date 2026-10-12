@@ -1,0 +1,42 @@
+[
+ {
+  "id": 1,
+  "speaker": "uv_villain",
+  "cer": 0.17,
+  "heard": "ఎండవత్చింది పదన్రా ఆమిని పట్టెయదం.",
+  "redub": true
+ },
+ {
+  "id": 2,
+  "speaker": "sunscreen_tube",
+  "cer": 0.25,
+  "heard": "నేనుండగా, నో చాంస్."
+ },
+ {
+  "id": 3,
+  "speaker": "spf_shield",
+  "cer": 0.25,
+  "heard": "వీయోవబీ రెండో బ్లోగ్డా.",
+  "redub": true
+ },
+ {
+  "id": 4,
+  "speaker": "purple_tint",
+  "cer": 0.08,
+  "heard": "కలార్ వీల్ చప్తుంది పసుపు డల్నిస్ నిను కాంసుల్ చస్తా.",
+  "redub": true
+ },
+ {
+  "id": 5,
+  "speaker": "niacinamide",
+  "cer": 0.17,
+  "heard": "ఇదియో స్కిన కోసమీ తయా రింది. హలో ఇన్స్ట్ గోవ్.",
+  "redub": true
+ },
+ {
+  "id": 6,
+  "speaker": "sunscreen_tube",
+  "cer": 0.17,
+  "heard": "రాయండా మేం రేడి."
+ }
+]

@@ -1,0 +1,180 @@
+{
+ "language": "en",
+ "segments": [
+  {
+   "seg": 0,
+   "start": 0.78,
+   "end": 9.96,
+   "text": "Morning skin drama again? Relax. Purple tint SPF 50 PA Plus and 4% niacinamide. Blend me in.",
+   "f0_median_hz": 156,
+   "words": [
+    [
+     "Morning",
+     0.78,
+     1.54
+    ],
+    [
+     "skin",
+     1.54,
+     1.88
+    ],
+    [
+     "drama",
+     1.88,
+     2.3
+    ],
+    [
+     "again?",
+     2.3,
+     2.68
+    ],
+    [
+     "Relax.",
+     3.38,
+     4.14
+    ],
+    [
+     "Purple",
+     4.6,
+     5.14
+    ],
+    [
+     "tint",
+     5.14,
+     5.44
+    ],
+    [
+     "SPF",
+     5.44,
+     6.14
+    ],
+    [
+     "50",
+     6.14,
+     6.46
+    ],
+    [
+     "PA",
+     6.46,
+     6.84
+    ],
+    [
+     "Plus",
+     6.84,
+     7.2
+    ],
+    [
+     "and",
+     7.2,
+     7.64
+    ],
+    [
+     "4",
+     7.64,
+     7.9
+    ],
+    [
+     "%",
+     7.9,
+     8.2
+    ],
+    [
+     "niacinamide.",
+     8.2,
+     8.98
+    ],
+    [
+     "Blend",
+     9.16,
+     9.5
+    ],
+    [
+     "me",
+     9.5,
+     9.7
+    ],
+    [
+     "in.",
+     9.7,
+     9.96
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 1,
+   "start": 10.52,
+   "end": 15.4,
+   "text": "No ashy looking finish. Protected. Bright looking. Ready.",
+   "f0_median_hz": 142,
+   "words": [
+    [
+     "No",
+     10.52,
+     11.26
+    ],
+    [
+     "ashy",
+     11.26,
+     11.64
+    ],
+    [
+     "looking",
+     11.64,
+     11.86
+    ],
+    [
+     "finish.",
+     11.86,
+     12.32
+    ],
+    [
+     "Protected.",
+     12.84,
+     13.44
+    ],
+    [
+     "Bright",
+     13.6,
+     14.08
+    ],
+    [
+     "looking.",
+     14.08,
+     14.42
+    ],
+    [
+     "Ready.",
+     14.94,
+     15.4
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 2,
+   "start": 17.9,
+   "end": 19.44,
+   "text": "Glow, then go.",
+   "f0_median_hz": 139,
+   "words": [
+    [
+     "Glow,",
+     17.9,
+     18.66
+    ],
+    [
+     "then",
+     18.8,
+     19.18
+    ],
+    [
+     "go.",
+     19.18,
+     19.44
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  }
+ ]
+}

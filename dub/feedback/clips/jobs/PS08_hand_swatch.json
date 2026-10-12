@@ -1,0 +1,31 @@
+[
+  {
+    "created_at": "2026-10-09T13:12:47.465666Z",
+    "display_name": "Wan 3.0",
+    "id": "5c4738cd-2964-4ba7-adf9-0ff5b58a6cee",
+    "job_type": "wan3_0",
+    "min_result_url": null,
+    "params": {
+      "aspect_ratio": "9:16",
+      "duration": 5,
+      "generate_audio": false,
+      "height": 1344,
+      "medias": [
+        {
+          "data": {
+            "id": "c49413b3-61dc-46b0-b583-965fd3e99e2d",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3A6ZxB95Mnf55lwPBqzkePnTfzA/c49413b3-61dc-46b0-b583-965fd3e99e2d.png"
+          },
+          "role": "start_image"
+        }
+      ],
+      "prompt": "Fingertips rub the stripe in circles; the lavender vanishes completely leaving no white cast and no residue; the skin on that patch looks visibly more even and radiant than before. Photorealistic, natural motion, stable identity, product packaging stays exactly as in the first frame, no text appears.",
+      "resolution": "480p",
+      "width": 768
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3A6ZxB95Mnf55lwPBqzkePnTfzA/hf_20261009_131247_5c4738cd-2964-4ba7-adf9-0ff5b58a6cee.mp4",
+    "status": "completed",
+    "thumbnail_url": "https://cdn.higgsfield.ai/user_3A6ZxB95Mnf55lwPBqzkePnTfzA/hf_20261009_131247_5c4738cd-2964-4ba7-adf9-0ff5b58a6cee_thumbnail.webp"
+  }
+]

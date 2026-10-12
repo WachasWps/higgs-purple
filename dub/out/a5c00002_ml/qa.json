@@ -1,0 +1,58 @@
+[
+ {
+  "id": 1,
+  "speaker": "creator",
+  "cer": 0.34,
+  "heard": "ഇന്ദിലേ രാത്രി ഉരങണ് പോയപോല്, പെട്ട്ന് ഓരമവന്ദോ.",
+  "redub": true
+ },
+ {
+  "id": 2,
+  "speaker": "creator",
+  "cer": 0.36,
+  "heard": "അയോ സകനകയർചേദിലാ.",
+  "redub": true
+ },
+ {
+  "id": 3,
+  "speaker": "creator",
+  "cer": 1.0,
+  "heard": "Идо нянский пидже ярыйля",
+  "redub": true
+ },
+ {
+  "id": 4,
+  "speaker": "creator",
+  "cer": 0.15,
+  "heard": "Kavilil Step-in Sports Hyundai",
+  "redub": true
+ },
+ {
+  "id": 5,
+  "speaker": "creator",
+  "cer": 0.35,
+  "heard": "ഇപ്പൽ ഫേടാഗന്നപ്ലെ തോനുന്.",
+  "redub": true
+ },
+ {
+  "id": 6,
+  "speaker": "creator",
+  "cer": 0.15,
+  "heard": "Dermarok 2% Kojic Acid Night Cream",
+  "redub": true
+ },
+ {
+  "id": 7,
+  "speaker": "creator",
+  "cer": 0.56,
+  "heard": "പുരട�് ലയ്ട�് ചേയ�് ഔ്രങ്ക്.",
+  "redub": true
+ },
+ {
+  "id": 8,
+  "speaker": "creator",
+  "cer": 0.15,
+  "heard": "...skin ...",
+  "redub": true
+ }
+]

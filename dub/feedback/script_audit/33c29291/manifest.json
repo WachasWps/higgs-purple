@@ -1,0 +1,237 @@
+{
+ "video": "33c29291",
+ "style": "product_avatar",
+ "cast": [
+  {
+   "id": "white_cast",
+   "name": "White Cast",
+   "description": "Small fuzzy chalky-white cartoon blob (White Cast villain) smearing a grey-white streak on the woman's cheek; mischievous, scheming, mock-menacing gremlin voice"
+  },
+  {
+   "id": "sunscreen",
+   "name": "DERMDOC Ultra Violet Sunscreen",
+   "description": "Talking white DERMDOC Ultra Violet sunscreen tube with lavender cap, eyes, eyebrows, purple arms and lavender shoes; bright, bouncy, confident cartoon voice with a sassy edge"
+  }
+ ],
+ "lines": [
+  {
+   "id": 1,
+   "start": 0.0,
+   "end": 2.22,
+   "speaker": "white_cast",
+   "en": "I'll make this sunscreen impossible to miss!"
+  },
+  {
+   "id": 2,
+   "start": 2.36,
+   "end": 4.22,
+   "speaker": "sunscreen",
+   "en": "Wrong shade. Wrong sunscreen."
+  },
+  {
+   "id": 3,
+   "start": 4.58,
+   "end": 7.38,
+   "speaker": "sunscreen",
+   "en": "Purple sits opposite yellow, so it cancels dullness."
+  },
+  {
+   "id": 4,
+   "start": 7.54,
+   "end": 9.64,
+   "speaker": "sunscreen",
+   "en": "Purple Tint, made for Indian skin."
+  },
+  {
+   "id": 5,
+   "start": 10.26,
+   "end": 12.7,
+   "speaker": "sunscreen",
+   "en": "Four percent niacinamide helps brighten."
+  },
+  {
+   "id": 6,
+   "start": 12.98,
+   "end": 15.66,
+   "speaker": "sunscreen",
+   "en": "And SPF 50 PA+++ protects."
+  },
+  {
+   "id": 7,
+   "start": 15.9,
+   "end": 19.48,
+   "speaker": "sunscreen",
+   "en": "No white cast. Just protected skin and instant glow."
+  }
+ ],
+ "shots": [
+  {
+   "n": 1,
+   "start": 0,
+   "end": 4.6,
+   "what": "PILOT_33c29291_S1",
+   "frames": [
+    "s01_0.jpg",
+    "s01_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 1,
+     "start": 0.0,
+     "end": 2.22,
+     "speaker": "white_cast",
+     "en": "I'll make this sunscreen impossible to miss!"
+    },
+    {
+     "id": 2,
+     "start": 2.36,
+     "end": 4.22,
+     "speaker": "sunscreen",
+     "en": "Wrong shade. Wrong sunscreen."
+    },
+    {
+     "id": 3,
+     "start": 4.58,
+     "end": 7.38,
+     "speaker": "sunscreen",
+     "en": "Purple sits opposite yellow, so it cancels dullness."
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "start": 4.6,
+   "end": 7.6,
+   "what": "PILOT_33c29291_S2",
+   "frames": [
+    "s02_0.jpg",
+    "s02_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 3,
+     "start": 4.58,
+     "end": 7.38,
+     "speaker": "sunscreen",
+     "en": "Purple sits opposite yellow, so it cancels dullness."
+    },
+    {
+     "id": 4,
+     "start": 7.54,
+     "end": 9.64,
+     "speaker": "sunscreen",
+     "en": "Purple Tint, made for Indian skin."
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "start": 7.6,
+   "end": 10.8,
+   "what": "PS08_hand_swatch",
+   "frames": [
+    "s03_0.jpg",
+    "s03_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 4,
+     "start": 7.54,
+     "end": 9.64,
+     "speaker": "sunscreen",
+     "en": "Purple Tint, made for Indian skin."
+    },
+    {
+     "id": 5,
+     "start": 10.26,
+     "end": 12.7,
+     "speaker": "sunscreen",
+     "en": "Four percent niacinamide helps brighten."
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "start": 10.8,
+   "end": 11.45,
+   "what": "original footage",
+   "frames": [
+    "s04_0.jpg",
+    "s04_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 5,
+     "start": 10.26,
+     "end": 12.7,
+     "speaker": "sunscreen",
+     "en": "Four percent niacinamide helps brighten."
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "start": 11.45,
+   "end": 13.05,
+   "what": "GRAPHIC_BA_SPLIT",
+   "frames": [
+    "s05_0.jpg",
+    "s05_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 5,
+     "start": 10.26,
+     "end": 12.7,
+     "speaker": "sunscreen",
+     "en": "Four percent niacinamide helps brighten."
+    },
+    {
+     "id": 6,
+     "start": 12.98,
+     "end": 15.66,
+     "speaker": "sunscreen",
+     "en": "And SPF 50 PA+++ protects."
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "start": 13.05,
+   "end": 15.9,
+   "what": "original footage",
+   "frames": [
+    "s06_0.jpg",
+    "s06_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 6,
+     "start": 12.98,
+     "end": 15.66,
+     "speaker": "sunscreen",
+     "en": "And SPF 50 PA+++ protects."
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "start": 15.9,
+   "end": 20.04,
+   "what": "PILOT_33c29291_S5",
+   "frames": [
+    "s07_0.jpg",
+    "s07_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 7,
+     "start": 15.9,
+     "end": 19.48,
+     "speaker": "sunscreen",
+     "en": "No white cast. Just protected skin and instant glow."
+    }
+   ]
+  }
+ ]
+}

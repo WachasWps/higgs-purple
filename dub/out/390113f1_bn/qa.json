@@ -1,0 +1,37 @@
+[
+ {
+  "id": 1,
+  "speaker": "dark_spot",
+  "cer": 0.18,
+  "heard": "চট পাট মিয়টা গুমোচেকে",
+  "redub": true
+ },
+ {
+  "id": 2,
+  "speaker": "knc_jar",
+  "cer": 0.0,
+  "heard": "আরা আমার নইট টিম জেগে",
+  "redub": true
+ },
+ {
+  "id": 3,
+  "speaker": "kojic_acid",
+  "cer": 0.21,
+  "heard": "সোষ অমরকাচ কুছি আমি ডাক স্পটি নাযসিনামাইড ডালো নেসে।",
+  "redub": true
+ },
+ {
+  "id": 4,
+  "speaker": "narrator",
+  "cer": 0.21,
+  "heard": "তিন্টে একটিব শারারাত দুই সপতহু পরসবট কম লাখছে।",
+  "redub": true
+ },
+ {
+  "id": 5,
+  "speaker": "knc_jar",
+  "cer": 0.14,
+  "heard": "ডাক সপটে রাতে ও ছুটি নেই",
+  "redub": true
+ }
+]

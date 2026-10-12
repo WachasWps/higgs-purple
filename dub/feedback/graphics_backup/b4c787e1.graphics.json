@@ -1,0 +1,104 @@
+{
+ "video_id": "b4c787e1",
+ "product": "kojic_night_cream",
+ "caption_y": 0.9,
+ "elements": [
+  {
+   "type": "hook_mono",
+   "start": 0.2,
+   "end": 2.7,
+   "lines": [
+    "DARK SPOTS",
+    "SCATTERED?"
+   ],
+   "anim": "slide_up",
+   "position": "lower"
+  },
+  {
+   "type": "label",
+   "start": 6.2,
+   "end": 10.0,
+   "lines": [
+    "2% KOJIC ACID"
+   ],
+   "x": 0.5,
+   "y": 0.17,
+   "anim": "pop"
+  },
+  {
+   "type": "label",
+   "start": 7.1,
+   "end": 10.0,
+   "lines": [
+    "NIACINAMIDE"
+   ],
+   "x": 0.3,
+   "y": 0.27,
+   "anim": "pop"
+  },
+  {
+   "type": "label",
+   "start": 8.0,
+   "end": 10.0,
+   "lines": [
+    "ALPHA ARBUTIN"
+   ],
+   "x": 0.7,
+   "y": 0.27,
+   "anim": "pop"
+  },
+  {
+   "type": "pill",
+   "start": 10.2,
+   "end": 11.5,
+   "lines": [
+    "GLOW FUSION",
+    "FORMULA"
+   ],
+   "x": 0.3,
+   "y": 0.22,
+   "anim": "pop"
+  },
+  {
+   "type": "claim_bold",
+   "start": 11.7,
+   "end": 13.3,
+   "lines": [
+    "DARK SPOTS"
+   ],
+   "sub": "HELPS REDUCE THEIR LOOK",
+   "position": "lower",
+   "anim": "fade"
+  },
+  {
+   "type": "label",
+   "start": 15.3,
+   "end": 17.8,
+   "lines": [
+    "BEFORE"
+   ],
+   "x": 0.5,
+   "y": 0.455,
+   "anim": "pop"
+  },
+  {
+   "type": "label",
+   "start": 15.3,
+   "end": 17.8,
+   "lines": [
+    "AFTER 2 WEEKS"
+   ],
+   "x": 0.5,
+   "y": 0.955,
+   "anim": "pop"
+  }
+ ],
+ "caption_moves": [
+  {
+   "start": 15.3,
+   "end": 17.8,
+   "y": 0.58
+  }
+ ],
+ "notes": "Hook low on the KN08 daylight spots; three ingredient labels on the macro; Glow Fusion pill upper-left on KN02 (clear of the finger and the jar label); hedged dark-spot claim low on KN04; B/A BEFORE / AFTER 2 WEEKS."
+}

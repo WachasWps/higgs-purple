@@ -1,0 +1,280 @@
+{
+ "video": "595689d8",
+ "style": "product_avatar",
+ "cast": [
+  {
+   "id": "dullness",
+   "name": "Dullness",
+   "description": "smoky ghost villain inside the mirror who dims the woman's glow, deep growly menacing voice"
+  },
+  {
+   "id": "jar",
+   "name": "DERMDOC Kojic Night Cream Jar",
+   "description": "talking DERMDOC 2% Kojic Acid Night Cream jar with cartoon eyes and gloved hands, confident bright bouncy cartoon voice"
+  },
+  {
+   "id": "woman",
+   "name": "Woman",
+   "description": "real adult Indian woman, after-2-weeks reveal at the mirror, warm happy natural voice"
+  }
+ ],
+ "lines": [
+  {
+   "id": 1,
+   "start": 0.0,
+   "end": 2.44,
+   "speaker": "dullness",
+   "en": "I control tonight's complexion."
+  },
+  {
+   "id": 2,
+   "start": 2.6,
+   "end": 4.0,
+   "speaker": "jar",
+   "en": "Step away from the controls."
+  },
+  {
+   "id": 3,
+   "start": 4.36,
+   "end": 5.94,
+   "speaker": "jar",
+   "en": "Activating my 3Xpert formula."
+  },
+  {
+   "id": 4,
+   "start": 6.18,
+   "end": 8.42,
+   "speaker": "jar",
+   "en": "Kojic acid targets the appearance of dark spots."
+  },
+  {
+   "id": 5,
+   "start": 8.68,
+   "end": 9.78,
+   "speaker": "jar",
+   "en": "Niacinamide, for more even-looking skin."
+  },
+  {
+   "id": 6,
+   "start": 9.96,
+   "end": 11.96,
+   "speaker": "jar",
+   "en": "And alpha arbutin joins the brightening action."
+  },
+  {
+   "id": 7,
+   "start": 12.26,
+   "end": 13.98,
+   "speaker": "jar",
+   "en": "Now let the night shift begin."
+  },
+  {
+   "id": 8,
+   "start": 14.24,
+   "end": 17.34,
+   "speaker": "woman",
+   "en": "Dark spots look reduced. My glow looks switched on."
+  },
+  {
+   "id": 9,
+   "start": 17.8,
+   "end": 19.8,
+   "speaker": "jar",
+   "en": "DERMDOC 2% Kojic Acid Night Cream."
+  }
+ ],
+ "shots": [
+  {
+   "n": 1,
+   "start": 0,
+   "end": 2.5,
+   "what": "original footage",
+   "frames": [
+    "s01_0.jpg",
+    "s01_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 1,
+     "start": 0.0,
+     "end": 2.44,
+     "speaker": "dullness",
+     "en": "I control tonight's complexion."
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "start": 2.5,
+   "end": 4.3,
+   "what": "original footage",
+   "frames": [
+    "s02_0.jpg",
+    "s02_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 2,
+     "start": 2.6,
+     "end": 4.0,
+     "speaker": "jar",
+     "en": "Step away from the controls."
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "start": 4.3,
+   "end": 6.1,
+   "what": "original footage",
+   "frames": [
+    "s03_0.jpg",
+    "s03_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 3,
+     "start": 4.36,
+     "end": 5.94,
+     "speaker": "jar",
+     "en": "Activating my 3Xpert formula."
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "start": 6.1,
+   "end": 9.9,
+   "what": "original footage",
+   "frames": [
+    "s04_0.jpg",
+    "s04_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 4,
+     "start": 6.18,
+     "end": 8.42,
+     "speaker": "jar",
+     "en": "Kojic acid targets the appearance of dark spots."
+    },
+    {
+     "id": 5,
+     "start": 8.68,
+     "end": 9.78,
+     "speaker": "jar",
+     "en": "Niacinamide, for more even-looking skin."
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "start": 9.9,
+   "end": 11.6,
+   "what": "original footage",
+   "frames": [
+    "s05_0.jpg",
+    "s05_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 6,
+     "start": 9.96,
+     "end": 11.96,
+     "speaker": "jar",
+     "en": "And alpha arbutin joins the brightening action."
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "start": 11.6,
+   "end": 14.3,
+   "what": "KN02_scoop",
+   "frames": [
+    "s06_0.jpg",
+    "s06_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 6,
+     "start": 9.96,
+     "end": 11.96,
+     "speaker": "jar",
+     "en": "And alpha arbutin joins the brightening action."
+    },
+    {
+     "id": 7,
+     "start": 12.26,
+     "end": 13.98,
+     "speaker": "jar",
+     "en": "Now let the night shift begin."
+    },
+    {
+     "id": 8,
+     "start": 14.24,
+     "end": 17.34,
+     "speaker": "woman",
+     "en": "Dark spots look reduced. My glow looks switched on."
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "start": 14.3,
+   "end": 15.7,
+   "what": "original footage",
+   "frames": [
+    "s07_0.jpg",
+    "s07_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 8,
+     "start": 14.24,
+     "end": 17.34,
+     "speaker": "woman",
+     "en": "Dark spots look reduced. My glow looks switched on."
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "start": 15.7,
+   "end": 17.43,
+   "what": "GRAPHIC_BA_SPLIT",
+   "frames": [
+    "s08_0.jpg",
+    "s08_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 8,
+     "start": 14.24,
+     "end": 17.34,
+     "speaker": "woman",
+     "en": "Dark spots look reduced. My glow looks switched on."
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "start": 17.43,
+   "end": 20.0,
+   "what": "original footage",
+   "frames": [
+    "s09_0.jpg",
+    "s09_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 9,
+     "start": 17.8,
+     "end": 19.8,
+     "speaker": "jar",
+     "en": "DERMDOC 2% Kojic Acid Night Cream."
+    }
+   ]
+  }
+ ]
+}

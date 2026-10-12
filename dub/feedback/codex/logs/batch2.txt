@@ -1,0 +1,3 @@
+PS06_glow_after: OK
+PSA2_avatar_point: OK
+PS07_before_dull: OK

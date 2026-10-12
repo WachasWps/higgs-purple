@@ -1,0 +1,97 @@
+{
+ "video_id": "eab38211",
+ "product": "kojic_night_cream",
+ "caption_y": 0.9,
+ "no_outro": true,
+ "own_music": false,
+ "caption_moves": [
+  {
+   "start": 22.3,
+   "end": 24.4,
+   "y": 0.58
+  }
+ ],
+ "elements": [
+  {
+   "type": "hook_mono",
+   "start": 0.2,
+   "end": 1.9,
+   "lines": [
+    "NEW DARK",
+    "SPOTS?"
+   ],
+   "position": "lower",
+   "anim": "slide_up"
+  },
+  {
+   "type": "label",
+   "start": 5.0,
+   "end": 7.0,
+   "lines": [
+    "RICH. NEVER HEAVY."
+   ],
+   "x": 0.5,
+   "y": 0.8,
+   "anim": "pop"
+  },
+  {
+   "type": "label",
+   "start": 10.0,
+   "end": 11.8,
+   "lines": [
+    "EVERY NIGHT"
+   ],
+   "x": 0.5,
+   "y": 0.8,
+   "anim": "pop"
+  },
+  {
+   "type": "claim_bold",
+   "start": 16.2,
+   "end": 18.9,
+   "lines": [
+    "GLOW FUSION",
+    "FORMULA"
+   ],
+   "sub": "KOJIC · NIACINAMIDE · ARBUTIN",
+   "x": 0.5,
+   "y": 0.2,
+   "anim": "fade"
+  },
+  {
+   "type": "pill",
+   "start": 19.2,
+   "end": 21.6,
+   "lines": [
+    "3 ACTIVES",
+    "1 JAR"
+   ],
+   "x": 0.5,
+   "y": 0.12,
+   "anim": "pop"
+  },
+  {
+   "type": "label",
+   "start": 22.4,
+   "end": 24.3,
+   "lines": [
+    "BEFORE"
+   ],
+   "x": 0.5,
+   "y": 0.455,
+   "anim": "pop"
+  },
+  {
+   "type": "label",
+   "start": 22.4,
+   "end": 24.3,
+   "lines": [
+    "AFTER 2 WEEKS"
+   ],
+   "x": 0.5,
+   "y": 0.895,
+   "anim": "pop"
+  }
+ ],
+ "notes": "user's General Ad: text only where the footage has none baked in; own end card + music"
+}

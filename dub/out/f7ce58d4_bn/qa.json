@@ -1,0 +1,46 @@
+[
+ {
+  "id": 1,
+  "speaker": "kojic_jar",
+  "cer": 0.25,
+  "heard": "डার্ক সবট দের আবর মিটিং্গ বুশে ছে।"
+ },
+ {
+  "id": 2,
+  "speaker": "kojic_jar",
+  "cer": 0.15,
+  "heard": "Night team, meeting canceled.",
+  "redub": true
+ },
+ {
+  "id": 3,
+  "speaker": "kojic_acid",
+  "cer": 0.14,
+  "heard": "জেদি ডাক স্পাট আমিশাম লবু।"
+ },
+ {
+  "id": 4,
+  "speaker": "niacinamide",
+  "cer": 0.14,
+  "heard": "আট ডালনেস আমি হাপিশ করো।"
+ },
+ {
+  "id": 5,
+  "speaker": "alpha_arbutin",
+  "cer": 0.24,
+  "heard": "আনি঵েন টুন আমার পুর ছিরে দাও।"
+ },
+ {
+  "id": 6,
+  "speaker": "narrator",
+  "cer": 0.11,
+  "heard": "রিচ করিম পুরো এপ্জারবোড দুই সপতাহে স্পট কম লাগছে।",
+  "redub": true
+ },
+ {
+  "id": 7,
+  "speaker": "narrator",
+  "cer": 0.15,
+  "heard": "Darmdok 2% Kojic Acid Night Cream"
+ }
+]

@@ -1,0 +1,82 @@
+{
+ "video_id": "f7ce58d4",
+ "product": "kojic_night_cream",
+ "caption_y": 0.92,
+ "caption_moves": [
+  {
+   "start": 11.5,
+   "end": 13.77,
+   "y": 0.497,
+   "ext": 1
+  }
+ ],
+ "elements": [
+  {
+   "type": "hook_mono",
+   "start": 0.15,
+   "end": 2.2,
+   "lines": [
+    "DARK SPOTS",
+    "AGAIN?"
+   ],
+   "position": "top",
+   "anim": "slide_up"
+  },
+  {
+   "type": "pill",
+   "start": 5.07,
+   "end": 6.7,
+   "lines": [
+    "2% KOJIC ACID"
+   ],
+   "x": 0.5,
+   "y": 0.17,
+   "anim": "pop"
+  },
+  {
+   "type": "pill",
+   "start": 6.7,
+   "end": 8.3,
+   "lines": [
+    "NIACINAMIDE"
+   ],
+   "x": 0.3,
+   "y": 0.27,
+   "anim": "pop"
+  },
+  {
+   "type": "pill",
+   "start": 8.3,
+   "end": 9.9,
+   "lines": [
+    "ALPHA ARBUTIN"
+   ],
+   "x": 0.7,
+   "y": 0.27,
+   "anim": "pop"
+  },
+  {
+   "type": "label",
+   "start": 12.15,
+   "end": 13.72,
+   "lines": [
+    "BEFORE"
+   ],
+   "x": 0.5,
+   "y": 0.455,
+   "anim": "pop"
+  },
+  {
+   "type": "label",
+   "start": 12.15,
+   "end": 13.72,
+   "lines": [
+    "AFTER 2 WEEKS"
+   ],
+   "x": 0.5,
+   "y": 0.955,
+   "anim": "pop"
+  }
+ ],
+ "notes": "Text pass (client EDL): the 'Dark spots again?' hook that was baked into the replaced opening returns as our hook on KN03; the three ingredient cards become plain same-style pills (no cover masks, KNA2 has no baked text) staggered over the gold, icy and pink orbs on L3/L4/L5; the corners HUD gives way to the new B/A split labels (captions at 0.58); the blur over the garbled '- Honeet Suience' tagline on the kept packshot stays. | baked AI text inside former blur boxes erased by inpainting (feedback/detext.py) | baked AI text inside former blur boxes erased by inpainting (feedback/detext.py)"
+}

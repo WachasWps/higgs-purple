@@ -1,0 +1,109 @@
+{
+ "video_id": "71e0977a",
+ "product": "kojic_night_cream",
+ "caption_y": 0.9,
+ "caption_moves": [
+  {
+   "start": 12.57,
+   "end": 14.3,
+   "y": 0.58
+  }
+ ],
+ "elements": [
+  {
+   "type": "label",
+   "start": 0.15,
+   "end": 1.65,
+   "lines": [
+    "DARK SPOTS"
+   ],
+   "x": 0.84,
+   "y": 0.62,
+   "anim": "pop"
+  },
+  {
+   "type": "pill",
+   "start": 3.0,
+   "end": 5.87,
+   "lines": [
+    "THE NIGHT TEAM"
+   ],
+   "x": 0.4935,
+   "y": 0.8175,
+   "anim": "pop",
+   "mask": {
+    "x0": 0.205,
+    "y0": 0.787,
+    "x1": 0.782,
+    "y1": 0.848
+   }
+  },
+  {
+   "type": "pill",
+   "start": 5.95,
+   "end": 7.15,
+   "lines": [
+    "2% KOJIC ACID"
+   ],
+   "x": 0.5,
+   "y": 0.17,
+   "anim": "pop"
+  },
+  {
+   "type": "pill",
+   "start": 7.15,
+   "end": 8.35,
+   "lines": [
+    "NIACINAMIDE"
+   ],
+   "x": 0.3,
+   "y": 0.27,
+   "anim": "pop"
+  },
+  {
+   "type": "pill",
+   "start": 8.35,
+   "end": 9.55,
+   "lines": [
+    "ALPHA ARBUTIN"
+   ],
+   "x": 0.7,
+   "y": 0.27,
+   "anim": "pop"
+  },
+  {
+   "type": "claim_bold",
+   "start": 9.7,
+   "end": 12.45,
+   "lines": [
+    "3 BRIGHTENING",
+    "ACTIVES"
+   ],
+   "position": "top",
+   "anim": "fade"
+  },
+  {
+   "type": "label",
+   "start": 12.57,
+   "end": 14.3,
+   "lines": [
+    "BEFORE"
+   ],
+   "x": 0.5,
+   "y": 0.455,
+   "anim": "pop"
+  },
+  {
+   "type": "label",
+   "start": 12.57,
+   "end": 14.3,
+   "lines": [
+    "AFTER 2 WEEKS"
+   ],
+   "x": 0.5,
+   "y": 0.955,
+   "anim": "pop"
+  }
+ ],
+ "notes": "Text pass (client EDL): DARK SPOTS tag beside her cheek on KN03; THE NIGHT TEAM cover card over the baked 'The KNC Team' on the kept jar/team shot (OCR box 0.22-0.77 x 0.80-0.84, padded); three separate same-style ingredient pills over the KNA2 orbs (2% KOJIC ACID x.50 y.17, NIACINAMIDE x.30 y.27, ALPHA ARBUTIN x.70 y.27); 3 BRIGHTENING ACTIVES moved to the top over KN04; B/A split labels with captions at 0.58. The face-off hook (2.95-4.15) is dropped: it straddled the 3.0 cut, sat on top of the cover card, and the validator allows at most 8 text elements."
+}

@@ -1,0 +1,35 @@
+[
+ {
+  "id": 1,
+  "speaker": "dark_spot",
+  "cer": 0.67,
+  "heard": "നയങലെ ഫ്യിടാകാം പട്ടില്.",
+  "redub": true
+ },
+ {
+  "id": 2,
+  "speaker": "jar",
+  "cer": 0.41,
+  "heard": "അണോ, ഒമ്നെ ടെസ്ടെ ചേദു നോക്കയളു."
+ },
+ {
+  "id": 3,
+  "speaker": "kojic_acid",
+  "cer": 0.15,
+  "heard": "Challenge accepted. Theme add darker spots targeted.",
+  "redub": true
+ },
+ {
+  "id": 4,
+  "speaker": "narrator",
+  "cer": 0.15,
+  "heard": "MOONE THE TARGETE INGREDIANTS INTO POWER اورٹ statut نہیں تو कریम eel"
+ },
+ {
+  "id": 5,
+  "speaker": "narrator",
+  "cer": 0.44,
+  "heard": "ഡന്ട�ു കോജിക ആസിട നയടിക്റിമ ഓരു രാത്രി മുദലക്.",
+  "redub": true
+ }
+]

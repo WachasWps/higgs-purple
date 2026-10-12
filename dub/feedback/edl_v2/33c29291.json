@@ -1,0 +1,66 @@
+{
+ "video_id": "33c29291",
+ "product": "ps",
+ "category": "product_avatar",
+ "approach": "v2_original_story",
+ "shots": [
+  {
+   "start": 0,
+   "end": 4.6,
+   "action": "replace",
+   "replace_with": "PILOT_33c29291_S1",
+   "client": "3.0 where is the cap of the product? missing throughout",
+   "n": 1
+  },
+  {
+   "start": 4.6,
+   "end": 7.6,
+   "action": "replace",
+   "replace_with": "PILOT_33c29291_S2",
+   "client": "6.3 color wheel is wrong",
+   "n": 2
+  },
+  {
+   "start": 7.6,
+   "end": 10.8,
+   "action": "replace",
+   "replace_with": "PS08_hand_swatch",
+   "clip_offset": 1.8,
+   "client": "8.0 nozzel fix",
+   "n": 3
+  },
+  {
+   "start": 10.8,
+   "end": 11.45,
+   "action": "keep",
+   "n": 4
+  },
+  {
+   "start": 11.45,
+   "end": 13.05,
+   "action": "replace",
+   "client": "post application skin extremely transformed/glowy",
+   "n": 5,
+   "replace_with": "GRAPHIC_BA_SPLIT",
+   "ba_pair": [
+    "BA2_33c29291_BEFORE",
+    "BA2_33c29291_AFTER"
+   ],
+   "ba_face_y": 0.08
+  },
+  {
+   "start": 13.05,
+   "end": 15.9,
+   "action": "keep",
+   "n": 6
+  },
+  {
+   "start": 15.9,
+   "end": 20.04,
+   "action": "replace",
+   "replace_with": "PILOT_33c29291_S5",
+   "client": "16.7 color wheel is wrong; glow; duskier model",
+   "n": 7
+  }
+ ]
+}

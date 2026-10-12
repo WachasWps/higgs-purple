@@ -1,0 +1,242 @@
+{
+ "video": "c51221b6",
+ "style": "personification",
+ "cast": [
+  {
+   "id": "white_cast",
+   "name": "White Cast",
+   "description": "small fluffy chalky-white powder villain with a paint roller, smears ashy streaks on her cheek; squeaky, cackling, mocking little bully voice"
+  },
+  {
+   "id": "sunscreen_tube",
+   "name": "DERMDOC Sunscreen Tube",
+   "description": "the white DERMDOC Ultra Violet sunscreen tube with a lavender cap, team leader; cool, confident, slightly cocky cartoon voice"
+  },
+  {
+   "id": "purple_tint",
+   "name": "Purple Tint",
+   "description": "smooth lavender droplet hero that jumps out of the tube; bright, sassy, bubbly cartoon voice"
+  },
+  {
+   "id": "spf_shield",
+   "name": "SPF 50 PA+++ Shield",
+   "description": "polished cobalt-blue shield hero that blocks the UV ray villains; deep, calm, heroic bodyguard voice"
+  },
+  {
+   "id": "niacinamide",
+   "name": "4% Niacinamide",
+   "description": "silver-lavender molecule hero that clears the grey dullness haze; perky, confident team-player cartoon voice"
+  }
+ ],
+ "lines": [
+  {
+   "id": 1,
+   "start": 0.0,
+   "end": 0.48,
+   "speaker": "white_cast",
+   "en": "Haha!"
+  },
+  {
+   "id": 2,
+   "start": 1.08,
+   "end": 2.66,
+   "speaker": "white_cast",
+   "en": "Now everyone can see your sunscreen!"
+  },
+  {
+   "id": 3,
+   "start": 3.04,
+   "end": 4.7,
+   "speaker": "sunscreen_tube",
+   "en": "Wrong sunscreen, buddy!"
+  },
+  {
+   "id": 4,
+   "start": 5.06,
+   "end": 8.1,
+   "speaker": "purple_tint",
+   "en": "I'm opposite yellow, so I cancel dullness."
+  },
+  {
+   "id": 5,
+   "start": 8.74,
+   "end": 10.68,
+   "speaker": "spf_shield",
+   "en": "And I handle the sun."
+  },
+  {
+   "id": 6,
+   "start": 11.06,
+   "end": 13.14,
+   "speaker": "niacinamide",
+   "en": "Dullness? Not on this team."
+  },
+  {
+   "id": 7,
+   "start": 13.4,
+   "end": 15.16,
+   "speaker": "sunscreen_tube",
+   "en": "See the instant glow, not the sunscreen."
+  }
+ ],
+ "shots": [
+  {
+   "n": 1,
+   "start": 0,
+   "end": 2.9,
+   "what": "original footage",
+   "frames": [
+    "s01_0.jpg",
+    "s01_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 1,
+     "start": 0.0,
+     "end": 0.48,
+     "speaker": "white_cast",
+     "en": "Haha!"
+    },
+    {
+     "id": 2,
+     "start": 1.08,
+     "end": 2.66,
+     "speaker": "white_cast",
+     "en": "Now everyone can see your sunscreen!"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "start": 2.9,
+   "end": 5.1,
+   "what": "STORY_c51221b6_S2",
+   "frames": [
+    "s02_0.jpg",
+    "s02_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 3,
+     "start": 3.04,
+     "end": 4.7,
+     "speaker": "sunscreen_tube",
+     "en": "Wrong sunscreen, buddy!"
+    },
+    {
+     "id": 4,
+     "start": 5.06,
+     "end": 8.1,
+     "speaker": "purple_tint",
+     "en": "I'm opposite yellow, so I cancel dullness."
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "start": 5.1,
+   "end": 6.4,
+   "what": "original footage",
+   "frames": [
+    "s03_0.jpg",
+    "s03_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 4,
+     "start": 5.06,
+     "end": 8.1,
+     "speaker": "purple_tint",
+     "en": "I'm opposite yellow, so I cancel dullness."
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "start": 6.4,
+   "end": 8.3,
+   "what": "GRAPHIC_COLOUR_WHEEL",
+   "frames": [
+    "s04_0.jpg",
+    "s04_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 4,
+     "start": 5.06,
+     "end": 8.1,
+     "speaker": "purple_tint",
+     "en": "I'm opposite yellow, so I cancel dullness."
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "start": 8.3,
+   "end": 10.9,
+   "what": "original footage",
+   "frames": [
+    "s05_0.jpg",
+    "s05_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 5,
+     "start": 8.74,
+     "end": 10.68,
+     "speaker": "spf_shield",
+     "en": "And I handle the sun."
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "start": 10.9,
+   "end": 13.2,
+   "what": "original footage",
+   "frames": [
+    "s06_0.jpg",
+    "s06_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 6,
+     "start": 11.06,
+     "end": 13.14,
+     "speaker": "niacinamide",
+     "en": "Dullness? Not on this team."
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "start": 13.2,
+   "end": 15.4,
+   "what": "USR_PS_BLEND",
+   "frames": [
+    "s07_0.jpg",
+    "s07_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 7,
+     "start": 13.4,
+     "end": 15.16,
+     "speaker": "sunscreen_tube",
+     "en": "See the instant glow, not the sunscreen."
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "start": 15.4,
+   "end": 17.0,
+   "what": "original footage",
+   "frames": [
+    "s08_0.jpg",
+    "s08_1.jpg"
+   ],
+   "lines": []
+  }
+ ]
+}

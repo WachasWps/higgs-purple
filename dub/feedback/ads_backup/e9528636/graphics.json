@@ -1,0 +1,87 @@
+{
+ "video_id": "e9528636",
+ "product": "kojic_night_cream",
+ "caption_y": 0.9,
+ "elements": [
+  {
+   "type": "hook_mono",
+   "start": 0.15,
+   "end": 2.45,
+   "lines": [
+    "RICH NIGHT CREAM",
+    "NOT HEAVY"
+   ],
+   "position": "top",
+   "anim": "slide_up"
+  },
+  {
+   "type": "pill",
+   "start": 4.3,
+   "end": 6.3,
+   "lines": [
+    "BLENDS SMOOTHLY"
+   ],
+   "position": "top",
+   "anim": "pop"
+  },
+  {
+   "type": "pill",
+   "start": 6.5,
+   "end": 7.85,
+   "lines": [
+    "KOJIC + NIACINAMIDE",
+    "+ ALPHA ARBUTIN"
+   ],
+   "position": "top",
+   "anim": "pop"
+  },
+  {
+   "type": "claim_bold",
+   "start": 13.3,
+   "end": 15.4,
+   "lines": [
+    "GLOW FUSION",
+    "FORMULA"
+   ],
+   "sub": "REDUCES LOOK OF DARK SPOTS",
+   "position": "top",
+   "anim": "fade"
+  },
+  {
+   "type": "hud",
+   "variant": "scan",
+   "start": 13.3,
+   "end": 15.4
+  },
+  {
+   "type": "label",
+   "start": 17.55,
+   "end": 18.55,
+   "lines": [
+    "BEFORE"
+   ],
+   "x": 0.25,
+   "y": 0.85,
+   "anim": "pop"
+  },
+  {
+   "type": "label",
+   "start": 17.55,
+   "end": 18.55,
+   "lines": [
+    "AFTER"
+   ],
+   "x": 0.75,
+   "y": 0.85,
+   "anim": "pop"
+  }
+ ],
+ "notes": "Rich-not-heavy hook above the rotating jar; texture pill then three actives in the clear blue above the spatula (ends before the dollop rises into the top); Glow Fusion + dark-spot claim with scan hud on the epidermis macro where gold/blue/violet lights act; BEFORE/AFTER on the neck below the chin on the split. No floating typos: every flagged OCR track is jar label or its glossy reflection (ignored). | AD pass: captions lifted to y .62 (dark jar rim) for the open-jar shot 2.6-8.93 so they no longer sit on the printed jar label; Glow Fusion claim + scan hud start after the 13.23 cut (were over the face-application shot); BEFORE/AFTER start after the last caption clears and end inside the 18.57 cut.",
+ "caption_moves": [
+  {
+   "start": 2.55,
+   "end": 8.93,
+   "y": 0.62
+  }
+ ]
+}

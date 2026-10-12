@@ -1,0 +1,42 @@
+[
+ {
+  "id": 1,
+  "speaker": "uv_boss",
+  "cer": 0.22,
+  "heard": "ইন্ডিযান খরা এবে প্রেসর বরায় দেবি।",
+  "redub": true
+ },
+ {
+  "id": 2,
+  "speaker": "sunscreen",
+  "cer": 0.15,
+  "heard": "Gray Sir ,No Chance"
+ },
+ {
+  "id": 3,
+  "speaker": "sunscreen",
+  "cer": 0.15,
+  "heard": "SPF 50 PA++++ UBA আও UBB রুকরটক্ট করে।"
+ },
+ {
+  "id": 4,
+  "speaker": "sunscreen",
+  "cer": 0.15,
+  "heard": "কলারা হোইলেরে পারপল হলদ্যারা ঠিকা বিপডিত তেনু ডালনেস কানা সলা করে।",
+  "redub": true
+ },
+ {
+  "id": 5,
+  "speaker": "sunscreen",
+  "cer": 0.24,
+  "heard": "ফোরা পারসেন্ নিযাসিনা মাইটসোহ ইন্সটান্ ইভেন লুকিং গ্লো।",
+  "redub": true
+ },
+ {
+  "id": 6,
+  "speaker": "sunscreen",
+  "cer": 0.15,
+  "heard": "Instant glow. Protected already.",
+  "redub": true
+ }
+]

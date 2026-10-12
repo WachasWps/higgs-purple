@@ -1,0 +1,6 @@
+Read CODEX_BRIEF.md in this folder first and follow it strictly.
+Attached reference images: ugc_refs/02bad3b3_S6.png, knc_tub_open.png. Product photos are the ground truth for packaging; the out/*_model_ref.png image is the identity reference for the woman — keep the SAME face, hair and skin tone.
+TASK: generate ONE photorealistic vertical 9:16 keyframe image:
+EDIT the attached frame ugc_refs/02bad3b3_S6.png (a still from this creator's own UGC video): keep EXACTLY the same woman — face, hair, skin tone, expression family, clothes — the same framing, camera angle, room/background and lighting. Change ONLY: replace the thick white smears and blobs (mask-like) with a few small dabs of rich white night cream being massaged in by her fingertips, most of it already absorbed, only a thin soft sheen left; realistic flat brown spots still visible (this is before results). Warm night light. No text.
+
+Use your image generation tool (pass the reference images to it), then copy the generated file to out/UGC_02bad3b3_S6.png. Reply only with the saved path.

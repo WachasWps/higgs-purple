@@ -1,0 +1,175 @@
+{
+ "video": "cd5a6fe8",
+ "shots": [
+  {
+   "n": 1,
+   "start": 0,
+   "end": 3.27,
+   "on_screen": "Daylight: curly-haired woman in teal top points at dark spots on her cheek, then checks phone."
+  },
+  {
+   "n": 2,
+   "start": 3.27,
+   "end": 4.9,
+   "on_screen": "Night bedroom: she sits on bed holding the Kojic Acid Night Cream jar, talking to camera."
+  },
+  {
+   "n": 3,
+   "start": 4.9,
+   "end": 7.97,
+   "on_screen": "Jar on dark blue surface with three glowing orbs (the three actives) circling above."
+  },
+  {
+   "n": 4,
+   "start": 7.97,
+   "end": 9.97,
+   "on_screen": "Macro of rich white cream peaked in the open jar."
+  },
+  {
+   "n": 5,
+   "start": 9.97,
+   "end": 10.97,
+   "on_screen": "Fingertip scoops cream from the jar."
+  },
+  {
+   "n": 6,
+   "start": 10.97,
+   "end": 11.83,
+   "on_screen": "At a candlelit mirror she dots cream on forehead, nose and cheeks."
+  },
+  {
+   "n": 7,
+   "start": 11.83,
+   "end": 13.23,
+   "on_screen": "On the bed she spreads the cream across her cheeks with both hands."
+  },
+  {
+   "n": 8,
+   "start": 13.23,
+   "end": 14.9,
+   "on_screen": "She sleeps in bed at night, jar on the bedside table."
+  },
+  {
+   "n": 9,
+   "start": 14.9,
+   "end": 17.73,
+   "on_screen": "Before/after split: spotty skin top, clearer-looking skin bottom."
+  },
+  {
+   "n": 10,
+   "start": 17.73,
+   "end": 20.04,
+   "on_screen": "Jar in foreground on a table, woman touching her face behind it (evening)."
+  }
+ ],
+ "lines": [
+  {
+   "id": 1,
+   "start": 0.0,
+   "slot_s": 3.13,
+   "speaker": "creator",
+   "current": "My skin looked dull, and these dark spots were impossible to ignore.",
+   "on_screen_during": "S1 daylight close-up of her dark spots",
+   "verdict": "keep",
+   "new": "My skin looked dull, and these dark spots were impossible to ignore.",
+   "words": 12,
+   "reason": "matches"
+  },
+  {
+   "id": 2,
+   "start": 3.28,
+   "slot_s": 1.45,
+   "speaker": "creator",
+   "current": "So this became part of every night.",
+   "on_screen_during": "S2 night, holding the jar",
+   "verdict": "keep",
+   "new": "So this became part of every night.",
+   "words": 7,
+   "reason": "matches"
+  },
+  {
+   "id": 3,
+   "start": 4.88,
+   "slot_s": 3.01,
+   "speaker": "creator",
+   "current": "Its Glow Fusion Formula combines Kojic Acid, Niacinamide and Alpha Arbutin.",
+   "on_screen_during": "end of S2 then S3 jar with three glowing orbs",
+   "verdict": "keep",
+   "new": "Its Glow Fusion Formula combines Kojic Acid, Niacinamide and Alpha Arbutin.",
+   "words": 11,
+   "reason": "names the three actives over orbs; over 2.4 w/s budget (11 words / 3.0 s)"
+  },
+  {
+   "id": 4,
+   "start": 8.04,
+   "slot_s": 1.77,
+   "speaker": "creator",
+   "current": "And the night cream texture is properly rich.",
+   "on_screen_during": "S4 macro of rich cream in jar",
+   "verdict": "keep",
+   "new": "And the night cream texture is properly rich.",
+   "words": 8,
+   "reason": "matches texture shot"
+  },
+  {
+   "id": 5,
+   "start": 9.96,
+   "slot_s": 1.03,
+   "speaker": "creator",
+   "current": "A small amount is enough.",
+   "on_screen_during": "S5 fingertip scoop",
+   "verdict": "keep",
+   "new": "A small amount is enough.",
+   "words": 5,
+   "reason": "matches scoop"
+  },
+  {
+   "id": 6,
+   "start": 11.14,
+   "slot_s": 1.95,
+   "speaker": "creator",
+   "current": "I blend it completely into my face and neck.",
+   "on_screen_during": "S6-S7 dotting then blending cream on face",
+   "verdict": "keep",
+   "new": "I blend it completely into my face and neck.",
+   "words": 9,
+   "reason": "matches"
+  },
+  {
+   "id": 7,
+   "start": 13.24,
+   "slot_s": 1.59,
+   "speaker": "creator",
+   "current": "Then I let my sleep-to-glow routine begin.",
+   "on_screen_during": "S8 sleeping at night",
+   "verdict": "keep",
+   "new": "Then I let my sleep-to-glow routine begin.",
+   "words": 7,
+   "reason": "matches night sleep"
+  },
+  {
+   "id": 8,
+   "start": 14.98,
+   "slot_s": 2.69,
+   "speaker": "creator",
+   "current": "My dark spots look reduced without changing my natural skin tone.",
+   "on_screen_during": "S9 before/after split",
+   "verdict": "rewrite",
+   "new": "After two weeks, spots look reduced.",
+   "words": 6,
+   "reason": "BA split needs the two-week result; old line ran over (11 words / 2.7 s)"
+  },
+  {
+   "id": 9,
+   "start": 17.82,
+   "slot_s": 2.6,
+   "speaker": "creator",
+   "current": "DERMDOC 2% Kojic Acid Night Cream, my overnight step.",
+   "on_screen_during": "S10 jar hero with her in background",
+   "verdict": "keep",
+   "new": "DERMDOC 2% Kojic Acid Night Cream, my overnight step.",
+   "words": 9,
+   "reason": "matches end card"
+  }
+ ]
+}

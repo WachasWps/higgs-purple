@@ -1,0 +1,103 @@
+{
+ "video": "71e0977a",
+ "shots": [
+  {
+   "n": 1,
+   "start": 0,
+   "end": 3.0,
+   "on_screen": "Close-up cheek with little dark-spot villains; sleepy jar character in the corner."
+  },
+  {
+   "n": 2,
+   "start": 3.0,
+   "end": 5.9,
+   "on_screen": "Jar bursts open; Kojic Acid, Niacinamide and Alpha Arbutin characters spring out; caption 'The KNC Team'."
+  },
+  {
+   "n": 3,
+   "start": 5.9,
+   "end": 9.6,
+   "on_screen": "Cheek close-up: '2% Kojic Acid targets dark spots' then 'Alpha Arbutin helps even skin tone' heroes hit the spots."
+  },
+  {
+   "n": 4,
+   "start": 9.6,
+   "end": 12.57,
+   "on_screen": "Jar with three glowing orbs orbiting the cream."
+  },
+  {
+   "n": 5,
+   "start": 12.57,
+   "end": 14.3,
+   "on_screen": "Before/after split; both halves show the same dark spots."
+  },
+  {
+   "n": 6,
+   "start": 14.3,
+   "end": 17.0,
+   "on_screen": "End card: jar with ingredient characters, 'For Brighter, Even-Looking Skin', DERMDOC Honest Science."
+  }
+ ],
+ "lines": [
+  {
+   "id": 1,
+   "start": 0.0,
+   "slot_s": 1.55,
+   "speaker": "dark_spot",
+   "current": "You can't fade us!",
+   "on_screen_during": "S1 dark-spot villains on cheek",
+   "verdict": "rewrite",
+   "new": "Can't fade us!",
+   "words": 3,
+   "reason": "over length (4w vs 3)"
+  },
+  {
+   "id": 2,
+   "start": 1.7,
+   "slot_s": 2.55,
+   "speaker": "jar",
+   "current": "Want to test that theory?",
+   "on_screen_during": "S1 jar character",
+   "verdict": "keep",
+   "new": "Want to test that theory?",
+   "words": 5,
+   "reason": "fits"
+  },
+  {
+   "id": 3,
+   "start": 4.4,
+   "slot_s": 4.77,
+   "speaker": "kojic_acid",
+   "current": "Challenge accepted.",
+   "on_screen_during": "S2 ingredient team bursts out, into S3 heroes hitting spots",
+   "verdict": "rewrite",
+   "new": "Challenge accepted. Team, let's target those dark spots!",
+   "words": 8,
+   "reason": "S3 attack was unvoiced; slot has room"
+  },
+  {
+   "id": 4,
+   "start": 9.32,
+   "slot_s": 4.21,
+   "speaker": "narrator",
+   "current": "Powered by three targeted ingredients in one night cream.",
+   "on_screen_during": "S3 end, S4 jar with three orbs",
+   "verdict": "keep",
+   "new": "Powered by three targeted ingredients in one night cream.",
+   "words": 9,
+   "reason": "fits"
+  },
+  {
+   "id": 5,
+   "start": 13.68,
+   "slot_s": 3.38,
+   "speaker": "narrator",
+   "current": "DERMDOC 2% Kojic Acid Night Cream. Every night counts.",
+   "on_screen_during": "S5 before/after end, S6 end card",
+   "verdict": "rewrite",
+   "new": "Clearer-looking skin. DERMDOC 2% Kojic Acid Night Cream.",
+   "words": 8,
+   "reason": "split needs a result line; 'Every night counts' over length"
+  }
+ ]
+}

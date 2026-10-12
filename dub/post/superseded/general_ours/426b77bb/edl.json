@@ -1,0 +1,352 @@
+{
+ "video_id": "426b77bb",
+ "product": "knc",
+ "category": "general_ad / product_ad (Hinglish VO) - 02_KNC_ek-active-achha-hai",
+ "shots": [
+  {
+   "n": 1,
+   "start": 0.0,
+   "end": 3.33,
+   "content": "Exact KNC jar (blue base, white lid, 2% KOJIC ACID label) floating tilted above glowing lab rings; hook super ONE ACTIVE: GOOD / THREE TOGETHER?",
+   "issues": [
+    "sci-fi look, but jar reads correctly"
+   ],
+   "action": "keep",
+   "replace_with": null,
+   "custom": null,
+   "note": "The hook works and the jar matches the reference. Keep to save credits."
+  },
+  {
+   "n": 2,
+   "start": 3.33,
+   "end": 4.17,
+   "content": "Three transparent chambers with gold, blue and violet molecules (abstract ingredient visual).",
+   "issues": [
+    "abstract, unlabelled (too short to label)"
+   ],
+   "action": "keep",
+   "replace_with": null,
+   "custom": null,
+   "note": "0.8 s abstract ingredient visual with no product or skin problems. It bridges into line 2. The ingredients get proper labels in shot 3."
+  },
+  {
+   "n": 3,
+   "start": 4.17,
+   "end": 8.3,
+   "content": "Jar under a glass disc with gold/blue/violet light streams spiralling from three vials into it.",
+   "issues": [
+    "jar small-print garbled / jar proportions off",
+    "ingredients shown only as coloured streams (client: '3 drops not enough')"
+   ],
+   "action": "replace",
+   "replace_with": "KNA2_avatar_ingredients",
+   "custom": null,
+   "note": "Line 2 names the product and then 'Kojic Acid, Niacinamide and Alpha Arbutin'. KNA2 shows the exact open jar with three orbs rising, and we label each orb separately in post: 2% KOJIC ACID / NIACINAMIDE / ALPHA ARBUTIN. 4.1 s fits in the 5 s clip."
+  },
+  {
+   "n": 4,
+   "start": 8.3,
+   "end": 9.93,
+   "content": "Close-up of open jar with lid lifting and a white cream peak; label shows AI-baked small text.",
+   "issues": [
+    "AI-baked label small text misspelt (Niacinamide/Arbutin garbled)",
+    "jar not exact"
+   ],
+   "action": "replace",
+   "replace_with": "KN02_scoop",
+   "custom": null,
+   "note": "VO: '...in one Glow Fusion Formula'. KN02 is a macro of a fingertip lifting the thick rich cream from the exact jar. Keep the GLOW FUSION FORMULA pill."
+  },
+  {
+   "n": 5,
+   "start": 9.93,
+   "end": 11.27,
+   "content": "Transparent pearl containing three coloured cores (the three actives together).",
+   "issues": [],
+   "action": "keep",
+   "replace_with": null,
+   "custom": null,
+   "note": "Abstract 'three together' visual with no product or skin. Matches 'Together, they...'. Keep."
+  },
+  {
+   "n": 6,
+   "start": 11.27,
+   "end": 12.63,
+   "content": "Pearl landing on extreme skin macro with a crater-like pore/spot.",
+   "issues": [
+    "skin looks like a mountain/crater, no face",
+    "unrealistic spot"
+   ],
+   "action": "replace",
+   "replace_with": "KN04_apply_night",
+   "custom": null,
+   "note": "VO: 'help reduce the appearance of dark spots'. ANANYA applies the cream at night over realistic soft brown spots and it absorbs fully. Use the first 1.4 s (dabs into massage)."
+  },
+  {
+   "n": 7,
+   "start": 12.63,
+   "end": 15.23,
+   "content": "3D skin cross-section with dark pigment clusters and three orbs; super LESS VISIBLE DARK SPOTS.",
+   "issues": [
+    "skin cross-section 'mountain'",
+    "random fancy VFX",
+    "chicken-pox-like pigment dots"
+   ],
+   "action": "replace",
+   "replace_with": "KN05_sleep",
+   "custom": null,
+   "note": "VO: '...and improve uneven-looking skin'. KN05 is ANANYA asleep with moonlight warming into dawn (overnight action, closed exact jar on the bedside). If possible, trim to 12.63-14.4 and start KN06 at 14.4 so the morning super can be read."
+  },
+  {
+   "n": 8,
+   "start": 15.23,
+   "end": 16.27,
+   "content": "Fair-skinned woman applying cream at a night vanity with the jar beside her.",
+   "issues": [
+    "model not dusky",
+    "woman replaced elsewhere (continuity)",
+    "jar label soft/garbled"
+   ],
+   "action": "replace",
+   "replace_with": "KN06_morning_wake",
+   "custom": null,
+   "note": "VO: 'One jar. Three actives.' The story moves to the next MORNING in daylight: ANANYA wakes up with clearer, spotless-looking, glowing skin. Super: BRIGHTER, CLEARER-LOOKING SKIN BY MORNING."
+  },
+  {
+   "n": 9,
+   "start": 16.27,
+   "end": 17.93,
+   "content": "Split B/A: before has dense chicken-pox-like dots, after still shows marks; cream visible on the after cheek.",
+   "issues": [
+    "unrealistic chicken-pox dark spots",
+    "after not spotless/glowy",
+    "cream residue on after",
+    "no AFTER 2 WEEKS label"
+   ],
+   "action": "replace",
+   "replace_with": "GRAPHIC_BA_SPLIT",
+   "custom": null,
+   "note": "Vertical half/half split: KN08_before_day | KN07_after_day, face not cropped, same dusky tone. Labels BEFORE / AFTER, with 'AFTER 2 WEEKS' under the after half. Hold it to 20.04 because shot 10 is removed."
+  },
+  {
+   "n": 10,
+   "start": 17.93,
+   "end": 20.04,
+   "content": "Jar inside a sci-fi fusion chamber wrapped in a cream ribbon with orbs.",
+   "issues": [
+    "random fancy shot before endslate"
+   ],
+   "action": "remove",
+   "replace_with": null,
+   "custom": null,
+   "note": "Remove it and let the B/A from shot 9 hold to 20.04 (3.8 s). The 5 s outro carries the pack."
+  }
+ ],
+ "script_changes": [
+  {
+   "line_id": 1,
+   "old_en": "Ek active achha hai. Lekin three actives together?",
+   "new_en": "One active is good. But three actives, together?",
+   "reason": "English-only source for regional dubs (no Hindi in final); same length."
+  },
+  {
+   "line_id": 2,
+   "old_en": "DermDoc 2% Kojic Acid Night Cream combines Kojic Acid, Niacinamide aur Alpha Arbutin in one Glow Fusion Formula.",
+   "new_en": "DERMDOC 2% Kojic Acid Night Cream combines Kojic Acid, Niacinamide and Alpha Arbutin in one Glow Fusion Formula.",
+   "reason": "Full product name kept, brand spelling fixed, Hindi 'aur' removed; the three ingredients named separately to match the labelled orbs."
+  },
+  {
+   "line_id": 4,
+   "old_en": "One jar. Three actives. Overnight glow.",
+   "new_en": "One jar. Three actives. Even-looking glow.",
+   "reason": "This line plays over the B/A labelled AFTER 2 WEEKS, so 'overnight glow' would contradict the label; kept hedged."
+  }
+ ],
+ "new_lines": [],
+ "supers": [
+  {
+   "action": "remove",
+   "match": "KOJIC + NIACINAMIDE + ALPHA ARBUTIN",
+   "text": null,
+   "start": 6.4,
+   "end": 7.95,
+   "why": "Client: label the three ingredients separately and consistently."
+  },
+  {
+   "action": "add",
+   "match": null,
+   "text": "2% KOJIC ACID | NIACINAMIDE | ALPHA ARBUTIN (three separate labels, one per orb, same style, staggered)",
+   "start": 5.9,
+   "end": 8.3,
+   "why": "Labelled ingredient visuals on KNA2 orbs."
+  },
+  {
+   "action": "change",
+   "match": "GLOW FUSION FORMULA",
+   "text": "GLOW FUSION FORMULA",
+   "start": 8.4,
+   "end": 9.9,
+   "why": "Same text, now on KN02 scoop."
+  },
+  {
+   "action": "change",
+   "match": "LESS VISIBLE DARK SPOTS / FOR MORE EVEN-LOOKING SKIN",
+   "text": "WORKS OVERNIGHT | sub: HELPS REDUCE THE LOOK OF DARK SPOTS",
+   "start": 12.8,
+   "end": 14.6,
+   "why": "Now on KN05 sleep; hedged claim."
+  },
+  {
+   "action": "add",
+   "match": null,
+   "text": "BRIGHTER, CLEARER-LOOKING SKIN BY MORNING",
+   "start": 14.6,
+   "end": 16.25,
+   "why": "Client wording for the morning wake-up frame (NOT '2 weeks')."
+  },
+  {
+   "action": "change",
+   "match": "BEFORE",
+   "text": "BEFORE (left) / AFTER (right) + 'AFTER 2 WEEKS' under after",
+   "start": 16.3,
+   "end": 20.0,
+   "why": "Labels for the new B/A split, held to the end."
+  }
+ ],
+ "voice_changes": [
+  {
+   "speaker": "narrator",
+   "to": "female",
+   "why": "Client: female VO only."
+  }
+ ],
+ "summary": "The hook, chambers and pearl stay. The garbled-label jar shots become KNA2 (orbs labelled 2% Kojic Acid / Niacinamide / Alpha Arbutin) and KN02. The skin-mountain and cross-section shots become ANANYA's night application, sleep and morning wake, then a real KN08|KN07 split labelled AFTER 2 WEEKS. The fancy fusion-chamber ending is removed.",
+ "rebuild": {
+  "concept": "THREE ACTIVES, ONE JAR: a realistic night-routine commercial. Realistic spots at night, then the exact jar, a labelled three-ingredient macro, application that melts in, sleep, a glowing morning and a real B/A.",
+  "target_duration_s": 18.0,
+  "narrator": "narrator_female (warm, premium; English source, dubbed to Bengali/Tamil/Telugu/Malayalam/Odia only)",
+  "custom_count": 1,
+  "shots": [
+   {
+    "start": 0,
+    "end": 1.4,
+    "source": "USR_KNC_TEX_A",
+    "n": 1
+   },
+   {
+    "start": 1.4,
+    "end": 2.9,
+    "source": "KN03_before_night",
+    "n": 2
+   },
+   {
+    "start": 2.9,
+    "end": 4.4,
+    "source": "USR_KNC_HERO",
+    "n": 3
+   },
+   {
+    "start": 4.4,
+    "end": 6.3,
+    "source": "KN01_hero_night",
+    "n": 4
+   },
+   {
+    "start": 6.3,
+    "end": 10.6,
+    "source": "KNA2_avatar_ingredients",
+    "n": 5
+   },
+   {
+    "start": 10.6,
+    "end": 12.2,
+    "source": "KN04_apply_night",
+    "n": 6
+   },
+   {
+    "start": 12.2,
+    "end": 13.6,
+    "source": "KN05_sleep",
+    "n": 7
+   },
+   {
+    "start": 13.6,
+    "end": 15.6,
+    "source": "KN06_morning_wake",
+    "n": 8
+   },
+   {
+    "start": 15.6,
+    "end": 18.0,
+    "source": "GRAPHIC_BA_SPLIT",
+    "n": 9
+   }
+  ],
+  "vo": [
+   {
+    "id": 1,
+    "start": 0.2,
+    "end": 2.7,
+    "en": "One active is good. Three together?"
+   },
+   {
+    "id": 2,
+    "start": 3.0,
+    "end": 6.0,
+    "en": "Meet DERMDOC 2% Kojic Acid Night Cream."
+   },
+   {
+    "id": 3,
+    "start": 6.3,
+    "end": 10.5,
+    "en": "Kojic Acid, Niacinamide and Alpha Arbutin, in one Glow Fusion Formula."
+   },
+   {
+    "id": 4,
+    "start": 10.8,
+    "end": 13.3,
+    "en": "Apply at night. It melts right in."
+   },
+   {
+    "id": 5,
+    "start": 13.6,
+    "end": 15.5,
+    "en": "Wake up to brighter-looking skin."
+   },
+   {
+    "id": 6,
+    "start": 15.8,
+    "end": 17.7,
+    "en": "One jar. Three actives."
+   }
+  ],
+  "custom_shots": {
+   "CUSTOM_KNC_INGR_MACRO": {
+    "shared": "Generate ONCE and reuse in all 5 KNC general-ad rebuilds (426b77bb, a9be56d9, b4c787e1, e9528636, eab38211).",
+    "keyframe": "Vertical 9:16 premium night-skincare studio macro: glossy deep-navy surface with soft reflections, dark-blue gradient background with gentle bokeh, warm key light plus cool blue rim light, shallow depth of field. Three small shallow round clear-glass dishes in a gentle diagonal from lower-left to upper-right, well separated. Dish 1 holds fine translucent pale-amber crystals (kojic acid). Dish 2 holds one glossy crystal-clear serum bead (niacinamide). Dish 3 holds a small mound of soft pearly-white powder (alpha arbutin). Clean empty dark space beside each dish for labels added in post. No jar, no packaging, no hands, no people, no text, no letters.",
+    "motion": "Slow lateral macro dolly from dish 1 to dish 3, with a gentle rack focus landing on each dish in turn (about 1.6 s each). The crystals sparkle softly, the serum bead trembles and the powder glints. Nothing merges or moves between dishes.",
+    "post_labels": [
+     "2% KOJIC ACID (dish 1)",
+     "NIACINAMIDE (dish 2)",
+     "ALPHA ARBUTIN (dish 3)"
+    ]
+   }
+  },
+  "dropped_from_current": [
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10
+  ],
+  "reused_from_current": [],
+  "notes": "No lab rings, chambers, pearls or cross-sections. Application happens only at night and results appear next morning in daylight. No dark spots after application or in the morning/after shots. The only woman is ANANYA. New credits: one CUSTOM clip, shared by all 5 KNC ads.",
+  "vo_budget_note": "English VO is about 234 characters over 17.5 s. The regional dubs (spoken at about 14 chars/s, with numbers spoken as words, e.g. 'SPF fifty PA triple plus') will run longer, so transcreate tightly. If a language overflows, trim connectives first, never the ingredient names, 'Instant Glow' or the full product name.",
+  "version": "v3_user_clips"
+ },
+ "use_rebuild": true
+}

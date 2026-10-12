@@ -1,0 +1,100 @@
+{
+ "video_id": "3d01d9fc",
+ "product": "uv_sunscreen",
+ "caption_y": 0.9,
+ "caption_moves": [
+  {
+   "start": 15.3,
+   "end": 17.3,
+   "y": 0.58
+  }
+ ],
+ "elements": [
+  {
+   "type": "hook_mono",
+   "start": 0.2,
+   "end": 2.45,
+   "lines": [
+    "DULL-LOOKING",
+    "SKIN?"
+   ],
+   "position": "lower",
+   "anim": "type"
+  },
+  {
+   "type": "pill",
+   "start": 9.2,
+   "end": 10.25,
+   "lines": [
+    "NO WHITE CAST",
+    "NO PURPLE RESIDUE"
+   ],
+   "position": "lower",
+   "anim": "pop"
+  },
+  {
+   "type": "hud",
+   "variant": "corners",
+   "start": 13.5,
+   "end": 15.25
+  },
+  {
+   "type": "pill",
+   "start": 13.5,
+   "end": 15.25,
+   "lines": [
+    "4% NIACINAMIDE"
+   ],
+   "x": 0.3,
+   "y": 0.8,
+   "anim": "pop"
+  },
+  {
+   "type": "label",
+   "start": 15.35,
+   "end": 17.25,
+   "lines": [
+    "BEFORE"
+   ],
+   "x": 0.5,
+   "y": 0.455,
+   "anim": "pop"
+  },
+  {
+   "type": "label",
+   "start": 15.35,
+   "end": 17.25,
+   "lines": [
+    "AFTER"
+   ],
+   "x": 0.5,
+   "y": 0.895,
+   "anim": "pop"
+  },
+  {
+   "type": "label",
+   "start": 15.35,
+   "end": 17.25,
+   "lines": [
+    "INSTANT GLOW"
+   ],
+   "x": 0.5,
+   "y": 0.955,
+   "anim": "pop"
+  },
+  {
+   "type": "claim_bold",
+   "start": 17.3,
+   "end": 19.9,
+   "lines": [
+    "SPF 50 PA+++",
+    "INSTANT GLOW"
+   ],
+   "sub": "MADE FOR INDIAN SKIN",
+   "x": 0.5,
+   "y": 0.76,
+   "anim": "fade"
+  }
+ ],
+ "notes": "Dull-skin hook on MEERA's chest (PS07); colour-wheel window 2.7-6.27 left to the wheel graphic's own text; residue/cast pill under the PS08 swatch as it vanishes; niacinamide + corners on the PS05 blend (ends at the 15.3 split); B/A split BEFORE / INSTANT GLOW with captions under the divider; SPF + Instant Glow + Indian skin below her face on PS02 (tube label clear)."
+}

@@ -1,0 +1,249 @@
+{
+ "video": "dad2130b",
+ "style": "ugc",
+ "cast": [
+  {
+   "id": "creator",
+   "name": "Creator",
+   "description": "Indian woman in her mid-20s, dark hair in a low ponytail, lavender top; casual smartphone UGC indoors then outdoors. Natural, friendly female voice: skeptical and surprised at the open, then explaining, ending pleased and convinced."
+  }
+ ],
+ "lines": [
+  {
+   "id": 1,
+   "start": 0.0,
+   "end": 2.62,
+   "speaker": "creator",
+   "en": "Purple sunscreen? I thought it would make me look purple."
+  },
+  {
+   "id": 2,
+   "start": 2.8,
+   "end": 5.94,
+   "speaker": "creator",
+   "en": "Purple sits opposite yellow on the colour wheel, so it helps cancel yellow dullness."
+  },
+  {
+   "id": 3,
+   "start": 6.22,
+   "end": 8.06,
+   "speaker": "creator",
+   "en": "The tint is made for Indian skin."
+  },
+  {
+   "id": 4,
+   "start": 8.28,
+   "end": 10.44,
+   "speaker": "creator",
+   "en": "It blends in completely, no white cast."
+  },
+  {
+   "id": 5,
+   "start": 10.62,
+   "end": 14.12,
+   "speaker": "creator",
+   "en": "Plus 4% Niacinamide and SPF 50 PA+++."
+  },
+  {
+   "id": 6,
+   "start": 14.32,
+   "end": 17.22,
+   "speaker": "creator",
+   "en": "Before: dull. After: smooth, even-looking Instant Glow."
+  },
+  {
+   "id": 7,
+   "start": 17.5,
+   "end": 19.84,
+   "speaker": "creator",
+   "en": "Purple tint, Instant Glow, zero white cast. Makes sense!"
+  }
+ ],
+ "shots": [
+  {
+   "n": 1,
+   "start": 0,
+   "end": 2.77,
+   "what": "original footage",
+   "frames": [
+    "s01_0.jpg",
+    "s01_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 1,
+     "start": 0.0,
+     "end": 2.62,
+     "speaker": "creator",
+     "en": "Purple sunscreen? I thought it would make me look purple."
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "start": 2.77,
+   "end": 5.6,
+   "what": "GRAPHIC_COLOUR_WHEEL",
+   "frames": [
+    "s02_0.jpg",
+    "s02_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 2,
+     "start": 2.8,
+     "end": 5.94,
+     "speaker": "creator",
+     "en": "Purple sits opposite yellow on the colour wheel, so it helps cancel yellow dullness."
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "start": 5.6,
+   "end": 6.6,
+   "what": "PS10_texture_macro",
+   "frames": [
+    "s03_0.jpg",
+    "s03_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 2,
+     "start": 2.8,
+     "end": 5.94,
+     "speaker": "creator",
+     "en": "Purple sits opposite yellow on the colour wheel, so it helps cancel yellow dullness."
+    },
+    {
+     "id": 3,
+     "start": 6.22,
+     "end": 8.06,
+     "speaker": "creator",
+     "en": "The tint is made for Indian skin."
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "start": 6.6,
+   "end": 8.3,
+   "what": "PS08_hand_swatch",
+   "frames": [
+    "s04_0.jpg",
+    "s04_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 3,
+     "start": 6.22,
+     "end": 8.06,
+     "speaker": "creator",
+     "en": "The tint is made for Indian skin."
+    },
+    {
+     "id": 4,
+     "start": 8.28,
+     "end": 10.44,
+     "speaker": "creator",
+     "en": "It blends in completely, no white cast."
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "start": 8.3,
+   "end": 9.63,
+   "what": "PS08_hand_swatch",
+   "frames": [
+    "s05_0.jpg",
+    "s05_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 4,
+     "start": 8.28,
+     "end": 10.44,
+     "speaker": "creator",
+     "en": "It blends in completely, no white cast."
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "start": 9.63,
+   "end": 10.6,
+   "what": "PS10_texture_macro",
+   "frames": [
+    "s06_0.jpg",
+    "s06_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 4,
+     "start": 8.28,
+     "end": 10.44,
+     "speaker": "creator",
+     "en": "It blends in completely, no white cast."
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "start": 10.6,
+   "end": 14.23,
+   "what": "original footage",
+   "frames": [
+    "s07_0.jpg",
+    "s07_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 5,
+     "start": 10.62,
+     "end": 14.12,
+     "speaker": "creator",
+     "en": "Plus 4% Niacinamide and SPF 50 PA+++."
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "start": 14.23,
+   "end": 17.43,
+   "what": "GRAPHIC_BA_SPLIT",
+   "frames": [
+    "s08_0.jpg",
+    "s08_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 6,
+     "start": 14.32,
+     "end": 17.22,
+     "speaker": "creator",
+     "en": "Before: dull. After: smooth, even-looking Instant Glow."
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "start": 17.43,
+   "end": 20.04,
+   "what": "UGC_dad2130b_S9",
+   "frames": [
+    "s09_0.jpg",
+    "s09_1.jpg"
+   ],
+   "lines": [
+    {
+     "id": 7,
+     "start": 17.5,
+     "end": 19.84,
+     "speaker": "creator",
+     "en": "Purple tint, Instant Glow, zero white cast. Makes sense!"
+    }
+   ]
+  }
+ ]
+}

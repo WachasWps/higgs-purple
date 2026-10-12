@@ -1,0 +1,385 @@
+{
+ "language": "en",
+ "segments": [
+  {
+   "seg": 0,
+   "start": 0.0,
+   "end": 2.62,
+   "text": "Skip skincare. Go straight to sleep.",
+   "f0_median_hz": 264,
+   "words": [
+    [
+     "Skip",
+     0.0,
+     0.52
+    ],
+    [
+     "skincare.",
+     0.52,
+     1.02
+    ],
+    [
+     "Go",
+     1.34,
+     1.58
+    ],
+    [
+     "straight",
+     1.58,
+     1.96
+    ],
+    [
+     "to",
+     1.96,
+     2.2
+    ],
+    [
+     "sleep.",
+     2.2,
+     2.62
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 1,
+   "start": 2.82,
+   "end": 4.52,
+   "text": "Sleep, yes. Skip me, no.",
+   "f0_median_hz": 275,
+   "words": [
+    [
+     "Sleep,",
+     2.82,
+     3.1
+    ],
+    [
+     "yes.",
+     3.24,
+     3.44
+    ],
+    [
+     "Skip",
+     3.64,
+     3.92
+    ],
+    [
+     "me,",
+     3.92,
+     4.14
+    ],
+    [
+     "no.",
+     4.28,
+     4.52
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 2,
+   "start": 4.72,
+   "end": 6.4,
+   "text": "I turn bedtime into brightening time.",
+   "f0_median_hz": 227,
+   "words": [
+    [
+     "I",
+     4.72,
+     4.82
+    ],
+    [
+     "turn",
+     4.82,
+     5.04
+    ],
+    [
+     "bedtime",
+     5.04,
+     5.36
+    ],
+    [
+     "into",
+     5.36,
+     5.72
+    ],
+    [
+     "brightening",
+     5.72,
+     6.14
+    ],
+    [
+     "time.",
+     6.14,
+     6.4
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 3,
+   "start": 6.66,
+   "end": 8.78,
+   "text": "My three expert formula works while you rest.",
+   "f0_median_hz": 200,
+   "words": [
+    [
+     "My",
+     6.66,
+     6.8
+    ],
+    [
+     "three",
+     6.8,
+     7.0
+    ],
+    [
+     "expert",
+     7.0,
+     7.34
+    ],
+    [
+     "formula",
+     7.34,
+     7.76
+    ],
+    [
+     "works",
+     7.76,
+     8.12
+    ],
+    [
+     "while",
+     8.12,
+     8.32
+    ],
+    [
+     "you",
+     8.32,
+     8.46
+    ],
+    [
+     "rest.",
+     8.46,
+     8.78
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 4,
+   "start": 8.92,
+   "end": 10.46,
+   "text": "That looks seriously rich.",
+   "f0_median_hz": 242,
+   "words": [
+    [
+     "That",
+     8.92,
+     9.18
+    ],
+    [
+     "looks",
+     9.18,
+     9.46
+    ],
+    [
+     "seriously",
+     9.46,
+     9.98
+    ],
+    [
+     "rich.",
+     9.98,
+     10.46
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 5,
+   "start": 10.7,
+   "end": 13.12,
+   "text": "Smooth on my rich night cream texture, fully absorbed.",
+   "f0_median_hz": 210,
+   "words": [
+    [
+     "Smooth",
+     10.7,
+     10.9
+    ],
+    [
+     "on",
+     10.9,
+     11.08
+    ],
+    [
+     "my",
+     11.08,
+     11.24
+    ],
+    [
+     "rich",
+     11.24,
+     11.46
+    ],
+    [
+     "night",
+     11.46,
+     11.68
+    ],
+    [
+     "cream",
+     11.68,
+     11.94
+    ],
+    [
+     "texture,",
+     11.94,
+     12.32
+    ],
+    [
+     "fully",
+     12.54,
+     12.7
+    ],
+    [
+     "absorbed.",
+     12.7,
+     13.12
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 6,
+   "start": 13.38,
+   "end": 14.38,
+   "text": "Now get your beauty sleep.",
+   "f0_median_hz": 207,
+   "words": [
+    [
+     "Now",
+     13.38,
+     13.52
+    ],
+    [
+     "get",
+     13.52,
+     13.7
+    ],
+    [
+     "your",
+     13.7,
+     13.84
+    ],
+    [
+     "beauty",
+     13.84,
+     14.08
+    ],
+    [
+     "sleep.",
+     14.08,
+     14.38
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 7,
+   "start": 15.2,
+   "end": 17.38,
+   "text": "I slept. My glow showed up.",
+   "f0_median_hz": 198,
+   "words": [
+    [
+     "I",
+     15.2,
+     15.68
+    ],
+    [
+     "slept.",
+     15.68,
+     16.08
+    ],
+    [
+     "My",
+     16.28,
+     16.62
+    ],
+    [
+     "glow",
+     16.62,
+     16.84
+    ],
+    [
+     "showed",
+     16.84,
+     17.14
+    ],
+    [
+     "up.",
+     17.14,
+     17.38
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  },
+  {
+   "seg": 8,
+   "start": 17.52,
+   "end": 19.92,
+   "text": "Dearm percent Kojic Acid Night Cream. Sleep to glow.",
+   "f0_median_hz": 209,
+   "words": [
+    [
+     "Dearm",
+     17.52,
+     17.8
+    ],
+    [
+     "percent",
+     17.8,
+     18.0
+    ],
+    [
+     "Kojic",
+     18.0,
+     18.44
+    ],
+    [
+     "Acid",
+     18.44,
+     18.76
+    ],
+    [
+     "Night",
+     18.76,
+     18.92
+    ],
+    [
+     "Cream.",
+     18.92,
+     19.18
+    ],
+    [
+     "Sleep",
+     19.38,
+     19.6
+    ],
+    [
+     "to",
+     19.6,
+     19.76
+    ],
+    [
+     "glow.",
+     19.76,
+     19.92
+    ]
+   ],
+   "voice_cluster_hint": "voice_A"
+  }
+ ]
+}

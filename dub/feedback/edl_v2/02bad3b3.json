@@ -1,0 +1,75 @@
+{
+ "video_id": "02bad3b3",
+ "product": "knc",
+ "category": "ugc",
+ "approach": "v2_original_creator",
+ "shots": [
+  {
+   "start": 0,
+   "end": 2.77,
+   "action": "replace",
+   "note": "2nd jar in the foreground cropped out",
+   "n": 1,
+   "replace_with": "UGC_02bad3b3_S1"
+  },
+  {
+   "start": 2.77,
+   "end": 5.93,
+   "action": "keep",
+   "n": 2
+  },
+  {
+   "start": 5.93,
+   "end": 8.63,
+   "action": "replace",
+   "replace_with": "KNA2_avatar_ingredients",
+   "client": "label the three ingredients in the 3 elements",
+   "n": 3
+  },
+  {
+   "start": 8.63,
+   "end": 9.97,
+   "action": "keep",
+   "n": 4
+  },
+  {
+   "start": 9.97,
+   "end": 11.6,
+   "action": "keep",
+   "n": 5
+  },
+  {
+   "start": 11.6,
+   "end": 13.57,
+   "action": "replace",
+   "n": 6,
+   "replace_with": "UGC_02bad3b3_S6"
+  },
+  {
+   "start": 13.57,
+   "end": 15.63,
+   "action": "keep",
+   "n": 7
+  },
+  {
+   "start": 15.63,
+   "end": 18.23,
+   "action": "replace",
+   "client": "after shot: no dark spots, much more glowy",
+   "n": 8,
+   "replace_with": "GRAPHIC_BA_SPLIT",
+   "ba_pair": [
+    "BA2_02bad3b3_BEFORE",
+    "BA2_02bad3b3_AFTER"
+   ],
+   "ba_face_y": 0.08
+  },
+  {
+   "start": 18.23,
+   "end": 20.04,
+   "action": "replace",
+   "n": 9,
+   "replace_with": "UGC_02bad3b3_S9"
+  }
+ ]
+}

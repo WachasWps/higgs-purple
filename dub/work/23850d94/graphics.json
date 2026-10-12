@@ -1,0 +1,55 @@
+{
+ "video_id": "23850d94",
+ "product": "kojic_night_cream",
+ "caption_y": 0.9,
+ "caption_moves": [
+  {
+   "start": 13.0,
+   "end": 15.2,
+   "y": 0.497,
+   "ext": 1
+  }
+ ],
+ "elements": [
+  {
+   "type": "label",
+   "start": 0.3,
+   "end": 2.0,
+   "lines": [
+    "PROFESSOR JAR"
+   ],
+   "x": 0.5,
+   "y": 0.3,
+   "anim": "pop"
+  },
+  {
+   "type": "hud",
+   "variant": "corners",
+   "start": 13.6,
+   "end": 15.12
+  },
+  {
+   "type": "label",
+   "start": 13.65,
+   "end": 15.15,
+   "lines": [
+    "BEFORE"
+   ],
+   "x": 0.5,
+   "y": 0.455,
+   "anim": "pop"
+  },
+  {
+   "type": "label",
+   "start": 13.65,
+   "end": 15.15,
+   "lines": [
+    "AFTER 2 WEEKS"
+   ],
+   "x": 0.5,
+   "y": 0.955,
+   "anim": "pop"
+  }
+ ],
+ "notes": "Text pass (client EDL): PROFESSOR JAR tag above the KNA1 jar mascot; the three actives as separate same-style ingredient pills with no cover masks (KN03/KNA2 have no baked text): 2% KOJIC ACID on lesson one (KN03), then NIACINAMIDE (x.30) and ALPHA ARBUTIN (x.70) staggered over the KNA2 orbs on the new L4; Kojic is not repeated. B/A split: BEFORE over the top half, AFTER 2 WEEKS under the after half, captions lifted to 0.58 under the divider. Old blur boxes removed. | baked AI text inside former blur boxes erased by inpainting (feedback/detext.py) | baked ingredient text 5.6-10.7 kept (clean, correct); our duplicate pills removed"
+}

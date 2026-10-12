@@ -1,0 +1,6 @@
+Read CODEX_BRIEF.md in this folder first and follow it strictly.
+Attached reference images: out/BA_715b1b5c_BEFORE.png. Product photos are the ground truth for packaging; the out/*_model_ref.png image is the identity reference for the woman — keep the SAME face, hair and skin tone.
+TASK: generate ONE photorealistic vertical 9:16 keyframe image:
+EDIT the attached image out/BA_715b1b5c_BEFORE.png into its AFTER-2-WEEKS version: keep EXACTLY the same woman, pose, expression, framing, hair, clothes, background and lighting — change ONLY the skin: the dark spots and patches are gone (spotless-looking), tone even, skin healthy and softly glowing, the SAME skin tone (never lighter), natural real texture with pores (not airbrushed, not blurred). No text.
+
+Use your image generation tool (pass the reference images to it), then copy the generated file to out/BA_715b1b5c_AFTER.png. Reply only with the saved path.

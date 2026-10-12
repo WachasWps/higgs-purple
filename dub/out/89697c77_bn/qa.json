@@ -1,0 +1,60 @@
+[
+ {
+  "id": 1,
+  "speaker": "snooze",
+  "cer": 0.21,
+  "heard": "স্কিন কেয় ছারোতো সোজা ঘুমো।",
+  "redub": true
+ },
+ {
+  "id": 2,
+  "speaker": "jar",
+  "cer": 0.0,
+  "heard": "ঘুম হয় আমকিসকিপ না"
+ },
+ {
+  "id": 3,
+  "speaker": "jar",
+  "cer": 0.07,
+  "heard": "রাত কে বানাই ব্রইটিনই টাইম।"
+ },
+ {
+  "id": 4,
+  "speaker": "jar",
+  "cer": 0.05,
+  "heard": "থিএকস্পার্ট ফোরমুলা ঘুমে ও কাজ করে।",
+  "redub": true
+ },
+ {
+  "id": 5,
+  "speaker": "snooze",
+  "cer": 0.25,
+  "heard": "ওফ এটা তা সিয়াসলে রিয়াচ",
+  "redub": true
+ },
+ {
+  "id": 6,
+  "speaker": "jar",
+  "cer": 0.15,
+  "heard": "\"'with Texas Mooth Koliemacco'."
+ },
+ {
+  "id": 7,
+  "speaker": "jar",
+  "cer": 0.15,
+  "heard": "Puri oh ay boiled jur Ward , aver beauty slip naw"
+ },
+ {
+  "id": 8,
+  "speaker": "woman",
+  "cer": 0.2,
+  "heard": "আমে শুত্র ঘোমে এছে আর গ্লো হাজের।"
+ },
+ {
+  "id": 9,
+  "speaker": "jar",
+  "cer": 0.28,
+  "heard": "ডামডক কটাজিক এইড নইট করিম",
+  "redub": true
+ }
+]

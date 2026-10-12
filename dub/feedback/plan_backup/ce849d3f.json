@@ -1,0 +1,212 @@
+{
+ "video_id": "ce849d3f",
+ "style": "personification",
+ "duration": 17.02,
+ "cast": [
+  {
+   "id": "greasiness",
+   "name": "Greasiness",
+   "role": "villain",
+   "description": "small glossy golden oil-droplet villain skateboarding across the woman's cheek leaving an oily trail; cheeky, gloating, squeaky-high troublemaker voice that turns panicky when defeated; should sound sly and menacing but playful",
+   "ref_ranges": [
+    [
+     0.0,
+     2.24
+    ],
+    [
+     6.94,
+     8.5
+    ]
+   ],
+   "fx": "villain",
+   "pitch_semitones": -3
+  },
+  {
+   "id": "tube",
+   "name": "DERMDOC Sunscreen Tube",
+   "role": "product_mascot",
+   "description": "the white DERMDOC Ultra Violet sunscreen tube with expressive eyes and tiny lavender arms; sassy, confident boss voice, cool and in control (it fires the villain)",
+   "ref_ranges": [
+    [
+     2.62,
+     4.06
+    ],
+    [
+     8.74,
+     9.34
+    ],
+    [
+     14.32,
+     16.56
+    ]
+   ],
+   "fx": "cartoon",
+   "pitch_semitones": 0
+  },
+  {
+   "id": "purple_tint",
+   "name": "Purple Tint",
+   "role": "hero",
+   "description": "friendly lavender droplet hero; soft, sweet, silky cartoon voice describing the texture",
+   "ref_ranges": [
+    [
+     4.58,
+     6.64
+    ]
+   ],
+   "fx": "cartoon",
+   "pitch_semitones": 2
+  },
+  {
+   "id": "spf_shield",
+   "name": "SPF Shield",
+   "role": "hero",
+   "description": "cobalt-blue SPF 50 PA+++ shield hero blocking UV rays; deep, firm, no-nonsense bodyguard voice",
+   "ref_ranges": [
+    [
+     9.6,
+     11.66
+    ]
+   ],
+   "fx": "cartoon",
+   "pitch_semitones": 0
+  },
+  {
+   "id": "niacinamide",
+   "name": "Niacinamide",
+   "role": "hero",
+   "description": "silver-lavender 4% niacinamide molecule hero clearing the dullness haze; bright, cheerful, sparkly cartoon voice",
+   "ref_ranges": [
+    [
+     11.94,
+     13.64
+    ]
+   ],
+   "fx": "cartoon",
+   "pitch_semitones": 1
+  }
+ ],
+ "lines": [
+  {
+   "id": 1,
+   "speaker": "greasiness",
+   "start": 0.0,
+   "end": 2.24,
+   "max_end": 2.58,
+   "en": "More shine! More stickiness!",
+   "tag": "angry",
+   "keep_original": false,
+   "bn": "আরও চকচকে! আরও চ্যাটচ্যাটে!",
+   "ta": "இன்னும் ஷைன்! இன்னும் பிசுபிசுப்பு!",
+   "te": "ఇంకా షైన్! ఇంకా జిడ్డు!",
+   "ml": "ഇനിയും തിളക്കം! ഇനിയും പശപശപ്പ്!",
+   "or": "ଆହୁରି ଚକଚକ! ଆହୁରି ଚିଟଚିଟିଆ!"
+  },
+  {
+   "id": 2,
+   "speaker": "tube",
+   "start": 2.62,
+   "end": 4.06,
+   "max_end": 4.54,
+   "en": "You're not part of my finish.",
+   "tag": null,
+   "keep_original": false,
+   "bn": "তুই আমার ফিনিশের অংশ নোস!",
+   "ta": "என் ஃபினிஷ்ல உனக்கு இடமில்ல!",
+   "te": "నా ఫినిష్‌లో నీకు చోటు లేదు!",
+   "ml": "എന്റെ ഫിനിഷിൽ നിനക്ക് ഇടമില്ല!",
+   "or": "ମୋ ଫିନିସ୍‌ରେ ତୋ ପାଇଁ ଜାଗା ନାହିଁ!"
+  },
+  {
+   "id": 3,
+   "speaker": "purple_tint",
+   "start": 4.58,
+   "end": 6.64,
+   "max_end": 6.9,
+   "en": "Smooth, lightweight and easy to blend.",
+   "tag": "happy",
+   "keep_original": false,
+   "bn": "স্মুথ, লাইটওয়েট আর সহজে ব্লেন্ড হয়!",
+   "ta": "ஸ்மூத், லைட்வெயிட், ஈஸியா ப்ளெண்ட் ஆகும்!",
+   "te": "స్మూత్, లైట్‌వెయిట్, ఈజీగా బ్లెండ్ అవుతుంది!",
+   "ml": "സ്മൂത്ത്, ലൈറ്റ്‌വെയ്റ്റ്, ഈസി ബ്ലെൻഡിങ്!",
+   "or": "ସ୍ମୁଥ୍, ଲାଇଟୱେଟ୍, ଇଜି ବ୍ଲେଣ୍ଡ!"
+  },
+  {
+   "id": 4,
+   "speaker": "greasiness",
+   "start": 6.94,
+   "end": 8.5,
+   "max_end": 8.7,
+   "en": "Wait, where's the sticky layer?",
+   "tag": "surprise",
+   "keep_original": false,
+   "bn": "আরে, স্টিকি লেয়ার কই গেল?",
+   "ta": "இரு, ஸ்டிக்கி லேயர் எங்க போச்சு?",
+   "te": "ఆగు, స్టిక్కీ లేయర్ ఎక్కడ పోయింది?",
+   "ml": "അയ്യോ, സ്റ്റിക്കി ലെയർ എവിടെ പോയി?",
+   "or": "ରୁହ, ଷ୍ଟିକି ଲେୟର କୁଆଡ଼େ ଗଲା?"
+  },
+  {
+   "id": 5,
+   "speaker": "tube",
+   "start": 8.74,
+   "end": 9.34,
+   "max_end": 9.56,
+   "en": "Fired.",
+   "tag": null,
+   "keep_original": false,
+   "bn": "তুই ফায়ার্ড!",
+   "ta": "நீ ஃபயர்டு!",
+   "te": "నువ్వు ఫైర్డ్!",
+   "ml": "നീ ഫയേർഡ്!",
+   "or": "ତୁ ଫାୟାର୍ଡ!"
+  },
+  {
+   "id": 6,
+   "speaker": "spf_shield",
+   "start": 9.6,
+   "end": 11.66,
+   "max_end": 11.9,
+   "en": "Comfortable finish. Serious protection.",
+   "tag": null,
+   "keep_original": false,
+   "bn": "কমফর্টেবল ফিনিশ, সিরিয়াস প্রোটেকশন!",
+   "ta": "கம்ஃபர்டபிள் ஃபினிஷ், சீரியஸ் ப்ரொடெக்ஷன்!",
+   "te": "కంఫర్టబుల్ ఫినిష్, సీరియస్ ప్రొటెక్షన్!",
+   "ml": "കംഫർട്ടബിൾ ഫിനിഷ്, സീരിയസ് പ്രൊട്ടക്ഷൻ!",
+   "or": "ଆରାମଦାୟକ ଫିନିସ୍, ପକ୍କା ପ୍ରୋଟେକ୍ସନ୍!"
+  },
+  {
+   "id": 7,
+   "speaker": "niacinamide",
+   "start": 11.94,
+   "end": 13.64,
+   "max_end": 14.28,
+   "en": "And I help bring back the brightness.",
+   "tag": "happy",
+   "keep_original": false,
+   "bn": "আর আমি ব্রাইটনেস ফিরিয়ে আনতে হেল্প করি!",
+   "ta": "நான் ப்ரைட்னஸ்ஸ திரும்ப கொண்டுவர உதவுறேன்!",
+   "te": "బ్రైట్‌నెస్ మళ్ళీ తేవడంలో నేను హెల్ప్ చేస్తా!",
+   "ml": "ബ്രൈറ്റ്നെസ് തിരികെ കിട്ടാൻ ഞാൻ സഹായിക്കും!",
+   "or": "ମୁଁ ବ୍ରାଇଟନେସ୍ ଫେରାଇବାରେ ହେଲ୍ପ କରେ!"
+  },
+  {
+   "id": 8,
+   "speaker": "tube",
+   "start": 14.32,
+   "end": 16.56,
+   "max_end": 16.62,
+   "en": "Protected, bright-looking and comfortable.",
+   "tag": "happy",
+   "keep_original": false,
+   "bn": "প্রোটেক্টেড, ব্রাইট দেখতে আর কমফর্টেবল!",
+   "ta": "ப்ரொடெக்டட், ப்ரைட் லுக், கம்ஃபர்டபிள்!",
+   "te": "ప్రొటెక్టెడ్, బ్రైట్ లుక్, ఇంకా కంఫర్టబుల్!",
+   "ml": "പ്രൊട്ടക്റ്റഡ്, ബ്രൈറ്റ് ലുക്ക്, കംഫർട്ടബിൾ!",
+   "or": "ପ୍ରୋଟେକ୍ଟେଡ୍, ବ୍ରାଇଟ୍ ଲୁକ୍, ଆରାମଦାୟକ!"
+  }
+ ],
+ "notes": "Video is 17.0 s (prompt planned 20 s); all 8 scripted lines spoken in order, no Whisper hallucinations. Greasiness villain (lines 1 and 4) has a very high squeaky voice (374-441 Hz); villain fx with -3 st to make him sly and menacing while staying playful as the prompt asks. Tube speaks lines 2, 5 ('Fired.', short 0.6 s, firm delivery at 194 Hz) and 8. Purple Tint (235 Hz) sits close to the tube (217-222 Hz), so Purple Tint gets +2 st; Niacinamide (266 Hz) +1 st; SPF Shield is the low voice (161 Hz). Tube ref includes the short 'Fired.' range; the other two tube ranges carry most of the clone."
+}

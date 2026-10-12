@@ -1,0 +1,6 @@
+Read CODEX_BRIEF.md in this folder first and follow it strictly.
+Attached reference images: ps_tube_with_box.png, ps_tube_swatch.png. Product photos are the ground truth for packaging; the out/*_model_ref.png image is the identity reference for the woman — keep the SAME face, hair and skin tone.
+TASK: generate ONE photorealistic vertical 9:16 keyframe image:
+Wide vertical shot of a clean, softly lit pale-lavender studio set (seamless lavender-white backdrop and floor). The cute DERMDOC Ultra Violet tube mascot (EXACT packaging; big friendly cartoon eyes and a small mouth on the white area above the DERMDOC logo; two small white cartoon gloved hands) stands on its wide lavender cap at the FAR LEFT edge of the frame, SMALL — the tube occupies only the left 30% of the width and the lower-middle of the frame — and points with its right hand toward the large EMPTY area on the right. The right 65% of the frame is completely empty soft lavender backdrop, nothing in it.
+
+Use your image generation tool (pass the reference images to it), then copy the generated file to out/PSA2_avatar_point.png. Reply only with the saved path.
